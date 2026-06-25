@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T15:41:26+00:00",
-  "count": 7,
+  "updated": "2026-06-25T15:44:25+00:00",
+  "count": 8,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -25,16 +25,21 @@
     },
     {
       "rank": 5,
+      "name": "Manis Love",
+      "reputation": 156
+    },
+    {
+      "rank": 6,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Серхио Ле'Трас",
       "reputation": 62
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Антон",
       "reputation": 17
     }
