@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T16:15:34+00:00",
-  "count": 9,
+  "updated": "2026-06-25T16:18:40+00:00",
+  "count": 10,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -47,6 +47,11 @@
       "rank": 9,
       "name": "Антон",
       "reputation": 17
+    },
+    {
+      "rank": 10,
+      "name": "Юрий",
+      "reputation": 8
     }
   ]
 }
