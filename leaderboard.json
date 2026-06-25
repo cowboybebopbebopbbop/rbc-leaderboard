@@ -1,0 +1,22 @@
+{
+  "updated": "2026-06-25T15:08:59+00:00",
+  "count": 3,
+  "source": "ChatKeeper reputation",
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Ольга",
+      "reputation": 1685
+    },
+    {
+      "rank": 2,
+      "name": "Viktor",
+      "reputation": 868
+    },
+    {
+      "rank": 3,
+      "name": "Антон",
+      "reputation": 17
+    }
+  ]
+}
