@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-25T15:08:59+00:00",
-  "count": 3,
+  "updated": "2026-06-25T15:16:33+00:00",
+  "count": 5,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
       "rank": 1,
       "name": "Ольга",
-      "reputation": 1685
+      "reputation": 1686
     },
     {
       "rank": 2,
@@ -15,6 +15,16 @@
     },
     {
       "rank": 3,
+      "name": "Sergey СЕО",
+      "reputation": 80
+    },
+    {
+      "rank": 4,
+      "name": "Серхио Ле&apos;Трас",
+      "reputation": 62
+    },
+    {
+      "rank": 5,
       "name": "Антон",
       "reputation": 17
     }
