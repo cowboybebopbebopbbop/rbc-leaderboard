@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T16:18:40+00:00",
-  "count": 10,
+  "updated": "2026-06-25T18:51:00+00:00",
+  "count": 9,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -25,31 +25,26 @@
     },
     {
       "rank": 5,
-      "name": "РБК Крипто. Форум](https://t.me/c/2222981283/2147483647)",
-      "reputation": 794
-    },
-    {
-      "rank": 6,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Серхио Ле'Трас",
       "reputation": 62
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Юрий",
       "reputation": 8
     }
