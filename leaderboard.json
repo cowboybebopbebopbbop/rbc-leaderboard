@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T14:33:48+00:00",
-  "count": 10,
+  "updated": "2026-06-26T15:33:48+00:00",
+  "count": 13,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -25,31 +25,46 @@
     },
     {
       "rank": 5,
+      "name": "Князь Владимир С",
+      "reputation": 595
+    },
+    {
+      "rank": 6,
+      "name": "wavesscalper | скальпер по волнам",
+      "reputation": 283
+    },
+    {
+      "rank": 7,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Серхио Ле'Трас",
       "reputation": 62
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 9,
+      "rank": 11,
+      "name": "Толян",
+      "reputation": 18
+    },
+    {
+      "rank": 12,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 10,
+      "rank": 13,
       "name": "Юрий",
       "reputation": 8
     }
