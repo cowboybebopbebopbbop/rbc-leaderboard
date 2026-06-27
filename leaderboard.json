@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T03:33:48+00:00",
-  "count": 14,
+  "updated": "2026-06-27T04:33:48+00:00",
+  "count": 16,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -40,36 +40,46 @@
     },
     {
       "rank": 8,
+      "name": "🤗",
+      "reputation": 275
+    },
+    {
+      "rank": 9,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "reputation": 244
+    },
+    {
+      "rank": 10,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "Серхио Ле'Трас",
       "reputation": 65
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "Толян",
       "reputation": 18
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Юрий",
       "reputation": 8
     }
