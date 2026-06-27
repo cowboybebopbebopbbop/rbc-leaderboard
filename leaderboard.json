@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T20:39:46+00:00",
+  "updated": "2026-06-27T21:39:46+00:00",
   "count": 25,
   "all": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 735
+      "value": 736
     },
     {
       "rank": 7,
@@ -131,13 +131,13 @@
   "month": [
     {
       "rank": 1,
-      "name": "Руслан Иванов",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
-      "value": 1
+      "name": "Руслан Иванов",
+      "value": 2
     },
     {
       "rank": 3,
@@ -148,13 +148,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Руслан Иванов",
+      "name": "Zero-sum Gamer",
       "value": 2
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
-      "value": 1
+      "name": "Руслан Иванов",
+      "value": 2
     },
     {
       "rank": 3,
