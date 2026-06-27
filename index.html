@@ -7,113 +7,150 @@
 <title>РБК Крипто — Лидерборд репутации</title>
 <style>
   :root {
-    --bg: #0d1117; --card: #161b22; --line: #21262d;
-    --text: #e6edf3; --muted: #8b949e; --gold: #f0b429; --accent: #2f81f7;
+    --bg:#0d1117; --card:#161b22; --line:#21262d;
+    --text:#e6edf3; --muted:#8b949e; --gold:#f0b429; --accent:#2f81f7;
   }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--bg); color: var(--text);
-    font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-    padding: 24px 14px 60px;
-  }
-  .wrap { max-width: 720px; margin: 0 auto; }
-  h1 { font-size: 1.5rem; margin: 0 0 4px; }
-  .sub { color: var(--muted); font-size: .85rem; margin-bottom: 18px; }
-  .search {
-    width: 100%; padding: 11px 14px; margin-bottom: 14px;
-    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-    color: var(--text); font-size: 1rem; outline: none;
-  }
-  .search:focus { border-color: var(--accent); }
-  table { width: 100%; border-collapse: collapse; }
-  th, td { text-align: left; padding: 11px 12px; border-bottom: 1px solid var(--line); }
-  th { color: var(--muted); font-weight: 600; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; }
-  td.rank { width: 56px; color: var(--muted); font-variant-numeric: tabular-nums; }
-  td.rep { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
-  tr.top1 td.rank, tr.top2 td.rank, tr.top3 td.rank { font-size: 1.15rem; }
-  tr.top1 td.rep { color: var(--gold); }
-  .name { display: flex; align-items: center; gap: 8px; }
-  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
-  footer { margin-top: 22px; color: var(--muted); font-size: .78rem; line-height: 1.5; }
-  .dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:#3fb950; margin-right:6px; vertical-align: middle; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+    font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; padding:24px 14px 60px; }
+  .wrap { max-width:760px; margin:0 auto; }
+  h1 { font-size:1.5rem; margin:0 0 4px; }
+  .sub { color:var(--muted); font-size:.85rem; margin-bottom:16px; }
+  .tabs { display:flex; gap:6px; margin-bottom:16px; }
+  .tab { flex:1; padding:10px 12px; text-align:center; cursor:pointer; user-select:none;
+    background:var(--card); border:1px solid var(--line); border-radius:10px; color:var(--muted); font-weight:600; }
+  .tab.active { color:var(--text); border-color:var(--accent); }
+  .search { width:100%; padding:11px 14px; margin-bottom:14px; background:var(--card);
+    border:1px solid var(--line); border-radius:10px; color:var(--text); font-size:1rem; outline:none; }
+  .search:focus { border-color:var(--accent); }
+  table { width:100%; border-collapse:collapse; }
+  th,td { text-align:left; padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--muted); font-weight:600; font-size:.78rem; text-transform:uppercase; letter-spacing:.04em; }
+  td.rank { width:52px; color:var(--muted); font-variant-numeric:tabular-nums; }
+  td.rep { text-align:right; font-weight:700; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  tr.top1 td.rep { color:var(--gold); }
+  a.msg { color:var(--text); text-decoration:none; }
+  a.msg:hover { text-decoration:underline; }
+  .meta-row { color:var(--muted); font-size:.8rem; margin-top:3px; }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; }
+  footer { margin-top:22px; color:var(--muted); font-size:.78rem; line-height:1.5; }
+  .dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:#3fb950; margin-right:6px; vertical-align:middle; }
+  .hidden { display:none; }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>🏆 РБК Крипто — Лидерборд репутации</h1>
+  <h1>🏆 РБК Крипто — Лидерборд</h1>
   <div class="sub" id="meta"><span class="dot"></span>загрузка…</div>
 
-  <input class="search" id="search" type="search" placeholder="Поиск по имени…" autocomplete="off">
+  <div class="tabs">
+    <div class="tab active" id="tab-people" onclick="switchTab('people')">Рейтинг людей</div>
+    <div class="tab" id="tab-hall" onclick="switchTab('hall')">🏆 Зал славы</div>
+  </div>
 
-  <table>
-    <thead><tr><th>#</th><th>Имя</th><th style="text-align:right">Репутация</th></tr></thead>
-    <tbody id="rows"></tbody>
-  </table>
-  <div class="empty" id="empty" hidden>Пока пусто.</div>
+  <!-- Рейтинг людей -->
+  <div id="view-people">
+    <input class="search" id="search" type="search" placeholder="Поиск по имени…" autocomplete="off">
+    <table>
+      <thead><tr><th>#</th><th>Имя</th><th style="text-align:right">Репутация</th></tr></thead>
+      <tbody id="rows-people"></tbody>
+    </table>
+    <div class="empty hidden" id="empty-people">Пока пусто.</div>
+  </div>
+
+  <!-- Зал славы -->
+  <div id="view-hall" class="hidden">
+    <table>
+      <thead><tr><th>#</th><th>Сообщение</th><th style="text-align:right">👍❤️</th></tr></thead>
+      <tbody id="rows-hall"></tbody>
+    </table>
+    <div class="empty hidden" id="empty-hall">Зал славы ещё собирается…</div>
+  </div>
 
   <footer>
-    Рейтинг по данным реакций ChatKeeper. Обновляется автоматически.<br>
-    Неофициальный фанатский лидерборд. Здесь только публичные имена и очки — ничего личного.
+    Неофициальный фанатский лидерборд. Рейтинг людей — по числам ChatKeeper.
+    Зал славы — лучшие сообщения по реакциям 👍 и ❤️.<br>
+    Ссылки на сообщения открываются у участников группы.
   </footer>
 </div>
 
 <script>
-  const rowsEl = document.getElementById('rows');
-  const metaEl = document.getElementById('meta');
-  const emptyEl = document.getElementById('empty');
-  const searchEl = document.getElementById('search');
-  let DATA = [];
+  let PEOPLE = [], HALL = [];
+  const medal = r => r===1?'🥇':r===2?'🥈':r===3?'🥉':('#'+r);
 
-  const medal = r => r === 1 ? '🥇' : r === 2 ? '🥈' : r === 3 ? '🥉' : '';
+  function switchTab(which){
+    document.getElementById('view-people').classList.toggle('hidden', which!=='people');
+    document.getElementById('view-hall').classList.toggle('hidden', which!=='hall');
+    document.getElementById('tab-people').classList.toggle('active', which==='people');
+    document.getElementById('tab-hall').classList.toggle('active', which==='hall');
+  }
 
-  function render() {
-    const q = searchEl.value.trim().toLowerCase();
-    const list = q ? DATA.filter(x => (x.name || '').toLowerCase().includes(q)) : DATA;
-    rowsEl.textContent = '';
-    emptyEl.hidden = list.length > 0;
-    for (const item of list) {
+  function renderPeople(){
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    const list = q ? PEOPLE.filter(x=>(x.name||'').toLowerCase().includes(q)) : PEOPLE;
+    const body = document.getElementById('rows-people');
+    body.textContent = '';
+    document.getElementById('empty-people').classList.toggle('hidden', list.length>0);
+    for (const it of list){
       const tr = document.createElement('tr');
-      if (item.rank <= 3) tr.className = 'top' + item.rank;
-
-      const rank = document.createElement('td');
-      rank.className = 'rank';
-      rank.textContent = medal(item.rank) || ('#' + item.rank);
-
-      const name = document.createElement('td');
-      const span = document.createElement('span');
-      span.className = 'name';
-      // textContent — имя НЕ интерпретируется как HTML (защита от инъекций)
-      span.textContent = item.name || '—';
-      name.appendChild(span);
-
-      const rep = document.createElement('td');
-      rep.className = 'rep';
-      rep.textContent = item.reputation;
-
-      tr.append(rank, name, rep);
-      rowsEl.appendChild(tr);
+      if (it.rank<=3) tr.className = 'top'+it.rank;
+      const rank = document.createElement('td'); rank.className='rank'; rank.textContent = medal(it.rank);
+      const name = document.createElement('td'); name.textContent = it.name||'—';
+      const rep = document.createElement('td'); rep.className='rep'; rep.textContent = it.reputation;
+      tr.append(rank,name,rep); body.appendChild(tr);
     }
   }
 
-  async function load() {
-    try {
-      const res = await fetch('leaderboard.json?t=' + Date.now());
-      const json = await res.json();
-      DATA = json.leaderboard || [];
-      const d = json.updated ? new Date(json.updated) : null;
-      metaEl.innerHTML = '<span class="dot"></span>';
-      metaEl.append(document.createTextNode(
-        `${json.count ?? DATA.length} участников · обновлено ${d ? d.toLocaleString('ru-RU') : '—'}`
-      ));
-      render();
-    } catch (e) {
-      metaEl.textContent = 'Не удалось загрузить данные.';
+  function renderHall(){
+    const body = document.getElementById('rows-hall');
+    body.textContent = '';
+    document.getElementById('empty-hall').classList.toggle('hidden', HALL.length>0);
+    for (const it of HALL){
+      const tr = document.createElement('tr');
+      if (it.rank<=3) tr.className = 'top'+it.rank;
+      const rank = document.createElement('td'); rank.className='rank'; rank.textContent = medal(it.rank);
+
+      const cell = document.createElement('td');
+      const a = document.createElement('a');
+      a.className='msg'; a.href = it.link; a.target='_blank'; a.rel='noopener';
+      a.textContent = it.snippet || '[сообщение]';      // textContent — защита от инъекций
+      cell.appendChild(a);
+      const meta = document.createElement('div');
+      meta.className='meta-row';
+      const d = it.date ? new Date(it.date).toLocaleDateString('ru-RU') : '';
+      meta.textContent = (it.author||'—') + (d?(' · '+d):'');
+      cell.appendChild(meta);
+
+      const sc = document.createElement('td'); sc.className='rep'; sc.textContent = it.score;
+      tr.append(rank, cell, sc); body.appendChild(tr);
     }
   }
 
-  searchEl.addEventListener('input', render);
-  load();
-  setInterval(load, 60000); // авто-обновление раз в минуту
+  async function loadPeople(){
+    try{
+      const r = await fetch('leaderboard.json?t='+Date.now());
+      const j = await r.json();
+      PEOPLE = j.leaderboard||[];
+      const d = j.updated?new Date(j.updated):null;
+      const m = document.getElementById('meta');
+      m.innerHTML='<span class="dot"></span>';
+      m.append(document.createTextNode(`${j.count??PEOPLE.length} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`));
+      renderPeople();
+    }catch(e){ document.getElementById('meta').textContent='Не удалось загрузить данные.'; }
+  }
+  async function loadHall(){
+    try{
+      const r = await fetch('hall_of_fame.json?t='+Date.now());
+      if(!r.ok) return;
+      const j = await r.json();
+      HALL = j.messages||[];
+      renderHall();
+    }catch(e){ /* зал славы ещё не собран */ }
+  }
+
+  document.getElementById('search').addEventListener('input', renderPeople);
+  loadPeople(); loadHall();
+  setInterval(()=>{ loadPeople(); loadHall(); }, 60000);
 </script>
 </body>
 </html>
