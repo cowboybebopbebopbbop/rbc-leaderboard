@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T07:33:49+00:00",
-  "count": 16,
+  "updated": "2026-06-27T08:33:49+00:00",
+  "count": 17,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -25,61 +25,66 @@
     },
     {
       "rank": 5,
+      "name": "Zero-sum Gamer",
+      "reputation": 732
+    },
+    {
+      "rank": 6,
       "name": "L G",
       "reputation": 702
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Князь Владимир С",
       "reputation": 595
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "reputation": 283
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "🤗",
       "reputation": 276
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "reputation": 244
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Серхио Ле'Трас",
       "reputation": 65
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Толян",
       "reputation": 18
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Юрий",
       "reputation": 8
     }
