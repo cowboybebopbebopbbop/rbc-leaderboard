@@ -1,156 +1,250 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>РБК Крипто — Лидерборд репутации</title>
+<title>РБК Крипто · Лидерборд</title>
 <style>
-  :root {
+  :root{
+    --red:#e4002b; --red2:#ff3b5c;
     --bg:#0d1117; --card:#161b22; --line:#21262d;
-    --text:#e6edf3; --muted:#8b949e; --gold:#f0b429; --accent:#2f81f7;
+    --text:#e6edf3; --muted:#8b949e; --gold:#f0b429; --bar:#2f81f7;
   }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--text);
-    font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; padding:24px 14px 60px; }
-  .wrap { max-width:760px; margin:0 auto; }
-  h1 { font-size:1.5rem; margin:0 0 4px; }
-  .sub { color:var(--muted); font-size:.85rem; margin-bottom:16px; }
-  .tabs { display:flex; gap:6px; margin-bottom:16px; }
-  .tab { flex:1; padding:10px 12px; text-align:center; cursor:pointer; user-select:none;
-    background:var(--card); border:1px solid var(--line); border-radius:10px; color:var(--muted); font-weight:600; }
-  .tab.active { color:var(--text); border-color:var(--accent); }
-  .search { width:100%; padding:11px 14px; margin-bottom:14px; background:var(--card);
-    border:1px solid var(--line); border-radius:10px; color:var(--text); font-size:1rem; outline:none; }
-  .search:focus { border-color:var(--accent); }
-  table { width:100%; border-collapse:collapse; }
-  th,td { text-align:left; padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
-  th { color:var(--muted); font-weight:600; font-size:.78rem; text-transform:uppercase; letter-spacing:.04em; }
-  td.rank { width:52px; color:var(--muted); font-variant-numeric:tabular-nums; }
-  td.rep { text-align:right; font-weight:700; font-variant-numeric:tabular-nums; white-space:nowrap; }
-  tr.top1 td.rep { color:var(--gold); }
-  a.msg { color:var(--text); text-decoration:none; }
-  a.msg:hover { text-decoration:underline; }
-  .meta-row { color:var(--muted); font-size:.8rem; margin-top:3px; }
-  .empty { text-align:center; color:var(--muted); padding:40px 0; }
-  footer { margin-top:22px; color:var(--muted); font-size:.78rem; line-height:1.5; }
-  .dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:#3fb950; margin-right:6px; vertical-align:middle; }
-  .hidden { display:none; }
+  [data-theme="light"]{
+    --bg:#f6f8fa; --card:#ffffff; --line:#d8dee4;
+    --text:#1f2328; --muted:#636c76; --gold:#bf8700; --bar:#2f81f7;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;padding:22px 14px 60px;}
+  .wrap{max-width:780px;margin:0 auto;}
+  .head{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+  h1{font-size:1.45rem;margin:0;line-height:1.2;}
+  h1 .b{color:var(--red);}
+  .theme{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--muted);
+    border-radius:8px;padding:6px 10px;font-size:.85rem;}
+  .sub{color:var(--muted);font-size:.84rem;margin:4px 0 16px;}
+  .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:#3fb950;margin-right:6px;vertical-align:middle;}
+  .tabs{display:flex;gap:6px;margin-bottom:14px;}
+  .tab{flex:1;padding:10px;text-align:center;cursor:pointer;user-select:none;background:var(--card);
+    border:1px solid var(--line);border-radius:10px;color:var(--muted);font-weight:600;font-size:.92rem;}
+  .tab.active{color:#fff;background:var(--red);border-color:var(--red);}
+  [data-theme="light"] .tab.active{color:#fff;}
+  .pills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+  .pill{cursor:pointer;user-select:none;padding:6px 12px;border-radius:999px;font-size:.85rem;
+    background:var(--card);border:1px solid var(--line);color:var(--muted);}
+  .pill.active{color:var(--text);border-color:var(--red);}
+  .search{width:100%;padding:11px 14px;margin-bottom:12px;background:var(--card);
+    border:1px solid var(--line);border-radius:10px;color:var(--text);font-size:1rem;outline:none;}
+  .search:focus{border-color:var(--red);}
+  table{width:100%;border-collapse:collapse;}
+  th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;}
+  th{color:var(--muted);font-weight:600;font-size:.74rem;text-transform:uppercase;letter-spacing:.04em;}
+  td.rank{width:50px;color:var(--muted);font-variant-numeric:tabular-nums;}
+  td.val{text-align:right;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;}
+  tr.top1 td.val{color:var(--gold);}
+  a.msg{color:var(--text);text-decoration:none;}
+  a.msg:hover{text-decoration:underline;}
+  .metar{color:var(--muted);font-size:.8rem;margin-top:3px;}
+  .empty{text-align:center;color:var(--muted);padding:36px 0;}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:18px;}
+  .scard{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;}
+  .scard .n{font-size:1.5rem;font-weight:800;}
+  .scard .l{color:var(--muted);font-size:.8rem;margin-top:2px;}
+  .chart{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:14px;}
+  .chart h3{margin:0 0 10px;font-size:.95rem;}
+  .bars{display:flex;align-items:flex-end;gap:3px;height:120px;}
+  .bars .bar{flex:1;background:var(--bar);border-radius:3px 3px 0 0;min-height:2px;opacity:.85;}
+  .bars .bar:hover{opacity:1;}
+  .xlbl{display:flex;gap:3px;margin-top:6px;color:var(--muted);font-size:.65rem;}
+  .xlbl span{flex:1;text-align:center;overflow:hidden;white-space:nowrap;}
+  .hbar{display:flex;align-items:center;gap:8px;margin:6px 0;font-size:.9rem;}
+  .hbar .nm{width:42%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .hbar .tr{flex:1;background:var(--line);border-radius:6px;overflow:hidden;height:16px;}
+  .hbar .fl{height:100%;background:var(--red);}
+  .hbar .vv{width:46px;text-align:right;color:var(--muted);font-variant-numeric:tabular-nums;}
+  footer{margin-top:22px;color:var(--muted);font-size:.78rem;line-height:1.5;}
+  .hidden{display:none;}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>🏆 РБК Крипто — Лидерборд</h1>
+  <div class="head">
+    <h1>📊 <span class="b">РБК Крипто</span> · Лидерборд</h1>
+    <button class="theme" id="theme" onclick="toggleTheme()">☀️ / 🌙</button>
+  </div>
   <div class="sub" id="meta"><span class="dot"></span>загрузка…</div>
 
   <div class="tabs">
-    <div class="tab active" id="tab-people" onclick="switchTab('people')">Рейтинг людей</div>
-    <div class="tab" id="tab-hall" onclick="switchTab('hall')">🏆 Зал славы</div>
+    <div class="tab active" data-tab="rating" onclick="switchTab('rating')">Рейтинг</div>
+    <div class="tab" data-tab="hall" onclick="switchTab('hall')">🏆 Зал славы</div>
+    <div class="tab" data-tab="stats" onclick="switchTab('stats')">📈 Статистика</div>
   </div>
 
-  <!-- Рейтинг людей -->
-  <div id="view-people">
+  <!-- РЕЙТИНГ -->
+  <div id="view-rating">
+    <div class="pills" id="period-pills">
+      <div class="pill active" data-p="all" onclick="setPeriod('all')">За всё время</div>
+      <div class="pill" data-p="month" onclick="setPeriod('month')">За месяц</div>
+      <div class="pill" data-p="week" onclick="setPeriod('week')">За неделю</div>
+    </div>
     <input class="search" id="search" type="search" placeholder="Поиск по имени…" autocomplete="off">
-    <table>
-      <thead><tr><th>#</th><th>Имя</th><th style="text-align:right">Репутация</th></tr></thead>
-      <tbody id="rows-people"></tbody>
-    </table>
-    <div class="empty hidden" id="empty-people">Пока пусто.</div>
+    <table><thead><tr><th>#</th><th>Имя</th><th style="text-align:right" id="val-h">Репутация</th></tr></thead>
+      <tbody id="rows-rating"></tbody></table>
+    <div class="empty hidden" id="empty-rating"></div>
   </div>
 
-  <!-- Зал славы -->
+  <!-- ЗАЛ СЛАВЫ -->
   <div id="view-hall" class="hidden">
-    <table>
-      <thead><tr><th>#</th><th>Сообщение</th><th style="text-align:right">👍❤️</th></tr></thead>
-      <tbody id="rows-hall"></tbody>
-    </table>
+    <div class="pills" id="cat-pills"></div>
+    <table><thead><tr><th>#</th><th>Сообщение</th><th style="text-align:right">👍❤️</th></tr></thead>
+      <tbody id="rows-hall"></tbody></table>
     <div class="empty hidden" id="empty-hall">Зал славы ещё собирается…</div>
   </div>
 
+  <!-- СТАТИСТИКА -->
+  <div id="view-stats" class="hidden">
+    <div class="cards" id="stat-cards"></div>
+    <div class="chart"><h3>Активность по дням (последние 30)</h3><div id="ch-day"></div></div>
+    <div class="chart"><h3>Активность по часам (МСК)</h3><div id="ch-hour"></div></div>
+    <div class="chart"><h3>По дням недели</h3><div id="ch-wd"></div></div>
+    <div class="chart"><h3>Самые активные авторы</h3><div id="ch-posters"></div></div>
+    <div class="empty hidden" id="empty-stats">Статистика ещё собирается…</div>
+  </div>
+
   <footer>
-    Неофициальный фанатский лидерборд. Рейтинг людей — по числам ChatKeeper.
-    Зал славы — лучшие сообщения по реакциям 👍 и ❤️.<br>
-    Ссылки на сообщения открываются у участников группы.
+    Неофициальный фанатский проект. Рейтинг людей — числа ChatKeeper; зал славы и статистика —
+    по реакциям 👍 и ❤️ из истории чата. Ссылки на сообщения открываются у участников группы.
   </footer>
 </div>
 
 <script>
-  let PEOPLE = [], HALL = [];
-  const medal = r => r===1?'🥇':r===2?'🥈':r===3?'🥉':('#'+r);
+  let LB=null, HALL=[], STATS=null, period='all', cat='all';
 
-  function switchTab(which){
-    document.getElementById('view-people').classList.toggle('hidden', which!=='people');
-    document.getElementById('view-hall').classList.toggle('hidden', which!=='hall');
-    document.getElementById('tab-people').classList.toggle('active', which==='people');
-    document.getElementById('tab-hall').classList.toggle('active', which==='hall');
+  function toggleTheme(){
+    const cur=document.documentElement.getAttribute('data-theme');
+    const next=cur==='dark'?'light':'dark';
+    document.documentElement.setAttribute('data-theme',next);
+    try{localStorage.setItem('theme',next);}catch(e){}
+  }
+  (function(){try{const t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+
+  const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':('#'+r);
+  function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e;}
+
+  function switchTab(t){
+    for(const v of ['rating','hall','stats'])
+      document.getElementById('view-'+v).classList.toggle('hidden',v!==t);
+    document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));
   }
 
-  function renderPeople(){
-    const q = document.getElementById('search').value.trim().toLowerCase();
-    const list = q ? PEOPLE.filter(x=>(x.name||'').toLowerCase().includes(q)) : PEOPLE;
-    const body = document.getElementById('rows-people');
-    body.textContent = '';
-    document.getElementById('empty-people').classList.toggle('hidden', list.length>0);
-    for (const it of list){
-      const tr = document.createElement('tr');
-      if (it.rank<=3) tr.className = 'top'+it.rank;
-      const rank = document.createElement('td'); rank.className='rank'; rank.textContent = medal(it.rank);
-      const name = document.createElement('td'); name.textContent = it.name||'—';
-      const rep = document.createElement('td'); rep.className='rep'; rep.textContent = it.reputation;
-      tr.append(rank,name,rep); body.appendChild(tr);
-    }
+  // ---------- РЕЙТИНГ ----------
+  function setPeriod(p){period=p;
+    document.querySelectorAll('#period-pills .pill').forEach(x=>x.classList.toggle('active',x.dataset.p===p));
+    document.getElementById('val-h').textContent = p==='all'?'Репутация':'Прирост';
+    renderRating();
+  }
+  function renderRating(){
+    if(!LB)return;
+    const list0=LB[period]||[];
+    const q=document.getElementById('search').value.trim().toLowerCase();
+    const list=q?list0.filter(x=>(x.name||'').toLowerCase().includes(q)):list0;
+    const body=document.getElementById('rows-rating');body.textContent='';
+    const emp=document.getElementById('empty-rating');
+    emp.classList.toggle('hidden',list.length>0);
+    if(!list.length) emp.textContent = period==='all'?'Пока пусто.':'За этот период данные ещё копятся — загляни через пару дней.';
+    list.forEach(it=>{
+      const tr=el('tr'); if(it.rank<=3)tr.className='top'+it.rank;
+      tr.append(el('td','rank',medal(it.rank)));
+      tr.append(el('td',null,it.name||'—'));
+      const v=el('td','val',(period==='all'?'':'+')+it.value); tr.append(v);
+      body.appendChild(tr);
+    });
   }
 
+  // ---------- ЗАЛ СЛАВЫ ----------
+  function buildCatPills(){
+    const cats=['all',...Array.from(new Set(HALL.map(m=>m.category)))];
+    const box=document.getElementById('cat-pills');box.textContent='';
+    cats.forEach(c=>{
+      const p=el('div','pill'+(c===cat?' active':''),c==='all'?'Все':c);
+      p.onclick=()=>{cat=c;buildCatPills();renderHall();};
+      box.appendChild(p);
+    });
+  }
   function renderHall(){
-    const body = document.getElementById('rows-hall');
-    body.textContent = '';
-    document.getElementById('empty-hall').classList.toggle('hidden', HALL.length>0);
-    for (const it of HALL){
-      const tr = document.createElement('tr');
-      if (it.rank<=3) tr.className = 'top'+it.rank;
-      const rank = document.createElement('td'); rank.className='rank'; rank.textContent = medal(it.rank);
-
-      const cell = document.createElement('td');
-      const a = document.createElement('a');
-      a.className='msg'; a.href = it.link; a.target='_blank'; a.rel='noopener';
-      a.textContent = it.snippet || '[сообщение]';      // textContent — защита от инъекций
+    const list=cat==='all'?HALL:HALL.filter(m=>m.category===cat);
+    const body=document.getElementById('rows-hall');body.textContent='';
+    document.getElementById('empty-hall').classList.toggle('hidden',list.length>0);
+    list.forEach((it,idx)=>{
+      const tr=el('tr'); if(idx<3)tr.className='top'+(idx+1);
+      tr.append(el('td','rank',medal(idx+1)));
+      const cell=el('td');
+      const a=el('a','msg',it.snippet||'[сообщение]');a.href=it.link;a.target='_blank';a.rel='noopener';
       cell.appendChild(a);
-      const meta = document.createElement('div');
-      meta.className='meta-row';
-      const d = it.date ? new Date(it.date).toLocaleDateString('ru-RU') : '';
-      meta.textContent = (it.author||'—') + (d?(' · '+d):'');
-      cell.appendChild(meta);
-
-      const sc = document.createElement('td'); sc.className='rep'; sc.textContent = it.score;
-      tr.append(rank, cell, sc); body.appendChild(tr);
-    }
+      const d=it.date?new Date(it.date).toLocaleDateString('ru-RU'):'';
+      cell.appendChild(el('div','metar',(it.author||'—')+(d?(' · '+d):'')+' · '+it.category));
+      tr.append(cell);
+      tr.append(el('td','val',it.score));
+      body.appendChild(tr);
+    });
   }
 
-  async function loadPeople(){
-    try{
-      const r = await fetch('leaderboard.json?t='+Date.now());
-      const j = await r.json();
-      PEOPLE = j.leaderboard||[];
-      const d = j.updated?new Date(j.updated):null;
-      const m = document.getElementById('meta');
+  // ---------- СТАТИСТИКА ----------
+  function vbars(container,data,labelEvery){
+    const box=document.getElementById(container);box.textContent='';
+    const max=Math.max(1,...data.map(d=>d.count));
+    const bars=el('div','bars');
+    data.forEach(d=>{const b=el('div','bar');b.style.height=(d.count/max*100)+'%';b.title=d.label+': '+d.count;bars.appendChild(b);});
+    box.appendChild(bars);
+    const xl=el('div','xlbl');
+    data.forEach((d,i)=>{const s=el('span',null,(i%labelEvery===0)?d.label:'');xl.appendChild(s);});
+    box.appendChild(xl);
+  }
+  function hbars(container,data){
+    const box=document.getElementById(container);box.textContent='';
+    const max=Math.max(1,...data.map(d=>d.count));
+    data.forEach(d=>{
+      const row=el('div','hbar');
+      row.append(el('div','nm',d.name));
+      const tr=el('div','tr');const fl=el('div','fl');fl.style.width=(d.count/max*100)+'%';tr.appendChild(fl);
+      row.append(tr); row.append(el('div','vv',d.count));
+      box.appendChild(row);
+    });
+  }
+  function renderStats(){
+    if(!STATS)return;
+    const t=STATS.totals;
+    const cards=document.getElementById('stat-cards');cards.textContent='';
+    const mk=(n,l)=>{const c=el('div','scard');c.append(el('div','n',(n??0).toLocaleString('ru-RU')));c.append(el('div','l',l));return c;};
+    cards.append(mk(t.messages,'сообщений'));
+    cards.append(mk(t.authors,'авторов'));
+    cards.append(mk(t.positive_reactions,'реакций 👍❤️'));
+    const span=el('div','scard');span.append(el('div','n',(t.span_from||'').slice(0,7)+' →'));span.append(el('div','l','с какого месяца'));cards.append(span);
+    vbars('ch-day',(STATS.per_day||[]).map(d=>({label:d.date.slice(5),count:d.count})),5);
+    vbars('ch-hour',(STATS.per_hour||[]).map(d=>({label:d.hour,count:d.count})),3);
+    vbars('ch-wd',(STATS.per_weekday||[]).map(d=>({label:d.day,count:d.count})),1);
+    hbars('ch-posters',(STATS.top_posters||[]).map(p=>({name:p.name,count:p.count})));
+  }
+
+  // ---------- загрузка ----------
+  async function loadLB(){
+    try{const r=await fetch('leaderboard.json?t='+Date.now());LB=await r.json();
+      const d=LB.updated?new Date(LB.updated):null;const m=document.getElementById('meta');
       m.innerHTML='<span class="dot"></span>';
-      m.append(document.createTextNode(`${j.count??PEOPLE.length} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`));
-      renderPeople();
-    }catch(e){ document.getElementById('meta').textContent='Не удалось загрузить данные.'; }
+      m.append(document.createTextNode(`${LB.count??0} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`));
+      renderRating();
+    }catch(e){document.getElementById('meta').textContent='Не удалось загрузить данные.';}
   }
-  async function loadHall(){
-    try{
-      const r = await fetch('hall_of_fame.json?t='+Date.now());
-      if(!r.ok) return;
-      const j = await r.json();
-      HALL = j.messages||[];
-      renderHall();
-    }catch(e){ /* зал славы ещё не собран */ }
-  }
+  async function loadHall(){try{const r=await fetch('hall_of_fame.json?t='+Date.now());if(!r.ok)return;
+    HALL=(await r.json()).messages||[];buildCatPills();renderHall();}catch(e){}}
+  async function loadStats(){try{const r=await fetch('stats.json?t='+Date.now());if(!r.ok)return;
+    STATS=await r.json();renderStats();}catch(e){}}
 
-  document.getElementById('search').addEventListener('input', renderPeople);
-  loadPeople(); loadHall();
-  setInterval(()=>{ loadPeople(); loadHall(); }, 60000);
+  document.getElementById('search').addEventListener('input',renderRating);
+  loadLB();loadHall();loadStats();
+  setInterval(()=>{loadLB();loadHall();loadStats();},60000);
 </script>
 </body>
 </html>

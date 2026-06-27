@@ -1,127 +1,128 @@
 {
-  "updated": "2026-06-27T13:44:02+00:00",
+  "updated": "2026-06-27T13:59:07+00:00",
   "count": 24,
-  "source": "ChatKeeper reputation",
-  "leaderboard": [
+  "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "reputation": 5497
+      "value": 5497
     },
     {
       "rank": 2,
       "name": "Ольга",
-      "reputation": 1693
+      "value": 1693
     },
     {
       "rank": 3,
       "name": "a l",
-      "reputation": 952
+      "value": 952
     },
     {
       "rank": 4,
       "name": "Viktor",
-      "reputation": 868
+      "value": 868
     },
     {
       "rank": 5,
       "name": "Синдбад Мореход",
-      "reputation": 781
+      "value": 781
     },
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "reputation": 734
+      "value": 734
     },
     {
       "rank": 7,
       "name": "L G",
-      "reputation": 702
+      "value": 702
     },
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "reputation": 595
+      "value": 595
     },
     {
       "rank": 9,
       "name": "Olga Goncharova",
-      "reputation": 507
+      "value": 507
     },
     {
       "rank": 10,
       "name": "Sergey Saprykin ID: 125370212",
-      "reputation": 308
+      "value": 308
     },
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "reputation": 284
+      "value": 284
     },
     {
       "rank": 12,
       "name": "🤗",
-      "reputation": 276
+      "value": 276
     },
     {
       "rank": 13,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "reputation": 246
+      "value": 246
     },
     {
       "rank": 14,
       "name": "Manis Love",
-      "reputation": 156
+      "value": 156
     },
     {
       "rank": 15,
       "name": "Александр",
-      "reputation": 129
+      "value": 129
     },
     {
       "rank": 16,
       "name": ".",
-      "reputation": 110
+      "value": 110
     },
     {
       "rank": 17,
       "name": "shagron2",
-      "reputation": 100
+      "value": 100
     },
     {
       "rank": 18,
       "name": "Sergey СЕО",
-      "reputation": 82
+      "value": 82
     },
     {
       "rank": 19,
       "name": "Серхио Ле'Трас",
-      "reputation": 65
+      "value": 65
     },
     {
       "rank": 20,
       "name": "SyslikJan",
-      "reputation": 43
+      "value": 43
     },
     {
       "rank": 21,
       "name": "Толян",
-      "reputation": 18
+      "value": 18
     },
     {
       "rank": 22,
       "name": "Антон",
-      "reputation": 17
+      "value": 17
     },
     {
       "rank": 23,
       "name": "Руслан Иванов",
-      "reputation": 12
+      "value": 12
     },
     {
       "rank": 24,
       "name": "Юрий",
-      "reputation": 8
+      "value": 8
     }
-  ]
+  ],
+  "month": [],
+  "week": []
 }
