@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T11:33:49+00:00",
-  "count": 23,
+  "updated": "2026-06-27T12:33:49+00:00",
+  "count": 24,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
@@ -21,7 +21,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "reputation": 868
+      "reputation": 898
     },
     {
       "rank": 5,
@@ -45,76 +45,81 @@
     },
     {
       "rank": 9,
-      "name": "Sergey Saprykin ID: 125370212",
-      "reputation": 307
+      "name": "Olga Goncharova",
+      "reputation": 507
     },
     {
       "rank": 10,
+      "name": "Sergey Saprykin ID: 125370212",
+      "reputation": 308
+    },
+    {
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "reputation": 284
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "🤗",
       "reputation": 276
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "reputation": 246
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Александр",
       "reputation": 129
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": ".",
       "reputation": 109
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "shagron2",
       "reputation": 100
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Серхио Ле'Трас",
       "reputation": 65
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Толян",
       "reputation": 18
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Руслан Иванов",
-      "reputation": 11
+      "reputation": 12
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Юрий",
       "reputation": 8
     }
