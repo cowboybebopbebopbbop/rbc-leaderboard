@@ -1,0 +1,203 @@
+{
+  "updated": "2026-06-27T23:22:17+00:00",
+  "branches": [
+    {
+      "title": "Торговля",
+      "messages": 142475,
+      "authors": 2818,
+      "reactions": 25061,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 0.18
+    },
+    {
+      "title": "(основная)",
+      "messages": 16459,
+      "authors": 1507,
+      "reactions": 3322,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 0.2
+    },
+    {
+      "title": "Флудилка",
+      "messages": 11939,
+      "authors": 811,
+      "reactions": 3111,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 0.26
+    },
+    {
+      "title": "Безопасность",
+      "messages": 9389,
+      "authors": 865,
+      "reactions": 3067,
+      "last": "2026-06-24",
+      "status": "живая",
+      "react_density": 0.33
+    },
+    {
+      "title": "Вопросы и помощь",
+      "messages": 7981,
+      "authors": 971,
+      "reactions": 1465,
+      "last": "2026-06-20",
+      "status": "живая",
+      "react_density": 0.18
+    },
+    {
+      "title": "Майнинг",
+      "messages": 6223,
+      "authors": 481,
+      "reactions": 1308,
+      "last": "2026-06-26",
+      "status": "живая",
+      "react_density": 0.21
+    },
+    {
+      "title": "Криптообмен и P2P",
+      "messages": 5099,
+      "authors": 573,
+      "reactions": 1209,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 0.24
+    },
+    {
+      "title": "Обсуждение бирж",
+      "messages": 4793,
+      "authors": 660,
+      "reactions": 896,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 0.19
+    },
+    {
+      "title": "Эирдропы",
+      "messages": 3649,
+      "authors": 238,
+      "reactions": 888,
+      "last": "2026-06-22",
+      "status": "живая",
+      "react_density": 0.24
+    },
+    {
+      "title": "Мемы",
+      "messages": 3363,
+      "authors": 392,
+      "reactions": 3424,
+      "last": "2026-06-27",
+      "status": "живая",
+      "react_density": 1.02
+    },
+    {
+      "title": "Вопросы к экспертам",
+      "messages": 3229,
+      "authors": 618,
+      "reactions": 1010,
+      "last": "2026-06-03",
+      "status": "тихая",
+      "react_density": 0.31
+    },
+    {
+      "title": "Тестнеты",
+      "messages": 2545,
+      "authors": 103,
+      "reactions": 694,
+      "last": "2026-06-16",
+      "status": "живая",
+      "react_density": 0.27
+    },
+    {
+      "title": "Мемкоины",
+      "messages": 1726,
+      "authors": 311,
+      "reactions": 395,
+      "last": "2026-06-10",
+      "status": "тихая",
+      "react_density": 0.23
+    },
+    {
+      "title": "Стейкинг",
+      "messages": 1280,
+      "authors": 225,
+      "reactions": 353,
+      "last": "2026-06-23",
+      "status": "живая",
+      "react_density": 0.28
+    },
+    {
+      "title": "DeFi",
+      "messages": 995,
+      "authors": 155,
+      "reactions": 318,
+      "last": "2026-06-25",
+      "status": "живая",
+      "react_density": 0.32
+    },
+    {
+      "title": "Ветка эксперта: Ольга Гончарова",
+      "messages": 404,
+      "authors": 119,
+      "reactions": 571,
+      "last": "2026-06-24",
+      "status": "тихая",
+      "react_density": 1.41
+    },
+    {
+      "title": "Ветка эксперта: Андрей Тугарин",
+      "messages": 379,
+      "authors": 65,
+      "reactions": 175,
+      "last": "2026-06-21",
+      "status": "тихая",
+      "react_density": 0.46
+    },
+    {
+      "title": "«Хеш и кеш» на Радио РБК",
+      "messages": 155,
+      "authors": 29,
+      "reactions": 43,
+      "last": "2026-06-25",
+      "status": "тихая",
+      "react_density": 0.28
+    },
+    {
+      "title": "Blockchain Life 2025",
+      "messages": 142,
+      "authors": 40,
+      "reactions": 112,
+      "last": "2026-04-23",
+      "status": "спящая",
+      "react_density": 0.79
+    },
+    {
+      "title": "Обзор рынка с Анатолием Радченко",
+      "messages": 125,
+      "authors": 34,
+      "reactions": 243,
+      "last": "2026-06-22",
+      "status": "тихая",
+      "react_density": 1.94
+    },
+    {
+      "title": "Конкурс эссе",
+      "messages": 112,
+      "authors": 36,
+      "reactions": 71,
+      "last": "2025-04-21",
+      "status": "спящая",
+      "react_density": 0.63
+    },
+    {
+      "title": "РБК Крипто в Discord",
+      "messages": 38,
+      "authors": 14,
+      "reactions": 10,
+      "last": "2026-06-23",
+      "status": "тихая",
+      "react_density": 0.26
+    }
+  ]
+}

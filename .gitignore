@@ -4,4 +4,10 @@
 *
 !index.html
 !leaderboard.json
+!hall_of_fame.json
+!stats.json
+!faq.json
+!security.json
+!start.json
+!branches.json
 !.gitignore
