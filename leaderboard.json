@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T09:33:49+00:00",
-  "count": 18,
+  "updated": "2026-06-27T10:33:49+00:00",
+  "count": 20,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "reputation": 5494
+      "reputation": 5495
     },
     {
       "rank": 2,
@@ -25,71 +25,81 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "reputation": 733
+      "name": "Синдбад Мореход",
+      "reputation": 781
     },
     {
       "rank": 6,
+      "name": "Zero-sum Gamer",
+      "reputation": 734
+    },
+    {
+      "rank": 7,
       "name": "L G",
       "reputation": 702
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Князь Владимир С",
       "reputation": 595
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Sergey Saprykin ID: 125370212",
       "reputation": 306
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
       "reputation": 283
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "🤗",
       "reputation": 276
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "reputation": 244
+      "reputation": 246
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Manis Love",
       "reputation": 156
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "name": "Александр",
+      "reputation": 129
+    },
+    {
+      "rank": 15,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Серхио Ле'Трас",
       "reputation": 65
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "Толян",
       "reputation": 18
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Юрий",
       "reputation": 8
     }
