@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T10:33:49+00:00",
-  "count": 20,
+  "updated": "2026-06-27T11:33:49+00:00",
+  "count": 23,
   "source": "ChatKeeper reputation",
   "leaderboard": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "reputation": 5495
+      "reputation": 5497
     },
     {
       "rank": 2,
@@ -16,7 +16,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "reputation": 949
+      "reputation": 952
     },
     {
       "rank": 4,
@@ -46,12 +46,12 @@
     {
       "rank": 9,
       "name": "Sergey Saprykin ID: 125370212",
-      "reputation": 306
+      "reputation": 307
     },
     {
       "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
-      "reputation": 283
+      "reputation": 284
     },
     {
       "rank": 11,
@@ -75,31 +75,46 @@
     },
     {
       "rank": 15,
+      "name": ".",
+      "reputation": 109
+    },
+    {
+      "rank": 16,
+      "name": "shagron2",
+      "reputation": 100
+    },
+    {
+      "rank": 17,
       "name": "Sergey СЕО",
       "reputation": 82
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "Серхио Ле'Трас",
       "reputation": 65
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "SyslikJan",
       "reputation": 43
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Толян",
       "reputation": 18
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "Антон",
       "reputation": 17
     },
     {
-      "rank": 20,
+      "rank": 22,
+      "name": "Руслан Иванов",
+      "reputation": 11
+    },
+    {
+      "rank": 23,
       "name": "Юрий",
       "reputation": 8
     }
