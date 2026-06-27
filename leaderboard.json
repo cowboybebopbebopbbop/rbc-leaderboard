@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T15:39:46+00:00",
-  "count": 24,
+  "updated": "2026-06-27T16:39:46+00:00",
+  "count": 25,
   "all": [
     {
       "rank": 1,
@@ -79,46 +79,51 @@
     },
     {
       "rank": 16,
+      "name": "ᅠ",
+      "value": 122
+    },
+    {
+      "rank": 17,
       "name": ".",
       "value": 110
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "shagron2",
       "value": 100
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Sergey СЕО",
       "value": 82
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Серхио Ле'Трас",
       "value": 65
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "SyslikJan",
       "value": 43
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Толян",
       "value": 18
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Антон",
       "value": 17
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Руслан Иванов",
       "value": 12
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Юрий",
       "value": 8
     }
