@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T09:00:20+00:00",
-  "count": 27,
+  "updated": "2026-06-28T10:00:20+00:00",
+  "count": 28,
   "has_movement": true,
   "all": [
     {
@@ -11,159 +11,165 @@
     },
     {
       "rank": 2,
-      "name": "Ольга",
-      "value": 1693,
-      "move": 0
+      "name": "Igor",
+      "value": 3792,
+      "move": null
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 952,
-      "move": 0
+      "name": "Ольга",
+      "value": 1693,
+      "move": -1
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 868,
-      "move": 0
+      "name": "a l",
+      "value": 952,
+      "move": -1
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 781,
-      "move": 0
+      "name": "Viktor",
+      "value": 868,
+      "move": -1
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 738,
-      "move": 0
+      "name": "Синдбад Мореход",
+      "value": 781,
+      "move": -1
     },
     {
       "rank": 7,
-      "name": "L G",
-      "value": 702,
-      "move": 0
+      "name": "Zero-sum Gamer",
+      "value": 738,
+      "move": -1
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 595,
-      "move": 0
+      "name": "L G",
+      "value": 702,
+      "move": -1
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
-      "value": 507,
-      "move": 0
+      "name": "Князь Владимир С",
+      "value": 595,
+      "move": -1
     },
     {
       "rank": 10,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 308,
-      "move": 0
+      "name": "Olga Goncharova",
+      "value": 507,
+      "move": -1
     },
     {
       "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 286,
-      "move": 0
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 308,
+      "move": -1
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 276,
-      "move": 0
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 286,
+      "move": -1
     },
     {
       "rank": 13,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 246,
-      "move": 0
+      "name": "🤗",
+      "value": 276,
+      "move": -1
     },
     {
       "rank": 14,
-      "name": "Manis Love",
-      "value": 156,
-      "move": 0
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 246,
+      "move": -1
     },
     {
       "rank": 15,
-      "name": "Александр",
-      "value": 129,
-      "move": 0
+      "name": "Manis Love",
+      "value": 156,
+      "move": -1
     },
     {
       "rank": 16,
-      "name": "ᅠ",
-      "value": 123,
-      "move": 0
+      "name": "Александр",
+      "value": 129,
+      "move": -1
     },
     {
       "rank": 17,
-      "name": ".",
-      "value": 113,
-      "move": 0
+      "name": "ᅠ",
+      "value": 123,
+      "move": -1
     },
     {
       "rank": 18,
-      "name": "shagron2",
-      "value": 100,
-      "move": 0
+      "name": ".",
+      "value": 113,
+      "move": -1
     },
     {
       "rank": 19,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": 0
+      "name": "shagron2",
+      "value": 100,
+      "move": -1
     },
     {
       "rank": 20,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": 0
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -1
     },
     {
       "rank": 21,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": 0
+      "name": "Серхио Ле'Трас",
+      "value": 65,
+      "move": -1
     },
     {
       "rank": 22,
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -1
+    },
+    {
+      "rank": 23,
       "name": "AstronaVt",
       "value": 43,
       "move": null
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 35,
       "move": null
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Толян",
       "value": 18,
-      "move": -2
-    },
-    {
-      "rank": 25,
-      "name": "Антон",
-      "value": 17,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 26,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -2
+      "name": "Антон",
+      "value": 17,
+      "move": -3
     },
     {
       "rank": 27,
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -3
+    },
+    {
+      "rank": 28,
       "name": "Юрий",
       "value": 8,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
