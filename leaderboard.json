@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T08:00:20+00:00",
-  "count": 25,
+  "updated": "2026-06-28T09:00:20+00:00",
+  "count": 27,
   "has_movement": true,
   "all": [
     {
@@ -131,27 +131,39 @@
     },
     {
       "rank": 22,
-      "name": "Толян",
-      "value": 18,
-      "move": 0
+      "name": "AstronaVt",
+      "value": 43,
+      "move": null
     },
     {
       "rank": 23,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 35,
+      "move": null
     },
     {
       "rank": 24,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": 0
+      "name": "Толян",
+      "value": 18,
+      "move": -2
     },
     {
       "rank": 25,
+      "name": "Антон",
+      "value": 17,
+      "move": -2
+    },
+    {
+      "rank": 26,
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -2
+    },
+    {
+      "rank": 27,
       "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -2
     }
   ],
   "month": [
