@@ -12,4 +12,7 @@
 !branches.json
 !sentiment.json
 !voices.json
+!updates.json
+!experts.json
+!discipline.json
 !.gitignore

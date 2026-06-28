@@ -81,6 +81,7 @@
       <div class="subtab" data-s="sec" onclick="switchSub('sec')">🛡 Безопасность</div>
       <div class="subtab" data-s="start" onclick="switchSub('start')">🚀 Старт</div>
       <div class="subtab" data-s="nav" onclick="switchSub('nav')">🧭 Ветки</div>
+      <div class="subtab" data-s="disc" onclick="switchSub('disc')">🧠 Дисциплина</div>
     </div>
     <div id="sub-faq">
       <div class="pills" id="faq-cats"></div>
@@ -93,6 +94,7 @@
         <tbody id="nav-rows"></tbody></table>
       <div class="empty hidden" id="nav-empty">Готовится…</div>
     </div>
+    <div id="sub-disc" class="hidden"><div id="disc-body"></div><div class="empty hidden" id="disc-empty">Готовится…</div></div>
   </div>
 
   <!-- РЕЙТИНГ -->
@@ -129,6 +131,13 @@
     <h4 style="margin:16px 0 4px;">🎙 Голоса трейдеров — к кому прислушиваются</h4>
     <div class="metar" style="margin-bottom:10px;">Отдача в реакциях на сообщение (симпатия/согласие, <b>не доходность</b> и не «лучший трейдер»).</div>
     <div id="voices-list"></div><div class="empty hidden" id="voices-empty">Готовится…</div>
+
+    <h4 style="margin:20px 0 4px;">🗞 Лента авторских апдейтов</h4>
+    <div class="metar" style="margin-bottom:10px;">Содержательные разборы рынка от участников. Мнение авторов, <b>не инвестсовет</b>.</div>
+    <div id="updates-list"></div><div class="empty hidden" id="updates-empty">Готовится…</div>
+
+    <h4 style="margin:20px 0 8px;">🎓 Дайджест экспертов</h4>
+    <div id="experts-list"></div><div class="empty hidden" id="experts-empty">Готовится…</div>
   </div>
 
   <footer>
@@ -138,14 +147,14 @@
 </div>
 
 <script>
-  let LB=null,HALL=[],STATS=null,FAQ=[],SEC=null,START=null,BR=[],SENT=null,VOICES=[],period='all',cat='all',faqCat='all';
+  let LB=null,HALL=[],STATS=null,FAQ=[],SEC=null,START=null,BR=[],SENT=null,VOICES=[],UPD=[],EXPERTS=[],DISCIPLINE=null,period='all',cat='all',faqCat='all';
   (function(){try{const t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
   function toggleTheme(){const c=document.documentElement.getAttribute('data-theme'),n=c==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('theme',n);}catch(e){}}
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':('#'+r);
 
   function switchTab(t){for(const v of ['useful','rating','hall','stats','trading'])document.getElementById('view-'+v).classList.toggle('hidden',v!==t);document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));}
-  function switchSub(s){for(const v of ['faq','sec','start','nav'])document.getElementById('sub-'+v).classList.toggle('hidden',v!==s);document.querySelectorAll('.subtab').forEach(x=>x.classList.toggle('active',x.dataset.s===s));}
+  function switchSub(s){for(const v of ['faq','sec','start','nav','disc'])document.getElementById('sub-'+v).classList.toggle('hidden',v!==s);document.querySelectorAll('.subtab').forEach(x=>x.classList.toggle('active',x.dataset.s===s));}
 
   // FAQ
   function renderFaq(){
@@ -254,6 +263,28 @@
     });
   }
 
+  function renderUpdates(){
+    document.getElementById('updates-empty').classList.toggle('hidden',UPD.length>0);
+    const box=document.getElementById('updates-list');box.textContent='';
+    UPD.forEach(u=>{const c=el('div','qa');const h=el('div','q');h.append(el('span',null,u.author||'—'));h.append(el('span',null,(u.score||0)+' 👍❤️'));c.appendChild(h);
+      const a=el('a','msg');a.href=u.link;a.target='_blank';a.rel='noopener';a.style.cssText='display:block;margin-top:6px;font-size:.9rem;line-height:1.5;';a.textContent=u.text;c.appendChild(a);
+      if(u.date)c.appendChild(el('div','metar',new Date(u.date).toLocaleDateString('ru-RU')));box.appendChild(c);});
+  }
+  function renderExperts(){
+    document.getElementById('experts-empty').classList.toggle('hidden',EXPERTS.length>0);
+    const box=document.getElementById('experts-list');box.textContent='';
+    EXPERTS.forEach(g=>{const c=el('div','card');c.append(el('h4',null,g.branch));
+      (g.items||[]).forEach(it=>{const a=el('a','msg');a.href=it.link;a.target='_blank';a.rel='noopener';a.style.cssText='display:block;margin:6px 0;font-size:.88rem;line-height:1.45;';a.textContent='• '+it.text;c.appendChild(a);c.appendChild(el('div','metar',(it.author||'—')+' · '+(it.score||0)+' 👍❤️'));});
+      box.appendChild(c);});
+  }
+  function renderDiscipline(){
+    document.getElementById('disc-empty').classList.toggle('hidden',!!DISCIPLINE);
+    const box=document.getElementById('disc-body');box.textContent='';
+    if(!DISCIPLINE)return;
+    if(DISCIPLINE.intro)box.appendChild(el('div','intro',DISCIPLINE.intro));
+    (DISCIPLINE.principles||[]).forEach(p=>{const c=el('div','card');c.append(el('h4',null,p.title));c.append(el('p',null,p.text));if(p.source){const a=el('a','src','источник →');a.href=p.source;a.target='_blank';a.rel='noopener';c.appendChild(a);}box.appendChild(c);});
+  }
+
   async function j(f){const r=await fetch(f+'?t='+Date.now());if(!r.ok)throw 0;return r.json();}
   async function loadAll(){
     try{LB=await j('leaderboard.json');const d=LB.updated?new Date(LB.updated):null;const m=document.getElementById('meta');m.innerHTML='<span class="dot"></span>';m.append(document.createTextNode(`${LB.count??0} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`));renderRating();}catch(e){}
@@ -265,6 +296,9 @@
     try{BR=(await j('branches.json')).branches||[];renderNav();}catch(e){}
     try{SENT=await j('sentiment.json');renderSentiment();}catch(e){}
     try{VOICES=(await j('voices.json')).voices||[];renderVoices();}catch(e){}
+    try{UPD=(await j('updates.json')).items||[];renderUpdates();}catch(e){}
+    try{EXPERTS=(await j('experts.json')).groups||[];renderExperts();}catch(e){}
+    try{DISCIPLINE=await j('discipline.json');renderDiscipline();}catch(e){}
   }
   document.getElementById('search').addEventListener('input',renderRating);
   loadAll();setInterval(loadAll,90000);
