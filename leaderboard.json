@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T14:00:25+00:00",
-  "count": 28,
+  "updated": "2026-06-28T15:00:24+00:00",
+  "count": 29,
   "has_movement": true,
   "all": [
     {
@@ -125,51 +125,57 @@
     },
     {
       "rank": 21,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": -1
+      "name": "terminal lucidity",
+      "value": 69,
+      "move": null
     },
     {
       "rank": 22,
+      "name": "Серхио Ле'Трас",
+      "value": 65,
+      "move": -2
+    },
+    {
+      "rank": 23,
       "name": "AstronaVt",
       "value": 45,
       "move": null
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "SyslikJan",
       "value": 43,
-      "move": -2
+      "move": -3
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "ᴦоᴧод",
       "value": 35,
       "move": null
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Толян",
       "value": 18,
-      "move": -3
-    },
-    {
-      "rank": 26,
-      "name": "Антон",
-      "value": 17,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 27,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -3
+      "name": "Антон",
+      "value": 17,
+      "move": -4
     },
     {
       "rank": 28,
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -4
+    },
+    {
+      "rank": 29,
       "name": "Юрий",
       "value": 8,
-      "move": -3
+      "move": -4
     }
   ],
   "month": [
