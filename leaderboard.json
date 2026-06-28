@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-28T10:00:20+00:00",
+  "updated": "2026-06-28T11:00:20+00:00",
   "count": 28,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5501,
+      "value": 5502,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3792,
+      "value": 3793,
       "move": null
     },
     {
@@ -131,15 +131,15 @@
     },
     {
       "rank": 22,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": -1
+      "name": "AstronaVt",
+      "value": 44,
+      "move": null
     },
     {
       "rank": 23,
-      "name": "AstronaVt",
+      "name": "SyslikJan",
       "value": 43,
-      "move": null
+      "move": -2
     },
     {
       "rank": 24,
@@ -175,12 +175,12 @@
   "month": [
     {
       "rank": 1,
-      "name": "Zero-sum Gamer",
-      "value": 4
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 5
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
@@ -200,19 +200,29 @@
     },
     {
       "rank": 6,
+      "name": "AstronaVt",
+      "value": 1
+    },
+    {
+      "rank": 7,
       "name": "ᅠ",
+      "value": 1
+    },
+    {
+      "rank": 8,
+      "name": "Igor",
       "value": 1
     }
   ],
   "week": [
     {
       "rank": 1,
-      "name": "Zero-sum Gamer",
-      "value": 4
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 5
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Zero-sum Gamer",
       "value": 4
     },
     {
@@ -232,7 +242,17 @@
     },
     {
       "rank": 6,
+      "name": "AstronaVt",
+      "value": 1
+    },
+    {
+      "rank": 7,
       "name": "ᅠ",
+      "value": 1
+    },
+    {
+      "rank": 8,
+      "name": "Igor",
       "value": 1
     }
   ]
