@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T11:00:20+00:00",
+  "updated": "2026-06-28T12:00:21+00:00",
   "count": 28,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": ".",
-      "value": 113,
+      "value": 114,
       "move": -1
     },
     {
@@ -132,7 +132,7 @@
     {
       "rank": 22,
       "name": "AstronaVt",
-      "value": 44,
+      "value": 45,
       "move": null
     },
     {
@@ -180,28 +180,28 @@
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
+      "name": ".",
       "value": 4
     },
     {
       "rank": 3,
-      "name": ".",
-      "value": 3
+      "name": "Zero-sum Gamer",
+      "value": 4
     },
     {
       "rank": 4,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "AstronaVt",
       "value": 2
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
       "rank": 6,
-      "name": "AstronaVt",
-      "value": 1
+      "name": "Руслан Иванов",
+      "value": 2
     },
     {
       "rank": 7,
@@ -222,28 +222,28 @@
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
+      "name": ".",
       "value": 4
     },
     {
       "rank": 3,
-      "name": ".",
-      "value": 3
+      "name": "Zero-sum Gamer",
+      "value": 4
     },
     {
       "rank": 4,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "AstronaVt",
       "value": 2
     },
     {
       "rank": 5,
-      "name": "Руслан Иванов",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
       "rank": 6,
-      "name": "AstronaVt",
-      "value": 1
+      "name": "Руслан Иванов",
+      "value": 2
     },
     {
       "rank": 7,
