@@ -10,4 +10,6 @@
 !security.json
 !start.json
 !branches.json
+!sentiment.json
+!voices.json
 !.gitignore

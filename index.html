@@ -71,6 +71,7 @@
     <div class="tab" data-tab="rating" onclick="switchTab('rating')">🏅 Рейтинг</div>
     <div class="tab" data-tab="hall" onclick="switchTab('hall')">🏆 Зал славы</div>
     <div class="tab" data-tab="stats" onclick="switchTab('stats')">📈 Статистика</div>
+    <div class="tab" data-tab="trading" onclick="switchTab('trading')">📊 Трейдинг</div>
   </div>
 
   <!-- ПОЛЬЗА -->
@@ -121,6 +122,15 @@
     <div class="card"><div class="lbl">Самые активные авторы</div><div id="ch-posters"></div></div>
   </div>
 
+  <!-- ТРЕЙДИНГ -->
+  <div id="view-trading" class="hidden">
+    <div class="intro">Срез по ветке «Торговля». Настроение и «голоса» — агрегаты мнений сообщества, <b>не прогноз и не инвестсовет</b>.</div>
+    <div class="card"><h4>🐂 / 🐻 Настроение сообщества</h4><div id="sent-now"></div><div id="sent-months" style="margin-top:10px;"></div><div class="empty hidden" id="sent-empty">Готовится…</div></div>
+    <h4 style="margin:16px 0 4px;">🎙 Голоса трейдеров — к кому прислушиваются</h4>
+    <div class="metar" style="margin-bottom:10px;">Отдача в реакциях на сообщение (симпатия/согласие, <b>не доходность</b> и не «лучший трейдер»).</div>
+    <div id="voices-list"></div><div class="empty hidden" id="voices-empty">Готовится…</div>
+  </div>
+
   <footer>
     Неофициальный фанатский хаб. FAQ/Безопасность/Старт — выжимка из лучших сообщений сообщества
     (по реакциям 👍❤️), не финансовый совет. Ссылки на посты открываются у участников группы.
@@ -128,13 +138,13 @@
 </div>
 
 <script>
-  let LB=null,HALL=[],STATS=null,FAQ=[],SEC=null,START=null,BR=[],period='all',cat='all',faqCat='all';
+  let LB=null,HALL=[],STATS=null,FAQ=[],SEC=null,START=null,BR=[],SENT=null,VOICES=[],period='all',cat='all',faqCat='all';
   (function(){try{const t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
   function toggleTheme(){const c=document.documentElement.getAttribute('data-theme'),n=c==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('theme',n);}catch(e){}}
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':('#'+r);
 
-  function switchTab(t){for(const v of ['useful','rating','hall','stats'])document.getElementById('view-'+v).classList.toggle('hidden',v!==t);document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));}
+  function switchTab(t){for(const v of ['useful','rating','hall','stats','trading'])document.getElementById('view-'+v).classList.toggle('hidden',v!==t);document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));}
   function switchSub(s){for(const v of ['faq','sec','start','nav'])document.getElementById('sub-'+v).classList.toggle('hidden',v!==s);document.querySelectorAll('.subtab').forEach(x=>x.classList.toggle('active',x.dataset.s===s));}
 
   // FAQ
@@ -208,6 +218,42 @@
   function hbars(id,data){const box=document.getElementById(id);box.textContent='';const max=Math.max(1,...data.map(d=>d.count));data.forEach(d=>{const row=el('div');row.style.cssText='display:flex;align-items:center;gap:8px;margin:6px 0;font-size:.9rem;';const nm=el('div',null,d.name);nm.style.cssText='width:42%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;';const tr=el('div');tr.style.cssText='flex:1;background:var(--line);border-radius:6px;height:16px;overflow:hidden;';const fl=el('div');fl.style.cssText='height:100%;background:var(--red);width:'+(d.count/max*100)+'%';tr.appendChild(fl);row.append(nm,tr,el('div',null,String(d.count)));box.appendChild(row);});}
   function renderStats(){if(!STATS)return;const t=STATS.totals;const c=document.getElementById('stat-cards');c.textContent='';const mk=(n,l)=>{const x=el('div','card');const nn=el('div',null,(n??0).toLocaleString('ru-RU'));nn.style.cssText='font-size:1.5rem;font-weight:800;';x.append(nn,el('div','lbl',l));return x;};c.append(mk(t.messages,'сообщений'),mk(t.authors,'авторов'),mk(t.positive_reactions,'реакций 👍❤️'));vbars('ch-day',(STATS.per_day||[]).map(d=>({label:d.date.slice(5),count:d.count})),5);vbars('ch-hour',(STATS.per_hour||[]).map(d=>({label:d.hour,count:d.count})),3);hbars('ch-posters',(STATS.top_posters||[]).map(p=>({name:p.name,count:p.count})));}
 
+  function renderSentiment(){
+    document.getElementById('sent-empty').classList.toggle('hidden',!!SENT);
+    if(!SENT)return;
+    const now=SENT.current,ov=SENT.overall;
+    const nb=document.getElementById('sent-now');nb.textContent='';
+    const em=now.mood==='бычье'?'🐂':now.mood==='медвежье'?'🐻':'⚖️';
+    const big=el('div',null,`${em} Сейчас: ${now.mood} (${now.month||'—'})`);big.style.cssText='font-size:1.15rem;font-weight:800;';
+    nb.appendChild(big);
+    nb.appendChild(el('div','metar',`Этот месяц: 🐂 ${now.bull} / 🐻 ${now.bear} · За всё время: 🐂 ${ov.bull} / 🐻 ${ov.bear}${ov.ratio?(' ('+ov.ratio+':1)'):''}`));
+    const mb=document.getElementById('sent-months');mb.textContent='';
+    (SENT.monthly||[]).slice(-12).forEach(m=>{
+      const tot=(m.bull+m.bear)||1;const row=el('div');row.style.cssText='display:flex;align-items:center;gap:8px;margin:3px 0;font-size:.76rem;';
+      const lab=el('div',null,m.month);lab.style.cssText='width:58px;color:var(--muted);';
+      const bar=el('div');bar.style.cssText='flex:1;height:12px;border-radius:6px;overflow:hidden;display:flex;background:var(--line);';
+      const g=el('div');g.style.cssText=`background:var(--green);width:${m.bull/tot*100}%;`;g.title='бычьих '+m.bull;
+      const r=el('div');r.style.cssText=`background:var(--red);width:${m.bear/tot*100}%;`;r.title='медвежьих '+m.bear;
+      bar.append(g,r);row.append(lab,bar);mb.appendChild(row);
+    });
+  }
+  function renderVoices(){
+    document.getElementById('voices-empty').classList.toggle('hidden',VOICES.length>0);
+    const box=document.getElementById('voices-list');box.textContent='';
+    const max=Math.max(0.01,...VOICES.map(v=>v.react_per_msg));
+    VOICES.forEach((v,i)=>{
+      const card=el('div','qa');
+      const head=el('div','q');head.append(el('span',null,`${i+1}. ${v.name}`));head.append(el('span',null,v.react_per_msg.toFixed(2)+' /сообщ'));
+      card.appendChild(head);
+      const bar=el('div');bar.style.cssText='height:8px;background:var(--line);border-radius:4px;overflow:hidden;margin:8px 0;';
+      const fl=el('div');fl.style.cssText=`height:100%;background:var(--red);width:${v.react_per_msg/max*100}%;`;bar.appendChild(fl);
+      card.appendChild(bar);
+      card.appendChild(el('div','metar',`${v.messages} сообщений · ${v.reactions} реакций`));
+      (v.posts||[]).forEach(p=>{const a=el('a','src');a.href=p.link;a.target='_blank';a.rel='noopener';a.style.cssText='display:block;margin:4px 0;color:var(--text);font-size:.85rem;text-decoration:none;';a.textContent='• '+(p.text.length>100?p.text.slice(0,100)+'…':p.text);card.appendChild(a);});
+      box.appendChild(card);
+    });
+  }
+
   async function j(f){const r=await fetch(f+'?t='+Date.now());if(!r.ok)throw 0;return r.json();}
   async function loadAll(){
     try{LB=await j('leaderboard.json');const d=LB.updated?new Date(LB.updated):null;const m=document.getElementById('meta');m.innerHTML='<span class="dot"></span>';m.append(document.createTextNode(`${LB.count??0} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`));renderRating();}catch(e){}
@@ -217,6 +263,8 @@
     try{SEC=await j('security.json');renderSec();}catch(e){}
     try{START=await j('start.json');renderStart();}catch(e){}
     try{BR=(await j('branches.json')).branches||[];renderNav();}catch(e){}
+    try{SENT=await j('sentiment.json');renderSentiment();}catch(e){}
+    try{VOICES=(await j('voices.json')).voices||[];renderVoices();}catch(e){}
   }
   document.getElementById('search').addEventListener('input',renderRating);
   loadAll();setInterval(loadAll,90000);
