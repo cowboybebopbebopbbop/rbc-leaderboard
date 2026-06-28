@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-28T05:00:20+00:00",
+  "updated": "2026-06-28T06:00:20+00:00",
   "count": 25,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5500,
+      "value": 5501,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 736,
+      "value": 737,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": ".",
-      "value": 110,
+      "value": 112,
       "move": 0
     },
     {
@@ -158,20 +158,25 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 3
+      "value": 4
     },
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 2
+      "value": 3
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 4,
+      "name": "Руслан Иванов",
+      "value": 2
+    },
+    {
+      "rank": 5,
       "name": "ᅠ",
       "value": 1
     }
@@ -180,20 +185,25 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 3
+      "value": 4
     },
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 2
+      "value": 3
     },
     {
       "rank": 3,
-      "name": "Руслан Иванов",
+      "name": ".",
       "value": 2
     },
     {
       "rank": 4,
+      "name": "Руслан Иванов",
+      "value": 2
+    },
+    {
+      "rank": 5,
       "name": "ᅠ",
       "value": 1
     }
