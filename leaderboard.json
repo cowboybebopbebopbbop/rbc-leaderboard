@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T16:00:21+00:00",
-  "count": 29,
+  "updated": "2026-06-28T17:00:22+00:00",
+  "count": 30,
   "has_movement": true,
   "all": [
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "ᅠ",
-      "value": 123,
+      "value": 124,
       "move": -1
     },
     {
@@ -176,6 +176,12 @@
       "name": "Юрий",
       "value": 8,
       "move": -4
+    },
+    {
+      "rank": 30,
+      "name": "xxx",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -212,7 +218,7 @@
     {
       "rank": 7,
       "name": "ᅠ",
-      "value": 1
+      "value": 2
     },
     {
       "rank": 8,
@@ -254,7 +260,7 @@
     {
       "rank": 7,
       "name": "ᅠ",
-      "value": 1
+      "value": 2
     },
     {
       "rank": 8,
