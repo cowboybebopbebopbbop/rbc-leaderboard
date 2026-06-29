@@ -64,6 +64,10 @@
   .toolrow{display:flex;gap:4px;margin:18px 0 6px;}
   .toolrow a{font-size:.82rem;color:hsl(var(--muted-foreground));cursor:pointer;text-decoration:none;padding:5px 10px;border-radius:999px;}
   .toolrow a.active{background:hsl(var(--muted));color:hsl(var(--foreground));font-weight:600;}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0;}
+  .chips a{font-size:.8rem;color:hsl(var(--muted-foreground));cursor:pointer;padding:4px 10px;border:1px solid hsl(var(--border));border-radius:999px;}
+  .chips a:hover{background:hsl(var(--muted));}
+  .chips a.active{background:hsl(var(--primary)/.12);color:hsl(var(--primary));border-color:hsl(var(--primary)/.45);}
 
   /* input */
   .search{width:100%;height:38px;padding:0 12px;margin:10px 0 6px;background:hsl(var(--background));
@@ -142,6 +146,10 @@
     <div class="toolrow"><a data-p="all" class="active" onclick="setPeriod('all')">За всё время</a><a data-p="month" onclick="setPeriod('month')">Месяц</a><a data-p="week" onclick="setPeriod('week')">Неделя</a></div>
     <input class="search" id="search" placeholder="поиск по имени">
     <div class="list" id="rating-rows"></div><div class="empty hidden" id="rating-empty"></div>
+    <h3>Динамика репутации</h3>
+    <div class="sub">Репутация во времени — как цена. Копится с запуска трекинга, со временем линии длиннее.</div>
+    <div class="chips" id="hist-chips"></div>
+    <div class="card" id="hist-chart"><div class="empty">копится…</div></div>
   </section>
 
   <section id="view-useful" class="hidden">
@@ -162,7 +170,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,SENT=null,VOICES=[],UPD=[],EXP=[],period='all';
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histSel=0,period='all';
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}}
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
@@ -237,9 +245,32 @@
   function renderNav(){const box=document.getElementById('nav-rows');box.textContent='';BR.forEach(b=>{const it=el('div','row');const nm=el('div','nm');nm.append(el('div',null,b.title));
     const cls=b.status==='живая'?'badge live':b.status==='спящая'?'badge':'badge warn';const d=el('div','d');d.append(el('span',cls,b.status));d.append(document.createTextNode(' · '+b.authors+' авторов'));nm.appendChild(d);it.append(nm,el('div','v',(b.messages||0).toLocaleString('ru-RU')));box.appendChild(it);});}
 
+  function renderHist(){const chips=document.getElementById('hist-chips');const chart=document.getElementById('hist-chart');
+    if(!HIST||!HIST.series||!HIST.series.length){chips.textContent='';chart.innerHTML='<div class="empty">копится — линии появятся, когда у людей наберётся 2+ изменения репутации</div>';return;}
+    if(histSel>=HIST.series.length)histSel=0;
+    chips.textContent='';HIST.series.forEach((s,i)=>{const a=el('a',i===histSel?'active':'',s.name);a.onclick=()=>{histSel=i;renderHist();};chips.appendChild(a);});
+    drawLine(chart,HIST.series[histSel]);}
+  function drawLine(box,s){
+    const pts=s.points.map(p=>[new Date(p[0]).getTime(),p[1]]);
+    const W=620,H=160,pad=34;
+    const xs=pts.map(p=>p[0]),ys=pts.map(p=>p[1]);
+    const xmn=Math.min(...xs),xmx=Math.max(...xs),ymn=Math.min(...ys),ymx=Math.max(...ys);
+    const sx=t=>pad+(xmx===xmn?0:(t-xmn)/(xmx-xmn))*(W-2*pad);
+    const sy=v=>H-pad-(ymx===ymn?0:(v-ymn)/(ymx-ymn))*(H-2*pad);
+    let d='';pts.forEach((p,i)=>{d+=(i?'L':'M')+sx(p[0]).toFixed(1)+' '+sy(p[1]).toFixed(1)+' ';});
+    const last=pts[pts.length-1];
+    const svg=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="display:block">`
+      +`<text x="2" y="14" fill="hsl(var(--muted-foreground))" font-size="11">${ymx}</text>`
+      +`<text x="2" y="${H-pad+4}" fill="hsl(var(--muted-foreground))" font-size="11">${ymn}</text>`
+      +`<path d="${d}" fill="none" stroke="hsl(var(--primary))" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`
+      +`<circle cx="${sx(last[0]).toFixed(1)}" cy="${sy(last[1]).toFixed(1)}" r="3.5" fill="hsl(var(--primary))"/></svg>`;
+    box.innerHTML='<div class="t" style="margin-bottom:6px"></div>'+svg;
+    box.querySelector('.t').textContent=`${s.name}: ${last[1]} · ${pts.length} точек`;}
+
   async function j(f){const r=await fetch(f+'?t='+Date.now());if(!r.ok)throw 0;return r.json();}
   async function loadAll(){
     try{LB=await j('leaderboard.json');const d=LB.updated?new Date(LB.updated):null;document.getElementById('meta').textContent=`${LB.count??0} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`;renderRating();}catch(e){}
+    try{HIST=await j('rating_history.json');renderHist();}catch(e){}
     try{FAQ=(await j('faq.json')).items||[];renderFaq();}catch(e){}
     try{SEC=await j('security.json');renderSec();}catch(e){}
     try{START=await j('start.json');renderStart();}catch(e){}
