@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T09:56:15+00:00",
-  "count": 31,
+  "updated": "2026-06-29T10:56:15+00:00",
+  "count": 32,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3797,
+      "value": 3798,
       "move": null
     },
     {
@@ -77,114 +77,120 @@
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 286,
-      "move": -2
+      "name": "Anatoly Radchenko",
+      "value": 288,
+      "move": null
     },
     {
       "rank": 14,
-      "name": "🤗",
-      "value": 276,
-      "move": -2
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 286,
+      "move": -3
     },
     {
       "rank": 15,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 246,
-      "move": -2
+      "name": "🤗",
+      "value": 276,
+      "move": -3
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 156,
-      "move": -2
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 246,
+      "move": -3
     },
     {
       "rank": 17,
-      "name": "Александр",
-      "value": 129,
-      "move": -2
+      "name": "Manis Love",
+      "value": 156,
+      "move": -3
     },
     {
       "rank": 18,
-      "name": "ᅠ",
-      "value": 124,
-      "move": -2
+      "name": "Александр",
+      "value": 129,
+      "move": -3
     },
     {
       "rank": 19,
-      "name": ".",
-      "value": 114,
-      "move": -2
+      "name": "ᅠ",
+      "value": 124,
+      "move": -3
     },
     {
       "rank": 20,
-      "name": "shagron2",
-      "value": 100,
-      "move": -2
+      "name": ".",
+      "value": 114,
+      "move": -3
     },
     {
       "rank": 21,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -2
+      "name": "shagron2",
+      "value": 100,
+      "move": -3
     },
     {
       "rank": 22,
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -3
+    },
+    {
+      "rank": 23,
       "name": "terminal lucidity",
       "value": 69,
       "move": null
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -3
+      "move": -4
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "AstronaVt",
       "value": 45,
       "move": null
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "SyslikJan",
       "value": 43,
-      "move": -4
+      "move": -5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "ᴦоᴧод",
       "value": 35,
       "move": null
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Толян",
       "value": 18,
-      "move": -5
-    },
-    {
-      "rank": 28,
-      "name": "Антон",
-      "value": 17,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 29,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -5
+      "name": "Антон",
+      "value": 17,
+      "move": -6
     },
     {
       "rank": 30,
-      "name": "Юрий",
-      "value": 8,
-      "move": -5
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -6
     },
     {
       "rank": 31,
+      "name": "Юрий",
+      "value": 8,
+      "move": -6
+    },
+    {
+      "rank": 32,
       "name": "xxx",
       "value": 1,
       "move": null
@@ -204,7 +210,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 4,
@@ -246,7 +252,7 @@
     {
       "rank": 3,
       "name": "Igor",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 4,
