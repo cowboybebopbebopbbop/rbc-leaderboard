@@ -55,6 +55,14 @@
   .b-sleep{background:rgba(139,148,158,.15);color:var(--muted);}
   .dense{color:var(--gold);font-size:.78rem;}
   footer{margin-top:22px;color:var(--muted);font-size:.78rem;line-height:1.5;}
+  .welcome{position:relative;display:flex;align-items:center;gap:12px;flex-wrap:wrap;border:1px solid var(--red);border-radius:12px;padding:13px 16px;margin-bottom:14px;background:linear-gradient(90deg,rgba(228,0,43,.12),transparent);}
+  .welcome .wtxt{font-size:.95rem;}
+  .welcome .wtxt b{font-size:1.02rem;}
+  .welcome .wtxt div{color:var(--muted);font-size:.82rem;margin-top:2px;}
+  .welcome .wbtns{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto;}
+  .welcome .wbtns button{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;padding:7px 11px;font-size:.85rem;font-weight:600;}
+  .welcome .wbtns button:hover{border-color:var(--red);}
+  .welcome .wclose{position:absolute;top:6px;right:10px;cursor:pointer;color:var(--muted);font-size:.9rem;}
   .hidden{display:none;}
 </style>
 </head>
@@ -65,6 +73,16 @@
     <button class="theme" onclick="toggleTheme()">☀️ / 🌙</button>
   </div>
   <div class="sub" id="meta"><span class="dot"></span>загрузка…</div>
+
+  <div class="welcome" id="welcome">
+    <div class="wtxt"><b>👋 Новичок? Начни здесь</b><div>3 шага, чтобы быстро войти и не потерять деньги на старте</div></div>
+    <div class="wbtns">
+      <button onclick="goStart('start')">🚀 Старт</button>
+      <button onclick="goStart('sec')">🛡 Безопасность</button>
+      <button onclick="goStart('faq')">❓ FAQ</button>
+    </div>
+    <span class="wclose" onclick="dismissWelcome()" title="скрыть">✕</span>
+  </div>
 
   <div class="tabs">
     <div class="tab active" data-tab="useful" onclick="switchTab('useful')">📚 Польза</div>
@@ -155,6 +173,8 @@
 
   function switchTab(t){for(const v of ['useful','rating','hall','stats','trading'])document.getElementById('view-'+v).classList.toggle('hidden',v!==t);document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));}
   function switchSub(s){for(const v of ['faq','sec','start','nav','disc'])document.getElementById('sub-'+v).classList.toggle('hidden',v!==s);document.querySelectorAll('.subtab').forEach(x=>x.classList.toggle('active',x.dataset.s===s));}
+  function goStart(s){switchTab('useful');switchSub(s);try{window.scrollTo({top:0,behavior:'smooth'});}catch(e){}}
+  function dismissWelcome(){const w=document.getElementById('welcome');if(w)w.classList.add('hidden');try{localStorage.setItem('welcome_dismissed','1');}catch(e){}}
 
   // FAQ
   function renderFaq(){
@@ -301,6 +321,7 @@
     try{DISCIPLINE=await j('discipline.json');renderDiscipline();}catch(e){}
   }
   document.getElementById('search').addEventListener('input',renderRating);
+  try{if(localStorage.getItem('welcome_dismissed'))document.getElementById('welcome').classList.add('hidden');}catch(e){}
   loadAll();setInterval(loadAll,90000);
 </script>
 </body>

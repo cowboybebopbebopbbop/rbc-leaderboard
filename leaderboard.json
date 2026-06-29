@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T07:56:17+00:00",
-  "count": 30,
+  "updated": "2026-06-29T08:12:16+00:00",
+  "count": 31,
   "has_movement": true,
   "all": [
     {
@@ -53,132 +53,138 @@
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 595,
-      "move": -1
+      "name": "Axel",
+      "value": 686,
+      "move": null
     },
     {
       "rank": 10,
-      "name": "Olga Goncharova",
-      "value": 507,
-      "move": -1
+      "name": "Князь Владимир С",
+      "value": 595,
+      "move": -2
     },
     {
       "rank": 11,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 308,
-      "move": -1
+      "name": "Olga Goncharova",
+      "value": 507,
+      "move": -2
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 286,
-      "move": -1
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 308,
+      "move": -2
     },
     {
       "rank": 13,
-      "name": "🤗",
-      "value": 276,
-      "move": -1
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 286,
+      "move": -2
     },
     {
       "rank": 14,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 246,
-      "move": -1
+      "name": "🤗",
+      "value": 276,
+      "move": -2
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 156,
-      "move": -1
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 246,
+      "move": -2
     },
     {
       "rank": 16,
-      "name": "Александр",
-      "value": 129,
-      "move": -1
+      "name": "Manis Love",
+      "value": 156,
+      "move": -2
     },
     {
       "rank": 17,
-      "name": "ᅠ",
-      "value": 124,
-      "move": -1
+      "name": "Александр",
+      "value": 129,
+      "move": -2
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 114,
-      "move": -1
+      "name": "ᅠ",
+      "value": 124,
+      "move": -2
     },
     {
       "rank": 19,
-      "name": "shagron2",
-      "value": 100,
-      "move": -1
+      "name": ".",
+      "value": 114,
+      "move": -2
     },
     {
       "rank": 20,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -1
+      "name": "shagron2",
+      "value": 100,
+      "move": -2
     },
     {
       "rank": 21,
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -2
+    },
+    {
+      "rank": 22,
       "name": "terminal lucidity",
       "value": 69,
       "move": null
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -2
+      "move": -3
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "AstronaVt",
       "value": 45,
       "move": null
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "SyslikJan",
       "value": 43,
-      "move": -3
+      "move": -4
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "ᴦоᴧод",
       "value": 35,
       "move": null
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Толян",
       "value": 18,
-      "move": -4
-    },
-    {
-      "rank": 27,
-      "name": "Антон",
-      "value": 17,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 28,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -4
+      "name": "Антон",
+      "value": 17,
+      "move": -5
     },
     {
       "rank": 29,
-      "name": "Юрий",
-      "value": 8,
-      "move": -4
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -5
     },
     {
       "rank": 30,
+      "name": "Юрий",
+      "value": 8,
+      "move": -5
+    },
+    {
+      "rank": 31,
       "name": "xxx",
       "value": 1,
       "move": null
