@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T16:40:04+00:00",
-  "count": 33,
+  "updated": "2026-06-29T17:40:05+00:00",
+  "count": 34,
   "has_movement": true,
   "all": [
     {
@@ -71,132 +71,138 @@
     },
     {
       "rank": 12,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 308,
-      "move": -2
+      "name": "iDiklonius",
+      "value": 453,
+      "move": null
     },
     {
       "rank": 13,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 308,
+      "move": -3
+    },
+    {
+      "rank": 14,
       "name": "Anatoly Radchenko",
       "value": 290,
       "move": null
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "wavesscalper | скальпер по волнам",
       "value": 287,
-      "move": -3
-    },
-    {
-      "rank": 15,
-      "name": "🤗",
-      "value": 276,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 16,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 246,
-      "move": -3
+      "name": "🤗",
+      "value": 276,
+      "move": -4
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 156,
-      "move": -3
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 246,
+      "move": -4
     },
     {
       "rank": 18,
-      "name": "Александр",
-      "value": 129,
-      "move": -3
+      "name": "Manis Love",
+      "value": 156,
+      "move": -4
     },
     {
       "rank": 19,
-      "name": "ᅠ",
-      "value": 124,
-      "move": -3
+      "name": "Александр",
+      "value": 129,
+      "move": -4
     },
     {
       "rank": 20,
-      "name": ".",
-      "value": 114,
-      "move": -3
+      "name": "ᅠ",
+      "value": 124,
+      "move": -4
     },
     {
       "rank": 21,
-      "name": "shagron2",
-      "value": 100,
-      "move": -3
+      "name": ".",
+      "value": 114,
+      "move": -4
     },
     {
       "rank": 22,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -3
+      "name": "shagron2",
+      "value": 100,
+      "move": -4
     },
     {
       "rank": 23,
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -4
+    },
+    {
+      "rank": 24,
       "name": "terminal lucidity",
       "value": 69,
       "move": null
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -4
+      "move": -5
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "AstronaVt",
       "value": 45,
       "move": null
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "SyslikJan",
       "value": 43,
-      "move": -5
-    },
-    {
-      "rank": 27,
-      "name": "ᴦоᴧод",
-      "value": 35,
-      "move": null
+      "move": -6
     },
     {
       "rank": 28,
-      "name": "Толян",
-      "value": 18,
-      "move": -6
+      "name": "ᴦоᴧод",
+      "value": 37,
+      "move": null
     },
     {
       "rank": 29,
-      "name": "Антон",
-      "value": 17,
-      "move": -6
+      "name": "Толян",
+      "value": 18,
+      "move": -7
     },
     {
       "rank": 30,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -6
+      "name": "Антон",
+      "value": 17,
+      "move": -7
     },
     {
       "rank": 31,
-      "name": "Юрий",
-      "value": 8,
-      "move": -6
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -7
     },
     {
       "rank": 32,
+      "name": "Юрий",
+      "value": 8,
+      "move": -7
+    },
+    {
+      "rank": 33,
       "name": "Ingvar 604",
       "value": 5,
       "move": null
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "xxx",
       "value": 1,
       "move": null
@@ -240,16 +246,21 @@
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
       "rank": 9,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 10,
+      "name": "ᅠ",
+      "value": 2
+    },
+    {
+      "rank": 11,
       "name": "Anatoly Radchenko",
       "value": 2
     }
@@ -292,16 +303,21 @@
     },
     {
       "rank": 8,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
       "rank": 9,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 10,
+      "name": "ᅠ",
+      "value": 2
+    },
+    {
+      "rank": 11,
       "name": "Anatoly Radchenko",
       "value": 2
     }
