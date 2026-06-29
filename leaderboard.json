@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T14:40:05+00:00",
+  "updated": "2026-06-29T15:40:05+00:00",
   "count": 33,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3799,
+      "value": 3802,
       "move": null
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Olga Goncharova",
-      "value": 509,
+      "value": 514,
       "move": -2
     },
     {
@@ -210,28 +210,28 @@
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
-      "value": 7
+      "name": "Igor",
+      "value": 10
     },
     {
       "rank": 3,
-      "name": "Igor",
+      "name": "Olga Goncharova",
       "value": 7
     },
     {
       "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 5,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
-    },
-    {
-      "rank": 6,
-      "name": "Olga Goncharova",
-      "value": 2
     },
     {
       "rank": 7,
@@ -262,28 +262,28 @@
     },
     {
       "rank": 2,
-      "name": "Zero-sum Gamer",
-      "value": 7
+      "name": "Igor",
+      "value": 10
     },
     {
       "rank": 3,
-      "name": "Igor",
+      "name": "Olga Goncharova",
       "value": 7
     },
     {
       "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 5,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
-    },
-    {
-      "rank": 6,
-      "name": "Olga Goncharova",
-      "value": 2
     },
     {
       "rank": 7,
