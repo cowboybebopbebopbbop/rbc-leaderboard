@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-29T08:12:16+00:00",
+  "updated": "2026-06-29T08:56:14+00:00",
   "count": 31,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5502,
+      "value": 5506,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3793,
+      "value": 3797,
       "move": null
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 738,
+      "value": 740,
       "move": -1
     },
     {
@@ -194,84 +194,84 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
+      "value": 9
     },
     {
       "rank": 2,
+      "name": "Zero-sum Gamer",
+      "value": 6
+    },
+    {
+      "rank": 3,
+      "name": "Igor",
+      "value": 5
+    },
+    {
+      "rank": 4,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "ᅠ",
       "value": 2
-    },
-    {
-      "rank": 8,
-      "name": "Igor",
-      "value": 1
     }
   ],
   "week": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
+      "value": 9
     },
     {
       "rank": 2,
+      "name": "Zero-sum Gamer",
+      "value": 6
+    },
+    {
+      "rank": 3,
+      "name": "Igor",
+      "value": 5
+    },
+    {
+      "rank": 4,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "ᅠ",
       "value": 2
-    },
-    {
-      "rank": 8,
-      "name": "Igor",
-      "value": 1
     }
   ]
 }
