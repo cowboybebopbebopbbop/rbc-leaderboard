@@ -147,7 +147,7 @@
     <input class="search" id="search" placeholder="поиск по имени">
     <div class="list" id="rating-rows"></div><div class="empty hidden" id="rating-empty"></div>
     <h3>Динамика репутации</h3>
-    <div class="sub">Репутация во времени — как цена. Копится с запуска трекинга, со временем линии длиннее.</div>
+    <div class="sub">Репутация во времени — все линии разом, как тикеры. Клик по имени в легенде — скрыть/показать линию. Копится с запуска трекинга.</div>
     <div class="chips" id="hist-chips"></div>
     <div class="card" id="hist-chart"><div class="empty">копится…</div></div>
   </section>
@@ -170,7 +170,8 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histSel=0,period='all';
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),period='all';
+  const PAL=['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff'];
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}}
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
@@ -247,25 +248,29 @@
 
   function renderHist(){const chips=document.getElementById('hist-chips');const chart=document.getElementById('hist-chart');
     if(!HIST||!HIST.series||!HIST.series.length){chips.textContent='';chart.innerHTML='<div class="empty">копится — линии появятся, когда у людей наберётся 2+ изменения репутации</div>';return;}
-    if(histSel>=HIST.series.length)histSel=0;
-    chips.textContent='';HIST.series.forEach((s,i)=>{const a=el('a',i===histSel?'active':'',s.name);a.onclick=()=>{histSel=i;renderHist();};chips.appendChild(a);});
-    drawLine(chart,HIST.series[histSel]);}
-  function drawLine(box,s){
-    const pts=s.points.map(p=>[new Date(p[0]).getTime(),p[1]]);
-    const W=620,H=160,pad=34;
-    const xs=pts.map(p=>p[0]),ys=pts.map(p=>p[1]);
+    chips.textContent='';
+    HIST.series.forEach((s,i)=>{const hidden=histHidden.has(i);const a=el('a',hidden?'':'active');
+      const dot=el('span');dot.style.cssText=`display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle;background:${PAL[i%PAL.length]};opacity:${hidden?0.3:1}`;
+      a.appendChild(dot);a.appendChild(document.createTextNode(s.name));
+      a.onclick=()=>{if(hidden)histHidden.delete(i);else histHidden.add(i);renderHist();};chips.appendChild(a);});
+    drawMulti(chart);}
+  function drawMulti(box){
+    const vis=HIST.series.map((s,i)=>({s,i})).filter(o=>!histHidden.has(o.i));
+    if(!vis.length){box.innerHTML='<div class="empty">выбери хотя бы одного в легенде</div>';return;}
+    const W=620,H=190,pad=38;
+    let xs=[],ys=[];vis.forEach(o=>o.s.points.forEach(p=>{xs.push(new Date(p[0]).getTime());ys.push(p[1]);}));
     const xmn=Math.min(...xs),xmx=Math.max(...xs),ymn=Math.min(...ys),ymx=Math.max(...ys);
     const sx=t=>pad+(xmx===xmn?0:(t-xmn)/(xmx-xmn))*(W-2*pad);
     const sy=v=>H-pad-(ymx===ymn?0:(v-ymn)/(ymx-ymn))*(H-2*pad);
-    let d='';pts.forEach((p,i)=>{d+=(i?'L':'M')+sx(p[0]).toFixed(1)+' '+sy(p[1]).toFixed(1)+' ';});
-    const last=pts[pts.length-1];
-    const svg=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="display:block">`
+    let paths='';
+    vis.forEach(o=>{const col=PAL[o.i%PAL.length];let d='';o.s.points.forEach((p,k)=>{d+=(k?'L':'M')+sx(new Date(p[0]).getTime()).toFixed(1)+' '+sy(p[1]).toFixed(1)+' ';});
+      const last=o.s.points[o.s.points.length-1];
+      paths+=`<path d="${d}" fill="none" stroke="${col}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`
+        +`<circle cx="${sx(new Date(last[0]).getTime()).toFixed(1)}" cy="${sy(last[1]).toFixed(1)}" r="3" fill="${col}"/>`;});
+    box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="display:block">`
       +`<text x="2" y="14" fill="hsl(var(--muted-foreground))" font-size="11">${ymx}</text>`
       +`<text x="2" y="${H-pad+4}" fill="hsl(var(--muted-foreground))" font-size="11">${ymn}</text>`
-      +`<path d="${d}" fill="none" stroke="hsl(var(--primary))" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`
-      +`<circle cx="${sx(last[0]).toFixed(1)}" cy="${sy(last[1]).toFixed(1)}" r="3.5" fill="hsl(var(--primary))"/></svg>`;
-    box.innerHTML='<div class="t" style="margin-bottom:6px"></div>'+svg;
-    box.querySelector('.t').textContent=`${s.name}: ${last[1]} · ${pts.length} точек`;}
+      +paths+`</svg>`;}
 
   async function j(f){const r=await fetch(f+'?t='+Date.now());if(!r.ok)throw 0;return r.json();}
   async function loadAll(){
