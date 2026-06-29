@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-29T11:56:15+00:00",
-  "count": 32,
+  "updated": "2026-06-29T12:36:29+00:00",
+  "count": 33,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5507,
+      "value": 5508,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 286,
+      "value": 287,
       "move": -3
     },
     {
@@ -191,6 +191,12 @@
     },
     {
       "rank": 32,
+      "name": "Ingvar 604",
+      "value": 5,
+      "move": null
+    },
+    {
+      "rank": 33,
       "name": "xxx",
       "value": 1,
       "move": null
@@ -200,7 +206,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 2,
@@ -219,12 +225,12 @@
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
-      "value": 2
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
     },
     {
       "rank": 6,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "AstronaVt",
       "value": 2
     },
     {
@@ -247,7 +253,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 2,
@@ -266,12 +272,12 @@
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
-      "value": 2
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
     },
     {
       "rank": 6,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "AstronaVt",
       "value": 2
     },
     {
