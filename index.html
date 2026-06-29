@@ -111,6 +111,8 @@
 
   .bars{display:flex;align-items:flex-end;gap:2px;height:92px;margin-top:10px;}
   .bars i{flex:1;background:hsl(var(--primary)/.6);border-radius:3px 3px 0 0;min-height:2px;}
+  .xax{display:flex;gap:2px;margin-top:5px;}
+  .xax span{flex:1;text-align:center;font-size:.6rem;color:hsl(var(--muted-foreground));overflow:hidden;white-space:nowrap;}
   .mood{display:flex;align-items:center;gap:8px;font-size:.82rem;color:hsl(var(--muted-foreground));margin:5px 0;}
   .mood .b{height:8px;border-radius:999px;overflow:hidden;display:flex;flex:1;max-width:260px;background:hsl(var(--muted));}
   .mini{height:6px;background:hsl(var(--muted));border-radius:999px;overflow:hidden;margin:7px 0;}
@@ -170,7 +172,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),period='all';
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),statDim='day',period='all';
   const PAL=['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff'];
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}}
@@ -186,7 +188,7 @@
   function dismissWelcome(){const w=document.getElementById('welcome');if(w)w.remove();try{localStorage.setItem('welcome_dismissed','1');}catch(e){}}
   const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':r;
 
-  function setPeriod(p){period=p;document.querySelectorAll('.toolrow a').forEach(a=>a.classList.toggle('active',a.dataset.p===p));renderRating();}
+  function setPeriod(p){period=p;document.querySelectorAll('#view-rating .toolrow a').forEach(a=>a.classList.toggle('active',a.dataset.p===p));renderRating();}
   function renderRating(){if(!LB)return;const l0=LB[period]||[];const q=document.getElementById('search').value.trim().toLowerCase();
     const list=q?l0.filter(x=>(x.name||'').toLowerCase().includes(q)):l0;const box=document.getElementById('rating-rows');box.textContent='';
     const e=document.getElementById('rating-empty');e.classList.toggle('hidden',list.length>0);if(!list.length)e.textContent=period==='all'?'пусто':'за период данные ещё копятся';
@@ -236,15 +238,23 @@
     EXP.forEach(g=>{box.appendChild(el('h3',null,g.branch));const l=el('div','list');(g.items||[]).forEach(it=>{const d=el('div','item');const a=el('a','lnk');a.href=it.link;a.target='_blank';a.rel='noopener';a.textContent=it.text;d.appendChild(a);d.appendChild(el('div','d',(it.author||'—')+' · '+(it.score||0)+' 👍❤️'));l.appendChild(d);});box.appendChild(l);});}
 
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.target='_blank';a.rel='noopener';a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');r.appendChild(a);r.appendChild(el('div','d',(it.author||'—')+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
-  function bars(parent,data){const b=el('div','bars');const mx=Math.max(1,...data.map(d=>d.count));data.forEach(d=>{const i=el('i');i.style.height=(d.count/mx*100)+'%';i.title=d.label+': '+d.count;b.appendChild(i);});parent.appendChild(b);}
-  function renderStats(){const box=document.getElementById('stats-body');box.textContent='';if(!STATS){box.appendChild(el('div','empty','готовится…'));return;}
-    const t=STATS.totals;box.appendChild(el('h3',null,'Статистика чата'));box.appendChild(el('div','sub',`${(t.messages||0).toLocaleString('ru-RU')} сообщений · ${(t.authors||0).toLocaleString('ru-RU')} авторов · ${(t.positive_reactions||0).toLocaleString('ru-RU')} реакций 👍❤️`));
-    const c1=el('div','card');c1.append(el('div','badge','Активность по дням (30)'));bars(c1,(STATS.per_day||[]).map(d=>({label:d.date,count:d.count})));box.appendChild(c1);
-    const c2=el('div','card');c2.append(el('div','badge','По часам (МСК)'));bars(c2,(STATS.per_hour||[]).map(d=>({label:d.hour,count:d.count})));box.appendChild(c2);
-    box.appendChild(el('h3',null,'Активные авторы'));const mx=Math.max(1,...(STATS.top_posters||[]).map(p=>p.count));const l=el('div','list');
-    (STATS.top_posters||[]).forEach(p=>{const it=el('div','row');it.append(el('div','nm',p.name));const mb=el('div');mb.style.flex='1';const mi=el('div','mini');const f=el('i');f.style.width=(p.count/mx*100)+'%';mi.appendChild(f);mb.appendChild(mi);it.append(mb,el('div','v',p.count));l.appendChild(it);});box.appendChild(l);
-    if(ACT){box.appendChild(el('h3',null,'Активность по месяцам'));const cm=el('div','card');bars(cm,(ACT.per_month||[]).map(d=>({label:d.month,count:d.count})));box.appendChild(cm);
-      box.appendChild(el('h3',null,'Активность по неделям'));const cw=el('div','card');bars(cw,(ACT.per_week||[]).map(d=>({label:d.week,count:d.count})));box.appendChild(cw);}}
+  function chart(parent,data,every){const b=el('div','bars');const mx=Math.max(1,...data.map(d=>d.count));
+    data.forEach(d=>{const i=el('i');i.style.height=(d.count/mx*100)+'%';i.title=d.label+': '+d.count;b.appendChild(i);});parent.appendChild(b);
+    const x=el('div','xax');data.forEach((d,k)=>x.appendChild(el('span',null,(k%every===0||k===data.length-1)?d.label:'')));parent.appendChild(x);}
+  function drawActivity(box){box.textContent='';let data=[],every=4;
+    if(statDim==='day'&&STATS){data=(STATS.per_day||[]).map(d=>({label:d.date.slice(5).replace('-','.'),count:d.count}));every=5;}
+    else if(statDim==='week'&&ACT){data=(ACT.per_week||[]).map(d=>({label:'W'+((d.week.split('W')[1])||''),count:d.count}));every=3;}
+    else if(statDim==='month'&&ACT){data=(ACT.per_month||[]).map(d=>({label:d.month.slice(2).replace('-','.'),count:d.count}));every=2;}
+    else if(statDim==='hour'&&STATS){data=(STATS.per_hour||[]).map(d=>({label:String(d.hour),count:d.count}));every=3;}
+    else if(statDim==='wd'&&STATS){data=(STATS.per_weekday||[]).map(d=>({label:d.day,count:d.count}));every=1;}
+    if(!data.length){box.appendChild(el('div','empty','нет данных для этого среза'));return;}chart(box,data,every);}
+  function renderStats(){const box=document.getElementById('stats-body');box.textContent='';if(!STATS&&!ACT){box.appendChild(el('div','empty','готовится…'));return;}
+    if(STATS){const t=STATS.totals;box.appendChild(el('h3',null,'Статистика чата'));box.appendChild(el('div','sub',`${(t.messages||0).toLocaleString('ru-RU')} сообщений · ${(t.authors||0).toLocaleString('ru-RU')} авторов · ${(t.positive_reactions||0).toLocaleString('ru-RU')} реакций 👍❤️`));}
+    box.appendChild(el('h3',null,'Активность'));
+    const tog=el('div','toolrow');[['day','Дни'],['week','Недели'],['month','Месяцы'],['hour','Часы'],['wd','Дни недели']].forEach(a0=>{const a=el('a',a0[0]===statDim?'active':'',a0[1]);a.onclick=()=>{statDim=a0[0];renderStats();};tog.appendChild(a);});box.appendChild(tog);
+    const c=el('div','card');drawActivity(c);box.appendChild(c);
+    if(STATS&&STATS.top_posters&&STATS.top_posters.length){box.appendChild(el('h3',null,'Активные авторы'));const mx=Math.max(1,...STATS.top_posters.map(p=>p.count));const l=el('div','list');
+      STATS.top_posters.forEach(p=>{const it=el('div','row');it.append(el('div','nm',p.name));const mb=el('div');mb.style.flex='1';const mi=el('div','mini');const f=el('i');f.style.width=(p.count/mx*100)+'%';mi.appendChild(f);mb.appendChild(mi);it.append(mb,el('div','v',p.count));l.appendChild(it);});box.appendChild(l);}}
   function renderNav(){const box=document.getElementById('nav-rows');box.textContent='';BR.forEach(b=>{const it=el('div','row');const nm=el('div','nm');nm.append(el('div',null,b.title));
     const cls=b.status==='живая'?'badge live':b.status==='спящая'?'badge':'badge warn';const d=el('div','d');d.append(el('span',cls,b.status));d.append(document.createTextNode(' · '+b.authors+' авторов'));nm.appendChild(d);it.append(nm,el('div','v',(b.messages||0).toLocaleString('ru-RU')));box.appendChild(it);});}
 
