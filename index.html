@@ -170,7 +170,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),period='all';
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),period='all';
   const PAL=['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff'];
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}}
@@ -242,7 +242,9 @@
     const c1=el('div','card');c1.append(el('div','badge','Активность по дням (30)'));bars(c1,(STATS.per_day||[]).map(d=>({label:d.date,count:d.count})));box.appendChild(c1);
     const c2=el('div','card');c2.append(el('div','badge','По часам (МСК)'));bars(c2,(STATS.per_hour||[]).map(d=>({label:d.hour,count:d.count})));box.appendChild(c2);
     box.appendChild(el('h3',null,'Активные авторы'));const mx=Math.max(1,...(STATS.top_posters||[]).map(p=>p.count));const l=el('div','list');
-    (STATS.top_posters||[]).forEach(p=>{const it=el('div','row');it.append(el('div','nm',p.name));const mb=el('div');mb.style.flex='1';const mi=el('div','mini');const f=el('i');f.style.width=(p.count/mx*100)+'%';mi.appendChild(f);mb.appendChild(mi);it.append(mb,el('div','v',p.count));l.appendChild(it);});box.appendChild(l);}
+    (STATS.top_posters||[]).forEach(p=>{const it=el('div','row');it.append(el('div','nm',p.name));const mb=el('div');mb.style.flex='1';const mi=el('div','mini');const f=el('i');f.style.width=(p.count/mx*100)+'%';mi.appendChild(f);mb.appendChild(mi);it.append(mb,el('div','v',p.count));l.appendChild(it);});box.appendChild(l);
+    if(ACT){box.appendChild(el('h3',null,'Активность по месяцам'));const cm=el('div','card');bars(cm,(ACT.per_month||[]).map(d=>({label:d.month,count:d.count})));box.appendChild(cm);
+      box.appendChild(el('h3',null,'Активность по неделям'));const cw=el('div','card');bars(cw,(ACT.per_week||[]).map(d=>({label:d.week,count:d.count})));box.appendChild(cw);}}
   function renderNav(){const box=document.getElementById('nav-rows');box.textContent='';BR.forEach(b=>{const it=el('div','row');const nm=el('div','nm');nm.append(el('div',null,b.title));
     const cls=b.status==='живая'?'badge live':b.status==='спящая'?'badge':'badge warn';const d=el('div','d');d.append(el('span',cls,b.status));d.append(document.createTextNode(' · '+b.authors+' авторов'));nm.appendChild(d);it.append(nm,el('div','v',(b.messages||0).toLocaleString('ru-RU')));box.appendChild(it);});}
 
@@ -286,6 +288,7 @@
     try{EXP=(await j('experts.json')).groups||[];renderExperts();}catch(e){}
     try{HALL=(await j('hall_of_fame.json')).messages||[];renderHall();}catch(e){}
     try{STATS=await j('stats.json');renderStats();}catch(e){}
+    try{ACT=await j('activity.json');renderStats();}catch(e){}
     try{BR=(await j('branches.json')).branches||[];renderNav();}catch(e){}
   }
   document.getElementById('search').addEventListener('input',renderRating);

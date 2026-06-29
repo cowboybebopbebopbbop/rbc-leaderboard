@@ -10,6 +10,7 @@
 !security.json
 !start.json
 !branches.json
+!activity.json
 !rating_history.json
 !sentiment.json
 !voices.json
