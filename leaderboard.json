@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T14:12:18+00:00",
+  "updated": "2026-06-29T14:40:05+00:00",
   "count": 33,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Olga Goncharova",
-      "value": 507,
+      "value": 509,
       "move": -2
     },
     {
@@ -230,21 +230,26 @@
     },
     {
       "rank": 6,
-      "name": "AstronaVt",
+      "name": "Olga Goncharova",
       "value": 2
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "AstronaVt",
       "value": 2
     },
     {
       "rank": 8,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 9,
+      "name": "ᅠ",
+      "value": 2
+    },
+    {
+      "rank": 10,
       "name": "Anatoly Radchenko",
       "value": 2
     }
@@ -277,21 +282,26 @@
     },
     {
       "rank": 6,
-      "name": "AstronaVt",
+      "name": "Olga Goncharova",
       "value": 2
     },
     {
       "rank": 7,
-      "name": "Руслан Иванов",
+      "name": "AstronaVt",
       "value": 2
     },
     {
       "rank": 8,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 9,
+      "name": "ᅠ",
+      "value": 2
+    },
+    {
+      "rank": 10,
       "name": "Anatoly Radchenko",
       "value": 2
     }
