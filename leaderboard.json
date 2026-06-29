@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T20:40:05+00:00",
-  "count": 35,
+  "updated": "2026-06-29T21:40:05+00:00",
+  "count": 36,
   "has_movement": true,
   "all": [
     {
@@ -125,90 +125,96 @@
     },
     {
       "rank": 21,
-      "name": ".",
-      "value": 114,
-      "move": -4
+      "name": "Charlie Shefelman",
+      "value": 117,
+      "move": null
     },
     {
       "rank": 22,
-      "name": "shagron2",
-      "value": 100,
-      "move": -4
+      "name": ".",
+      "value": 115,
+      "move": -5
     },
     {
       "rank": 23,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -4
+      "name": "shagron2",
+      "value": 100,
+      "move": -5
     },
     {
       "rank": 24,
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -5
+    },
+    {
+      "rank": 25,
       "name": "terminal lucidity",
       "value": 69,
       "move": null
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -5
+      "move": -6
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "AstronaVt",
       "value": 45,
       "move": null
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "SyslikJan",
       "value": 43,
-      "move": -6
+      "move": -7
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "ᴦоᴧод",
       "value": 37,
       "move": null
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Толян",
       "value": 18,
-      "move": -7
-    },
-    {
-      "rank": 30,
-      "name": "Антон",
-      "value": 17,
-      "move": -7
+      "move": -8
     },
     {
       "rank": 31,
-      "name": "Руслан Иванов",
-      "value": 14,
-      "move": -7
+      "name": "Антон",
+      "value": 17,
+      "move": -8
     },
     {
       "rank": 32,
-      "name": "Юрий",
-      "value": 8,
-      "move": -7
+      "name": "Руслан Иванов",
+      "value": 14,
+      "move": -8
     },
     {
       "rank": 33,
+      "name": "Юрий",
+      "value": 8,
+      "move": -8
+    },
+    {
+      "rank": 34,
       "name": "Ingvar 604",
       "value": 5,
       "move": null
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Sila",
       "value": 4,
       "move": null
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "xxx",
       "value": 1,
       "move": null
@@ -238,7 +244,7 @@
     {
       "rank": 5,
       "name": ".",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 6,
@@ -295,7 +301,7 @@
     {
       "rank": 5,
       "name": ".",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 6,
