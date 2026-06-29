@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T19:40:05+00:00",
-  "count": 34,
+  "updated": "2026-06-29T20:40:05+00:00",
+  "count": 35,
   "has_movement": true,
   "all": [
     {
@@ -203,6 +203,12 @@
     },
     {
       "rank": 34,
+      "name": "Sila",
+      "value": 4,
+      "move": null
+    },
+    {
+      "rank": 35,
       "name": "xxx",
       "value": 1,
       "move": null
