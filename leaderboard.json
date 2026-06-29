@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T10:56:15+00:00",
+  "updated": "2026-06-29T11:56:15+00:00",
   "count": 32,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Anatoly Radchenko",
-      "value": 288,
+      "value": 290,
       "move": null
     },
     {
@@ -236,6 +236,11 @@
       "rank": 8,
       "name": "ᅠ",
       "value": 2
+    },
+    {
+      "rank": 9,
+      "name": "Anatoly Radchenko",
+      "value": 2
     }
   ],
   "week": [
@@ -277,6 +282,11 @@
     {
       "rank": 8,
       "name": "ᅠ",
+      "value": 2
+    },
+    {
+      "rank": 9,
+      "name": "Anatoly Radchenko",
       "value": 2
     }
   ]
