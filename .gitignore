@@ -3,6 +3,7 @@
 # git его не закоммитит.
 *
 !index.html
+!echarts.min.js
 !leaderboard.json
 !hall_of_fame.json
 !stats.json
