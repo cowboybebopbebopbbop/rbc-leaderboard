@@ -274,7 +274,7 @@
     if(!HIST||!HIST.series||!HIST.series.length){if(histChart){histChart.dispose();histChart=null;}c.innerHTML='<div class="empty">копится — линии появятся при 2+ изменениях репутации</div>';return;}
     if(!histChart){c.innerHTML='';histChart=echarts.init(c);}const t=tc();
     const series=HIST.series.map(s=>({type:'line',name:s.name,smooth:true,symbol:'none',lineStyle:{width:2},data:s.points.map(p=>[p[0],p[1]])}));
-    histChart.setOption({backgroundColor:'transparent',color:PAL,tooltip:{trigger:'axis'},
+    histChart.setOption({series,backgroundColor:'transparent',color:PAL,tooltip:{trigger:'axis'},
       legend:{type:'scroll',bottom:34,textStyle:{color:t.ax},inactiveColor:t.grid,pageTextStyle:{color:t.ax}},
       grid:{left:48,right:14,top:12,bottom:80},
       xAxis:{type:'time',axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
