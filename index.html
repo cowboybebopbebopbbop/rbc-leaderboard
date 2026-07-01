@@ -175,7 +175,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),statDim='day',actChart=null,histChart=null,period='all';
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,histHidden=new Set(),statDim='day',actChart=null,histChart=null,period='all';
   const PAL=['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff'];
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}renderStats();renderHist();}
@@ -246,20 +246,31 @@
   function fmtD(s){const p=(s||'').slice(0,10).split('-');return p.length===3?p[2]+'.'+p[1]+'.'+p[0].slice(2):(s||'');}
   function fmtM(s){const p=(s||'').split('-');return p.length>=2?p[1]+'.'+p[0].slice(2):(s||'');}
   function actSeries(){
-    if(statDim==='day'){const src=(ACT&&ACT.per_day&&ACT.per_day.length)?ACT.per_day:((STATS&&STATS.per_day)||[]);if(src.length)return{x:src.map(d=>fmtD(d.date)),y:src.map(d=>d.count),name:'в день'};}
-    if(statDim==='week'&&ACT)return{x:(ACT.per_week||[]).map(d=>fmtD(d.date||d.week)),y:(ACT.per_week||[]).map(d=>d.count),name:'в неделю'};
-    if(statDim==='month'&&ACT)return{x:(ACT.per_month||[]).map(d=>fmtM(d.month)),y:(ACT.per_month||[]).map(d=>d.count),name:'в месяц'};
-    if(statDim==='hour'&&STATS)return{x:(STATS.per_hour||[]).map(d=>String(d.hour)),y:(STATS.per_hour||[]).map(d=>d.count),name:'в час'};
-    if(statDim==='wd'&&STATS)return{x:(STATS.per_weekday||[]).map(d=>d.day),y:(STATS.per_weekday||[]).map(d=>d.count),name:'сообщений'};
-    return{x:[],y:[],name:''};}
+    if(statDim==='day'){const src=(ACT&&ACT.per_day&&ACT.per_day.length)?ACT.per_day:((STATS&&STATS.per_day)||[]);if(src.length)return{x:src.map(d=>fmtD(d.date)),keys:src.map(d=>d.date),y:src.map(d=>d.count),name:'сообщений'};}
+    if(statDim==='week'&&ACT)return{x:(ACT.per_week||[]).map(d=>fmtD(d.date||d.week)),keys:(ACT.per_week||[]).map(d=>d.date||d.week),y:(ACT.per_week||[]).map(d=>d.count),name:'сообщений'};
+    if(statDim==='month'&&ACT)return{x:(ACT.per_month||[]).map(d=>fmtM(d.month)),keys:(ACT.per_month||[]).map(d=>d.month),y:(ACT.per_month||[]).map(d=>d.count),name:'сообщений'};
+    if(statDim==='hour'&&STATS)return{x:(STATS.per_hour||[]).map(d=>String(d.hour)),keys:[],y:(STATS.per_hour||[]).map(d=>d.count),name:'сообщений'};
+    if(statDim==='wd'&&STATS)return{x:(STATS.per_weekday||[]).map(d=>d.day),keys:[],y:(STATS.per_weekday||[]).map(d=>d.count),name:'сообщений'};
+    return{x:[],keys:[],y:[],name:''};}
+  function btcAligned(keys){if(!BTC||!keys||!keys.length)return null;const map={};
+    if(statDim==='day'){(BTC.per_day||[]).forEach(p=>map[p.date]=p.price);}
+    else if(statDim==='week'){(BTC.per_week||[]).forEach(p=>map[p.date]=p.price);}
+    else if(statDim==='month'){(BTC.per_month||[]).forEach(p=>map[p.month]=p.price);}
+    else return null;
+    const arr=keys.map(k=>map[k]!=null?map[k]:null);return arr.some(v=>v!=null)?arr:null;}
   function renderActChart(){const c=document.getElementById('act-chart');if(!c||typeof echarts==='undefined')return;
     const s=actSeries();if(!s.x.length){if(actChart){actChart.dispose();actChart=null;}c.innerHTML='<div class="empty">нет данных</div>';return;}
     if(!actChart){c.innerHTML='';actChart=echarts.init(c);}const t=tc();
-    actChart.setOption({backgroundColor:'transparent',tooltip:{trigger:'axis'},grid:{left:50,right:14,top:14,bottom:62},
+    const btc=btcAligned(s.keys);
+    const series=[{type:'line',name:s.name,data:s.y,yAxisIndex:0,smooth:true,symbol:'none',lineStyle:{color:'#e4002b',width:2},areaStyle:{color:'rgba(228,0,43,.15)'}}];
+    if(btc)series.push({type:'line',name:'BTC $',data:btc,yAxisIndex:1,smooth:true,symbol:'none',connectNulls:true,lineStyle:{color:'#f7931a',width:2}});
+    actChart.setOption({backgroundColor:'transparent',tooltip:{trigger:'axis'},legend:{top:0,right:4,textStyle:{color:t.ax},icon:'roundRect'},
+      grid:{left:52,right:btc?56:14,top:30,bottom:62},
       xAxis:{type:'category',data:s.x,boundaryGap:false,axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
-      yAxis:{type:'value',splitLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
+      yAxis:[{type:'value',splitLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
+             {type:'value',position:'right',show:!!btc,splitLine:{show:false},axisLabel:{color:'#f7931a',formatter:v=>Math.round(v/1000)+'k'}}],
       dataZoom:[{type:'inside'},{type:'slider',height:22,bottom:8,borderColor:t.grid,fillerColor:'rgba(228,0,43,.12)',textStyle:{color:t.ax}}],
-      series:[{type:'line',name:s.name,data:s.y,smooth:true,symbol:'none',lineStyle:{color:'#e4002b',width:2},areaStyle:{color:'rgba(228,0,43,.15)'}}]},true);}
+      series},true);}
   function renderStats(){const box=document.getElementById('stats-body');box.textContent='';if(!STATS&&!ACT){box.appendChild(el('div','empty','готовится…'));return;}
     if(STATS){const t=STATS.totals;box.appendChild(el('h3',null,'Статистика чата'));box.appendChild(el('div','sub',`${(t.messages||0).toLocaleString('ru-RU')} сообщений · ${(t.authors||0).toLocaleString('ru-RU')} авторов · ${(t.positive_reactions||0).toLocaleString('ru-RU')} реакций 👍❤️`));}
     box.appendChild(el('h3',null,'Активность'));
@@ -298,6 +309,7 @@
     try{HALL=(await j('hall_of_fame.json')).messages||[];renderHall();}catch(e){}
     try{STATS=await j('stats.json');renderStats();}catch(e){}
     try{ACT=await j('activity.json');renderStats();}catch(e){}
+    try{BTC=await j('btc.json');renderStats();}catch(e){}
     try{BR=(await j('branches.json')).branches||[];renderNav();}catch(e){}
   }
   document.getElementById('search').addEventListener('input',renderRating);
