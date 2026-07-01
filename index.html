@@ -224,8 +224,8 @@
 
   function renderSent(){const box=document.getElementById('t-sent');box.textContent='';if(!SENT){box.appendChild(el('div','empty','готовится…'));return;}
     const n=SENT.current,o=SENT.overall;box.appendChild(el('div','sub','Настроение чата по сообщениям ветки «Торговля». Не прогноз.'));const c=el('div','card');
-    c.append(el('div','t',`Сейчас: ${n.mood} (${n.month||'—'}) · 🐂 ${n.bull} / 🐻 ${n.bear}`));c.append(el('div','badge',`всё время: 🐂 ${o.bull} / 🐻 ${o.bear}${o.ratio?(' '+o.ratio+':1'):''}`));
-    (SENT.monthly||[]).slice(-12).forEach(m=>{const tot=(m.bull+m.bear)||1;const row=el('div','mood');row.append(el('span',null,m.month));const b=el('div','b');
+    c.append(el('div','t',`Сейчас: ${n.mood} (${n.month?fmtM(n.month):'—'}) · 🐂 ${n.bull} / 🐻 ${n.bear}`));c.append(el('div','badge',`всё время: 🐂 ${o.bull} / 🐻 ${o.bear}${o.ratio?(' '+o.ratio+':1'):''}`));
+    (SENT.monthly||[]).slice(-12).forEach(m=>{const tot=(m.bull+m.bear)||1;const row=el('div','mood');row.append(el('span',null,fmtM(m.month)));const b=el('div','b');
       const g=el('i');g.style.cssText=`background:hsl(var(--green));width:${m.bull/tot*100}%`;const r=el('i');r.style.cssText=`background:hsl(var(--primary));width:${m.bear/tot*100}%`;b.append(g,r);row.appendChild(b);c.appendChild(row);});box.appendChild(c);}
 
   function renderVoices(){const box=document.getElementById('t-voices');box.textContent='';if(!VOICES.length){box.appendChild(el('div','empty','готовится…'));return;}
@@ -236,17 +236,19 @@
 
   function renderUpdates(){const box=document.getElementById('t-upd');box.textContent='';if(!UPD.length){box.appendChild(el('div','empty','готовится…'));return;}
     box.appendChild(el('div','sub','Содержательные разборы рынка от участников. Мнение авторов, не инвестсовет.'));const l=el('div','list');
-    UPD.forEach(u=>{const it=el('div','item');it.append(el('div','t',u.author||'—'));const a=el('a','lnk');a.href=u.link;a.target='_blank';a.rel='noopener';a.style.cssText='display:block;margin-top:4px;';a.textContent=u.text;it.appendChild(a);if(u.date)it.appendChild(el('div','d',new Date(u.date).toLocaleDateString('ru-RU')));l.appendChild(it);});box.appendChild(l);}
+    UPD.forEach(u=>{const it=el('div','item');it.append(el('div','t',u.author||'—'));const a=el('a','lnk');a.href=u.link;a.target='_blank';a.rel='noopener';a.style.cssText='display:block;margin-top:4px;';a.textContent=u.text;it.appendChild(a);if(u.date)it.appendChild(el('div','d',fmtD(u.date)));l.appendChild(it);});box.appendChild(l);}
 
   function renderExperts(){const box=document.getElementById('t-exp');box.textContent='';if(!EXP.length){box.appendChild(el('div','empty','готовится…'));return;}
     EXP.forEach(g=>{box.appendChild(el('h3',null,g.branch));const l=el('div','list');(g.items||[]).forEach(it=>{const d=el('div','item');const a=el('a','lnk');a.href=it.link;a.target='_blank';a.rel='noopener';a.textContent=it.text;d.appendChild(a);d.appendChild(el('div','d',(it.author||'—')+' · '+(it.score||0)+' 👍❤️'));l.appendChild(d);});box.appendChild(l);});}
 
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.target='_blank';a.rel='noopener';a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');r.appendChild(a);r.appendChild(el('div','d',(it.author||'—')+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   function tc(){const d=document.documentElement.classList.contains('dark');return d?{ax:'#8a929c',grid:'#23262d'}:{ax:'#6b727b',grid:'#e7e9ec'};}
+  function fmtD(s){const p=(s||'').slice(0,10).split('-');return p.length===3?p[2]+'.'+p[1]+'.'+p[0].slice(2):(s||'');}
+  function fmtM(s){const p=(s||'').split('-');return p.length>=2?p[1]+'.'+p[0].slice(2):(s||'');}
   function actSeries(){
-    if(statDim==='day'){const src=(ACT&&ACT.per_day&&ACT.per_day.length)?ACT.per_day:((STATS&&STATS.per_day)||[]);if(src.length)return{x:src.map(d=>d.date.slice(5)),y:src.map(d=>d.count),name:'в день'};}
-    if(statDim==='week'&&ACT)return{x:(ACT.per_week||[]).map(d=>d.week.slice(2)),y:(ACT.per_week||[]).map(d=>d.count),name:'в неделю'};
-    if(statDim==='month'&&ACT)return{x:(ACT.per_month||[]).map(d=>d.month),y:(ACT.per_month||[]).map(d=>d.count),name:'в месяц'};
+    if(statDim==='day'){const src=(ACT&&ACT.per_day&&ACT.per_day.length)?ACT.per_day:((STATS&&STATS.per_day)||[]);if(src.length)return{x:src.map(d=>fmtD(d.date)),y:src.map(d=>d.count),name:'в день'};}
+    if(statDim==='week'&&ACT)return{x:(ACT.per_week||[]).map(d=>fmtD(d.date||d.week)),y:(ACT.per_week||[]).map(d=>d.count),name:'в неделю'};
+    if(statDim==='month'&&ACT)return{x:(ACT.per_month||[]).map(d=>fmtM(d.month)),y:(ACT.per_month||[]).map(d=>d.count),name:'в месяц'};
     if(statDim==='hour'&&STATS)return{x:(STATS.per_hour||[]).map(d=>String(d.hour)),y:(STATS.per_hour||[]).map(d=>d.count),name:'в час'};
     if(statDim==='wd'&&STATS)return{x:(STATS.per_weekday||[]).map(d=>d.day),y:(STATS.per_weekday||[]).map(d=>d.count),name:'сообщений'};
     return{x:[],y:[],name:''};}
@@ -277,7 +279,7 @@
     histChart.setOption({series,backgroundColor:'transparent',color:PAL,tooltip:{trigger:'axis'},
       legend:{type:'scroll',bottom:34,textStyle:{color:t.ax},inactiveColor:t.grid,pageTextStyle:{color:t.ax}},
       grid:{left:48,right:14,top:12,bottom:80},
-      xAxis:{type:'time',axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
+      xAxis:{type:'time',axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax,formatter:'{dd}.{MM}.{yy}'}},
       yAxis:{type:'value',scale:true,splitLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax}},
       dataZoom:[{type:'inside'},{type:'slider',height:20,bottom:6,borderColor:t.grid,fillerColor:'rgba(228,0,43,.12)',textStyle:{color:t.ax}}]},true);}
 
