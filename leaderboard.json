@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-01T16:40:01+00:00",
+  "updated": "2026-07-01T17:40:02+00:00",
   "count": 36,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5526,
+      "value": 5527,
       "move": 0
     },
     {
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "Ольга",
-      "value": 1693,
+      "value": 1703,
       "move": 0
     },
     {
       "rank": 4,
       "name": "a l",
-      "value": 952,
+      "value": 960,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 741,
+      "value": 749,
       "move": 0
     },
     {
@@ -224,7 +224,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 2,
@@ -233,46 +233,56 @@
     },
     {
       "rank": 3,
+      "name": "Zero-sum Gamer",
+      "value": 15
+    },
+    {
+      "rank": 4,
+      "name": "Ольга",
+      "value": 10
+    },
+    {
+      "rank": 5,
+      "name": "a l",
+      "value": 8
+    },
+    {
+      "rank": 6,
       "name": "Olga Goncharova",
       "value": 7
     },
     {
-      "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 7
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "ᅠ",
       "value": 2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "Anatoly Radchenko",
       "value": 2
     }
@@ -281,7 +291,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 2,
@@ -290,46 +300,56 @@
     },
     {
       "rank": 3,
+      "name": "Zero-sum Gamer",
+      "value": 15
+    },
+    {
+      "rank": 4,
+      "name": "Ольга",
+      "value": 10
+    },
+    {
+      "rank": 5,
+      "name": "a l",
+      "value": 8
+    },
+    {
+      "rank": 6,
       "name": "Olga Goncharova",
       "value": 7
     },
     {
-      "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 7
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "ᅠ",
       "value": 2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "Anatoly Radchenko",
       "value": 2
     }
