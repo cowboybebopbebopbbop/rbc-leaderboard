@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T18:39:57+00:00",
+  "updated": "2026-07-01T19:39:57+00:00",
   "count": 38,
   "has_movement": true,
   "all": [
@@ -198,7 +198,7 @@
     {
       "rank": 33,
       "name": "Руслан Иванов",
-      "value": 14,
+      "value": 16,
       "move": -1
     },
     {
@@ -270,22 +270,22 @@
     },
     {
       "rank": 8,
+      "name": "Руслан Иванов",
+      "value": 4
+    },
+    {
+      "rank": 9,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 10,
-      "name": "ᴦоᴧод",
-      "value": 2
-    },
-    {
       "rank": 11,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
@@ -337,22 +337,22 @@
     },
     {
       "rank": 8,
+      "name": "Руслан Иванов",
+      "value": 4
+    },
+    {
+      "rank": 9,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 10,
-      "name": "ᴦоᴧод",
-      "value": 2
-    },
-    {
       "rank": 11,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
