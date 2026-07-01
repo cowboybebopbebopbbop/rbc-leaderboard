@@ -244,7 +244,7 @@
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.target='_blank';a.rel='noopener';a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');r.appendChild(a);r.appendChild(el('div','d',(it.author||'—')+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   function tc(){const d=document.documentElement.classList.contains('dark');return d?{ax:'#8a929c',grid:'#23262d'}:{ax:'#6b727b',grid:'#e7e9ec'};}
   function actSeries(){
-    if(statDim==='day'&&STATS)return{x:(STATS.per_day||[]).map(d=>d.date.slice(5)),y:(STATS.per_day||[]).map(d=>d.count),name:'в день'};
+    if(statDim==='day'){const src=(ACT&&ACT.per_day&&ACT.per_day.length)?ACT.per_day:((STATS&&STATS.per_day)||[]);if(src.length)return{x:src.map(d=>d.date.slice(5)),y:src.map(d=>d.count),name:'в день'};}
     if(statDim==='week'&&ACT)return{x:(ACT.per_week||[]).map(d=>'W'+((d.week.split('W')[1])||'')),y:(ACT.per_week||[]).map(d=>d.count),name:'в неделю'};
     if(statDim==='month'&&ACT)return{x:(ACT.per_month||[]).map(d=>d.month),y:(ACT.per_month||[]).map(d=>d.count),name:'в месяц'};
     if(statDim==='hour'&&STATS)return{x:(STATS.per_hour||[]).map(d=>String(d.hour)),y:(STATS.per_hour||[]).map(d=>d.count),name:'в час'};
