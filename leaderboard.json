@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T21:39:57+00:00",
-  "count": 38,
+  "updated": "2026-07-01T22:40:01+00:00",
+  "count": 39,
   "has_movement": true,
   "all": [
     {
@@ -167,66 +167,72 @@
     },
     {
       "rank": 28,
-      "name": "AstronaVt",
-      "value": 45,
-      "move": -1
+      "name": "Алексей",
+      "value": 55,
+      "move": null
     },
     {
       "rank": 29,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": -1
+      "name": "AstronaVt",
+      "value": 45,
+      "move": -2
     },
     {
       "rank": 30,
-      "name": "ᴦоᴧод",
-      "value": 37,
-      "move": -1
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -2
     },
     {
       "rank": 31,
-      "name": "Толян",
-      "value": 18,
-      "move": -1
+      "name": "ᴦоᴧод",
+      "value": 37,
+      "move": -2
     },
     {
       "rank": 32,
-      "name": "Антон",
-      "value": 17,
-      "move": -1
+      "name": "Толян",
+      "value": 18,
+      "move": -2
     },
     {
       "rank": 33,
-      "name": "Руслан Иванов",
-      "value": 16,
-      "move": -1
+      "name": "Антон",
+      "value": 17,
+      "move": -2
     },
     {
       "rank": 34,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "name": "Руслан Иванов",
+      "value": 16,
+      "move": -2
     },
     {
       "rank": 35,
-      "name": "Ingvar 604",
-      "value": 5,
-      "move": -1
+      "name": "Юрий",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 36,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "Ingvar 604",
+      "value": 5,
+      "move": -2
     },
     {
       "rank": 37,
-      "name": "xxx",
-      "value": 1,
-      "move": -1
+      "name": "Sila",
+      "value": 4,
+      "move": -2
     },
     {
       "rank": 38,
+      "name": "xxx",
+      "value": 1,
+      "move": -2
+    },
+    {
+      "rank": 39,
       "name": "⁤",
       "value": 1,
       "move": null
