@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T00:39:59+00:00",
+  "updated": "2026-07-02T01:39:59+00:00",
   "count": 39,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "AstronaVt",
-      "value": 45,
+      "value": 51,
       "move": -2
     },
     {
@@ -261,33 +261,33 @@
     },
     {
       "rank": 5,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 8
     },
     {
       "rank": 6,
+      "name": "a l",
+      "value": 8
+    },
+    {
+      "rank": 7,
       "name": "Olga Goncharova",
       "value": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
-    },
-    {
-      "rank": 10,
-      "name": "AstronaVt",
-      "value": 2
     },
     {
       "rank": 11,
@@ -333,33 +333,33 @@
     },
     {
       "rank": 5,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 8
     },
     {
       "rank": 6,
+      "name": "a l",
+      "value": 8
+    },
+    {
+      "rank": 7,
       "name": "Olga Goncharova",
       "value": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
-    },
-    {
-      "rank": 10,
-      "name": "AstronaVt",
-      "value": 2
     },
     {
       "rank": 11,
