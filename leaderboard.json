@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:23:41+00:00",
+  "updated": "2026-07-02T14:23:41+00:00",
   "count": 39,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 596,
+      "value": 597,
       "move": -1
     },
     {
@@ -311,22 +311,22 @@
     },
     {
       "rank": 15,
-      "name": "Anatoly Radchenko",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 16,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 17,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 17,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 1
     }
   ],
@@ -403,22 +403,22 @@
     },
     {
       "rank": 15,
-      "name": "Anatoly Radchenko",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 16,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 17,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 17,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 1
     }
   ]
