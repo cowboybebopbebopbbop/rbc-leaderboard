@@ -176,7 +176,9 @@
   <section id="view-feed" class="hidden">
     <h2>Лента — посты с самой сильной реакцией</h2>
     <div class="sub">Сообщения форума, набравшие больше всего реакций (любых) за всё время. Реакции = внимание сообщества, не финсовет.</div>
+    <div class="subnav"><button type="button" data-ff="all" class="active" aria-pressed="true" onclick="setFeedFilter('all')">Все</button><button type="button" data-ff="meme" aria-pressed="false" onclick="setFeedFilter('meme')">Мемы</button><button type="button" data-ff="admin" aria-pressed="false" onclick="setFeedFilter('admin')">Админы</button></div>
     <div class="toolrow"><button type="button" data-fs="react" class="active" aria-pressed="true" onclick="setFeedSort('react')">По реакциям</button><button type="button" data-fs="date" aria-pressed="false" onclick="setFeedSort('date')">По дате</button></div>
+    <div class="sub" id="feed-count"></div>
     <div id="feed-rows"></div>
   </section>
 
@@ -199,7 +201,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],feedSort='react',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
@@ -279,16 +281,19 @@
     box.appendChild(el('div','sub','Отобранные по реакциям разборы из эксперт-веток. Мнения авторов, не инвестиционная и не юридическая консультация.'));
     EXP.forEach(g=>{box.appendChild(el('h2',null,g.branch));const l=el('div','list');(g.items||[]).forEach(it=>{const d=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=it.text;ext(a);d.appendChild(a);d.appendChild(el('div','d',anon(it.author)+' · '+(it.score||0)+' 👍❤️'));l.appendChild(d);});box.appendChild(l);});}
 
+  function setFeedFilter(f){feedFilter=f;document.querySelectorAll('#view-feed .subnav button').forEach(b=>{const on=b.dataset.ff===f;b.classList.toggle('active',on);b.setAttribute('aria-pressed',on);});renderFeed();}
   function setFeedSort(s){feedSort=s;document.querySelectorAll('#view-feed .toolrow button').forEach(b=>{const on=b.dataset.fs===s;b.classList.toggle('active',on);b.setAttribute('aria-pressed',on);});renderFeed();}
   function renderFeed(){const box=document.getElementById('feed-rows');if(!box)return;box.textContent='';
     if(!FEED.length){box.appendChild(el('div','empty','готовится…'));return;}
-    const items=FEED.slice();
+    let items=FEED.filter(it=>feedFilter==='all'||(feedFilter==='meme'&&it.meme)||(feedFilter==='admin'&&it.admin));
     if(feedSort==='date')items.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
     else items.sort((a,b)=>b.reactions-a.reactions);
-    items.forEach(it=>{const c=el('div','card');
+    const cnt=document.getElementById('feed-count');if(cnt)cnt.textContent=items.length+' постов'+(items.length>500?' · показаны топ-500':'');
+    items.slice(0,500).forEach(it=>{const c=el('div','card');
       const a=el('a','lnk feed-text');a.href=it.link;a.textContent=it.text||'[медиа / без текста]';ext(a);c.appendChild(a);
       const em=(it.emojis||[]).map(e=>e[0]+' '+e[1]).join(' · ');
-      c.appendChild(el('div','d',`${anon(it.author)} · ${fmtD(it.date)} · ${it.reactions} реакц.${em?' · '+em:''}`));
+      const tags=feedFilter==='all'?((it.admin?' · админ':'')+(it.meme?' · мем':'')):'';
+      c.appendChild(el('div','d',`${anon(it.author)} · ${fmtD(it.date)} · ${it.reactions} реакц.${em?' · '+em:''}${tags}`));
       box.appendChild(c);});}
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   /* палитры под тему: тёмная — светлые линии, светлая — затемнённые (контраст ≥3:1 на белом) */
