@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T20:23:42+00:00",
-  "count": 42,
+  "updated": "2026-07-02T21:23:42+00:00",
+  "count": 43,
   "has_movement": true,
   "all": [
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Алексей",
-      "value": 57,
+      "value": 58,
       "move": null
     },
     {
@@ -239,18 +239,24 @@
     },
     {
       "rank": 40,
-      "name": "xxx",
-      "value": 1,
-      "move": -4
+      "name": "Роман",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 41,
+      "name": "xxx",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 42,
       "name": "⁤",
       "value": 1,
       "move": null
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Андрей Грубий",
       "value": 1,
       "move": null
@@ -324,12 +330,12 @@
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
-      "value": 2
+      "name": "Алексей",
+      "value": 3
     },
     {
       "rank": 15,
-      "name": "Алексей",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
@@ -354,6 +360,11 @@
     },
     {
       "rank": 20,
+      "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 21,
       "name": "Archie",
       "value": 1
     }
@@ -426,12 +437,12 @@
     },
     {
       "rank": 14,
-      "name": "ᴦоᴧод",
-      "value": 2
+      "name": "Алексей",
+      "value": 3
     },
     {
       "rank": 15,
-      "name": "Алексей",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
@@ -456,6 +467,11 @@
     },
     {
       "rank": 20,
+      "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 21,
       "name": "Archie",
       "value": 1
     }
