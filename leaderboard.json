@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-02T07:46:04+00:00",
+  "updated": "2026-07-02T08:46:04+00:00",
   "count": 39,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5531,
+      "value": 5535,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 246,
+      "value": 247,
       "move": -1
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "ᅠ",
-      "value": 124,
+      "value": 126,
       "move": -1
     },
     {
@@ -242,7 +242,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 38
     },
     {
       "rank": 2,
@@ -286,22 +286,22 @@
     },
     {
       "rank": 10,
+      "name": "ᅠ",
+      "value": 4
+    },
+    {
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 12,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "Алексей",
       "value": 2
     },
     {
@@ -311,11 +311,16 @@
     },
     {
       "rank": 15,
-      "name": "🤗",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 16,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 1
     }
@@ -324,7 +329,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 38
     },
     {
       "rank": 2,
@@ -368,22 +373,22 @@
     },
     {
       "rank": 10,
+      "name": "ᅠ",
+      "value": 4
+    },
+    {
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 12,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "Алексей",
       "value": 2
     },
     {
@@ -393,11 +398,16 @@
     },
     {
       "rank": 15,
-      "name": "🤗",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 16,
+      "name": "🤗",
+      "value": 1
+    },
+    {
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 1
     }
