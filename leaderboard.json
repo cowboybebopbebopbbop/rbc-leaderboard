@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-02T14:23:41+00:00",
-  "count": 39,
+  "updated": "2026-07-02T15:23:42+00:00",
+  "count": 40,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5535,
+      "value": 5538,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Olga Goncharova",
-      "value": 514,
+      "value": 521,
       "move": -1
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "🤗",
-      "value": 277,
+      "value": 278,
       "move": -1
     },
     {
@@ -236,13 +236,19 @@
       "name": "⁤",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 40,
+      "name": "Андрей Грубий",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 41
     },
     {
       "rank": 2,
@@ -256,23 +262,23 @@
     },
     {
       "rank": 4,
+      "name": "Olga Goncharova",
+      "value": 14
+    },
+    {
+      "rank": 5,
       "name": "Ольга",
       "value": 11
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "AstronaVt",
       "value": 8
-    },
-    {
-      "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 7
     },
     {
       "rank": 8,
@@ -311,22 +317,22 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 16,
-      "name": "Anatoly Radchenko",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
+      "name": "Anatoly Radchenko",
+      "value": 2
     },
     {
       "rank": 18,
-      "name": "🤗",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
   ],
@@ -334,7 +340,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 41
     },
     {
       "rank": 2,
@@ -348,23 +354,23 @@
     },
     {
       "rank": 4,
+      "name": "Olga Goncharova",
+      "value": 14
+    },
+    {
+      "rank": 5,
       "name": "Ольга",
       "value": 11
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "a l",
       "value": 9
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "AstronaVt",
       "value": 8
-    },
-    {
-      "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 7
     },
     {
       "rank": 8,
@@ -403,22 +409,22 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 16,
-      "name": "Anatoly Radchenko",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
+      "name": "Anatoly Radchenko",
+      "value": 2
     },
     {
       "rank": 18,
-      "name": "🤗",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
   ]
