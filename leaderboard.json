@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:23:42+00:00",
+  "updated": "2026-07-02T22:23:43+00:00",
   "count": 43,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3816,
+      "value": 3817,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1645,
+      "value": 1646,
       "move": null
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 287,
+      "value": 288,
       "move": -1
     },
     {
@@ -271,7 +271,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -310,23 +310,23 @@
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
       "rank": 11,
-      "name": "Руслан Иванов",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 3
+      "name": "ᅠ",
+      "value": 4
     },
     {
       "rank": 14,
@@ -345,27 +345,27 @@
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Archie",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 20,
-      "name": "Роман",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "Archie",
+      "name": "Роман",
       "value": 1
     }
   ],
@@ -378,7 +378,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -417,23 +417,23 @@
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
       "rank": 11,
-      "name": "Руслан Иванов",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 3
+      "name": "ᅠ",
+      "value": 4
     },
     {
       "rank": 14,
@@ -452,27 +452,27 @@
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Archie",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 20,
-      "name": "Роман",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "Archie",
+      "name": "Роман",
       "value": 1
     }
   ]
