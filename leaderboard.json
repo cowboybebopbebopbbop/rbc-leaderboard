@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T04:46:04+00:00",
+  "updated": "2026-07-02T05:46:04+00:00",
   "count": 39,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "Ольга",
-      "value": 1703,
+      "value": 1704,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 960,
+      "value": 961,
       "move": -1
     },
     {
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Алексей",
-      "value": 55,
+      "value": 57,
       "move": null
     },
     {
@@ -257,16 +257,16 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
-      "value": 8
+      "name": "a l",
+      "value": 9
     },
     {
       "rank": 6,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 8
     },
     {
@@ -296,21 +296,26 @@
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Алексей",
       "value": 2
     },
     {
       "rank": 13,
-      "name": "Anatoly Radchenko",
+      "name": "ᅠ",
       "value": 2
     },
     {
       "rank": 14,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 15,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 1
     }
@@ -334,16 +339,16 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
-      "value": 8
+      "name": "a l",
+      "value": 9
     },
     {
       "rank": 6,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 8
     },
     {
@@ -373,21 +378,26 @@
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Алексей",
       "value": 2
     },
     {
       "rank": 13,
-      "name": "Anatoly Radchenko",
+      "name": "ᅠ",
       "value": 2
     },
     {
       "rank": 14,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 15,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 1
     }
