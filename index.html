@@ -273,8 +273,8 @@
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   /* палитры под тему: тёмная — светлые линии, светлая — затемнённые (контраст ≥3:1 на белом) */
   function tc(){const d=document.documentElement.classList.contains('dark');
-    return d?{ax:'#8a929c',grid:'#23262d',btc:'#f7931a',pal:['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff']}
-            :{ax:'#6b727b',grid:'#e7e9ec',btc:'#b45309',pal:['#c50021','#0969da','#1a7f37','#9a6700','#8250df','#d1242f','#1b7c83','#bf3989','#2da44e','#218bff','#bc4c00','#6639ba']};}
+    return d?{ax:'#8a929c',grid:'#23262d',btc:'#f7931a',pal:['#e4002b','#2f81f7','#3fb950','#f0b429','#a371f7','#ff7b72','#56d4dd','#db61a2','#7ee787','#79c0ff','#ffa657','#d2a8ff','#ffd33d','#2bd4a6','#ff6ac1','#9be36b','#4dd0e1','#ff8c69']}
+            :{ax:'#6b727b',grid:'#e7e9ec',btc:'#b45309',pal:['#c50021','#0969da','#1a7f37','#9a6700','#8250df','#d1242f','#1b7c83','#bf3989','#2da44e','#218bff','#bc4c00','#6639ba','#8a6d00','#0a7f6b','#a01a58','#4a7a1f','#0a6e8a','#a84600']};}
   function fmtD(s){const p=(s||'').slice(0,10).split('-');return p.length===3?p[2]+'.'+p[1]+'.'+p[0].slice(2):(s||'');}
   function fmtM(s){const p=(s||'').split('-');return p.length>=2?p[1]+'.'+p[0].slice(2):(s||'');}
   function actSeries(){
