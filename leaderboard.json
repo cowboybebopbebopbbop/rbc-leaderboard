@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T09:46:04+00:00",
+  "updated": "2026-07-02T10:46:04+00:00",
   "count": 39,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3812,
+      "value": 3813,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "L G",
-      "value": 702,
+      "value": 707,
       "move": -1
     },
     {
@@ -247,7 +247,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 3,
@@ -281,46 +281,51 @@
     },
     {
       "rank": 9,
+      "name": "L G",
+      "value": 5
+    },
+    {
+      "rank": 10,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᅠ",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 1
     }
@@ -334,7 +339,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 3,
@@ -368,46 +373,51 @@
     },
     {
       "rank": 9,
+      "name": "L G",
+      "value": 5
+    },
+    {
+      "rank": 10,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᅠ",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 1
     }
