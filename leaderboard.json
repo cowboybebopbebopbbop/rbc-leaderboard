@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-02T17:23:42+00:00",
-  "count": 41,
+  "updated": "2026-07-02T18:23:42+00:00",
+  "count": 42,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5539,
+      "value": 5540,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3815,
+      "value": 3816,
       "move": 0
     },
     {
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "Manis Love",
-      "value": 156,
+      "value": 158,
       "move": -1
     },
     {
@@ -221,30 +221,36 @@
     },
     {
       "rank": 37,
-      "name": "Ingvar 604",
-      "value": 5,
-      "move": -3
+      "name": "Turchyn Gennadii",
+      "value": 6,
+      "move": null
     },
     {
       "rank": 38,
-      "name": "Sila",
-      "value": 4,
-      "move": -3
+      "name": "Ingvar 604",
+      "value": 5,
+      "move": -4
     },
     {
       "rank": 39,
-      "name": "xxx",
-      "value": 1,
-      "move": -3
+      "name": "Sila",
+      "value": 4,
+      "move": -4
     },
     {
       "rank": 40,
+      "name": "xxx",
+      "value": 1,
+      "move": -4
+    },
+    {
+      "rank": 41,
       "name": "⁤",
       "value": 1,
       "move": null
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Андрей Грубий",
       "value": 1,
       "move": null
@@ -254,12 +260,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -333,11 +339,16 @@
     },
     {
       "rank": 17,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 18,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 19,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
@@ -346,12 +357,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -425,11 +436,16 @@
     },
     {
       "rank": 17,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 18,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 19,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
