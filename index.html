@@ -97,7 +97,8 @@
   .item{padding:13px 14px;border-top:1px solid hsl(var(--border));}
   .item:first-child{border-top:0;}
   .item .t{font-weight:600;}
-  .item .d,.row .d{color:hsl(var(--muted-foreground));font-size:.8rem;margin-top:3px;}
+  .item .d,.row .d,.card .d{color:hsl(var(--muted-foreground));font-size:.8rem;margin-top:6px;}
+  .feed-text{display:block;white-space:pre-wrap;word-break:break-word;}
   .q{font-weight:600;display:flex;justify-content:space-between;gap:10px;}
   button.q{width:100%;background:none;border:0;padding:0;color:inherit;font:inherit;font-weight:600;text-align:left;cursor:pointer;}
   .q .c{color:hsl(var(--muted-foreground));font-weight:400;}
@@ -152,6 +153,7 @@
   <nav aria-label="Разделы">
     <div class="tabslist">
       <button type="button" data-tab="rating" class="active" aria-pressed="true" onclick="switchTab('rating')">Рейтинг</button>
+      <button type="button" data-tab="feed" aria-pressed="false" onclick="switchTab('feed')">Лента</button>
       <button type="button" data-tab="useful" aria-pressed="false" onclick="switchTab('useful')">Польза</button>
       <button type="button" data-tab="trading" aria-pressed="false" onclick="switchTab('trading')">Трейдинг</button>
     </div>
@@ -169,6 +171,13 @@
     <h2>Динамика репутации</h2>
     <div class="sub">Репутация во времени — все линии разом. Тяни нижний слайдер для диапазона, колесо — зум, клик по имени в легенде — скрыть/показать. Копится с запуска трекинга.</div>
     <div class="card" id="hist-chart"><div class="empty">данные ещё копятся</div></div>
+  </section>
+
+  <section id="view-feed" class="hidden">
+    <h2>Лента — посты с самой сильной реакцией</h2>
+    <div class="sub">Сообщения форума, набравшие больше всего реакций (любых) за всё время. Реакции = внимание сообщества, не финсовет.</div>
+    <div class="toolrow"><button type="button" data-fs="react" class="active" aria-pressed="true" onclick="setFeedSort('react')">По реакциям</button><button type="button" data-fs="date" aria-pressed="false" onclick="setFeedSort('date')">По дате</button></div>
+    <div id="feed-rows"></div>
   </section>
 
   <section id="view-useful" class="hidden">
@@ -190,7 +199,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],feedSort='react',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
@@ -203,7 +212,7 @@
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const anon=n=>/^\*+$/.test((n||'').trim())?'Аноним':(n||'—');
   function ext(a){a.target='_blank';a.rel='noopener';a.appendChild(el('span','sr-only',' (откроется в новой вкладке)'));return a;}
-  const VIEWS=['rating','useful','trading','hall','stats','nav'];
+  const VIEWS=['rating','feed','useful','trading','hall','stats','nav'];
   function switchTab(t){VIEWS.forEach(v=>document.getElementById('view-'+v).classList.toggle('hidden',v!==t));
     document.querySelectorAll('.tabslist [data-tab],.more [data-tab]').forEach(a=>{const on=a.dataset.tab===t;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
     window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
@@ -270,6 +279,17 @@
     box.appendChild(el('div','sub','Отобранные по реакциям разборы из эксперт-веток. Мнения авторов, не инвестиционная и не юридическая консультация.'));
     EXP.forEach(g=>{box.appendChild(el('h2',null,g.branch));const l=el('div','list');(g.items||[]).forEach(it=>{const d=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=it.text;ext(a);d.appendChild(a);d.appendChild(el('div','d',anon(it.author)+' · '+(it.score||0)+' 👍❤️'));l.appendChild(d);});box.appendChild(l);});}
 
+  function setFeedSort(s){feedSort=s;document.querySelectorAll('#view-feed .toolrow button').forEach(b=>{const on=b.dataset.fs===s;b.classList.toggle('active',on);b.setAttribute('aria-pressed',on);});renderFeed();}
+  function renderFeed(){const box=document.getElementById('feed-rows');if(!box)return;box.textContent='';
+    if(!FEED.length){box.appendChild(el('div','empty','готовится…'));return;}
+    const items=FEED.slice();
+    if(feedSort==='date')items.sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+    else items.sort((a,b)=>b.reactions-a.reactions);
+    items.forEach(it=>{const c=el('div','card');
+      const a=el('a','lnk feed-text');a.href=it.link;a.textContent=it.text||'[медиа / без текста]';ext(a);c.appendChild(a);
+      const em=(it.emojis||[]).map(e=>e[0]+' '+e[1]).join(' · ');
+      c.appendChild(el('div','d',`${anon(it.author)} · ${fmtD(it.date)} · ${it.reactions} реакц.${em?' · '+em:''}`));
+      box.appendChild(c);});}
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   /* палитры под тему: тёмная — светлые линии, светлая — затемнённые (контраст ≥3:1 на белом) */
   function tc(){const d=document.documentElement.classList.contains('dark');
@@ -353,6 +373,7 @@
       get('updates.json',d=>{UPD=d.items||[];renderUpdates();}),
       get('experts.json',d=>{EXP=d.groups||[];renderExperts();}),
       get('hall_of_fame.json',d=>{HALL=d.messages||[];renderHall();}),
+      get('feed.json',d=>{FEED=d.items||[];renderFeed();}),
       get('branches.json',d=>{BR=d.branches||[];renderNav();}),
       get('stats.json',d=>{STATS=d;}),
       get('activity.json',d=>{ACT=d;}),
