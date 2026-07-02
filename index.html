@@ -389,7 +389,7 @@
       get('updates.json',d=>{UPD=d.items||[];renderUpdates();}),
       get('experts.json',d=>{EXP=d.groups||[];renderExperts();}),
       get('hall_of_fame.json',d=>{HALL=d.messages||[];renderHall();}),
-      get('feed.json',d=>{FEED=d.items||[];renderFeed();}),
+      get('feed.json',d=>{FEED=d.items||[];populateFeedBranches();renderFeed();}),
       get('branches.json',d=>{BR=d.branches||[];renderNav();}),
       get('stats.json',d=>{STATS=d;}),
       get('activity.json',d=>{ACT=d;}),
