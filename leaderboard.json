@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T11:23:43+00:00",
+  "updated": "2026-07-03T12:23:44+00:00",
   "count": 46,
   "has_movement": true,
   "all": [
@@ -95,15 +95,15 @@
     },
     {
       "rank": 16,
-      "name": "Anatoly Radchenko",
-      "value": 290,
-      "move": -1
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 291,
+      "move": 0
     },
     {
       "rank": 17,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 288,
-      "move": -1
+      "name": "Anatoly Radchenko",
+      "value": 290,
+      "move": -2
     },
     {
       "rank": 18,
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": "Алексей",
-      "value": 58,
+      "value": 59,
       "move": -3
     },
     {
@@ -323,38 +323,38 @@
     },
     {
       "rank": 9,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 7
+    },
+    {
+      "rank": 10,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 4
-    },
-    {
       "rank": 12,
-      "name": "🤗",
+      "name": "Алексей",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "Руслан Иванов",
+      "name": "🤗",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 15,
-      "name": "Алексей",
-      "value": 3
+      "name": "ᅠ",
+      "value": 4
     },
     {
       "rank": 16,
@@ -435,38 +435,38 @@
     },
     {
       "rank": 9,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 7
+    },
+    {
+      "rank": 10,
       "name": "Князь Владимир С",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 4
-    },
-    {
       "rank": 12,
-      "name": "🤗",
+      "name": "Алексей",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "Руслан Иванов",
+      "name": "🤗",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 15,
-      "name": "Алексей",
-      "value": 3
+      "name": "ᅠ",
+      "value": 4
     },
     {
       "rank": 16,
