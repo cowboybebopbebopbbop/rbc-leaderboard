@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:23:44+00:00",
+  "updated": "2026-07-03T14:23:44+00:00",
   "count": 47,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Eugene",
-      "value": 543,
+      "value": 544,
       "move": null
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": "AstronaVt",
-      "value": 57,
+      "value": 58,
       "move": -3
     },
     {
@@ -210,7 +210,7 @@
     {
       "rank": 35,
       "name": "Vitaliy",
-      "value": 36,
+      "value": 37,
       "move": null
     },
     {
@@ -304,12 +304,12 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "AstronaVt",
+      "value": 15
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
+      "name": "Olga Goncharova",
       "value": 14
     },
     {
@@ -396,6 +396,16 @@
       "rank": 22,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
+    },
+    {
+      "rank": 23,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 24,
+      "name": "Vitaliy",
+      "value": 1
     }
   ],
   "week": [
@@ -416,12 +426,12 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "AstronaVt",
+      "value": 15
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
+      "name": "Olga Goncharova",
       "value": 14
     },
     {
@@ -507,6 +517,16 @@
     {
       "rank": 22,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 1
+    },
+    {
+      "rank": 23,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 24,
+      "name": "Vitaliy",
       "value": 1
     }
   ]
