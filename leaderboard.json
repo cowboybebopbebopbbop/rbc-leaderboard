@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-03T12:23:44+00:00",
-  "count": 46,
+  "updated": "2026-07-03T13:23:44+00:00",
+  "count": 47,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5542,
+      "value": 5543,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3819,
+      "value": 3820,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 291,
+      "value": 292,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": "AstronaVt",
-      "value": 51,
+      "value": 57,
       "move": -3
     },
     {
@@ -209,72 +209,78 @@
     },
     {
       "rank": 35,
-      "name": "Толян",
-      "value": 18,
-      "move": -3
+      "name": "Vitaliy",
+      "value": 36,
+      "move": null
     },
     {
       "rank": 36,
-      "name": "Антон",
-      "value": 17,
-      "move": -3
+      "name": "Толян",
+      "value": 18,
+      "move": -4
     },
     {
       "rank": 37,
-      "name": "Руслан Иванов",
-      "value": 16,
-      "move": -3
+      "name": "Антон",
+      "value": 17,
+      "move": -4
     },
     {
       "rank": 38,
+      "name": "Руслан Иванов",
+      "value": 16,
+      "move": -4
+    },
+    {
+      "rank": 39,
       "name": "Anatoly Shadrin",
       "value": 10,
       "move": null
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Юрий",
       "value": 8,
-      "move": -4
+      "move": -5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Turchyn Gennadii",
       "value": 8,
       "move": null
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Ingvar 604",
       "value": 5,
-      "move": -5
-    },
-    {
-      "rank": 42,
-      "name": "Sila",
-      "value": 4,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 43,
+      "name": "Sila",
+      "value": 4,
+      "move": -6
+    },
+    {
+      "rank": 44,
       "name": "Роман",
       "value": 3,
       "move": null
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "xxx",
       "value": 1,
-      "move": -6
-    },
-    {
-      "rank": 45,
-      "name": "⁤",
-      "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 46,
+      "name": "⁤",
+      "value": 1,
+      "move": -7
+    },
+    {
+      "rank": 47,
       "name": "Андрей Грубий",
       "value": 1,
       "move": null
@@ -284,12 +290,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 3,
@@ -303,28 +309,28 @@
     },
     {
       "rank": 5,
+      "name": "AstronaVt",
+      "value": 14
+    },
+    {
+      "rank": 6,
       "name": "Ольга",
       "value": 11
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 7,
-      "name": ".",
-      "value": 8
-    },
-    {
       "rank": 8,
-      "name": "AstronaVt",
+      "name": ".",
       "value": 8
     },
     {
       "rank": 9,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 10,
@@ -396,12 +402,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 3,
@@ -415,28 +421,28 @@
     },
     {
       "rank": 5,
+      "name": "AstronaVt",
+      "value": 14
+    },
+    {
+      "rank": 6,
       "name": "Ольга",
       "value": 11
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 7,
-      "name": ".",
-      "value": 8
-    },
-    {
       "rank": 8,
-      "name": "AstronaVt",
+      "name": ".",
       "value": 8
     },
     {
       "rank": 9,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 10,
