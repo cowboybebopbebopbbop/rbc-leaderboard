@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T18:23:47+00:00",
-  "count": 48,
+  "updated": "2026-07-03T19:23:45+00:00",
+  "count": 50,
   "has_movement": true,
   "all": [
     {
@@ -125,168 +125,180 @@
     },
     {
       "rank": 21,
-      "name": "Manis Love",
-      "value": 158,
-      "move": -2
-    },
-    {
-      "rank": 22,
-      "name": "Александр",
-      "value": 129,
-      "move": -2
-    },
-    {
-      "rank": 23,
-      "name": "ᅠ",
-      "value": 126,
-      "move": -2
-    },
-    {
-      "rank": 24,
-      "name": ".",
-      "value": 118,
-      "move": -1
-    },
-    {
-      "rank": 25,
-      "name": "Charlie Shefelman",
-      "value": 117,
-      "move": -3
-    },
-    {
-      "rank": 26,
-      "name": "Artem Khomenko",
-      "value": 113,
+      "name": "Константин",
+      "value": 161,
       "move": null
     },
     {
-      "rank": 27,
-      "name": "shagron2",
-      "value": 100,
+      "rank": 22,
+      "name": "Manis Love",
+      "value": 158,
       "move": -3
+    },
+    {
+      "rank": 23,
+      "name": "Александр",
+      "value": 129,
+      "move": -3
+    },
+    {
+      "rank": 24,
+      "name": "ᅠ",
+      "value": 126,
+      "move": -3
+    },
+    {
+      "rank": 25,
+      "name": ".",
+      "value": 118,
+      "move": -2
+    },
+    {
+      "rank": 26,
+      "name": "Charlie Shefelman",
+      "value": 118,
+      "move": -4
+    },
+    {
+      "rank": 27,
+      "name": "Artem Khomenko",
+      "value": 114,
+      "move": null
     },
     {
       "rank": 28,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -3
+      "name": "shagron2",
+      "value": 100,
+      "move": -4
     },
     {
       "rank": 29,
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -4
+    },
+    {
+      "rank": 30,
       "name": "Max",
       "value": 81,
       "move": null
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "terminal lucidity",
       "value": 69,
-      "move": -4
-    },
-    {
-      "rank": 31,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": -4
-    },
-    {
-      "rank": 32,
-      "name": "AstronaVt",
-      "value": 64,
-      "move": -3
-    },
-    {
-      "rank": 33,
-      "name": "Алексей",
-      "value": 60,
       "move": -5
     },
     {
-      "rank": 34,
-      "name": "SyslikJan",
-      "value": 43,
+      "rank": 32,
+      "name": "Серхио Ле'Трас",
+      "value": 65,
+      "move": -5
+    },
+    {
+      "rank": 33,
+      "name": "AstronaVt",
+      "value": 64,
       "move": -4
     },
     {
+      "rank": 34,
+      "name": "Алексей",
+      "value": 60,
+      "move": -6
+    },
+    {
       "rank": 35,
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -5
+    },
+    {
+      "rank": 36,
       "name": "Vitaliy",
       "value": 38,
       "move": null
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "ᴦоᴧод",
       "value": 37,
-      "move": -5
-    },
-    {
-      "rank": 37,
-      "name": "Толян",
-      "value": 18,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 38,
-      "name": "Антон",
-      "value": 17,
-      "move": -5
+      "name": "Толян",
+      "value": 18,
+      "move": -6
     },
     {
       "rank": 39,
-      "name": "Руслан Иванов",
-      "value": 16,
-      "move": -5
+      "name": "Антон",
+      "value": 17,
+      "move": -6
     },
     {
       "rank": 40,
+      "name": "Руслан Иванов",
+      "value": 16,
+      "move": -6
+    },
+    {
+      "rank": 41,
       "name": "Anatoly Shadrin",
       "value": 10,
       "move": null
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Юрий",
       "value": 8,
-      "move": -6
+      "move": -7
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Turchyn Gennadii",
       "value": 8,
       "move": null
     },
     {
-      "rank": 43,
-      "name": "Ingvar 604",
-      "value": 5,
-      "move": -7
-    },
-    {
       "rank": 44,
-      "name": "Sila",
-      "value": 4,
-      "move": -7
+      "name": "X888",
+      "value": 7,
+      "move": null
     },
     {
       "rank": 45,
+      "name": "Ingvar 604",
+      "value": 5,
+      "move": -9
+    },
+    {
+      "rank": 46,
+      "name": "Sila",
+      "value": 4,
+      "move": -9
+    },
+    {
+      "rank": 47,
       "name": "Роман",
       "value": 3,
       "move": null
     },
     {
-      "rank": 46,
+      "rank": 48,
       "name": "xxx",
       "value": 1,
-      "move": -8
+      "move": -10
     },
     {
-      "rank": 47,
+      "rank": 49,
       "name": "⁤",
       "value": 1,
-      "move": -8
+      "move": -10
     },
     {
-      "rank": 48,
+      "rank": 50,
       "name": "Андрей Грубий",
       "value": 1,
       "move": null
@@ -410,7 +422,22 @@
     },
     {
       "rank": 24,
+      "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 25,
       "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Константин",
       "value": 1
     }
   ],
@@ -532,7 +559,22 @@
     },
     {
       "rank": 24,
+      "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 25,
       "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Константин",
       "value": 1
     }
   ]
