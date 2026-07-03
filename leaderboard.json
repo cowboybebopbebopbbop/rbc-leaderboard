@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T07:23:43+00:00",
+  "updated": "2026-07-03T08:23:43+00:00",
   "count": 45,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 751,
+      "value": 752,
       "move": 0
     },
     {
@@ -137,15 +137,15 @@
     },
     {
       "rank": 23,
-      "name": "Charlie Shefelman",
-      "value": 117,
-      "move": -1
+      "name": ".",
+      "value": 118,
+      "move": 0
     },
     {
       "rank": 24,
-      "name": ".",
-      "value": 115,
-      "move": -1
+      "name": "Charlie Shefelman",
+      "value": 117,
+      "move": -2
     },
     {
       "rank": 25,
@@ -288,7 +288,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -307,13 +307,13 @@
     },
     {
       "rank": 7,
-      "name": "AstronaVt",
+      "name": ".",
       "value": 8
     },
     {
       "rank": 8,
-      "name": ".",
-      "value": 5
+      "name": "AstronaVt",
+      "value": 8
     },
     {
       "rank": 9,
@@ -395,7 +395,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -414,13 +414,13 @@
     },
     {
       "rank": 7,
-      "name": "AstronaVt",
+      "name": ".",
       "value": 8
     },
     {
       "rank": 8,
-      "name": ".",
-      "value": 5
+      "name": "AstronaVt",
+      "value": 8
     },
     {
       "rank": 9,
