@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-03T09:23:43+00:00",
+  "updated": "2026-07-03T10:23:43+00:00",
   "count": 46,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5541,
+      "value": 5542,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 278,
+      "value": 279,
       "move": -1
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Turchyn Gennadii",
-      "value": 6,
+      "value": 8,
       "move": null
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Роман",
-      "value": 2,
+      "value": 3,
       "move": null
     },
     {
@@ -284,7 +284,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -353,37 +353,42 @@
     },
     {
       "rank": 15,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 16,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 16,
-      "name": "🤗",
-      "value": 2
-    },
-    {
       "rank": 17,
-      "name": "Archie",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "Anatoly Radchenko",
+      "name": "Archie",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
+      "name": "Manis Love",
+      "value": 2
     },
     {
       "rank": 21,
-      "name": "Роман",
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
   ],
@@ -391,7 +396,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
@@ -460,37 +465,42 @@
     },
     {
       "rank": 15,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 16,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 16,
-      "name": "🤗",
-      "value": 2
-    },
-    {
       "rank": 17,
-      "name": "Archie",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Turchyn Gennadii",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "Anatoly Radchenko",
+      "name": "Archie",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
+      "name": "Manis Love",
+      "value": 2
     },
     {
       "rank": 21,
-      "name": "Роман",
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     }
   ]
