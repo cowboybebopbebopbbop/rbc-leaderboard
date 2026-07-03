@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:23:46+00:00",
+  "updated": "2026-07-03T21:23:46+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3822,
+      "value": 3823,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "X888",
-      "value": 7,
+      "value": 8,
       "move": null
     },
     {
@@ -313,7 +313,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
@@ -422,21 +422,26 @@
     },
     {
       "rank": 24,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Artem Khomenko",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 27,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 28,
       "name": "Константин",
       "value": 1
     }
@@ -450,7 +455,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
@@ -559,21 +564,26 @@
     },
     {
       "rank": 24,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Artem Khomenko",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 27,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 28,
       "name": "Константин",
       "value": 1
     }
