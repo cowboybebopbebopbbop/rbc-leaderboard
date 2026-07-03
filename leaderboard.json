@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:23:43+00:00",
+  "updated": "2026-07-03T00:23:43+00:00",
   "count": 43,
   "has_movement": true,
   "all": [
@@ -25,187 +25,187 @@
       "rank": 4,
       "name": "Archie",
       "value": 1646,
-      "move": null
+      "move": 0
     },
     {
       "rank": 5,
       "name": "a l",
       "value": 962,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 6,
       "name": "Viktor",
       "value": 868,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 7,
       "name": "Синдбад Мореход",
       "value": 781,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
       "value": 751,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 9,
       "name": "L G",
       "value": 707,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 10,
       "name": "Axel",
       "value": 686,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 11,
       "name": "Князь Владимир С",
       "value": 599,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 12,
       "name": "Olga Goncharova",
       "value": 521,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 13,
       "name": "iDiklonius",
       "value": 453,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 14,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 308,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 15,
       "name": "Anatoly Radchenko",
       "value": 290,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
       "value": 288,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 17,
       "name": "🤗",
       "value": 278,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 18,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 247,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 19,
       "name": "Manis Love",
       "value": 158,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 20,
       "name": "Александр",
       "value": 129,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 21,
       "name": "ᅠ",
       "value": 126,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 22,
       "name": "Charlie Shefelman",
       "value": 117,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 23,
       "name": ".",
       "value": 115,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 24,
       "name": "shagron2",
       "value": 100,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 25,
       "name": "Sergey СЕО",
       "value": 82,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 26,
       "name": "terminal lucidity",
       "value": 69,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 27,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 28,
       "name": "Алексей",
       "value": 58,
-      "move": null
+      "move": 0
     },
     {
       "rank": 29,
       "name": "AstronaVt",
       "value": 51,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 30,
       "name": "SyslikJan",
       "value": 43,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 31,
       "name": "ᴦоᴧод",
       "value": 37,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 32,
       "name": "Толян",
       "value": 18,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 33,
       "name": "Антон",
       "value": 17,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 34,
       "name": "Руслан Иванов",
       "value": 16,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 35,
@@ -217,7 +217,7 @@
       "rank": 36,
       "name": "Юрий",
       "value": 8,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 37,
@@ -229,13 +229,13 @@
       "rank": 38,
       "name": "Ingvar 604",
       "value": 5,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 39,
       "name": "Sila",
       "value": 4,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 40,
@@ -247,13 +247,13 @@
       "rank": 41,
       "name": "xxx",
       "value": 1,
-      "move": -5
+      "move": -3
     },
     {
       "rank": 42,
       "name": "⁤",
       "value": 1,
-      "move": null
+      "move": -3
     },
     {
       "rank": 43,
