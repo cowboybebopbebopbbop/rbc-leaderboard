@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T14:23:44+00:00",
+  "updated": "2026-07-03T15:23:47+00:00",
   "count": 47,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3820,
+      "value": 3821,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 752,
+      "value": 753,
       "move": 0
     },
     {
@@ -185,15 +185,15 @@
     },
     {
       "rank": 31,
-      "name": "Алексей",
-      "value": 59,
-      "move": -3
+      "name": "AstronaVt",
+      "value": 62,
+      "move": -2
     },
     {
       "rank": 32,
-      "name": "AstronaVt",
-      "value": 58,
-      "move": -3
+      "name": "Алексей",
+      "value": 59,
+      "move": -4
     },
     {
       "rank": 33,
@@ -203,15 +203,15 @@
     },
     {
       "rank": 34,
-      "name": "ᴦоᴧод",
-      "value": 37,
-      "move": -3
+      "name": "Vitaliy",
+      "value": 38,
+      "move": null
     },
     {
       "rank": 35,
-      "name": "Vitaliy",
+      "name": "ᴦоᴧод",
       "value": 37,
-      "move": null
+      "move": -4
     },
     {
       "rank": 36,
@@ -295,17 +295,17 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 18
+      "name": "AstronaVt",
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "AstronaVt",
-      "value": 15
+      "name": "Zero-sum Gamer",
+      "value": 19
     },
     {
       "rank": 5,
@@ -384,27 +384,27 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 22,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 23,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
       "rank": 24,
-      "name": "Vitaliy",
+      "name": "Eugene",
       "value": 1
     }
   ],
@@ -417,17 +417,17 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 18
+      "name": "AstronaVt",
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "AstronaVt",
-      "value": 15
+      "name": "Zero-sum Gamer",
+      "value": 19
     },
     {
       "rank": 5,
@@ -506,27 +506,27 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Anatoly Radchenko",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 22,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 23,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
       "rank": 24,
-      "name": "Vitaliy",
+      "name": "Eugene",
       "value": 1
     }
   ]
