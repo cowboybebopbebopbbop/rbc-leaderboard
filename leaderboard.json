@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T17:23:45+00:00",
-  "count": 47,
+  "updated": "2026-07-03T18:23:47+00:00",
+  "count": 48,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3821,
+      "value": 3822,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 600,
+      "value": 602,
       "move": 0
     },
     {
@@ -173,114 +173,120 @@
     },
     {
       "rank": 29,
-      "name": "terminal lucidity",
-      "value": 69,
-      "move": -3
+      "name": "Max",
+      "value": 81,
+      "move": null
     },
     {
       "rank": 30,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": -3
-    },
-    {
-      "rank": 31,
-      "name": "AstronaVt",
-      "value": 63,
-      "move": -2
-    },
-    {
-      "rank": 32,
-      "name": "Алексей",
-      "value": 59,
+      "name": "terminal lucidity",
+      "value": 69,
       "move": -4
     },
     {
-      "rank": 33,
-      "name": "SyslikJan",
-      "value": 43,
+      "rank": 31,
+      "name": "Серхио Ле'Трас",
+      "value": 65,
+      "move": -4
+    },
+    {
+      "rank": 32,
+      "name": "AstronaVt",
+      "value": 64,
       "move": -3
     },
     {
+      "rank": 33,
+      "name": "Алексей",
+      "value": 60,
+      "move": -5
+    },
+    {
       "rank": 34,
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -4
+    },
+    {
+      "rank": 35,
       "name": "Vitaliy",
       "value": 38,
       "move": null
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "ᴦоᴧод",
       "value": 37,
-      "move": -4
-    },
-    {
-      "rank": 36,
-      "name": "Толян",
-      "value": 18,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 37,
-      "name": "Антон",
-      "value": 17,
-      "move": -4
+      "name": "Толян",
+      "value": 18,
+      "move": -5
     },
     {
       "rank": 38,
-      "name": "Руслан Иванов",
-      "value": 16,
-      "move": -4
+      "name": "Антон",
+      "value": 17,
+      "move": -5
     },
     {
       "rank": 39,
+      "name": "Руслан Иванов",
+      "value": 16,
+      "move": -5
+    },
+    {
+      "rank": 40,
       "name": "Anatoly Shadrin",
       "value": 10,
       "move": null
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Юрий",
       "value": 8,
-      "move": -5
+      "move": -6
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Turchyn Gennadii",
       "value": 8,
       "move": null
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Ingvar 604",
       "value": 5,
-      "move": -6
-    },
-    {
-      "rank": 43,
-      "name": "Sila",
-      "value": 4,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 44,
+      "name": "Sila",
+      "value": 4,
+      "move": -7
+    },
+    {
+      "rank": 45,
       "name": "Роман",
       "value": 3,
       "move": null
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "xxx",
       "value": 1,
-      "move": -7
-    },
-    {
-      "rank": 46,
-      "name": "⁤",
-      "value": 1,
-      "move": -7
+      "move": -8
     },
     {
       "rank": 47,
+      "name": "⁤",
+      "value": 1,
+      "move": -8
+    },
+    {
+      "rank": 48,
       "name": "Андрей Грубий",
       "value": 1,
       "move": null
@@ -295,12 +301,12 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 3,
       "name": "AstronaVt",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
@@ -335,17 +341,17 @@
     {
       "rank": 10,
       "name": "Князь Владимир С",
-      "value": 5
+      "value": 7
     },
     {
       "rank": 11,
-      "name": "L G",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 12,
-      "name": "Алексей",
-      "value": 4
+      "name": "L G",
+      "value": 5
     },
     {
       "rank": 13,
@@ -417,12 +423,12 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 3,
       "name": "AstronaVt",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
@@ -457,17 +463,17 @@
     {
       "rank": 10,
       "name": "Князь Владимир С",
-      "value": 5
+      "value": 7
     },
     {
       "rank": 11,
-      "name": "L G",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 12,
-      "name": "Алексей",
-      "value": 4
+      "name": "L G",
+      "value": 5
     },
     {
       "rank": 13,
