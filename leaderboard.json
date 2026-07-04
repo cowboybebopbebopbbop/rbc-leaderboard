@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-04T04:23:46+00:00",
+  "updated": "2026-07-04T05:23:47+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5544,
+      "value": 5545,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 280,
+      "value": 282,
       "move": -1
     },
     {
@@ -270,7 +270,7 @@
     {
       "rank": 45,
       "name": "Ingvar 604",
-      "value": 5,
+      "value": 6,
       "move": -7
     },
     {
@@ -308,7 +308,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 2,
@@ -357,18 +357,18 @@
     },
     {
       "rank": 11,
+      "name": "🤗",
+      "value": 6
+    },
+    {
+      "rank": 12,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "L G",
       "value": 5
-    },
-    {
-      "rank": 13,
-      "name": "🤗",
-      "value": 4
     },
     {
       "rank": 14,
@@ -422,26 +422,31 @@
     },
     {
       "rank": 24,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Artem Khomenko",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 28,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "Константин",
       "value": 1
     }
@@ -450,7 +455,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 2,
@@ -499,18 +504,18 @@
     },
     {
       "rank": 11,
+      "name": "🤗",
+      "value": 6
+    },
+    {
+      "rank": 12,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "L G",
       "value": 5
-    },
-    {
-      "rank": 13,
-      "name": "🤗",
-      "value": 4
     },
     {
       "rank": 14,
@@ -564,26 +569,31 @@
     },
     {
       "rank": 24,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Artem Khomenko",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 28,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "Константин",
       "value": 1
     }
