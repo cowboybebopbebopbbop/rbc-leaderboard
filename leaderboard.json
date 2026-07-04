@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:23:48+00:00",
+  "updated": "2026-07-04T20:23:48+00:00",
   "count": 53,
   "has_movement": true,
   "all": [
@@ -126,13 +126,13 @@
     {
       "rank": 21,
       "name": "Константин",
-      "value": 162,
+      "value": 163,
       "move": null
     },
     {
       "rank": 22,
       "name": "Manis Love",
-      "value": 158,
+      "value": 159,
       "move": -3
     },
     {
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Ingvar 604",
-      "value": 6,
-      "move": -7
+      "name": "***",
+      "value": 7,
+      "move": null
     },
     {
       "rank": 46,
-      "name": "***",
+      "name": "Ingvar 604",
       "value": 6,
-      "move": null
+      "move": -8
     },
     {
       "rank": 47,
@@ -415,22 +415,22 @@
     },
     {
       "rank": 19,
+      "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Константин",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Роман",
-      "value": 2
-    },
-    {
-      "rank": 21,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
       "rank": 22,
-      "name": "Константин",
+      "name": "Роман",
       "value": 2
     },
     {
@@ -455,26 +455,31 @@
     },
     {
       "rank": 27,
-      "name": "Ingvar 604",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Artem Khomenko",
       "value": 1
     }
@@ -498,7 +503,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 5,
@@ -563,31 +568,31 @@
     {
       "rank": 17,
       "name": "ᅠ",
-      "value": 4
+      "value": 3
     },
     {
       "rank": 18,
+      "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 19,
+      "name": "Константин",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Руслан Иванов",
-      "value": 2
-    },
-    {
-      "rank": 21,
-      "name": "Manis Love",
-      "value": 2
-    },
-    {
       "rank": 22,
-      "name": "Константин",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
@@ -612,26 +617,31 @@
     },
     {
       "rank": 27,
-      "name": "Ingvar 604",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Artem Khomenko",
       "value": 1
     }
