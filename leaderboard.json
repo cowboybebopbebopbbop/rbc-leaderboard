@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T18:23:48+00:00",
-  "count": 52,
+  "updated": "2026-07-04T19:23:48+00:00",
+  "count": 53,
   "has_movement": true,
   "all": [
     {
@@ -245,15 +245,15 @@
     },
     {
       "rank": 41,
-      "name": "Turchyn Gennadii",
+      "name": "Anatoly Shadrin",
       "value": 11,
-      "move": -4
+      "move": -6
     },
     {
       "rank": 42,
-      "name": "Anatoly Shadrin",
-      "value": 10,
-      "move": -7
+      "name": "Turchyn Gennadii",
+      "value": 11,
+      "move": -5
     },
     {
       "rank": 43,
@@ -275,42 +275,48 @@
     },
     {
       "rank": 46,
-      "name": "Sila",
-      "value": 4,
-      "move": -7
+      "name": "***",
+      "value": 6,
+      "move": null
     },
     {
       "rank": 47,
-      "name": "Роман",
-      "value": 3,
-      "move": -7
+      "name": "Sila",
+      "value": 4,
+      "move": -8
     },
     {
       "rank": 48,
+      "name": "Роман",
+      "value": 3,
+      "move": -8
+    },
+    {
+      "rank": 49,
       "name": "Ilya",
       "value": 3,
       "move": null
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "xxx",
       "value": 1,
-      "move": -8
-    },
-    {
-      "rank": 50,
-      "name": "⁤",
-      "value": 1,
-      "move": -8
+      "move": -9
     },
     {
       "rank": 51,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -8
+      "move": -9
     },
     {
       "rank": 52,
+      "name": "Андрей Грубий",
+      "value": 1,
+      "move": -9
+    },
+    {
+      "rank": 53,
       "name": "Solomon Fridman",
       "value": 1,
       "move": null
@@ -439,31 +445,36 @@
     },
     {
       "rank": 25,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "Anatoly Shadrin",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Ingvar 604",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 30,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 31,
       "name": "Artem Khomenko",
       "value": 1
     }
@@ -591,31 +602,36 @@
     },
     {
       "rank": 25,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "Anatoly Shadrin",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Ingvar 604",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 30,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 31,
       "name": "Artem Khomenko",
       "value": 1
     }
