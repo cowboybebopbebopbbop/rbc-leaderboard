@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T14:23:48+00:00",
-  "count": 50,
+  "updated": "2026-07-04T15:23:47+00:00",
+  "count": 51,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "Ольга",
-      "value": 1705,
+      "value": 1706,
       "move": 0
     },
     {
@@ -287,21 +287,27 @@
     },
     {
       "rank": 48,
-      "name": "xxx",
-      "value": 1,
-      "move": -7
+      "name": "Ilya",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 49,
-      "name": "⁤",
+      "name": "xxx",
       "value": 1,
-      "move": -7
+      "move": -8
     },
     {
       "rank": 50,
+      "name": "⁤",
+      "value": 1,
+      "move": -8
+    },
+    {
+      "rank": 51,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -7
+      "move": -8
     }
   ],
   "month": [
@@ -333,7 +339,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
@@ -480,7 +486,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
