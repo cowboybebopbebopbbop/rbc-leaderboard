@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T05:23:47+00:00",
+  "updated": "2026-07-04T06:23:47+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 38,
+      "value": 40,
       "move": null
     },
     {
@@ -377,32 +377,32 @@
     },
     {
       "rank": 15,
-      "name": "ᅠ",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 16,
+      "name": "ᅠ",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "Turchyn Gennadii",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Archie",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Vitaliy",
+      "name": "Archie",
       "value": 2
     },
     {
@@ -524,32 +524,32 @@
     },
     {
       "rank": 15,
-      "name": "ᅠ",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 16,
+      "name": "ᅠ",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "Turchyn Gennadii",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Archie",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Vitaliy",
+      "name": "Archie",
       "value": 2
     },
     {
