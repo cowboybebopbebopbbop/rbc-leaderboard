@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T23:23:46+00:00",
+  "updated": "2026-07-04T00:23:47+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
@@ -247,19 +247,19 @@
       "rank": 41,
       "name": "Anatoly Shadrin",
       "value": 10,
-      "move": null
+      "move": -6
     },
     {
       "rank": 42,
       "name": "Юрий",
       "value": 8,
-      "move": -7
+      "move": -6
     },
     {
       "rank": 43,
       "name": "Turchyn Gennadii",
       "value": 8,
-      "move": null
+      "move": -6
     },
     {
       "rank": 44,
@@ -271,37 +271,37 @@
       "rank": 45,
       "name": "Ingvar 604",
       "value": 5,
-      "move": -9
+      "move": -7
     },
     {
       "rank": 46,
       "name": "Sila",
       "value": 4,
-      "move": -9
+      "move": -7
     },
     {
       "rank": 47,
       "name": "Роман",
       "value": 3,
-      "move": null
+      "move": -7
     },
     {
       "rank": 48,
       "name": "xxx",
       "value": 1,
-      "move": -10
+      "move": -7
     },
     {
       "rank": 49,
       "name": "⁤",
       "value": 1,
-      "move": -10
+      "move": -7
     },
     {
       "rank": 50,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": null
+      "move": -7
     }
   ],
   "month": [
