@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:23:47+00:00",
+  "updated": "2026-07-04T11:23:47+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "Константин",
-      "value": 161,
+      "value": 162,
       "move": null
     },
     {
@@ -412,42 +412,42 @@
     },
     {
       "rank": 22,
-      "name": "Anatoly Radchenko",
+      "name": "Константин",
       "value": 2
     },
     {
       "rank": 23,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Ingvar 604",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "Artem Khomenko",
-      "value": 1
-    },
-    {
       "rank": 29,
-      "name": "Константин",
+      "name": "Artem Khomenko",
       "value": 1
     }
   ],
@@ -559,42 +559,42 @@
     },
     {
       "rank": 22,
-      "name": "Anatoly Radchenko",
+      "name": "Константин",
       "value": 2
     },
     {
       "rank": 23,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Ingvar 604",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "Artem Khomenko",
-      "value": 1
-    },
-    {
       "rank": 29,
-      "name": "Константин",
+      "name": "Artem Khomenko",
       "value": 1
     }
   ]
