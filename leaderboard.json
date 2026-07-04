@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T03:23:47+00:00",
+  "updated": "2026-07-04T04:23:46+00:00",
   "count": 50,
   "has_movement": true,
   "all": [
@@ -251,15 +251,15 @@
     },
     {
       "rank": 42,
-      "name": "Юрий",
-      "value": 8,
-      "move": -6
+      "name": "Turchyn Gennadii",
+      "value": 9,
+      "move": -5
     },
     {
       "rank": 43,
-      "name": "Turchyn Gennadii",
+      "name": "Юрий",
       "value": 8,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 44,
@@ -382,17 +382,17 @@
     },
     {
       "rank": 16,
+      "name": "Turchyn Gennadii",
+      "value": 3
+    },
+    {
+      "rank": 17,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 17,
-      "name": "Роман",
-      "value": 2
-    },
-    {
       "rank": 18,
-      "name": "Turchyn Gennadii",
+      "name": "Роман",
       "value": 2
     },
     {
@@ -524,17 +524,17 @@
     },
     {
       "rank": 16,
+      "name": "Turchyn Gennadii",
+      "value": 3
+    },
+    {
+      "rank": 17,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 17,
-      "name": "Роман",
-      "value": 2
-    },
-    {
       "rank": 18,
-      "name": "Turchyn Gennadii",
+      "name": "Роман",
       "value": 2
     },
     {
