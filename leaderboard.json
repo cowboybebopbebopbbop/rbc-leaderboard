@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T15:23:47+00:00",
-  "count": 51,
+  "updated": "2026-07-04T16:23:47+00:00",
+  "count": 52,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1646,
+      "value": 1647,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 292,
+      "value": 293,
       "move": 0
     },
     {
@@ -308,6 +308,12 @@
       "name": "Андрей Грубий",
       "value": 1,
       "move": -8
+    },
+    {
+      "rank": 52,
+      "name": "Solomon Fridman",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -348,12 +354,12 @@
     },
     {
       "rank": 8,
-      "name": ".",
-      "value": 8
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": ".",
       "value": 8
     },
     {
@@ -398,17 +404,17 @@
     },
     {
       "rank": 18,
+      "name": "Archie",
+      "value": 3
+    },
+    {
+      "rank": 19,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Роман",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Archie",
+      "name": "Роман",
       "value": 2
     },
     {
@@ -495,12 +501,12 @@
     },
     {
       "rank": 8,
-      "name": ".",
-      "value": 8
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 9
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": ".",
       "value": 8
     },
     {
@@ -545,17 +551,17 @@
     },
     {
       "rank": 18,
+      "name": "Archie",
+      "value": 3
+    },
+    {
+      "rank": 19,
       "name": "ᴦоᴧод",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Роман",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Archie",
+      "name": "Роман",
       "value": 2
     },
     {
