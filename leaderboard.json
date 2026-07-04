@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:23:48+00:00",
+  "updated": "2026-07-04T21:16:40+00:00",
   "count": 53,
   "has_movement": true,
   "all": [
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 296,
+      "value": 299,
       "move": 0
     },
     {
@@ -246,7 +246,7 @@
     {
       "rank": 41,
       "name": "Anatoly Shadrin",
-      "value": 11,
+      "value": 12,
       "move": -6
     },
     {
@@ -350,13 +350,13 @@
     },
     {
       "rank": 6,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 12
+      "name": "Olga Goncharova",
+      "value": 14
     },
     {
       "rank": 8,
@@ -430,22 +430,22 @@
     },
     {
       "rank": 22,
-      "name": "Роман",
+      "name": "Anatoly Shadrin",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Anatoly Radchenko",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Ilya",
-      "value": 1
+      "name": "Anatoly Radchenko",
+      "value": 2
     },
     {
       "rank": 25,
-      "name": "Anatoly Shadrin",
+      "name": "Ilya",
       "value": 1
     },
     {
@@ -503,7 +503,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 5,
@@ -512,13 +512,13 @@
     },
     {
       "rank": 6,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 12
+      "name": "Olga Goncharova",
+      "value": 14
     },
     {
       "rank": 8,
@@ -587,27 +587,27 @@
     },
     {
       "rank": 21,
-      "name": "Роман",
+      "name": "Anatoly Shadrin",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Anatoly Radchenko",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Ilya",
-      "value": 1
+      "name": "Anatoly Radchenko",
+      "value": 2
     },
     {
       "rank": 25,
-      "name": "Anatoly Shadrin",
+      "name": "Ilya",
       "value": 1
     },
     {
