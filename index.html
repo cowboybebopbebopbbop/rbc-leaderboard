@@ -99,6 +99,17 @@
   .item .t{font-weight:600;}
   .item .d,.row .d,.card .d{color:hsl(var(--muted-foreground));font-size:.8rem;margin-top:6px;}
   .feed-text{display:block;white-space:pre-wrap;word-break:break-word;}
+  /* прогнозы: карточка итогов + строки вариантов */
+  .wincard{border-color:hsl(var(--green)/.45);background:linear-gradient(160deg,hsl(var(--green)/.10),transparent 55%);}
+  .pred-res{font-size:1rem;font-weight:700;margin:2px 0 8px;}
+  .pred-opt{display:flex;align-items:center;gap:8px;font-size:.82rem;margin:5px 0;color:hsl(var(--muted-foreground));}
+  .pred-opt .lbl{flex:0 0 42%;max-width:230px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .pred-opt .mini{flex:1;margin:0;}
+  .pred-opt .pc{flex:none;width:64px;text-align:right;font-variant-numeric:tabular-nums;}
+  .pred-opt.win{color:hsl(var(--green));font-weight:600;}
+  .pred-opt.win .mini i{background:hsl(var(--green));}
+  .pred-chip{display:inline-block;font-size:.78rem;padding:3px 10px;border-radius:999px;margin:2px 6px 2px 0;
+    background:hsl(var(--green)/.12);color:hsl(var(--green));border:1px solid hsl(var(--green)/.35);}
   .q{font-weight:600;display:flex;justify-content:space-between;gap:10px;}
   button.q{width:100%;background:none;border:0;padding:0;color:inherit;font:inherit;font-weight:600;text-align:left;cursor:pointer;}
   .q .c{color:hsl(var(--muted-foreground));font-weight:400;}
@@ -154,6 +165,7 @@
     <div class="tabslist">
       <button type="button" data-tab="rating" class="active" aria-pressed="true" onclick="switchTab('rating')">Рейтинг</button>
       <button type="button" data-tab="feed" aria-pressed="false" onclick="switchTab('feed')">Лента</button>
+      <button type="button" data-tab="pred" aria-pressed="false" onclick="switchTab('pred')">Прогнозы</button>
       <button type="button" data-tab="useful" aria-pressed="false" onclick="switchTab('useful')">Польза</button>
       <button type="button" data-tab="trading" aria-pressed="false" onclick="switchTab('trading')">Трейдинг</button>
     </div>
@@ -182,6 +194,12 @@
     <div id="feed-rows"></div>
   </section>
 
+  <section id="view-pred" class="hidden">
+    <h2>Прогнозы — «Кто точнее» 🎯</h2>
+    <div class="sub">Конкурсы точности от админов форума (опросы с #ктоточнее в чате). Попал в верный вариант — получил 🎯, очки копятся между конкурсами. Игра на очки: без ставок и денег, не финсовет. Итог фиксируется автоматически по данным Binance (BTCUSDT).</div>
+    <div id="pred-body"></div>
+  </section>
+
   <section id="view-useful" class="hidden">
     <div class="subnav"><button type="button" data-s="faq" class="active" aria-pressed="true" onclick="subP('faq')">FAQ</button><button type="button" data-s="sec" aria-pressed="false" onclick="subP('sec')">Безопасность</button><button type="button" data-s="start" aria-pressed="false" onclick="subP('start')">Старт</button><button type="button" data-s="disc" aria-pressed="false" onclick="subP('disc')">Дисциплина</button></div>
     <div id="p-faq"></div><div id="p-sec" class="hidden"></div><div id="p-start" class="hidden"></div><div id="p-disc" class="hidden"></div>
@@ -201,7 +219,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
@@ -214,7 +232,7 @@
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const anon=n=>/^\*+$/.test((n||'').trim())?'Аноним':(n||'—');
   function ext(a){a.target='_blank';a.rel='noopener';a.appendChild(el('span','sr-only',' (откроется в новой вкладке)'));return a;}
-  const VIEWS=['rating','feed','useful','trading','hall','stats','nav'];
+  const VIEWS=['rating','feed','pred','useful','trading','hall','stats','nav'];
   function switchTab(t){VIEWS.forEach(v=>document.getElementById('view-'+v).classList.toggle('hidden',v!==t));
     document.querySelectorAll('.tabslist [data-tab],.more [data-tab]').forEach(a=>{const on=a.dataset.tab===t;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
     window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
@@ -300,6 +318,37 @@
       const em=(it.emojis||[]).map(e=>e[0]+' '+e[1]).join(' · ');
       c.appendChild(el('div','d',`${anon(it.author)} · ${fmtD(it.date)} · ${it.reactions} реакц.${em?' · '+em:''} · ${it.branch||'—'}${it.admin?' · админ':''}`));
       box.appendChild(c);});}
+  function fmtDT(iso){if(!iso)return'';const d=new Date(new Date(iso).getTime()+3*3600e3);
+    const p=n=>String(n).padStart(2,'0');return`${p(d.getUTCDate())}.${p(d.getUTCMonth()+1)}.${String(d.getUTCFullYear()).slice(2)} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())} МСК`;}
+  function renderPred(){const box=document.getElementById('pred-body');if(!box)return;box.textContent='';
+    if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
+    if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
+      const l=el('div','list');PRED.board.slice(0,50).forEach((b,i)=>{const r=el('div','row');const rk=el('div','r');rk.append(document.createTextNode(medal(i+1)));
+        r.append(rk,el('div','nm',anon(b.name)),el('div','v','🎯 '+b.points));l.appendChild(r);});box.appendChild(l);}
+    box.appendChild(el('h2',null,'Конкурсы'));
+    PRED.contests.forEach(c=>{
+      const done=c.status==='resolved';
+      const card=el('div',done?'card wincard':'card');
+      card.appendChild(el('div','t',c.question));
+      if(done){
+        const opt=c.options[c.winner_option]||'—';
+        card.appendChild(el('div','pred-res',`🏆 Итог: ${c.winner_price!=null?('$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → '):''}«${opt}»`));
+      }else{
+        const st=c.status==='open'?('приём ответов до '+fmtDT(c.deadline)):(c.status==='manual'?'итог уточняется':('голоса зафиксированы · итог '+fmtDT(c.target_time)));
+        card.appendChild(el('div','d',st));
+      }
+      const mx=Math.max(1,...c.votes);
+      c.options.forEach((o,i)=>{const row=el('div','pred-opt'+(done&&i===c.winner_option?' win':''));
+        row.appendChild(el('span','lbl',(done&&i===c.winner_option?'🏆 ':'')+o));
+        const mb=el('div','mini');const f=el('i');f.style.width=(c.votes[i]/mx*100)+'%';mb.appendChild(f);row.appendChild(mb);
+        row.appendChild(el('span','pc',c.votes[i]+(c.total?` · ${Math.round(c.votes[i]/c.total*100)}%`:'')));card.appendChild(row);});
+      if(done&&c.winners&&c.winners.length){
+        card.appendChild(el('div','d',`Угадали ${c.winners.length} — каждому +1 🎯:`));
+        const wrap=el('div');wrap.style.marginTop='6px';c.winners.forEach(w=>wrap.appendChild(el('span','pred-chip','🎯 '+anon(w))));card.appendChild(wrap);
+      }
+      const meta=el('div','d',`${c.total} голосов · опубликован ${fmtD(c.posted)}${done?'':' · источник итога: '+c.source}`);card.appendChild(meta);
+      const a=el('a','src','Открыть опрос в чате →');a.href=c.link;ext(a);const ld=el('div');ld.style.marginTop='6px';ld.appendChild(a);card.appendChild(ld);
+      box.appendChild(card);});}
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   /* палитры под тему: тёмная — светлые линии, светлая — затемнённые (контраст ≥3:1 на белом) */
   function tc(){const d=document.documentElement.classList.contains('dark');
@@ -384,6 +433,7 @@
       get('experts.json',d=>{EXP=d.groups||[];renderExperts();}),
       get('hall_of_fame.json',d=>{HALL=d.messages||[];renderHall();}),
       get('feed.json',d=>{FEED=d.items||[];populateFeedFilters();renderFeed();}),
+      get('predictions.json',d=>{PRED=d;renderPred();}),
       get('branches.json',d=>{BR=d.branches||[];renderNav();}),
       get('stats.json',d=>{STATS=d;}),
       get('activity.json',d=>{ACT=d;}),
