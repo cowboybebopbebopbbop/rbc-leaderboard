@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T17:23:48+00:00",
+  "updated": "2026-07-04T18:23:48+00:00",
   "count": 52,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1651,
+      "value": 1654,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 293,
+      "value": 296,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Vitaliy",
-      "value": 40,
+      "value": 41,
       "move": null
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Ilya",
-      "value": 2,
+      "value": 3,
       "move": null
     },
     {
@@ -349,27 +349,27 @@
     },
     {
       "rank": 7,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 12
+    },
+    {
+      "rank": 8,
+      "name": "Archie",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": ".",
       "value": 9
     },
     {
-      "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 9
-    },
-    {
-      "rank": 10,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
       "rank": 11,
-      "name": "Archie",
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
@@ -394,12 +394,12 @@
     },
     {
       "rank": 16,
-      "name": "Руслан Иванов",
-      "value": 4
+      "name": "Vitaliy",
+      "value": 5
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
@@ -434,31 +434,36 @@
     },
     {
       "rank": 24,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "Ilya",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Ingvar 604",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 29,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 30,
       "name": "Artem Khomenko",
       "value": 1
     }
@@ -496,27 +501,27 @@
     },
     {
       "rank": 7,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 12
+    },
+    {
+      "rank": 8,
+      "name": "Archie",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": ".",
       "value": 9
     },
     {
-      "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 9
-    },
-    {
-      "rank": 10,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
       "rank": 11,
-      "name": "Archie",
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
@@ -542,7 +547,7 @@
     {
       "rank": 16,
       "name": "Vitaliy",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 17,
@@ -581,31 +586,36 @@
     },
     {
       "rank": 24,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "Ilya",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Ingvar 604",
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "X888",
+      "name": "Ingvar 604",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 29,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 30,
       "name": "Artem Khomenko",
       "value": 1
     }
