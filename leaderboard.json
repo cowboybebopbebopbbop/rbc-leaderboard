@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:17:05+00:00",
+  "updated": "2026-07-04T22:17:05+00:00",
   "count": 53,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 1654,
+      "value": 1655,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 282,
+      "value": 283,
       "move": -1
     },
     {
@@ -361,7 +361,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 9,
@@ -375,13 +375,13 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 6
+      "name": "Князь Владимир С",
+      "value": 7
     },
     {
       "rank": 13,
@@ -523,7 +523,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 9,
@@ -537,13 +537,13 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 6
+      "name": "Князь Владимир С",
+      "value": 7
     },
     {
       "rank": 13,
