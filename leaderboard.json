@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-05T18:39:31+00:00",
-  "count": 56,
+  "updated": "2026-07-05T19:39:31+00:00",
+  "count": 57,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5548,
+      "value": 5549,
       "move": 0
     },
     {
@@ -191,150 +191,156 @@
     },
     {
       "rank": 32,
-      "name": "terminal lucidity",
-      "value": 69,
-      "move": -1
+      "name": "Andrey Kuimov",
+      "value": 75,
+      "move": null
     },
     {
       "rank": 33,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": -1
+      "name": "terminal lucidity",
+      "value": 69,
+      "move": -2
     },
     {
       "rank": 34,
-      "name": "AstronaVt",
-      "value": 64,
-      "move": -1
+      "name": "Серхио Ле'Трас",
+      "value": 65,
+      "move": -2
     },
     {
       "rank": 35,
-      "name": "Алексей",
-      "value": 60,
-      "move": -1
+      "name": "AstronaVt",
+      "value": 64,
+      "move": -2
     },
     {
       "rank": 36,
+      "name": "Алексей",
+      "value": 60,
+      "move": -2
+    },
+    {
+      "rank": 37,
       "name": "Sergei IVANOV",
       "value": 46,
       "move": null
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "SyslikJan",
       "value": 43,
-      "move": -2
-    },
-    {
-      "rank": 38,
-      "name": "Vitaliy",
-      "value": 41,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 39,
-      "name": "ᴦоᴧод",
-      "value": 39,
-      "move": -2
+      "name": "Vitaliy",
+      "value": 41,
+      "move": -3
     },
     {
       "rank": 40,
-      "name": "Толян",
-      "value": 18,
-      "move": -2
+      "name": "ᴦоᴧод",
+      "value": 39,
+      "move": -3
     },
     {
       "rank": 41,
-      "name": "Антон",
-      "value": 17,
-      "move": -2
+      "name": "Толян",
+      "value": 18,
+      "move": -3
     },
     {
       "rank": 42,
-      "name": "Руслан Иванов",
-      "value": 16,
-      "move": -2
+      "name": "Антон",
+      "value": 17,
+      "move": -3
     },
     {
       "rank": 43,
-      "name": "Anatoly Shadrin",
-      "value": 15,
-      "move": -2
+      "name": "Руслан Иванов",
+      "value": 17,
+      "move": -3
     },
     {
       "rank": 44,
-      "name": "Turchyn Gennadii",
-      "value": 11,
-      "move": -1
+      "name": "Anatoly Shadrin",
+      "value": 15,
+      "move": -3
     },
     {
       "rank": 45,
+      "name": "Turchyn Gennadii",
+      "value": 11,
+      "move": -2
+    },
+    {
+      "rank": 46,
       "name": "Юрий",
+      "value": 8,
+      "move": -4
+    },
+    {
+      "rank": 47,
+      "name": "X888",
       "value": 8,
       "move": -3
     },
     {
-      "rank": 46,
-      "name": "X888",
-      "value": 8,
-      "move": -2
-    },
-    {
-      "rank": 47,
+      "rank": 48,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "***",
       "value": 7,
       "move": null
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "Sila",
       "value": 4,
-      "move": -3
-    },
-    {
-      "rank": 50,
-      "name": "Роман",
-      "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 51,
+      "name": "Роман",
+      "value": 3,
+      "move": -4
+    },
+    {
+      "rank": 52,
       "name": "Ilya",
       "value": 3,
       "move": null
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "xxx",
       "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 53,
-      "name": "⁤",
-      "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 54,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 55,
+      "name": "Андрей Грубий",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 56,
       "name": "Solomon Fridman",
       "value": 1,
       "move": null
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "Darya",
       "value": 1,
       "move": null
@@ -344,7 +350,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 52
     },
     {
       "rank": 2,
@@ -418,27 +424,27 @@
     },
     {
       "rank": 16,
-      "name": "L G",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
@@ -516,7 +522,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -615,17 +621,17 @@
     },
     {
       "rank": 21,
+      "name": "Руслан Иванов",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Руслан Иванов",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
