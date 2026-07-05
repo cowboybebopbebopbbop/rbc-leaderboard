@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T04:39:30+00:00",
+  "updated": "2026-07-05T05:39:30+00:00",
   "count": 54,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 283,
+      "value": 284,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Anatoly Shadrin",
-      "value": 12,
+      "value": 15,
       "move": -1
     },
     {
@@ -382,7 +382,7 @@
     {
       "rank": 11,
       "name": "🤗",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 12,
@@ -391,52 +391,52 @@
     },
     {
       "rank": 13,
-      "name": "Алексей",
+      "name": "Anatoly Shadrin",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "Turchyn Gennadii",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "L G",
+      "name": "Turchyn Gennadii",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 17,
+      "name": "Vitaliy",
+      "value": 5
+    },
+    {
+      "rank": 18,
       "name": "Руслан Иванов",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "ᅠ",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "ᴦоᴧод",
-      "value": 2
-    },
-    {
       "rank": 22,
-      "name": "Anatoly Shadrin",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
@@ -509,7 +509,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -538,12 +538,12 @@
     },
     {
       "rank": 10,
-      "name": ".",
-      "value": 9
+      "name": "🤗",
+      "value": 8
     },
     {
       "rank": 11,
-      "name": "🤗",
+      "name": ".",
       "value": 7
     },
     {
@@ -553,47 +553,47 @@
     },
     {
       "rank": 13,
-      "name": "Алексей",
+      "name": "Anatoly Shadrin",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "Turchyn Gennadii",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "L G",
+      "name": "Turchyn Gennadii",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 17,
+      "name": "Vitaliy",
+      "value": 5
+    },
+    {
+      "rank": 18,
       "name": "ᅠ",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 20,
-      "name": "ᴦоᴧод",
-      "value": 2
-    },
-    {
       "rank": 21,
-      "name": "Anatoly Shadrin",
+      "name": "ᴦоᴧод",
       "value": 2
     },
     {
