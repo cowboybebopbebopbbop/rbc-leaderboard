@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:39:31+00:00",
+  "updated": "2026-07-05T17:39:31+00:00",
   "count": 56,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "Aся",
-      "value": 1762,
+      "value": 1763,
       "move": null
     },
     {
@@ -498,11 +498,16 @@
     },
     {
       "rank": 32,
-      "name": "Artem Khomenko",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
@@ -665,11 +670,16 @@
     },
     {
       "rank": 32,
-      "name": "Artem Khomenko",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
