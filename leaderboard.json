@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-05T10:39:30+00:00",
+  "updated": "2026-07-05T11:39:30+00:00",
   "count": 54,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5546,
+      "value": 5548,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 308,
+      "value": 309,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "Константин",
-      "value": 163,
+      "value": 164,
       "move": 0
     },
     {
@@ -332,7 +332,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 2,
@@ -426,12 +426,12 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 21,
-      "name": "Константин",
+      "name": "Manis Love",
       "value": 3
     },
     {
@@ -488,13 +488,18 @@
       "rank": 32,
       "name": "Artem Khomenko",
       "value": 1
+    },
+    {
+      "rank": 33,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 1
     }
   ],
   "week": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -504,7 +509,7 @@
     {
       "rank": 3,
       "name": "AstronaVt",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
@@ -549,7 +554,7 @@
     {
       "rank": 12,
       "name": ".",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 13,
@@ -578,17 +583,17 @@
     },
     {
       "rank": 18,
+      "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 19,
       "name": "ᅠ",
       "value": 3
     },
     {
-      "rank": 19,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
       "rank": 20,
-      "name": "Константин",
+      "name": "Manis Love",
       "value": 3
     },
     {
@@ -649,6 +654,11 @@
     {
       "rank": 32,
       "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 33,
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
   ]
