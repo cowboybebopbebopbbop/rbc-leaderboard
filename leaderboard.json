@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T05:39:30+00:00",
+  "updated": "2026-07-05T06:39:30+00:00",
   "count": 54,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "🤗",
-      "value": 284,
+      "value": 285,
       "move": 0
     },
     {
@@ -275,15 +275,15 @@
     },
     {
       "rank": 46,
-      "name": "***",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": null
+      "move": -1
     },
     {
       "rank": 47,
-      "name": "Ingvar 604",
-      "value": 6,
-      "move": -2
+      "name": "***",
+      "value": 7,
+      "move": null
     },
     {
       "rank": 48,
@@ -382,7 +382,7 @@
     {
       "rank": 11,
       "name": "🤗",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 12,
@@ -446,27 +446,27 @@
     },
     {
       "rank": 24,
-      "name": "Anatoly Radchenko",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 25,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 26,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 27,
-      "name": "***",
-      "value": 1
-    },
-    {
       "rank": 28,
-      "name": "Ingvar 604",
+      "name": "***",
       "value": 1
     },
     {
@@ -494,7 +494,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -518,13 +518,13 @@
     },
     {
       "rank": 6,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 15
+      "name": "Olga Goncharova",
+      "value": 14
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
       "rank": 8,
@@ -539,7 +539,7 @@
     {
       "rank": 10,
       "name": "🤗",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 11,
@@ -603,32 +603,32 @@
     },
     {
       "rank": 23,
-      "name": "Руслан Иванов",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Anatoly Radchenko",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 25,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 26,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 27,
-      "name": "***",
-      "value": 1
-    },
-    {
       "rank": 28,
-      "name": "Ingvar 604",
+      "name": "***",
       "value": 1
     },
     {
