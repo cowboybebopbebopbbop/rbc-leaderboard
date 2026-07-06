@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T15:39:32+00:00",
+  "updated": "2026-07-06T16:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1656,
+      "value": 1657,
       "move": -1
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "ᅠ",
-      "value": 126,
+      "value": 127,
       "move": -1
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 11,
@@ -444,17 +444,17 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "ᅠ",
       "value": 5
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 22,
-      "name": "ᅠ",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
@@ -532,7 +532,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 39
     },
     {
       "rank": 2,
@@ -566,12 +566,12 @@
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 12
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 12
     },
     {
@@ -641,17 +641,17 @@
     },
     {
       "rank": 23,
+      "name": "ᅠ",
+      "value": 3
+    },
+    {
+      "rank": 24,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 25,
-      "name": "ᅠ",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
