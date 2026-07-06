@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T14:39:32+00:00",
+  "updated": "2026-07-06T15:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 899,
+      "value": 900,
       "move": -1
     },
     {
@@ -360,7 +360,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 4,
@@ -537,12 +537,12 @@
     {
       "rank": 2,
       "name": "Viktor",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 3,
       "name": "Igor",
-      "value": 30
+      "value": 27
     },
     {
       "rank": 4,
@@ -561,23 +561,23 @@
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 14
-    },
-    {
-      "rank": 8,
       "name": "Zero-sum Gamer",
       "value": 14
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Archie",
       "value": 12
+    },
+    {
+      "rank": 10,
+      "name": "Olga Goncharova",
+      "value": 9
     },
     {
       "rank": 11,
