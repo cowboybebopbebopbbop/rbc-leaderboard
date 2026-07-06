@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-06T12:39:32+00:00",
+  "updated": "2026-07-06T13:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5549,
+      "value": 5550,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 966,
+      "value": 967,
       "move": -1
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": "Andrey Kuimov",
-      "value": 76,
+      "value": 77,
       "move": null
     },
     {
@@ -350,7 +350,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -390,7 +390,7 @@
     {
       "rank": 9,
       "name": "a l",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 10,
@@ -474,42 +474,42 @@
     },
     {
       "rank": 26,
-      "name": "Anatoly Radchenko",
+      "name": "Andrey Kuimov",
       "value": 2
     },
     {
       "rank": 27,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 32,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
       "rank": 33,
-      "name": "Andrey Kuimov",
+      "name": "Eugene",
       "value": 1
     },
     {
@@ -532,17 +532,17 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
-      "name": "Igor",
+      "name": "Viktor",
       "value": 31
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 31
+      "name": "Igor",
+      "value": 30
     },
     {
       "rank": 4,
@@ -561,12 +561,12 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 14
+      "name": "a l",
+      "value": 15
     },
     {
       "rank": 8,
-      "name": "a l",
+      "name": "Zero-sum Gamer",
       "value": 14
     },
     {
@@ -656,37 +656,37 @@
     },
     {
       "rank": 26,
+      "name": "Andrey Kuimov",
+      "value": 2
+    },
+    {
+      "rank": 27,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "Andrey Kuimov",
+      "name": "Eugene",
       "value": 1
     },
     {
