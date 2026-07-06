@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:39:32+00:00",
+  "updated": "2026-07-06T09:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 522,
+      "value": 523,
       "move": -1
     },
     {
@@ -375,7 +375,7 @@
     {
       "rank": 6,
       "name": "Olga Goncharova",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
@@ -527,7 +527,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
@@ -547,12 +547,12 @@
     {
       "rank": 5,
       "name": "Olga Goncharova",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 7,
