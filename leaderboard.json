@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T07:39:32+00:00",
+  "updated": "2026-07-06T08:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3824,
+      "value": 3826,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 521,
+      "value": 522,
       "move": -1
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 41,
+      "value": 42,
       "move": -2
     },
     {
@@ -355,7 +355,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 32
+      "value": 34
     },
     {
       "rank": 3,
@@ -374,13 +374,13 @@
     },
     {
       "rank": 6,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Olga Goncharova",
       "value": 15
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
     },
     {
       "rank": 8,
@@ -409,32 +409,32 @@
     },
     {
       "rank": 13,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 14,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Turchyn Gennadii",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 17,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 5
     },
     {
@@ -527,12 +527,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 47
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 31
+      "value": 29
     },
     {
       "rank": 3,
@@ -546,13 +546,13 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 17
+      "name": "Olga Goncharova",
+      "value": 15
     },
     {
       "rank": 6,
-      "name": "Olga Goncharova",
-      "value": 14
+      "name": "Zero-sum Gamer",
+      "value": 15
     },
     {
       "rank": 7,
@@ -586,27 +586,27 @@
     },
     {
       "rank": 13,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 14,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Turchyn Gennadii",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 5
     },
     {
