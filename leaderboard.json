@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T04:39:31+00:00",
+  "updated": "2026-07-06T05:39:31+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 964,
+      "value": 965,
       "move": -1
     },
     {
@@ -384,12 +384,12 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 12
+      "name": "a l",
+      "value": 13
     },
     {
       "rank": 9,
-      "name": "a l",
+      "name": "Archie",
       "value": 12
     },
     {
@@ -561,12 +561,12 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 12
+      "name": "a l",
+      "value": 13
     },
     {
       "rank": 9,
-      "name": "a l",
+      "name": "Archie",
       "value": 12
     },
     {
