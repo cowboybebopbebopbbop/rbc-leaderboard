@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T11:39:32+00:00",
+  "updated": "2026-07-06T12:39:32+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 868,
+      "value": 899,
       "move": -1
     },
     {
@@ -359,13 +359,195 @@
     },
     {
       "rank": 3,
+      "name": "Viktor",
+      "value": 31
+    },
+    {
+      "rank": 4,
       "name": "AstronaVt",
       "value": 22
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Zero-sum Gamer",
       "value": 21
+    },
+    {
+      "rank": 6,
+      "name": "Ольга",
+      "value": 19
+    },
+    {
+      "rank": 7,
+      "name": "Olga Goncharova",
+      "value": 16
+    },
+    {
+      "rank": 8,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
+    },
+    {
+      "rank": 9,
+      "name": "a l",
+      "value": 14
+    },
+    {
+      "rank": 10,
+      "name": "Archie",
+      "value": 12
+    },
+    {
+      "rank": 11,
+      "name": ".",
+      "value": 10
+    },
+    {
+      "rank": 12,
+      "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 13,
+      "name": "Князь Владимир С",
+      "value": 7
+    },
+    {
+      "rank": 14,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 15,
+      "name": "Anatoly Shadrin",
+      "value": 5
+    },
+    {
+      "rank": 16,
+      "name": "Алексей",
+      "value": 5
+    },
+    {
+      "rank": 17,
+      "name": "Turchyn Gennadii",
+      "value": 5
+    },
+    {
+      "rank": 18,
+      "name": "Руслан Иванов",
+      "value": 5
+    },
+    {
+      "rank": 19,
+      "name": "L G",
+      "value": 5
+    },
+    {
+      "rank": 20,
+      "name": "Manis Love",
+      "value": 5
+    },
+    {
+      "rank": 21,
+      "name": "ᴦоᴧод",
+      "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "ᅠ",
+      "value": 4
+    },
+    {
+      "rank": 23,
+      "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 24,
+      "name": "Роман",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "Ingvar 604",
+      "value": 2
+    },
+    {
+      "rank": 26,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Ilya",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "***",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 31,
+      "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "Eugene",
+      "value": 1
+    },
+    {
+      "rank": 33,
+      "name": "Andrey Kuimov",
+      "value": 1
+    },
+    {
+      "rank": 34,
+      "name": "Aся",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 36,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 1
+    }
+  ],
+  "week": [
+    {
+      "rank": 1,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 41
+    },
+    {
+      "rank": 2,
+      "name": "Igor",
+      "value": 31
+    },
+    {
+      "rank": 3,
+      "name": "Viktor",
+      "value": 31
+    },
+    {
+      "rank": 4,
+      "name": "AstronaVt",
+      "value": 20
     },
     {
       "rank": 5,
@@ -379,8 +561,8 @@
     },
     {
       "rank": 7,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 15
+      "name": "Zero-sum Gamer",
+      "value": 14
     },
     {
       "rank": 8,
@@ -389,13 +571,13 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 12
     },
     {
       "rank": 10,
-      "name": ".",
-      "value": 10
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 11,
@@ -409,27 +591,27 @@
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
+      "name": ".",
       "value": 6
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 15,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": "Turchyn Gennadii",
-      "value": 5
-    },
-    {
       "rank": 17,
-      "name": "Руслан Иванов",
+      "name": "Turchyn Gennadii",
       "value": 5
     },
     {
@@ -449,13 +631,13 @@
     },
     {
       "rank": 21,
-      "name": "ᅠ",
+      "name": "Константин",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "Константин",
-      "value": 4
+      "name": "Руслан Иванов",
+      "value": 3
     },
     {
       "rank": 23,
@@ -469,7 +651,7 @@
     },
     {
       "rank": 25,
-      "name": "Anatoly Radchenko",
+      "name": "ᅠ",
       "value": 2
     },
     {
@@ -519,178 +701,6 @@
     },
     {
       "rank": 35,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
-    }
-  ],
-  "week": [
-    {
-      "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
-    },
-    {
-      "rank": 2,
-      "name": "Igor",
-      "value": 31
-    },
-    {
-      "rank": 3,
-      "name": "AstronaVt",
-      "value": 20
-    },
-    {
-      "rank": 4,
-      "name": "Ольга",
-      "value": 19
-    },
-    {
-      "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 16
-    },
-    {
-      "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 14
-    },
-    {
-      "rank": 7,
-      "name": "a l",
-      "value": 14
-    },
-    {
-      "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 13
-    },
-    {
-      "rank": 9,
-      "name": "Archie",
-      "value": 12
-    },
-    {
-      "rank": 10,
-      "name": "🤗",
-      "value": 9
-    },
-    {
-      "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
-      "rank": 12,
-      "name": ".",
-      "value": 6
-    },
-    {
-      "rank": 13,
-      "name": "Vitaliy",
-      "value": 6
-    },
-    {
-      "rank": 14,
-      "name": "Anatoly Shadrin",
-      "value": 5
-    },
-    {
-      "rank": 15,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
-      "rank": 16,
-      "name": "Turchyn Gennadii",
-      "value": 5
-    },
-    {
-      "rank": 17,
-      "name": "L G",
-      "value": 5
-    },
-    {
-      "rank": 18,
-      "name": "Manis Love",
-      "value": 5
-    },
-    {
-      "rank": 19,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
-      "rank": 20,
-      "name": "Константин",
-      "value": 4
-    },
-    {
-      "rank": 21,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
-      "rank": 22,
-      "name": "Роман",
-      "value": 2
-    },
-    {
-      "rank": 23,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
-      "rank": 24,
-      "name": "ᅠ",
-      "value": 2
-    },
-    {
-      "rank": 25,
-      "name": "Ilya",
-      "value": 1
-    },
-    {
-      "rank": 26,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
-    },
-    {
-      "rank": 27,
-      "name": "***",
-      "value": 1
-    },
-    {
-      "rank": 28,
-      "name": "X888",
-      "value": 1
-    },
-    {
-      "rank": 29,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 30,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
-      "rank": 31,
-      "name": "Andrey Kuimov",
-      "value": 1
-    },
-    {
-      "rank": 32,
-      "name": "Aся",
-      "value": 1
-    },
-    {
-      "rank": 33,
-      "name": "Artem Khomenko",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
