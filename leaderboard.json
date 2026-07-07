@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T13:39:33+00:00",
+  "updated": "2026-07-07T14:39:38+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -138,7 +138,7 @@
     {
       "rank": 23,
       "name": "Manis Love",
-      "value": 161,
+      "value": 162,
       "move": 0
     },
     {
@@ -424,32 +424,32 @@
     },
     {
       "rank": 16,
+      "name": "Manis Love",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 20,
-      "name": "ᅠ",
-      "value": 5
-    },
-    {
       "rank": 21,
-      "name": "Manis Love",
+      "name": "ᅠ",
       "value": 5
     },
     {
@@ -601,27 +601,27 @@
     },
     {
       "rank": 15,
+      "name": "Manis Love",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 18,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "L G",
       "value": 5
     },
     {
