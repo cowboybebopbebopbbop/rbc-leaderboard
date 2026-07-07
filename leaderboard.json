@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T18:39:34+00:00",
+  "updated": "2026-07-07T19:39:34+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "ᅠ",
-      "value": 128,
+      "value": 129,
       "move": 0
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "ᴦоᴧод",
-      "value": 39,
+      "value": 40,
       "move": 0
     },
     {
@@ -419,12 +419,12 @@
     },
     {
       "rank": 15,
-      "name": "Turchyn Gennadii",
-      "value": 6
+      "name": "ᅠ",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "ᅠ",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
@@ -434,28 +434,28 @@
     },
     {
       "rank": 18,
-      "name": "Anatoly Shadrin",
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
       "rank": 19,
-      "name": "Алексей",
+      "name": "Anatoly Shadrin",
       "value": 5
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "Алексей",
       "value": 5
     },
     {
       "rank": 21,
-      "name": "L G",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "name": "L G",
+      "value": 5
     },
     {
       "rank": 23,
@@ -627,7 +627,7 @@
     {
       "rank": 20,
       "name": "ᅠ",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 21,
@@ -636,18 +636,18 @@
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "ᴦоᴧод",
       "value": 3
     },
     {
       "rank": 23,
-      "name": "Andrey Kuimov",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "ᴦоᴧод",
-      "value": 2
+      "name": "Andrey Kuimov",
+      "value": 3
     },
     {
       "rank": 25,
