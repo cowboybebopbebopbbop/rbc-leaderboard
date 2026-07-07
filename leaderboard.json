@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T19:39:34+00:00",
+  "updated": "2026-07-07T20:39:34+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 603,
+      "value": 604,
       "move": 0
     },
     {
@@ -143,15 +143,15 @@
     },
     {
       "rank": 24,
-      "name": "Александр",
-      "value": 129,
-      "move": 0
+      "name": "ᅠ",
+      "value": 130,
+      "move": 1
     },
     {
       "rank": 25,
-      "name": "ᅠ",
+      "name": "Александр",
       "value": 129,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 26,
@@ -227,15 +227,15 @@
     },
     {
       "rank": 38,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 44,
+      "move": 1
     },
     {
       "rank": 39,
-      "name": "Vitaliy",
+      "name": "SyslikJan",
       "value": 43,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 40,
@@ -410,17 +410,17 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 14,
       "name": "Vitaliy",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 15,
       "name": "ᅠ",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 16,
@@ -587,12 +587,12 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 13,
       "name": "Vitaliy",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 14,
@@ -601,32 +601,32 @@
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "ᅠ",
       "value": 6
     },
     {
       "rank": 16,
+      "name": "Manis Love",
+      "value": 6
+    },
+    {
+      "rank": 17,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 19,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 20,
-      "name": "ᅠ",
+      "name": "L G",
       "value": 5
     },
     {
