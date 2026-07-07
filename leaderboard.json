@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:39:38+00:00",
+  "updated": "2026-07-07T15:39:34+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1657,
+      "value": 1658,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "ᅠ",
-      "value": 127,
+      "value": 128,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 42,
+      "value": 43,
       "move": 0
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 11,
@@ -414,42 +414,42 @@
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 7
+    },
+    {
+      "rank": 15,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 15,
-      "name": "Vitaliy",
-      "value": 6
-    },
-    {
       "rank": 16,
-      "name": "Manis Love",
+      "name": "ᅠ",
       "value": 6
     },
     {
       "rank": 17,
+      "name": "Manis Love",
+      "value": 6
+    },
+    {
+      "rank": 18,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 20,
-      "name": "L G",
-      "value": 5
-    },
-    {
       "rank": 21,
-      "name": "ᅠ",
+      "name": "L G",
       "value": 5
     },
     {
@@ -567,7 +567,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 9,
@@ -591,12 +591,12 @@
     },
     {
       "rank": 13,
-      "name": "Turchyn Gennadii",
-      "value": 6
+      "name": "Vitaliy",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
@@ -626,17 +626,17 @@
     },
     {
       "rank": 20,
-      "name": "Константин",
+      "name": "ᅠ",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Руслан Иванов",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 22,
-      "name": "ᅠ",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
