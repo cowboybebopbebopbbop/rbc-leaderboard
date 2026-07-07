@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T08:39:33+00:00",
+  "updated": "2026-07-07T09:39:33+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1712,
+      "value": 1713,
       "move": 0
     },
     {
@@ -270,7 +270,7 @@
     {
       "rank": 45,
       "name": "Turchyn Gennadii",
-      "value": 11,
+      "value": 12,
       "move": 0
     },
     {
@@ -375,7 +375,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 7,
@@ -414,22 +414,22 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 15,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
       "rank": 17,
-      "name": "Turchyn Gennadii",
+      "name": "Алексей",
       "value": 5
     },
     {
@@ -552,7 +552,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 6,
@@ -591,27 +591,27 @@
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 15,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 16,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
       "rank": 17,
-      "name": "Turchyn Gennadii",
+      "name": "Алексей",
       "value": 5
     },
     {
