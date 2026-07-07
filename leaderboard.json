@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T09:39:33+00:00",
+  "updated": "2026-07-07T10:39:33+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3833,
+      "value": 3834,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Eugene",
-      "value": 544,
+      "value": 545,
       "move": 0
     },
     {
@@ -355,7 +355,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 3,
@@ -479,37 +479,37 @@
     },
     {
       "rank": 27,
-      "name": "Anatoly Radchenko",
+      "name": "Eugene",
       "value": 2
     },
     {
       "rank": 28,
+      "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 32,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
       "rank": 33,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
@@ -536,13 +536,13 @@
     },
     {
       "rank": 2,
-      "name": "Viktor",
+      "name": "Igor",
       "value": 32
     },
     {
       "rank": 3,
-      "name": "Igor",
-      "value": 31
+      "name": "Viktor",
+      "value": 32
     },
     {
       "rank": 4,
@@ -661,32 +661,32 @@
     },
     {
       "rank": 27,
+      "name": "Eugene",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Ilya",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "Eugene",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
