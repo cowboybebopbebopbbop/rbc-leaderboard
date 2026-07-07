@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-07T20:39:34+00:00",
+  "updated": "2026-07-07T21:39:34+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5551,
+      "value": 5553,
       "move": 0
     },
     {
@@ -203,15 +203,15 @@
     },
     {
       "rank": 34,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": 0
+      "name": "AstronaVt",
+      "value": 66,
+      "move": 1
     },
     {
       "rank": 35,
-      "name": "AstronaVt",
+      "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 36,
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "ᴦоᴧод",
-      "value": 40,
+      "value": 41,
       "move": 0
     },
     {
@@ -350,7 +350,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 54
+      "value": 56
     },
     {
       "rank": 2,
@@ -365,7 +365,7 @@
     {
       "rank": 4,
       "name": "AstronaVt",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 5,
@@ -424,18 +424,18 @@
     },
     {
       "rank": 16,
-      "name": "Turchyn Gennadii",
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 18,
-      "name": "ᴦоᴧод",
-      "value": 5
+      "name": "Manis Love",
+      "value": 6
     },
     {
       "rank": 19,
@@ -532,7 +532,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 42
     },
     {
       "rank": 2,
@@ -547,7 +547,7 @@
     {
       "rank": 4,
       "name": "AstronaVt",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 5,
@@ -631,13 +631,13 @@
     },
     {
       "rank": 21,
-      "name": "Константин",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 23,
