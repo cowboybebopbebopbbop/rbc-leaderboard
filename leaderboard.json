@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T04:39:37+00:00",
+  "updated": "2026-07-08T05:39:35+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -251,20 +251,20 @@
     },
     {
       "rank": 42,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 18,
+      "move": 1
     },
     {
       "rank": 43,
-      "name": "Руслан Иванов",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 44,
       "name": "Anatoly Shadrin",
-      "value": 15,
+      "value": 17,
       "move": 0
     },
     {
@@ -424,37 +424,37 @@
     },
     {
       "rank": 16,
-      "name": "L G",
+      "name": "Anatoly Shadrin",
       "value": 7
     },
     {
       "rank": 17,
+      "name": "L G",
+      "value": 7
+    },
+    {
+      "rank": 18,
       "name": "ᴦоᴧод",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "name": "Руслан Иванов",
+      "value": 6
+    },
+    {
+      "rank": 21,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 20,
-      "name": "Anatoly Shadrin",
-      "value": 5
-    },
-    {
-      "rank": 21,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "Алексей",
       "value": 5
     },
     {
@@ -596,32 +596,32 @@
     },
     {
       "rank": 14,
-      "name": "L G",
+      "name": "Anatoly Shadrin",
       "value": 7
     },
     {
       "rank": 15,
+      "name": "L G",
+      "value": 7
+    },
+    {
+      "rank": 16,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "ᅠ",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 18,
-      "name": ".",
-      "value": 5
-    },
-    {
       "rank": 19,
-      "name": "Anatoly Shadrin",
+      "name": ".",
       "value": 5
     },
     {
@@ -636,13 +636,13 @@
     },
     {
       "rank": 22,
-      "name": "Константин",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Руслан Иванов",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 24,
