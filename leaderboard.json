@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:39:38+00:00",
+  "updated": "2026-07-08T18:28:28+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 900,
+      "value": 868,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 133,
+      "value": 134,
       "move": 1
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 46,
+      "value": 51,
       "move": 3
     },
     {
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Роман",
-      "value": 3,
+      "value": 4,
       "move": -1
     },
     {
@@ -406,22 +406,22 @@
     },
     {
       "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 16
+    },
+    {
+      "rank": 11,
       "name": "Archie",
       "value": 14
     },
     {
-      "rank": 11,
-      "name": "ᴦоᴧод",
-      "value": 11
-    },
-    {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 11
+      "name": "ᅠ",
+      "value": 12
     },
     {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "Князь Владимир С",
       "value": 11
     },
     {
@@ -481,13 +481,13 @@
     },
     {
       "rank": 25,
-      "name": "Andrey Kuimov",
+      "name": "Роман",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Роман",
-      "value": 2
+      "name": "Andrey Kuimov",
+      "value": 3
     },
     {
       "rank": 27,
@@ -559,7 +559,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 3,
@@ -578,47 +578,47 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "ᴦоᴧод",
       "value": 14
     },
     {
       "rank": 7,
+      "name": "Archie",
+      "value": 14
+    },
+    {
+      "rank": 8,
       "name": "Olga Goncharova",
       "value": 11
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Князь Владимир С",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "🤗",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Ольга",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "name": "ᅠ",
+      "value": 10
+    },
+    {
+      "rank": 13,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 12,
-      "name": "ᴦоᴧод",
-      "value": 9
-    },
-    {
-      "rank": 13,
-      "name": "Zero-sum Gamer",
-      "value": 9
-    },
-    {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
@@ -673,13 +673,13 @@
     },
     {
       "rank": 25,
-      "name": "Andrey Kuimov",
+      "name": "Роман",
       "value": 3
     },
     {
       "rank": 26,
-      "name": "Роман",
-      "value": 2
+      "name": "Andrey Kuimov",
+      "value": 3
     },
     {
       "rank": 27,
