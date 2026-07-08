@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-08T13:39:38+00:00",
-  "count": 58,
+  "updated": "2026-07-08T14:39:38+00:00",
+  "count": 59,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5560,
+      "value": 5563,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3849,
+      "value": 3851,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 605,
+      "value": 606,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 132,
+      "value": 133,
       "move": 1
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "ᴦоᴧод",
-      "value": 41,
+      "value": 42,
       "move": 0
     },
     {
@@ -275,93 +275,99 @@
     },
     {
       "rank": 46,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "vpidelks",
+      "value": 12,
+      "move": null
     },
     {
       "rank": 47,
-      "name": "X888",
+      "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 48,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "X888",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 49,
-      "name": "***",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 50,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "***",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 51,
-      "name": "Роман",
-      "value": 3,
-      "move": 0
+      "name": "Sila",
+      "value": 4,
+      "move": -1
     },
     {
       "rank": 52,
-      "name": "Ilya",
+      "name": "Роман",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 53,
+      "name": "Ilya",
+      "value": 3,
+      "move": -1
+    },
+    {
+      "rank": 54,
       "name": "Samurai_1",
       "value": 2,
       "move": null
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "xxx",
       "value": 1,
-      "move": -1
-    },
-    {
-      "rank": 55,
-      "name": "⁤",
-      "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 56,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 57,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 58,
+      "name": "Solomon Fridman",
+      "value": 1,
+      "move": -2
+    },
+    {
+      "rank": 59,
       "name": "Darya",
       "value": 1,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 63
+      "value": 66
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 57
+      "value": 59
     },
     {
       "rank": 3,
@@ -405,22 +411,22 @@
     },
     {
       "rank": 11,
+      "name": "Князь Владимир С",
+      "value": 11
+    },
+    {
+      "rank": 12,
+      "name": "ᅠ",
+      "value": 11
+    },
+    {
+      "rank": 13,
       "name": ".",
       "value": 10
     },
     {
-      "rank": 12,
-      "name": "🤗",
-      "value": 10
-    },
-    {
-      "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 10
-    },
-    {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "🤗",
       "value": 10
     },
     {
@@ -430,23 +436,23 @@
     },
     {
       "rank": 16,
-      "name": "Anatoly Shadrin",
+      "name": "ᴦоᴧод",
       "value": 7
     },
     {
       "rank": 17,
-      "name": "L G",
+      "name": "Anatoly Shadrin",
       "value": 7
     },
     {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "L G",
       "value": 7
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
-      "value": 6
+      "name": "Manis Love",
+      "value": 7
     },
     {
       "rank": 20,
@@ -543,12 +549,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 49
+      "value": 52
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 47
+      "value": 49
     },
     {
       "rank": 3,
@@ -592,22 +598,22 @@
     },
     {
       "rank": 11,
+      "name": "Князь Владимир С",
+      "value": 11
+    },
+    {
+      "rank": 12,
       "name": "🤗",
       "value": 10
     },
     {
-      "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 10
-    },
-    {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "ᅠ",
+      "value": 9
     },
     {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "Vitaliy",
       "value": 8
     },
     {
@@ -637,13 +643,13 @@
     },
     {
       "rank": 20,
-      "name": "Алексей",
+      "name": "ᴦоᴧод",
       "value": 5
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
-      "value": 4
+      "name": "Алексей",
+      "value": 5
     },
     {
       "rank": 22,
