@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:39:38+00:00",
+  "updated": "2026-07-08T16:39:38+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 781,
+      "value": 782,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 709,
+      "value": 710,
       "move": 0
     },
     {
@@ -131,15 +131,15 @@
     },
     {
       "rank": 22,
-      "name": "Константин",
+      "name": "Manis Love",
       "value": 164,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 23,
-      "name": "Manis Love",
-      "value": 163,
-      "move": 0
+      "name": "Константин",
+      "value": 164,
+      "move": -1
     },
     {
       "rank": 24,
@@ -245,15 +245,15 @@
     },
     {
       "rank": 41,
-      "name": "Толян",
-      "value": 18,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 19,
+      "move": 2
     },
     {
       "rank": 42,
-      "name": "Руслан Иванов",
+      "name": "Толян",
       "value": 18,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 43,
@@ -436,32 +436,32 @@
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 17,
+      "name": "Vitaliy",
+      "value": 8
+    },
+    {
+      "rank": 18,
+      "name": "Manis Love",
+      "value": 8
+    },
+    {
+      "rank": 19,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 18,
-      "name": "L G",
-      "value": 7
-    },
-    {
-      "rank": 19,
-      "name": "Manis Love",
-      "value": 7
-    },
-    {
       "rank": 20,
-      "name": "Turchyn Gennadii",
-      "value": 6
+      "name": "Руслан Иванов",
+      "value": 7
     },
     {
       "rank": 21,
-      "name": "Руслан Иванов",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
@@ -511,36 +511,41 @@
     },
     {
       "rank": 31,
-      "name": "***",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "X888",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
@@ -554,7 +559,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -613,22 +618,22 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 15,
-      "name": "Anatoly Shadrin",
-      "value": 7
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 16,
-      "name": "L G",
-      "value": 7
+      "name": "Manis Love",
+      "value": 8
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Anatoly Shadrin",
       "value": 7
     },
     {
@@ -653,12 +658,12 @@
     },
     {
       "rank": 22,
-      "name": "Eugene",
-      "value": 4
+      "name": "Руслан Иванов",
+      "value": 5
     },
     {
       "rank": 23,
-      "name": "Руслан Иванов",
+      "name": "Eugene",
       "value": 4
     },
     {
@@ -693,36 +698,41 @@
     },
     {
       "rank": 30,
-      "name": "***",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "X888",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 36,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 37,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
