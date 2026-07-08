@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T00:30:07+00:00",
+  "updated": "2026-07-08T09:35:46+00:00",
   "contests": [
     {
       "question": "Какой будет цена ВТС в среду 8 июля, в 12:00 МСК, по версии CMC?",
@@ -21,13 +21,160 @@
       "posted": "2026-07-03T07:47:48+00:00",
       "deadline": "2026-07-04T20:59:59+00:00",
       "target_time": "2026-07-08T09:00:00+00:00",
-      "status": "voted",
-      "winner_option": null,
-      "winner_price": null,
-      "winners": [],
+      "status": "resolved",
+      "winner_option": 2,
+      "winner_price": 62018.36,
+      "winners": [
+        "Jekago |РБК Крипто, мод.",
+        "Валерий",
+        "Роман",
+        "Pavel Maksin",
+        "Денис Малахов",
+        "Zero-sum Gamer",
+        "xxx",
+        "Jamil A.",
+        "Сергей",
+        "Anatoly Shadrin",
+        "Andrey Kuimov",
+        "Сергей",
+        "Миха",
+        "Dmirriy",
+        "Александр6666",
+        "Василий",
+        "Alex Popov",
+        "🤗",
+        "Ник",
+        "Олег",
+        "Niki ᅠ",
+        "Дима",
+        "TellItToUS",
+        "Archie",
+        "Roman",
+        "Vyacheslav Kolodiy",
+        "Михаил",
+        "Ирина Фет",
+        "И"
+      ],
       "link": "https://t.me/c/2222981283/382949",
       "source": "Binance BTCUSDT"
     }
   ],
-  "board": []
+  "board": [
+    {
+      "name": "Jekago |РБК Крипто, мод.",
+      "points": 1
+    },
+    {
+      "name": "Валерий",
+      "points": 1
+    },
+    {
+      "name": "Роман",
+      "points": 1
+    },
+    {
+      "name": "Pavel Maksin",
+      "points": 1
+    },
+    {
+      "name": "Денис Малахов",
+      "points": 1
+    },
+    {
+      "name": "Zero-sum Gamer",
+      "points": 1
+    },
+    {
+      "name": "xxx",
+      "points": 1
+    },
+    {
+      "name": "Jamil A.",
+      "points": 1
+    },
+    {
+      "name": "Сергей",
+      "points": 1
+    },
+    {
+      "name": "Anatoly Shadrin",
+      "points": 1
+    },
+    {
+      "name": "Andrey Kuimov",
+      "points": 1
+    },
+    {
+      "name": "Сергей",
+      "points": 1
+    },
+    {
+      "name": "Миха",
+      "points": 1
+    },
+    {
+      "name": "Dmirriy",
+      "points": 1
+    },
+    {
+      "name": "Александр6666",
+      "points": 1
+    },
+    {
+      "name": "Василий",
+      "points": 1
+    },
+    {
+      "name": "Alex Popov",
+      "points": 1
+    },
+    {
+      "name": "🤗",
+      "points": 1
+    },
+    {
+      "name": "Ник",
+      "points": 1
+    },
+    {
+      "name": "Олег",
+      "points": 1
+    },
+    {
+      "name": "Niki ᅠ",
+      "points": 1
+    },
+    {
+      "name": "Дима",
+      "points": 1
+    },
+    {
+      "name": "TellItToUS",
+      "points": 1
+    },
+    {
+      "name": "Archie",
+      "points": 1
+    },
+    {
+      "name": "Roman",
+      "points": 1
+    },
+    {
+      "name": "Vyacheslav Kolodiy",
+      "points": 1
+    },
+    {
+      "name": "Михаил",
+      "points": 1
+    },
+    {
+      "name": "Ирина Фет",
+      "points": 1
+    },
+    {
+      "name": "И",
+      "points": 1
+    }
+  ]
 }
