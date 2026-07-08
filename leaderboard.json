@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T18:28:28+00:00",
+  "updated": "2026-07-08T19:28:29+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -658,22 +658,22 @@
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
-      "value": 5
-    },
-    {
-      "rank": 23,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Роман",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
