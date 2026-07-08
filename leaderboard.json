@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-08T06:39:35+00:00",
-  "count": 57,
+  "updated": "2026-07-08T07:39:38+00:00",
+  "count": 58,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5553,
+      "value": 5555,
       "move": 0
     },
     {
@@ -317,40 +317,46 @@
     },
     {
       "rank": 53,
-      "name": "xxx",
-      "value": 1,
-      "move": 0
+      "name": "Samurai_1",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 54,
-      "name": "⁤",
+      "name": "xxx",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 55,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 56,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 57,
+      "name": "Solomon Fridman",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 58,
       "name": "Darya",
       "value": 1,
-      "move": 0
+      "move": -1
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 56
+      "value": 58
     },
     {
       "rank": 2,
@@ -537,7 +543,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 44
     },
     {
       "rank": 2,
