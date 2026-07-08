@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T19:28:29+00:00",
+  "updated": "2026-07-08T20:28:29+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 134,
+      "value": 135,
       "move": 1
     },
     {
@@ -305,15 +305,15 @@
     },
     {
       "rank": 51,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "Роман",
+      "value": 5,
+      "move": 0
     },
     {
       "rank": 52,
-      "name": "Роман",
+      "name": "Sila",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 53,
@@ -417,7 +417,7 @@
     {
       "rank": 12,
       "name": "ᅠ",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 13,
@@ -471,18 +471,18 @@
     },
     {
       "rank": 23,
-      "name": "Eugene",
+      "name": "Роман",
       "value": 4
     },
     {
       "rank": 24,
-      "name": "Константин",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 25,
-      "name": "Роман",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 26,
@@ -559,7 +559,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 3,
@@ -598,17 +598,17 @@
     },
     {
       "rank": 10,
+      "name": "ᅠ",
+      "value": 11
+    },
+    {
+      "rank": 11,
       "name": "🤗",
       "value": 10
     },
     {
-      "rank": 11,
-      "name": "Ольга",
-      "value": 10
-    },
-    {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Ольга",
       "value": 10
     },
     {
@@ -658,18 +658,18 @@
     },
     {
       "rank": 22,
-      "name": "Eugene",
+      "name": "Роман",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Константин",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 24,
-      "name": "Роман",
-      "value": 3
+      "name": "Константин",
+      "value": 4
     },
     {
       "rank": 25,
