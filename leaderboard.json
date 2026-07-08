@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-08T09:39:38+00:00",
+  "updated": "2026-07-08T10:39:38+00:00",
   "count": 58,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5557,
+      "value": 5558,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 968,
+      "value": 970,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Eugene",
-      "value": 545,
+      "value": 547,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 299,
+      "value": 302,
       "move": 0
     },
     {
@@ -114,7 +114,7 @@
     {
       "rank": 19,
       "name": "🤗",
-      "value": 285,
+      "value": 286,
       "move": 0
     },
     {
@@ -356,7 +356,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 2,
@@ -390,13 +390,13 @@
     },
     {
       "rank": 8,
-      "name": "a l",
-      "value": 16
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 18
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 15
+      "name": "a l",
+      "value": 18
     },
     {
       "rank": 10,
@@ -410,18 +410,18 @@
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "Князь Владимир С",
       "value": 10
     },
     {
       "rank": 14,
-      "name": "🤗",
-      "value": 9
+      "name": "ᅠ",
+      "value": 10
     },
     {
       "rank": 15,
@@ -465,27 +465,27 @@
     },
     {
       "rank": 23,
-      "name": "Константин",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 24,
+      "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Eugene",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
@@ -543,7 +543,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -567,23 +567,23 @@
     },
     {
       "rank": 6,
+      "name": "a l",
+      "value": 18
+    },
+    {
+      "rank": 7,
       "name": "Zero-sum Gamer",
       "value": 17
     },
     {
-      "rank": 7,
-      "name": "a l",
-      "value": 16
-    },
-    {
       "rank": 8,
-      "name": "Archie",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 12
+      "name": "Archie",
+      "value": 14
     },
     {
       "rank": 10,
@@ -592,13 +592,13 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 9
+      "name": "Князь Владимир С",
+      "value": 10
     },
     {
       "rank": 13,
@@ -647,32 +647,32 @@
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 23,
-      "name": "Константин",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 24,
+      "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 25,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Eugene",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
