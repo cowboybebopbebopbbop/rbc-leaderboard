@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-08T08:39:37+00:00",
+  "updated": "2026-07-08T09:39:38+00:00",
   "count": 58,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5555,
+      "value": 5557,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3841,
+      "value": 3846,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 755,
+      "value": 758,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 131,
+      "value": 132,
       "move": 1
     },
     {
@@ -356,12 +356,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 60
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 49
+      "value": 54
     },
     {
       "rank": 3,
@@ -370,13 +370,13 @@
     },
     {
       "rank": 4,
-      "name": "AstronaVt",
-      "value": 23
+      "name": "Zero-sum Gamer",
+      "value": 24
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 21
+      "name": "AstronaVt",
+      "value": 23
     },
     {
       "rank": 6,
@@ -415,12 +415,12 @@
     },
     {
       "rank": 13,
-      "name": "🤗",
-      "value": 9
+      "name": "ᅠ",
+      "value": 10
     },
     {
       "rank": 14,
-      "name": "ᅠ",
+      "name": "🤗",
       "value": 9
     },
     {
@@ -543,12 +543,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 44
+      "value": 46
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 39
+      "value": 44
     },
     {
       "rank": 3,
@@ -567,13 +567,13 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 16
+      "name": "Zero-sum Gamer",
+      "value": 17
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 14
+      "name": "a l",
+      "value": 16
     },
     {
       "rank": 8,
@@ -607,17 +607,17 @@
     },
     {
       "rank": 14,
+      "name": "ᅠ",
+      "value": 8
+    },
+    {
+      "rank": 15,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 15,
-      "name": "L G",
-      "value": 7
-    },
-    {
       "rank": 16,
-      "name": "ᅠ",
+      "name": "L G",
       "value": 7
     },
     {
