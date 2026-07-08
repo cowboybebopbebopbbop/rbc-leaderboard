@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T00:39:34+00:00",
+  "updated": "2026-07-08T01:39:34+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 707,
+      "value": 709,
       "move": 0
     },
     {
@@ -424,37 +424,37 @@
     },
     {
       "rank": 16,
+      "name": "L G",
+      "value": 7
+    },
+    {
+      "rank": 17,
       "name": "ᴦоᴧод",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 21,
-      "name": "Руслан Иванов",
-      "value": 5
-    },
-    {
       "rank": 22,
-      "name": "L G",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
@@ -596,37 +596,37 @@
     },
     {
       "rank": 14,
+      "name": "L G",
+      "value": 7
+    },
+    {
+      "rank": 15,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "ᅠ",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Anatoly Shadrin",
       "value": 5
     },
     {
-      "rank": 19,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
       "rank": 20,
-      "name": "L G",
+      "name": "Алексей",
       "value": 5
     },
     {
