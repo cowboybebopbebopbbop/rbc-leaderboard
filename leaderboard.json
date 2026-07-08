@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T16:39:38+00:00",
+  "updated": "2026-07-08T17:39:38+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3852,
+      "value": 3853,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 302,
+      "value": 304,
       "move": 0
     },
     {
@@ -221,27 +221,27 @@
     },
     {
       "rank": 37,
-      "name": "Sergei IVANOV",
+      "name": "ᴦоᴧод",
       "value": 46,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 38,
-      "name": "Vitaliy",
-      "value": 44,
-      "move": 1
-    },
-    {
-      "rank": 39,
-      "name": "SyslikJan",
-      "value": 43,
+      "name": "Sergei IVANOV",
+      "value": 46,
       "move": -1
     },
     {
-      "rank": 40,
-      "name": "ᴦоᴧод",
-      "value": 43,
+      "rank": 39,
+      "name": "Vitaliy",
+      "value": 44,
       "move": 0
+    },
+    {
+      "rank": 40,
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -2
     },
     {
       "rank": 41,
@@ -367,7 +367,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 3,
@@ -386,17 +386,17 @@
     },
     {
       "rank": 6,
-      "name": "Ольга",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 20
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 18
+      "name": "Ольга",
+      "value": 20
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Olga Goncharova",
       "value": 18
     },
     {
@@ -411,28 +411,28 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "ᴦоᴧод",
       "value": 11
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "Князь Владимир С",
       "value": 11
     },
     {
       "rank": 13,
+      "name": "ᅠ",
+      "value": 11
+    },
+    {
+      "rank": 14,
       "name": ".",
       "value": 10
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "🤗",
       "value": 10
-    },
-    {
-      "rank": 15,
-      "name": "ᴦоᴧод",
-      "value": 8
     },
     {
       "rank": 16,
@@ -554,12 +554,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
@@ -573,73 +573,73 @@
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 20
-    },
-    {
-      "rank": 6,
-      "name": "a l",
-      "value": 18
-    },
-    {
-      "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 17
     },
     {
-      "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 15
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "name": "Archie",
       "value": 14
     },
     {
-      "rank": 10,
+      "rank": 7,
       "name": "Olga Goncharova",
       "value": 11
     },
     {
-      "rank": 11,
+      "rank": 8,
       "name": "Князь Владимир С",
       "value": 11
     },
     {
-      "rank": 12,
+      "rank": 9,
       "name": "🤗",
       "value": 10
     },
     {
+      "rank": 10,
+      "name": "Ольга",
+      "value": 10
+    },
+    {
+      "rank": 11,
+      "name": "a l",
+      "value": 10
+    },
+    {
+      "rank": 12,
+      "name": "ᴦоᴧод",
+      "value": 9
+    },
+    {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "Zero-sum Gamer",
       "value": 9
     },
     {
       "rank": 14,
+      "name": "ᅠ",
+      "value": 9
+    },
+    {
+      "rank": 15,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Manis Love",
       "value": 8
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Anatoly Shadrin",
       "value": 7
-    },
-    {
-      "rank": 18,
-      "name": "ᴦоᴧод",
-      "value": 6
     },
     {
       "rank": 19,
