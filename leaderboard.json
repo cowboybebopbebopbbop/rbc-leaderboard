@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T14:39:38+00:00",
+  "updated": "2026-07-08T15:39:38+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3851,
+      "value": 3852,
       "move": 0
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "ᴦоᴧод",
-      "value": 42,
+      "value": 43,
       "move": 0
     },
     {
@@ -367,7 +367,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 3,
@@ -431,13 +431,13 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
+      "name": "ᴦоᴧод",
       "value": 8
     },
     {
       "rank": 16,
-      "name": "ᴦоᴧод",
-      "value": 7
+      "name": "Vitaliy",
+      "value": 8
     },
     {
       "rank": 17,
@@ -548,13 +548,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 52
+      "name": "Igor",
+      "value": 42
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 49
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 38
     },
     {
       "rank": 3,
@@ -633,17 +633,17 @@
     },
     {
       "rank": 18,
-      "name": "Turchyn Gennadii",
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
       "rank": 19,
-      "name": ".",
-      "value": 5
+      "name": "Turchyn Gennadii",
+      "value": 6
     },
     {
       "rank": 20,
-      "name": "ᴦоᴧод",
+      "name": ".",
       "value": 5
     },
     {
