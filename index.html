@@ -202,7 +202,7 @@
 
   <section id="view-pred" class="hidden">
     <h2>Прогнозы — «Кто точнее» 🎯</h2>
-    <div class="sub">Конкурсы точности от админов форума (опросы с #ктоточнее в чате). Попал в верный вариант — получил 🎯, очки копятся между конкурсами. Игра на очки: без ставок и денег, не финсовет. Итог фиксируется автоматически по данным Binance (BTCUSDT).</div>
+    <div class="sub">Конкурсы точности от админов форума (опросы с #ктоточнее в чате). Попал в верный вариант — получил 🎯, очки копятся между конкурсами. Игра на очки: без ставок и денег, не финсовет. Итог фиксируется автоматически по данным биржи Binance (инструмент берётся из вопроса: BTC, ETH и т.д.).</div>
     <div id="pred-body"></div>
   </section>
 
@@ -371,7 +371,7 @@
         card.appendChild(el('div','d',`Угадали ${c.winners.length} — каждому +1 🎯:`));
         const wrap=el('div');wrap.style.marginTop='6px';c.winners.forEach(w=>wrap.appendChild(el('span','pred-chip','🎯 '+anon(w))));card.appendChild(wrap);
       }
-      const meta=el('div','d',`${c.total} голосов · опубликован ${fmtD(c.posted)}${done?'':' · источник итога: '+c.source}`);card.appendChild(meta);
+      const meta=el('div','d',`${c.total} голосов · опубликован ${fmtD(c.posted)} · источник: ${c.source}`);card.appendChild(meta);
       const a=el('a','src','Открыть опрос в чате →');a.href=c.link;ext(a);const ld=el('div');ld.style.marginTop='8px';ld.appendChild(a);
       if(mid){const sh=el('button','sharelink','🔗 ссылка на конкурс');sh.type='button';
         sh.onclick=()=>{history.replaceState(null,'','#pred/'+mid);const u=location.origin+location.pathname+'#pred/'+mid;
