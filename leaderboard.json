@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T05:39:35+00:00",
+  "updated": "2026-07-08T06:39:35+00:00",
   "count": 57,
   "has_movement": true,
   "all": [
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "DenisNazarov",
-      "value": 187,
+      "value": 188,
       "move": 0
     },
     {
@@ -519,11 +519,16 @@
     },
     {
       "rank": 35,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 36,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 37,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
@@ -696,11 +701,16 @@
     },
     {
       "rank": 34,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 35,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 36,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
