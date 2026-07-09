@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:56:57+00:00",
+  "updated": "2026-07-09T21:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 2,
@@ -673,18 +673,18 @@
     },
     {
       "rank": 24,
-      "name": "Алексей",
-      "value": 3
-    },
-    {
-      "rank": 25,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Andrey Kuimov",
       "value": 3
+    },
+    {
+      "rank": 26,
+      "name": "Алексей",
+      "value": 2
     },
     {
       "rank": 27,
