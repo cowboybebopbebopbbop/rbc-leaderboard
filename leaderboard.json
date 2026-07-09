@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T06:56:57+00:00",
+  "updated": "2026-07-09T07:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1713,
+      "value": 1714,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 973,
+      "value": 975,
       "move": 0
     },
     {
@@ -387,16 +387,16 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 21
+      "value": 23
     },
     {
       "rank": 7,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 20
+      "name": "Ольга",
+      "value": 21
     },
     {
       "rank": 8,
-      "name": "Ольга",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 20
     },
     {
@@ -559,17 +559,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 41
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 33
+      "name": "Viktor",
+      "value": 32
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 32
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 31
     },
     {
       "rank": 4,
@@ -594,7 +594,7 @@
     {
       "rank": 8,
       "name": "a l",
-      "value": 12
+      "value": 14
     },
     {
       "rank": 9,
@@ -608,22 +608,22 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "Ольга",
       "value": 10
     },
     {
       "rank": 12,
+      "name": "Князь Владимир С",
+      "value": 10
+    },
+    {
+      "rank": 13,
       "name": "Zero-sum Gamer",
       "value": 9
     },
     {
-      "rank": 13,
-      "name": "🤗",
-      "value": 9
-    },
-    {
       "rank": 14,
-      "name": "Ольга",
+      "name": "🤗",
       "value": 9
     },
     {
