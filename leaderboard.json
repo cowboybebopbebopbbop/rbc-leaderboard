@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-09T21:56:57+00:00",
+  "updated": "2026-07-09T22:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5565,
+      "value": 5566,
       "move": 0
     },
     {
@@ -361,13 +361,13 @@
   "month": [
     {
       "rank": 1,
-      "name": "Igor",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 69
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 68
+      "name": "Igor",
+      "value": 69
     },
     {
       "rank": 3,
@@ -569,7 +569,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 4,
@@ -579,7 +579,7 @@
     {
       "rank": 5,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 6,
@@ -593,12 +593,12 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 13
+      "name": "Ольга",
+      "value": 12
     },
     {
       "rank": 9,
-      "name": "Ольга",
+      "name": "Archie",
       "value": 12
     },
     {
