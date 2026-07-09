@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T12:56:57+00:00",
+  "updated": "2026-07-09T13:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3854,
+      "value": 3855,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 976,
+      "value": 979,
       "move": 0
     },
     {
@@ -367,7 +367,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 3,
@@ -376,12 +376,12 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 24
+      "name": "a l",
+      "value": 27
     },
     {
       "rank": 5,
-      "name": "a l",
+      "name": "Zero-sum Gamer",
       "value": 24
     },
     {
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
@@ -578,17 +578,17 @@
     },
     {
       "rank": 5,
+      "name": "a l",
+      "value": 18
+    },
+    {
+      "rank": 6,
       "name": "wavesscalper | скальпер по волнам",
       "value": 17
     },
     {
-      "rank": 6,
-      "name": "AstronaVt",
-      "value": 15
-    },
-    {
       "rank": 7,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 15
     },
     {
@@ -608,17 +608,17 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 10
-    },
-    {
-      "rank": 12,
       "name": "ᅠ",
       "value": 10
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 13,
+      "name": "Князь Владимир С",
       "value": 9
     },
     {
