@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T07:56:57+00:00",
+  "updated": "2026-07-09T08:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3853,
+      "value": 3854,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 975,
+      "value": 976,
       "move": 0
     },
     {
@@ -132,7 +132,7 @@
     {
       "rank": 22,
       "name": "Manis Love",
-      "value": 164,
+      "value": 165,
       "move": 1
     },
     {
@@ -367,7 +367,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 61
+      "value": 62
     },
     {
       "rank": 3,
@@ -381,12 +381,12 @@
     },
     {
       "rank": 5,
-      "name": "AstronaVt",
-      "value": 23
+      "name": "a l",
+      "value": 24
     },
     {
       "rank": 6,
-      "name": "a l",
+      "name": "AstronaVt",
       "value": 23
     },
     {
@@ -436,17 +436,17 @@
     },
     {
       "rank": 16,
+      "name": "Manis Love",
+      "value": 9
+    },
+    {
+      "rank": 17,
       "name": "L G",
       "value": 8
     },
     {
-      "rank": 17,
-      "name": "Vitaliy",
-      "value": 8
-    },
-    {
       "rank": 18,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 8
     },
     {
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
@@ -569,7 +569,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "value": 28
     },
     {
       "rank": 4,
@@ -588,12 +588,12 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 14
+      "name": "a l",
+      "value": 15
     },
     {
       "rank": 8,
-      "name": "a l",
+      "name": "Archie",
       "value": 14
     },
     {
@@ -603,42 +603,42 @@
     },
     {
       "rank": 10,
-      "name": "ᅠ",
-      "value": 11
-    },
-    {
-      "rank": 11,
       "name": "Ольга",
       "value": 10
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Князь Владимир С",
       "value": 10
     },
     {
-      "rank": 13,
-      "name": "Zero-sum Gamer",
-      "value": 9
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "name": "🤗",
       "value": 9
     },
     {
+      "rank": 13,
+      "name": "ᅠ",
+      "value": 9
+    },
+    {
+      "rank": 14,
+      "name": "Manis Love",
+      "value": 9
+    },
+    {
       "rank": 15,
-      "name": "L G",
+      "name": "Zero-sum Gamer",
       "value": 8
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 8
     },
     {
@@ -698,51 +698,46 @@
     },
     {
       "rank": 29,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
