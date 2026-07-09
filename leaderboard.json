@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T15:56:57+00:00",
+  "updated": "2026-07-09T16:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3856,
+      "value": 3859,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1715,
+      "value": 1716,
       "move": 0
     },
     {
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "Vitaliy",
-      "value": 44,
+      "value": 45,
       "move": -1
     },
     {
@@ -367,7 +367,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 64
+      "value": 67
     },
     {
       "rank": 3,
@@ -392,7 +392,7 @@
     {
       "rank": 7,
       "name": "Ольга",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 8,
@@ -436,17 +436,17 @@
     },
     {
       "rank": 16,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 17,
-      "name": "L G",
-      "value": 8
+      "name": "Manis Love",
+      "value": 9
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 8
     },
     {
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 44
     },
     {
       "rank": 2,
@@ -569,7 +569,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 4,
@@ -599,7 +599,7 @@
     {
       "rank": 9,
       "name": "Ольга",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 10,
@@ -608,13 +608,13 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
-      "value": 8
+      "name": "Manis Love",
+      "value": 9
     },
     {
       "rank": 13,
@@ -628,12 +628,12 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 16,
-      "name": "Anatoly Shadrin",
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
