@@ -449,11 +449,11 @@
     const s=actSeries();if(!s.x.length){if(actChart){actChart.dispose();actChart=null;}c.removeAttribute('role');c.removeAttribute('aria-label');c.innerHTML='<div class="empty">данные ещё копятся</div>';return;}
     if(!actChart){c.innerHTML='';actChart=echarts.init(c);c.setAttribute('role','img');}const t=tc();
     const btc=btcAligned(s.keys);
-    const series=[{type:'line',name:s.name,data:s.y,yAxisIndex:0,smooth:true,symbol:'none',lineStyle:{color:'#e4002b',width:2},areaStyle:{color:'rgba(228,0,43,.15)'}}];
+    const series=[{type:'bar',name:s.name,data:s.y,yAxisIndex:0,itemStyle:{color:'#e4002b'},barWidth:'62%',barMaxWidth:16}];
     if(btc)series.push({type:'line',name:'Цена BTC, $',data:btc,yAxisIndex:1,smooth:true,symbol:'none',connectNulls:true,lineStyle:{color:t.btc,width:2}});
     actChart.setOption({aria:{enabled:true,label:{description:'График активности чата по выбранному периоду'+(btc?'; оранжевая линия — цена биткоина для контекста':'')+'. Цифры — в разделе «Статистика чата» выше.'}},backgroundColor:'transparent',tooltip:{trigger:'axis'},legend:{top:0,right:4,textStyle:{color:t.ax},icon:'roundRect'},
       grid:{left:52,right:btc?56:14,top:30,bottom:62},
-      xAxis:{type:'category',data:s.x,boundaryGap:false,axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax,fontSize:11,showMaxLabel:true}},
+      xAxis:{type:'category',data:s.x,boundaryGap:true,axisLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax,fontSize:11,showMaxLabel:true}},
       yAxis:[{type:'value',splitLine:{lineStyle:{color:t.grid}},axisLabel:{color:t.ax,fontSize:11}},
              {type:'value',position:'right',show:!!btc,splitLine:{show:false},axisLabel:{color:t.btc,fontSize:11,formatter:v=>Math.round(v/1000)+'k'}}],
       dataZoom:[{type:'inside'},{type:'slider',height:22,bottom:8,borderColor:t.grid,fillerColor:'rgba(228,0,43,.12)',textStyle:{color:t.ax}}],
