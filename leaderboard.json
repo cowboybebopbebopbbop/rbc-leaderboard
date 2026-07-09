@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:56:56+00:00",
+  "updated": "2026-07-09T02:56:56+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -598,27 +598,27 @@
     },
     {
       "rank": 10,
-      "name": "🤗",
-      "value": 10
-    },
-    {
-      "rank": 11,
       "name": "Ольга",
       "value": 10
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Князь Владимир С",
       "value": 10
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Zero-sum Gamer",
+      "value": 9
+    },
+    {
+      "rank": 14,
+      "name": "🤗",
       "value": 9
     },
     {
