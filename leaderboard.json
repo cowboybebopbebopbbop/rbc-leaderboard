@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T00:58:36+00:00",
+  "updated": "2026-07-09T01:56:56+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "Роман",
-      "value": 5,
+      "value": 6,
       "move": 0
     },
     {
@@ -472,7 +472,7 @@
     {
       "rank": 23,
       "name": "Роман",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 24,
@@ -568,18 +568,18 @@
     },
     {
       "rank": 4,
-      "name": "AstronaVt",
-      "value": 21
-    },
-    {
-      "rank": 5,
       "name": "wavesscalper | скальпер по волнам",
       "value": 17
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "ᴦоᴧод",
       "value": 16
+    },
+    {
+      "rank": 6,
+      "name": "AstronaVt",
+      "value": 15
     },
     {
       "rank": 7,
@@ -659,7 +659,7 @@
     {
       "rank": 22,
       "name": "Роман",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 23,
