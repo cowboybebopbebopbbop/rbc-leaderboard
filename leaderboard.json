@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-09T16:56:57+00:00",
+  "updated": "2026-07-09T17:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5564,
+      "value": 5565,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3859,
+      "value": 3861,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 710,
+      "value": 711,
       "move": 0
     },
     {
@@ -361,13 +361,13 @@
   "month": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 67
+      "name": "Igor",
+      "value": 69
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 67
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 68
     },
     {
       "rank": 3,
@@ -436,18 +436,18 @@
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "L G",
       "value": 9
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 18,
-      "name": "L G",
-      "value": 8
+      "name": "Manis Love",
+      "value": 9
     },
     {
       "rank": 19,
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 46
     },
     {
       "rank": 2,
@@ -569,7 +569,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 4,
@@ -663,22 +663,22 @@
     },
     {
       "rank": 22,
-      "name": "Константин",
+      "name": "L G",
       "value": 4
     },
     {
       "rank": 23,
+      "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 24,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 24,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
       "rank": 25,
-      "name": "L G",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
