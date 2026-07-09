@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T18:56:57+00:00",
+  "updated": "2026-07-09T19:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 56,
+      "value": 57,
       "move": 3
     },
     {
@@ -397,7 +397,7 @@
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 9,
@@ -574,7 +574,7 @@
     {
       "rank": 4,
       "name": "ᴦоᴧод",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 5,
@@ -618,17 +618,17 @@
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 8
-    },
-    {
-      "rank": 14,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 15,
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
