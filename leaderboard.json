@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T23:56:56+00:00",
+  "updated": "2026-07-09T00:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -145,13 +145,13 @@
       "rank": 24,
       "name": "ᅠ",
       "value": 135,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 25,
       "name": "Александр",
       "value": 129,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 26,
@@ -205,13 +205,13 @@
       "rank": 34,
       "name": "AstronaVt",
       "value": 66,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 35,
       "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 36,
@@ -235,13 +235,13 @@
       "rank": 39,
       "name": "Vitaliy",
       "value": 44,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 40,
       "name": "SyslikJan",
       "value": 43,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 41,
