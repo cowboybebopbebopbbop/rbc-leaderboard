@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T17:56:57+00:00",
+  "updated": "2026-07-09T18:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 55,
+      "value": 56,
       "move": 3
     },
     {
@@ -396,13 +396,13 @@
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "ᴦоᴧод",
       "value": 21
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
-      "value": 20
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 21
     },
     {
       "rank": 10,
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -569,12 +569,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 24
     },
     {
       "rank": 4,
       "name": "ᴦоᴧод",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -594,7 +594,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 9,
@@ -613,27 +613,27 @@
     },
     {
       "rank": 12,
-      "name": "Manis Love",
-      "value": 9
-    },
-    {
-      "rank": 13,
       "name": "🤗",
       "value": 8
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 8
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Zero-sum Gamer",
+      "value": 7
+    },
+    {
+      "rank": 16,
+      "name": "Manis Love",
       "value": 7
     },
     {
