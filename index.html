@@ -53,15 +53,6 @@
   .alert .x:hover,.alert .x:focus-visible{opacity:1;}
 
   /* tabs (TabsList / TabsTrigger) */
-  .tabslist{display:inline-flex;gap:2px;background:hsl(var(--muted));border-radius:var(--radius);padding:4px;margin-top:18px;width:100%;}
-  .tabslist button{flex:1;border:0;background:transparent;color:hsl(var(--muted-foreground));font-size:.86rem;font-weight:600;
-    padding:7px 8px;border-radius:calc(var(--radius) - .2rem);cursor:pointer;}
-  .tabslist button.active{background:hsl(var(--background));color:hsl(var(--foreground));box-shadow:0 1px 2px rgb(0 0 0/.12);}
-  .more{margin-top:12px;font-size:.8rem;color:hsl(var(--muted-foreground));display:flex;gap:6px;align-items:center;flex-wrap:wrap;}
-  .more button{background:none;border:0;font-size:.8rem;line-height:1.5;color:hsl(var(--muted-foreground));cursor:pointer;padding:4px 10px;border-radius:999px;}
-  .more button:hover{background:hsl(var(--muted));}
-  .more button.active{background:hsl(var(--muted));color:hsl(var(--foreground));}
-
   .subnav{display:flex;gap:4px;flex-wrap:wrap;margin:18px 0 4px;}
   .subnav button{background:none;border:0;font-size:.84rem;line-height:1.5;color:hsl(var(--muted-foreground));cursor:pointer;padding:5px 10px;border-radius:999px;}
   .subnav button:hover{background:hsl(var(--muted));}
@@ -175,14 +166,14 @@
   .hidden{display:none;}.empty{color:hsl(var(--muted-foreground));padding:22px 0;}
 
   @media(prefers-reduced-motion:no-preference){
-    .btn,.tabslist button,.more button,.subnav button,.toolrow button,.alert .x,button.q,.row{
-      transition:background-color .15s ease,color .15s ease,border-color .15s ease,opacity .15s ease,box-shadow .15s ease;}
+    .btn,.subnav button,.toolrow button,.alert .x,button.q,.row,#view-home .panel,#view-home .tile{
+      transition:background-color .15s ease,color .15s ease,border-color .15s ease,opacity .15s ease,box-shadow .15s ease,transform .12s ease;}
   }
-  .btn:active,.tabslist button:active,.more button:active,.subnav button:active,.toolrow button:active{transform:translateY(.5px);}
+  .btn:active,.subnav button:active,.toolrow button:active{transform:translateY(.5px);}
   @media(max-width:640px){
-    .tabslist button{padding:9px 8px;}
-    .more button,.subnav button,.toolrow button{padding:8px 12px;}
+    .subnav button,.toolrow button{padding:8px 12px;}
     .alert .x{padding:10px 12px;margin:-10px -12px -10px auto;}
+    #view-home .rank{grid-template-columns:1fr;grid-auto-flow:row;grid-template-rows:none;}
   }
 </style>
 <script src="echarts.min.js"></script>
@@ -245,7 +236,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,homeChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,homeChart=null,histSig='',period='all',dynBusy=false;
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
@@ -260,8 +251,10 @@
   const anon=n=>/^\*+$/.test((n||'').trim())?'Аноним':(n||'—');
   function ext(a){a.target='_blank';a.rel='noopener';a.appendChild(el('span','sr-only',' (откроется в новой вкладке)'));return a;}
   const VIEWS=['home','rating','feed','pred','useful','trading','hall','stats'];
+  const TITLES={home:'РБК Крипто — хаб',rating:'Рейтинг',feed:'Лента',pred:'Прогнозы «Кто точнее»',useful:'Польза',trading:'Трейдинг',hall:'Зал славы',stats:'Статистика'};
   function switchTab(t,fromHash){VIEWS.forEach(v=>document.getElementById('view-'+v).classList.toggle('hidden',v!==t));
     const bb=document.getElementById('backbar');if(bb)bb.classList.toggle('hidden',t==='home');
+    document.title=t==='home'?TITLES.home:(TITLES[t]||'РБК Крипто')+' · РБК Крипто';
     if(!fromHash){const cur=(location.hash||'').replace(/^#/,'').split('/')[0];if(cur!==t)history.pushState(null,'','#'+t);}
     window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
     if(t==='home'){renderHome();if(homeChart)homeChart.resize();}
@@ -270,7 +263,7 @@
   function applyHash(){const h=(location.hash||'').replace(/^#/,'');
     if(!h){switchTab('home',true);return;}
     const parts=h.split('/'),tab=parts[0],arg=parts[1];
-    if(!VIEWS.includes(tab))return;
+    if(!VIEWS.includes(tab)){switchTab('home',true);history.replaceState(null,'',location.pathname);return;}
     switchTab(tab,true);
     if(!arg)return;
     if(tab==='useful'&&['faq','sec','start','disc'].includes(arg))subP(arg,true);
@@ -289,7 +282,7 @@
     document.querySelectorAll('#view-trading .subnav button').forEach(a=>{const on=a.dataset.s===s;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
     if(!fromHash)history.replaceState(null,'','#trading/'+s);}
   function goStart(s){switchTab('useful');subP(s);}
-  function dismissWelcome(){const w=document.getElementById('welcome');if(w){if(w.contains(document.activeElement)){const tb=document.querySelector('.tabslist button.active');if(tb)tb.focus();}w.remove();}try{localStorage.setItem('welcome_dismissed','1');}catch(e){}}
+  function dismissWelcome(){const w=document.getElementById('welcome');if(w){if(w.contains(document.activeElement)){const tb=document.getElementById('theme-btn');if(tb)tb.focus();}w.remove();}try{localStorage.setItem('welcome_dismissed','1');}catch(e){}}
   const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':r;
 
   function setPeriod(p){period=p;document.querySelectorAll('#view-rating .toolrow button').forEach(a=>{const on=a.dataset.p===p;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});renderRating();}
@@ -383,18 +376,20 @@
   function renderHome(){const box=document.getElementById('home-body');if(!box)return;
     if(homeChart){homeChart.dispose();homeChart=null;}box.textContent='';
     const head=(emoji,title,go)=>{const h=el('div','phead');h.append(el('span','hic',emoji),el('span','pt',title),el('span','pgo',go));return h;};
-    if(PRED&&PRED.contests&&PRED.contests.length){const c=PRED.contests[0],p=el('div','panel contest');p.onclick=()=>switchTab('pred');
+    const clickable=(node,fn,label)=>{node.setAttribute('role','button');node.tabIndex=0;if(label)node.setAttribute('aria-label',label);
+      node.onclick=fn;node.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();fn(e);}};};
+    if(PRED&&PRED.contests&&PRED.contests.length){const c=PRED.contests[0],p=el('div','panel contest');clickable(p,()=>switchTab('pred'),'Прогнозы — «Кто точнее»');
       p.appendChild(head('🎯','Прогнозы — «Кто точнее»','в раздел →'));
       if(c.status==='resolved'){p.appendChild(el('div','pres','🏆 Последний конкурс: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+(c.options[c.winner_option]||'—')+'»'));
         p.appendChild(el('div','psub','Угадали '+((c.winners||[]).length)+' — каждому +1 🎯. Следующий конкурс — по #ктоточнее в чате.'));}
       else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
       box.appendChild(p);}
-    if(LB&&LB.all&&LB.all.length){const p=el('div','panel');p.onclick=()=>switchTab('rating');
+    if(LB&&LB.all&&LB.all.length){const p=el('div','panel');clickable(p,()=>switchTab('rating'),'Рейтинг участников');
       p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
       const g=el('div','rank');LB.all.slice(0,10).forEach(it=>{const rk=el('div','rk');
         rk.append(el('span','rn',String(medal(it.rank))),el('span','rnm',anon(it.name)),el('span','rv',String(it.value)));g.appendChild(rk);});
       p.appendChild(g);box.appendChild(p);}
-    if(ACT&&ACT.per_day&&ACT.per_day.length){const p=el('div','panel');p.onclick=()=>switchTab('stats');
+    if(ACT&&ACT.per_day&&ACT.per_day.length){const p=el('div','panel');clickable(p,e=>{if(e&&e.target&&e.target.closest&&e.target.closest('#home-chart'))return;switchTab('stats');},'Статистика — активность и цена BTC');
       p.appendChild(head('📊','Активность чата + цена BTC','полный график с зумом →'));
       const ch=el('div');ch.id='home-chart';p.appendChild(ch);
       const lg=el('div','hlegend'),mk=(cl,tx)=>{const s=el('span'),i=el('i');i.style.background=cl;s.append(i,document.createTextNode(tx));return s;};
@@ -402,7 +397,7 @@
       box.appendChild(p);renderHomeChart();}
     box.appendChild(el('div','secttl','Ещё разделы'));
     const grid=el('div','hgrid');
-    const tile=(emoji,ttl,sub,stat,tab)=>{const t2=el('div','tile');t2.onclick=()=>switchTab(tab);
+    const tile=(emoji,ttl,sub,stat,tab)=>{const t2=el('div','tile');clickable(t2,()=>switchTab(tab),ttl);
       const bx=el('div','tic');bx.textContent=emoji;const d=el('div');d.append(el('div','tt',ttl),el('div','tsub',sub));if(stat)d.appendChild(el('span','tstat',stat));
       t2.append(bx,d,el('div','tarr','→'));grid.appendChild(t2);};
     tile('🔥','Лента','Топ-посты по реакциям, фильтры по веткам',(FEED&&FEED.length?FEED.length.toLocaleString('ru-RU')+' постов':'топ-посты'),'feed');
@@ -538,9 +533,6 @@
     renderActChart();
     if(STATS&&STATS.top_posters&&STATS.top_posters.length){box.appendChild(el('h2',null,'Активные авторы'));const mx=Math.max(1,...STATS.top_posters.map(p=>p.count));const l=el('div','list');
       STATS.top_posters.forEach(p=>{const it=el('div','row');it.append(el('div','nm',anon(p.name)));const mb=el('div');mb.style.flex='1';const mi=el('div','mini');const f=el('i');f.style.width=(p.count/mx*100)+'%';mi.appendChild(f);mb.appendChild(mi);it.append(mb,el('div','v',p.count));l.appendChild(it);});box.appendChild(l);}}
-  function renderNav(){const box=document.getElementById('nav-rows');box.textContent='';BR.forEach(b=>{const it=el('div','row');const nm=el('div','nm');nm.append(el('div',null,b.title));
-    const cls=b.status==='живая'?'badge live':b.status==='спящая'?'badge':'badge warn';const d=el('div','d');d.append(el('span',cls,b.status));d.append(document.createTextNode(' · '+b.authors+' авторов'));nm.appendChild(d);it.append(nm,el('div','v',(b.messages||0).toLocaleString('ru-RU')));box.appendChild(it);});}
-
   function renderHist(){const c=document.getElementById('hist-chart');if(!c||typeof echarts==='undefined')return;
     if(!HIST||!HIST.series||!HIST.series.length){if(histChart){histChart.dispose();histChart=null;histSig='';}c.removeAttribute('role');c.removeAttribute('aria-label');c.innerHTML='<div class="empty">данные ещё копятся — линии появятся при 2+ изменениях репутации</div>';return;}
     const sig=JSON.stringify(HIST.series);if(histChart&&sig===histSig)return;histSig=sig;
@@ -559,7 +551,7 @@
   async function loadDynamic(){
     if(dynBusy)return;dynBusy=true;
     try{
-      try{LB=await j('leaderboard.json',true);renderMeta();renderRating();if(!document.getElementById('view-home').classList.contains('hidden'))renderHome();}catch(e){console.warn('leaderboard.json:',e);}
+      try{LB=await j('leaderboard.json',true);renderMeta();renderRating();}catch(e){console.warn('leaderboard.json:',e);}
       try{HIST=await j('rating_history.json',true);renderHist();}catch(e){console.warn('rating_history.json:',e);}
     }finally{dynBusy=false;}
   }
