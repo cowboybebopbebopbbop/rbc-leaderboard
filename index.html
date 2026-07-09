@@ -344,6 +344,46 @@
       box.appendChild(c);});}
   function fmtDT(iso){if(!iso)return'';const d=new Date(new Date(iso).getTime()+3*3600e3);
     const p=n=>String(n).padStart(2,'0');return`${p(d.getUTCDate())}.${p(d.getUTCMonth()+1)}.${String(d.getUTCFullYear()).slice(2)} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())} МСК`;}
+  const IMGFONT="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif";
+  function _rr(ctx,x,y,w,h,r){r=Math.min(r,h/2,w/2);ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();}
+  function _ellip(ctx,t,maxW){t=String(t);if(ctx.measureText(t).width<=maxW)return t;while(t.length&&ctx.measureText(t+'…').width>maxW)t=t.slice(0,-1);return t+'…';}
+  function _paintCard(ctx,c,mid,col,W,measure){
+    const P=30;let y=26;ctx.textBaseline='top';ctx.textAlign='left';
+    const wrap=(txt,font,color,lh,mb,maxW)=>{maxW=maxW||(W-2*P);ctx.font=font;
+      const words=String(txt).split(' '),lines=[];let ln='';
+      for(const w of words){const t=ln?ln+' '+w:w;if(ctx.measureText(t).width>maxW&&ln){lines.push(ln);ln=w;}else ln=t;}
+      if(ln)lines.push(ln);
+      for(const l of lines){if(!measure){ctx.fillStyle=color;ctx.textAlign='left';ctx.fillText(l,P,y);}y+=lh;}
+      y+=(mb||0);};
+    wrap('РБК Крипто · «Кто точнее» 🎯','600 13px '+IMGFONT,col.mut,18,8);
+    wrap(c.question,'700 21px '+IMGFONT,col.fg,27,12);
+    const opt=c.options[c.winner_option]||'—';
+    wrap('🏆 Итог: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+opt+'»','700 19px '+IMGFONT,col.green,26,16);
+    const mx=Math.max(1,...c.votes);
+    c.options.forEach((o,i)=>{const win=i===c.winner_option,rowH=27,labelW=190,pcW=92,barX=P+labelW+12,barW=W-P-pcW-12-barX,barH=9,barY=y+3;
+      if(!measure){ctx.font='600 14px '+IMGFONT;ctx.fillStyle=win?col.green:col.mut;ctx.textAlign='left';
+        ctx.fillText((win?'🏆 ':'')+_ellip(ctx,o,labelW-(win?24:0)),P,y);
+        _rr(ctx,barX,barY,barW,barH,barH/2);ctx.fillStyle=col.track;ctx.fill();
+        _rr(ctx,barX,barY,Math.max(3,barW*c.votes[i]/mx),barH,barH/2);ctx.fillStyle=win?col.green:col.red;ctx.fill();
+        ctx.font='14px '+IMGFONT;ctx.fillStyle=win?col.green:col.mut;ctx.textAlign='right';
+        ctx.fillText(c.votes[i]+' · '+Math.round(c.votes[i]/(c.total||1)*100)+'%',W-P,y);ctx.textAlign='left';}
+      y+=rowH;});
+    y+=8;
+    if(c.winners&&c.winners.length){wrap('Угадали '+c.winners.length+' — каждому +1 🎯:','600 14px '+IMGFONT,col.fg,20,4);
+      wrap(c.winners.map(w=>anon(w)).join(', '),'14px '+IMGFONT,col.green,20,12);}
+    wrap(c.total+' голосов · '+fmtD(c.posted)+' · источник: '+c.source,'12px '+IMGFONT,col.mut,17,3);
+    wrap('cowboybebopbebopbbop.github.io/rbc-leaderboard · #pred/'+mid,'12px '+IMGFONT,col.mut,17,0);
+    return y+P;}
+  function predImageBlob(c,mid){return new Promise((resolve,reject)=>{try{
+    const W=620,css=getComputedStyle(document.documentElement),hv=v=>`hsl(${css.getPropertyValue(v).trim()})`;
+    const col={page:hv('--background'),card:hv('--card'),fg:hv('--foreground'),mut:hv('--muted-foreground'),border:hv('--border'),green:hv('--green'),red:hv('--primary'),track:hv('--muted')};
+    const H=Math.ceil(_paintCard(document.createElement('canvas').getContext('2d'),c,mid,col,W,true));
+    const cv=document.createElement('canvas');cv.width=W*2;cv.height=H*2;const ctx=cv.getContext('2d');ctx.scale(2,2);
+    ctx.fillStyle=col.page;ctx.fillRect(0,0,W,H);
+    _rr(ctx,10,10,W-20,H-20,16);ctx.fillStyle=col.card;ctx.fill();ctx.strokeStyle=col.green;ctx.lineWidth=1.5;ctx.stroke();
+    _paintCard(ctx,c,mid,col,W,false);
+    cv.toBlob(b=>b?resolve(b):reject(new Error('toBlob null')),'image/png');
+  }catch(e){reject(e);}});}
   function renderPred(){const box=document.getElementById('pred-body');if(!box)return;box.textContent='';
     if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
     if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
@@ -377,6 +417,12 @@
         sh.onclick=()=>{history.replaceState(null,'','#pred/'+mid);const u=location.origin+location.pathname+'#pred/'+mid;
           if(navigator.clipboard)navigator.clipboard.writeText(u).then(()=>{sh.textContent='✓ ссылка скопирована';setTimeout(()=>sh.textContent='🔗 ссылка на конкурс',1600);}).catch(()=>{});};
         ld.appendChild(sh);}
+      if(done){const im=el('button','sharelink','🖼 картинкой');im.type='button';
+        im.onclick=async()=>{const prev=im.textContent;im.textContent='рисую…';
+          try{await navigator.clipboard.write([new ClipboardItem({'image/png':predImageBlob(c,mid)})]);im.textContent='✓ скопировано';}
+          catch(e){try{const b=await predImageBlob(c,mid);const a2=document.createElement('a');a2.href=URL.createObjectURL(b);a2.download='ktotochnee-'+(mid||'card')+'.png';a2.click();URL.revokeObjectURL(a2.href);im.textContent='✓ скачано';}catch(e2){im.textContent='ошибка';}}
+          setTimeout(()=>im.textContent=prev,1900);};
+        ld.appendChild(im);}
       card.appendChild(ld);
       box.appendChild(card);});
     if(pendingContest)scrollToContest(pendingContest);}
