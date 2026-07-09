@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:56:57+00:00",
+  "updated": "2026-07-09T10:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 135,
+      "value": 136,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 54,
+      "value": 55,
       "move": 3
     },
     {
@@ -396,13 +396,13 @@
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "ᴦоᴧод",
       "value": 20
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
-      "value": 19
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 20
     },
     {
       "rank": 10,
@@ -417,7 +417,7 @@
     {
       "rank": 12,
       "name": "ᅠ",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 13,
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
@@ -574,7 +574,7 @@
     {
       "rank": 4,
       "name": "ᴦоᴧод",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
@@ -613,12 +613,12 @@
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 9
+      "name": "ᅠ",
+      "value": 10
     },
     {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "🤗",
       "value": 9
     },
     {
@@ -633,52 +633,52 @@
     },
     {
       "rank": 16,
-      "name": "L G",
-      "value": 8
-    },
-    {
-      "rank": 17,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Роман",
       "value": 5
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Алексей",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Руслан Иванов",
+      "value": 3
+    },
+    {
+      "rank": 25,
+      "name": "L G",
       "value": 3
     },
     {
