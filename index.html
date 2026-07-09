@@ -116,6 +116,38 @@
   @keyframes flashcard{0%{box-shadow:0 0 0 2px hsl(var(--primary)/0);}18%{box-shadow:0 0 0 2px hsl(var(--primary)/.8);}100%{box-shadow:0 0 0 2px hsl(var(--primary)/0);}}
   .flash{animation:flashcard 2s ease;}
   @media(prefers-reduced-motion:reduce){.flash{animation:none;outline:2px solid hsl(var(--primary)/.6);}}
+
+  /* главная-хаб */
+  .backlink{background:none;border:0;color:hsl(var(--muted-foreground));font:inherit;font-size:.86rem;cursor:pointer;padding:8px 0;}
+  .backlink:hover{color:hsl(var(--foreground));}
+  #backbar{margin:8px 0 -4px;}
+  #view-home .panel{border:1px solid hsl(var(--border));border-radius:var(--radius);background:hsl(var(--card));padding:14px 16px;margin:12px 0;cursor:pointer;transition:transform .12s,border-color .12s,box-shadow .12s;}
+  #view-home .panel:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgb(0 0 0/.25);}
+  #view-home .contest{border-color:hsl(var(--green)/.45);background:linear-gradient(150deg,hsl(var(--green)/.12),transparent 60%);}
+  #view-home .contest:hover{border-color:hsl(var(--green)/.7);}
+  #view-home .phead{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+  #view-home .hic{font-size:1.2rem;}
+  #view-home .pt{font-weight:700;font-size:1rem;}
+  #view-home .pgo{margin-left:auto;color:hsl(var(--muted-foreground));font-size:.8rem;font-weight:600;}
+  #view-home .pres{color:hsl(var(--green));font-weight:700;font-size:.95rem;margin-top:2px;}
+  #view-home .psub{color:hsl(var(--muted-foreground));font-size:.83rem;margin-top:4px;}
+  #view-home .rank{display:grid;grid-template-columns:1fr 1fr;grid-auto-flow:column;grid-template-rows:repeat(5,auto);gap:3px 22px;}
+  #view-home .rk{display:flex;align-items:baseline;gap:9px;padding:4px 0;}
+  #view-home .rn{width:22px;flex:none;color:hsl(var(--muted-foreground));font-variant-numeric:tabular-nums;}
+  #view-home .rnm{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  #view-home .rv{font-weight:700;font-variant-numeric:tabular-nums;}
+  #home-chart{height:160px;}
+  #view-home .hlegend{display:flex;gap:14px;font-size:.76rem;color:hsl(var(--muted-foreground));margin-top:6px;}
+  #view-home .hlegend i{display:inline-block;width:14px;height:3px;border-radius:2px;margin-right:5px;vertical-align:middle;}
+  #view-home .secttl{font-size:.78rem;color:hsl(var(--muted-foreground));text-transform:uppercase;letter-spacing:.06em;margin:20px 2px 2px;font-weight:700;}
+  #view-home .hgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:12px;margin-top:10px;}
+  #view-home .tile{display:flex;gap:13px;align-items:flex-start;border:1px solid hsl(var(--border));border-radius:var(--radius);background:hsl(var(--card));padding:14px 16px;cursor:pointer;transition:transform .12s,border-color .12s,box-shadow .12s;}
+  #view-home .tile:hover{transform:translateY(-2px);border-color:hsl(var(--primary)/.6);box-shadow:0 6px 20px rgb(0 0 0/.25);}
+  #view-home .tic{width:44px;height:44px;flex:none;display:grid;place-items:center;font-size:1.35rem;background:hsl(var(--muted));border-radius:calc(var(--radius) - .15rem);}
+  #view-home .tt{font-weight:700;font-size:.98rem;}
+  #view-home .tsub{color:hsl(var(--muted-foreground));font-size:.82rem;margin:2px 0 8px;}
+  #view-home .tstat{display:inline-block;font-size:.74rem;font-weight:600;padding:2px 9px;border-radius:999px;background:hsl(var(--primary)/.12);color:hsl(var(--primary));border:1px solid hsl(var(--primary)/.3);}
+  #view-home .tarr{margin-left:auto;align-self:center;color:hsl(var(--muted-foreground));}
   .q{font-weight:600;display:flex;justify-content:space-between;gap:10px;}
   button.q{width:100%;background:none;border:0;padding:0;color:inherit;font:inherit;font-weight:600;text-align:left;cursor:pointer;}
   .q .c{color:hsl(var(--muted-foreground));font-weight:400;}
@@ -167,21 +199,11 @@
     <span>Впервые здесь? Это хаб чата «РБК Крипто»: <button type="button" class="alink" onclick="goStart('start')">Старт</button> · <button type="button" class="alink" onclick="goStart('sec')">Безопасность</button> · <button type="button" class="alink" onclick="goStart('faq')">FAQ</button></span>
     <button type="button" class="x" onclick="dismissWelcome()" aria-label="Скрыть подсказку">✕</button></div>
 
-  <nav aria-label="Разделы">
-    <div class="tabslist">
-      <button type="button" data-tab="rating" class="active" aria-pressed="true" onclick="switchTab('rating')">Рейтинг</button>
-      <button type="button" data-tab="feed" aria-pressed="false" onclick="switchTab('feed')">Лента</button>
-      <button type="button" data-tab="pred" aria-pressed="false" onclick="switchTab('pred')">Прогнозы</button>
-      <button type="button" data-tab="useful" aria-pressed="false" onclick="switchTab('useful')">Польза</button>
-      <button type="button" data-tab="trading" aria-pressed="false" onclick="switchTab('trading')">Трейдинг</button>
-    </div>
-    <div class="more">ещё:
-      <button type="button" data-tab="hall" aria-pressed="false" onclick="switchTab('hall')">Зал славы</button>
-      <button type="button" data-tab="stats" aria-pressed="false" onclick="switchTab('stats')">Статистика</button></div>
-  </nav>
+  <div id="backbar" class="hidden"><button type="button" class="backlink" onclick="switchTab('home')">◂ Все разделы</button></div>
 
   <main>
-  <section id="view-rating">
+  <section id="view-home"><div id="home-body"></div></section>
+  <section id="view-rating" class="hidden">
     <div class="toolrow"><button type="button" data-p="all" class="active" aria-pressed="true" onclick="setPeriod('all')">За всё время</button><button type="button" data-p="month" aria-pressed="false" onclick="setPeriod('month')">Месяц</button><button type="button" data-p="week" aria-pressed="false" onclick="setPeriod('week')">Неделя</button></div>
     <input class="search" id="search" placeholder="поиск по имени" aria-label="Поиск по имени">
     <div class="list" id="rating-rows"></div><div class="empty hidden" id="rating-empty" aria-live="polite"></div>
@@ -223,7 +245,7 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,BR=[],HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,homeChart=null,histSig='',period='all',dynBusy=false;
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
@@ -236,15 +258,16 @@
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const anon=n=>/^\*+$/.test((n||'').trim())?'Аноним':(n||'—');
   function ext(a){a.target='_blank';a.rel='noopener';a.appendChild(el('span','sr-only',' (откроется в новой вкладке)'));return a;}
-  const VIEWS=['rating','feed','pred','useful','trading','hall','stats'];
+  const VIEWS=['home','rating','feed','pred','useful','trading','hall','stats'];
   function switchTab(t,fromHash){VIEWS.forEach(v=>document.getElementById('view-'+v).classList.toggle('hidden',v!==t));
-    document.querySelectorAll('.tabslist [data-tab],.more [data-tab]').forEach(a=>{const on=a.dataset.tab===t;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
+    const bb=document.getElementById('backbar');if(bb)bb.classList.toggle('hidden',t==='home');
     if(!fromHash){const cur=(location.hash||'').replace(/^#/,'').split('/')[0];if(cur!==t)history.pushState(null,'','#'+t);}
     window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    if(t==='home'){renderHome();if(homeChart)homeChart.resize();}
     if(t==='stats'){if(actChart)actChart.resize();else renderActChart();}
     if(t==='rating'&&histChart)histChart.resize();}
   function applyHash(){const h=(location.hash||'').replace(/^#/,'');
-    if(!h){switchTab('rating',true);return;}
+    if(!h){switchTab('home',true);return;}
     const parts=h.split('/'),tab=parts[0],arg=parts[1];
     if(!VIEWS.includes(tab))return;
     switchTab(tab,true);
@@ -342,6 +365,50 @@
       box.appendChild(c);});}
   function fmtDT(iso){if(!iso)return'';const d=new Date(new Date(iso).getTime()+3*3600e3);
     const p=n=>String(n).padStart(2,'0');return`${p(d.getUTCDate())}.${p(d.getUTCMonth()+1)}.${String(d.getUTCFullYear()).slice(2)} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())} МСК`;}
+  function renderMeta(){const m=document.getElementById('meta');if(!m)return;const p=[];
+    if(LB)p.push((LB.count??0)+' участников');
+    if(STATS&&STATS.totals&&STATS.totals.messages)p.push(Number(STATS.totals.messages).toLocaleString('ru-RU')+' сообщений');
+    const d=LB&&LB.updated?new Date(LB.updated):null;if(d)p.push('обновлено '+d.toLocaleString('ru-RU'));
+    m.textContent=p.join(' · ')||'загрузка…';}
+  function renderHomeChart(){const c2=document.getElementById('home-chart');if(!c2||typeof echarts==='undefined'||!ACT||!ACT.per_day||!ACT.per_day.length)return;
+    const src=ACT.per_day,x=src.map(d=>fmtD(d.date)),y=src.map(d=>d.count),keys=src.map(d=>d.date),bmap={};
+    (BTC&&BTC.per_day||[]).forEach(pp=>bmap[pp.date]=pp.price);
+    const btc=keys.map(k=>bmap[k]!=null?bmap[k]:null),hasB=btc.some(v=>v!=null),t=tc();
+    if(!homeChart)homeChart=echarts.init(c2);
+    const series=[{type:'bar',name:'сообщений',data:y,yAxisIndex:0,itemStyle:{color:'#e4002b'},barWidth:'62%',barMaxWidth:8}];
+    if(hasB)series.push({type:'line',name:'BTC',data:btc,yAxisIndex:1,smooth:true,symbol:'none',connectNulls:true,lineStyle:{color:t.btc,width:2}});
+    homeChart.setOption({backgroundColor:'transparent',tooltip:{trigger:'axis'},grid:{left:6,right:6,top:8,bottom:6},
+      xAxis:{type:'category',data:x,boundaryGap:true,show:false},yAxis:[{type:'value',show:false},{type:'value',show:false}],series},true);}
+  function renderHome(){const box=document.getElementById('home-body');if(!box)return;
+    if(homeChart){homeChart.dispose();homeChart=null;}box.textContent='';
+    const head=(emoji,title,go)=>{const h=el('div','phead');h.append(el('span','hic',emoji),el('span','pt',title),el('span','pgo',go));return h;};
+    if(PRED&&PRED.contests&&PRED.contests.length){const c=PRED.contests[0],p=el('div','panel contest');p.onclick=()=>switchTab('pred');
+      p.appendChild(head('🎯','Прогнозы — «Кто точнее»','в раздел →'));
+      if(c.status==='resolved'){p.appendChild(el('div','pres','🏆 Последний конкурс: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+(c.options[c.winner_option]||'—')+'»'));
+        p.appendChild(el('div','psub','Угадали '+((c.winners||[]).length)+' — каждому +1 🎯. Следующий конкурс — по #ктоточнее в чате.'));}
+      else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
+      box.appendChild(p);}
+    if(LB&&LB.all&&LB.all.length){const p=el('div','panel');p.onclick=()=>switchTab('rating');
+      p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
+      const g=el('div','rank');LB.all.slice(0,10).forEach(it=>{const rk=el('div','rk');
+        rk.append(el('span','rn',String(medal(it.rank))),el('span','rnm',anon(it.name)),el('span','rv',String(it.value)));g.appendChild(rk);});
+      p.appendChild(g);box.appendChild(p);}
+    if(ACT&&ACT.per_day&&ACT.per_day.length){const p=el('div','panel');p.onclick=()=>switchTab('stats');
+      p.appendChild(head('📊','Активность чата + цена BTC','полный график с зумом →'));
+      const ch=el('div');ch.id='home-chart';p.appendChild(ch);
+      const lg=el('div','hlegend'),mk=(cl,tx)=>{const s=el('span'),i=el('i');i.style.background=cl;s.append(i,document.createTextNode(tx));return s;};
+      lg.append(mk('#e4002b','сообщений'),mk(tc().btc,'цена BTC'));p.appendChild(lg);
+      box.appendChild(p);renderHomeChart();}
+    box.appendChild(el('div','secttl','Ещё разделы'));
+    const grid=el('div','hgrid');
+    const tile=(emoji,ttl,sub,stat,tab)=>{const t2=el('div','tile');t2.onclick=()=>switchTab(tab);
+      const bx=el('div','tic');bx.textContent=emoji;const d=el('div');d.append(el('div','tt',ttl),el('div','tsub',sub));if(stat)d.appendChild(el('span','tstat',stat));
+      t2.append(bx,d,el('div','tarr','→'));grid.appendChild(t2);};
+    tile('🔥','Лента','Топ-посты по реакциям, фильтры по веткам',(FEED&&FEED.length?FEED.length.toLocaleString('ru-RU')+' постов':'топ-посты'),'feed');
+    tile('📚','Польза','FAQ · Безопасность · Старт · Дисциплина',(FAQ&&FAQ.length?FAQ.length+' вопросов + гайды':'гайды'),'useful');
+    tile('📈','Трейдинг','Настроение · Голоса · Апдейты · Эксперты','разбор «Торговли»','trading');
+    tile('🥇','Зал славы','Лучшие сообщения форума',(HALL&&HALL.length?'топ-'+HALL.length+' по 👍❤️':'топ-посты'),'hall');
+    box.appendChild(grid);}
   const IMGFONT="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif";
   function _rr(ctx,x,y,w,h,r){r=Math.min(r,h/2,w/2);ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath();}
   function _ellip(ctx,t,maxW){t=String(t);if(ctx.measureText(t).width<=maxW)return t;while(t.length&&ctx.measureText(t+'…').width>maxW)t=t.slice(0,-1);return t+'…';}
@@ -491,7 +558,7 @@
   async function loadDynamic(){
     if(dynBusy)return;dynBusy=true;
     try{
-      try{LB=await j('leaderboard.json',true);const d=LB.updated?new Date(LB.updated):null;document.getElementById('meta').textContent=`${LB.count??0} участников · обновлено ${d?d.toLocaleString('ru-RU'):'—'}`;renderRating();}catch(e){console.warn('leaderboard.json:',e);}
+      try{LB=await j('leaderboard.json',true);renderMeta();renderRating();if(!document.getElementById('view-home').classList.contains('hidden'))renderHome();}catch(e){console.warn('leaderboard.json:',e);}
       try{HIST=await j('rating_history.json',true);renderHist();}catch(e){console.warn('rating_history.json:',e);}
     }finally{dynBusy=false;}
   }
@@ -513,11 +580,12 @@
       get('activity.json',d=>{ACT=d;}),
       get('btc.json',d=>{BTC=d;}),
     ]);
-    renderStats();
+    renderStats();renderMeta();
+    if(!document.getElementById('view-home').classList.contains('hidden'))renderHome();
   }
   document.getElementById('search').addEventListener('input',renderRating);
   try{if(localStorage.getItem('welcome_dismissed')){const w=document.getElementById('welcome');if(w)w.remove();}}catch(e){}
-  window.addEventListener('resize',()=>{if(actChart)actChart.resize();if(histChart)histChart.resize();});
+  window.addEventListener('resize',()=>{if(actChart)actChart.resize();if(histChart)histChart.resize();if(homeChart)homeChart.resize();});
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)loadDynamic();});
   loadDynamic();loadStatic();setInterval(()=>{if(!document.hidden)loadDynamic();},90000);
   window.addEventListener('popstate',applyHash);
