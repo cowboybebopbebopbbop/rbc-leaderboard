@@ -249,7 +249,8 @@
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
-    const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',d);restyleCharts();}
+    const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',d);restyleCharts();
+    if(!document.getElementById('view-home').classList.contains('hidden'))renderHome();}
   /* смена темы: перекрашиваем оси/легенды/палитру без dispose — зум и выбор легенды сохраняются */
   function restyleCharts(){const t=tc();
     if(actChart){const n=(actChart.getOption().series||[]).length;
