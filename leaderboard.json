@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:56:57+00:00",
+  "updated": "2026-07-09T06:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 971,
+      "value": 973,
       "move": 0
     },
     {
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Turchyn Gennadii",
-      "value": 12,
-      "move": 0
+      "name": "vpidelks",
+      "value": 13,
+      "move": null
     },
     {
       "rank": 46,
-      "name": "vpidelks",
+      "name": "Turchyn Gennadii",
       "value": 12,
-      "move": null
+      "move": -1
     },
     {
       "rank": 47,
@@ -386,22 +386,22 @@
     },
     {
       "rank": 6,
+      "name": "a l",
+      "value": 21
+    },
+    {
+      "rank": 7,
       "name": "wavesscalper | скальпер по волнам",
       "value": 20
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Ольга",
       "value": 20
     },
     {
-      "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 19
-    },
-    {
       "rank": 9,
-      "name": "a l",
+      "name": "ᴦоᴧод",
       "value": 19
     },
     {
@@ -511,41 +511,46 @@
     },
     {
       "rank": 31,
-      "name": "Синдбад Мореход",
+      "name": "vpidelks",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "***",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "X888",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 38,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 39,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
@@ -588,22 +593,22 @@
     },
     {
       "rank": 8,
+      "name": "a l",
+      "value": 12
+    },
+    {
+      "rank": 9,
       "name": "Olga Goncharova",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "ᅠ",
       "value": 11
     },
     {
-      "rank": 10,
-      "name": "Князь Владимир С",
-      "value": 10
-    },
-    {
       "rank": 11,
-      "name": "a l",
+      "name": "Князь Владимир С",
       "value": 10
     },
     {
@@ -698,41 +703,46 @@
     },
     {
       "rank": 30,
-      "name": "Синдбад Мореход",
+      "name": "vpidelks",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "***",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "X888",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Charlie Shefelman",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
