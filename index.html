@@ -177,8 +177,7 @@
     </div>
     <div class="more">ещё:
       <button type="button" data-tab="hall" aria-pressed="false" onclick="switchTab('hall')">Зал славы</button>
-      <button type="button" data-tab="stats" aria-pressed="false" onclick="switchTab('stats')">Статистика</button>
-      <button type="button" data-tab="nav" aria-pressed="false" onclick="switchTab('nav')">Ветки</button></div>
+      <button type="button" data-tab="stats" aria-pressed="false" onclick="switchTab('stats')">Статистика</button></div>
   </nav>
 
   <main>
@@ -218,7 +217,6 @@
 
   <section id="view-hall" class="hidden"><h2>Зал славы — лучшие сообщения</h2><div class="list" id="hall-rows"></div></section>
   <section id="view-stats" class="hidden"><div id="stats-body"></div></section>
-  <section id="view-nav" class="hidden"><h2>Ветки форума</h2><div class="list" id="nav-rows"></div></section>
   </main>
 
   <footer>Неофициальный фанатский хаб сообщества. Выжимки — из публичных сообщений по реакциям. Не финансовый совет; мнения участников принадлежат их авторам.</footer>
@@ -238,7 +236,7 @@
   const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
   const anon=n=>/^\*+$/.test((n||'').trim())?'Аноним':(n||'—');
   function ext(a){a.target='_blank';a.rel='noopener';a.appendChild(el('span','sr-only',' (откроется в новой вкладке)'));return a;}
-  const VIEWS=['rating','feed','pred','useful','trading','hall','stats','nav'];
+  const VIEWS=['rating','feed','pred','useful','trading','hall','stats'];
   function switchTab(t,fromHash){VIEWS.forEach(v=>document.getElementById('view-'+v).classList.toggle('hidden',v!==t));
     document.querySelectorAll('.tabslist [data-tab],.more [data-tab]').forEach(a=>{const on=a.dataset.tab===t;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
     if(!fromHash){const cur=(location.hash||'').replace(/^#/,'').split('/')[0];if(cur!==t)history.pushState(null,'','#'+t);}
@@ -511,7 +509,6 @@
       get('hall_of_fame.json',d=>{HALL=d.messages||[];renderHall();}),
       get('feed.json',d=>{FEED=d.items||[];populateFeedFilters();renderFeed();}),
       get('predictions.json',d=>{PRED=d;renderPred();}),
-      get('branches.json',d=>{BR=d.branches||[];renderNav();}),
       get('stats.json',d=>{STATS=d;}),
       get('activity.json',d=>{ACT=d;}),
       get('btc.json',d=>{BTC=d;}),
