@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T04:56:56+00:00",
+  "updated": "2026-07-09T05:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 970,
+      "value": 971,
       "move": 0
     },
     {
@@ -401,12 +401,12 @@
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
-      "value": 18
+      "name": "a l",
+      "value": 19
     },
     {
       "rank": 10,
-      "name": "a l",
+      "name": "Olga Goncharova",
       "value": 18
     },
     {
@@ -598,27 +598,27 @@
     },
     {
       "rank": 10,
-      "name": "Ольга",
-      "value": 10
-    },
-    {
-      "rank": 11,
       "name": "Князь Владимир С",
       "value": 10
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "a l",
       "value": 10
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Zero-sum Gamer",
       "value": 9
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 14,
+      "name": "Ольга",
       "value": 9
     },
     {
@@ -653,23 +653,23 @@
     },
     {
       "rank": 21,
-      "name": "Алексей",
-      "value": 5
-    },
-    {
-      "rank": 22,
       "name": "Роман",
       "value": 5
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Константин",
       "value": 4
+    },
+    {
+      "rank": 24,
+      "name": "Алексей",
+      "value": 3
     },
     {
       "rank": 25,
