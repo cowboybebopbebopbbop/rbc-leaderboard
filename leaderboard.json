@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-10T11:56:58+00:00",
+  "updated": "2026-07-10T12:56:58+00:00",
   "count": 61,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5569,
+      "value": 5572,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 979,
+      "value": 980,
       "move": 0
     },
     {
@@ -379,7 +379,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 72
+      "value": 75
     },
     {
       "rank": 3,
@@ -389,7 +389,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 5,
@@ -576,7 +576,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
@@ -586,7 +586,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 4,
@@ -596,32 +596,32 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 6,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 16
-    },
-    {
-      "rank": 7,
       "name": "Archie",
       "value": 16
     },
     {
-      "rank": 8,
-      "name": "AstronaVt",
-      "value": 15
+      "rank": 7,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Ольга",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "ᅠ",
       "value": 10
+    },
+    {
+      "rank": 10,
+      "name": "AstronaVt",
+      "value": 9
     },
     {
       "rank": 11,
@@ -695,22 +695,22 @@
     },
     {
       "rank": 25,
-      "name": "Алексей",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Ingvar 604",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Ilya",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "Алексей",
       "value": 1
     },
     {
