@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:51:32+00:00",
+  "updated": "2026-07-10T18:51:36+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 980,
+      "value": 981,
       "move": 0
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 5,
@@ -602,7 +602,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 6,
@@ -651,22 +651,22 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "L G",
+      "value": 4
+    },
+    {
+      "rank": 18,
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
@@ -691,17 +691,17 @@
     },
     {
       "rank": 23,
-      "name": "AstronaVt",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Ingvar 604",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "AstronaVt",
       "value": 2
     },
     {
