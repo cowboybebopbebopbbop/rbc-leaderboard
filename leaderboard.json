@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:56:58+00:00",
+  "updated": "2026-07-10T15:56:58+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 528,
+      "value": 530,
       "move": 0
     },
     {
@@ -409,18 +409,18 @@
     },
     {
       "rank": 7,
-      "name": "AstronaVt",
+      "name": "Olga Goncharova",
       "value": 23
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
+      "name": "AstronaVt",
       "value": 23
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
-      "value": 21
+      "name": "ᴦоᴧод",
+      "value": 23
     },
     {
       "rank": 10,
@@ -627,42 +627,42 @@
     {
       "rank": 10,
       "name": "Olga Goncharova",
-      "value": 7
+      "value": 9
     },
     {
       "rank": 11,
-      "name": "AstronaVt",
-      "value": 7
-    },
-    {
-      "rank": 12,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Vitaliy",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Manis Love",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "🤗",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Zero-sum Gamer",
       "value": 5
+    },
+    {
+      "rank": 17,
+      "name": "AstronaVt",
+      "value": 4
     },
     {
       "rank": 18,
