@@ -384,8 +384,12 @@
       if(c.status==='resolved'){p.appendChild(el('div','pres','🏆 Последний конкурс: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+(c.options[c.winner_option]||'—')+'»'));
         p.appendChild(el('div','psub','Угадали '+((c.winners||[]).length)+' — каждому +1 🎯. Следующий конкурс — по #ктоточнее в чате.'));}
       else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
-      const lead=(PRED.board||[]).find(b=>b.ranked!==false&&b.games!=null);
-      if(lead)p.appendChild(el('div','psub','Точнее всех: '+anon(lead.name)+' — '+lead.wins+'/'+lead.games+' ('+lead.win_pct+'%)'+(lead.streak>=2?' 🔥'+lead.streak:'')));
+      /* лидер по точности — только если он единоличный; при ничьей не называем
+         кого-то одного «точнее всех», а показываем размер группы лидеров */
+      const rb=(PRED.board||[]).filter(b=>b.ranked!==false&&b.games!=null);
+      if(rb.length){const t0=rb[0],co=rb.filter(b=>b.win_pct===t0.win_pct&&b.wins===t0.wins).length;
+        if(co===1)p.appendChild(el('div','psub','Точнее всех: '+anon(t0.name)+' — '+t0.wins+'/'+t0.games+' ('+t0.win_pct+'%)'+(t0.streak>=2?' 🔥'+t0.streak:'')));
+        else{const a=co%10,b2=co%100;p.appendChild(el('div','psub','Лучшая точность: '+t0.win_pct+'% — у '+co+' '+((a===1&&b2!==11)?'участника':'участников')));}}
       box.appendChild(p);}
     if(LB&&LB.all&&LB.all.length){const p=el('div','panel');clickable(p,()=>switchTab('rating'),'Рейтинг участников');
       p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
