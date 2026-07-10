@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T13:56:58+00:00",
+  "updated": "2026-07-10T14:56:58+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1716,
+      "value": 1717,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 525,
+      "value": 528,
       "move": 0
     },
     {
@@ -404,28 +404,28 @@
     },
     {
       "rank": 6,
+      "name": "Ольга",
+      "value": 24
+    },
+    {
+      "rank": 7,
       "name": "AstronaVt",
       "value": 23
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "ᴦоᴧод",
       "value": 23
     },
     {
-      "rank": 8,
-      "name": "Ольга",
-      "value": 23
-    },
-    {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Olga Goncharova",
       "value": 21
     },
     {
       "rank": 10,
-      "name": "Olga Goncharova",
-      "value": 18
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 21
     },
     {
       "rank": 11,
@@ -582,7 +582,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 2,
@@ -617,7 +617,7 @@
     {
       "rank": 8,
       "name": "Ольга",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 9,
@@ -626,13 +626,13 @@
     },
     {
       "rank": 10,
-      "name": "AstronaVt",
-      "value": 9
+      "name": "Olga Goncharova",
+      "value": 7
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 9
+      "name": "AstronaVt",
+      "value": 7
     },
     {
       "rank": 12,
@@ -641,13 +641,13 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 7
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
-      "value": 6
+      "name": "Manis Love",
+      "value": 7
     },
     {
       "rank": 15,
@@ -661,8 +661,8 @@
     },
     {
       "rank": 17,
-      "name": "Olga Goncharova",
-      "value": 4
+      "name": "Zero-sum Gamer",
+      "value": 5
     },
     {
       "rank": 18,
