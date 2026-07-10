@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T03:56:58+00:00",
+  "updated": "2026-07-10T04:56:58+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -628,17 +628,17 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 7
-    },
-    {
-      "rank": 16,
       "name": "Manis Love",
       "value": 7
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Turchyn Gennadii",
+      "value": 6
+    },
+    {
+      "rank": 17,
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
