@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T07:56:58+00:00",
+  "updated": "2026-07-10T08:56:58+00:00",
   "count": 61,
   "has_movement": true,
   "all": [
@@ -299,15 +299,15 @@
     },
     {
       "rank": 50,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 51,
-      "name": "Роман",
-      "value": 6,
-      "move": 0
+      "name": "***",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 52,
@@ -468,22 +468,22 @@
     },
     {
       "rank": 20,
-      "name": "Turchyn Gennadii",
+      "name": "Роман",
       "value": 6
     },
     {
       "rank": 21,
-      "name": "Руслан Иванов",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 22,
-      "name": "Алексей",
-      "value": 5
+      "name": "Руслан Иванов",
+      "value": 6
     },
     {
       "rank": 23,
-      "name": "Роман",
+      "name": "Алексей",
       "value": 5
     },
     {
@@ -635,13 +635,13 @@
     },
     {
       "rank": 14,
-      "name": "Zero-sum Gamer",
+      "name": "Manis Love",
       "value": 7
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 7
+      "name": "Zero-sum Gamer",
+      "value": 6
     },
     {
       "rank": 16,
@@ -655,7 +655,7 @@
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "Роман",
       "value": 5
     },
     {
@@ -665,28 +665,28 @@
     },
     {
       "rank": 20,
-      "name": "Роман",
-      "value": 4
-    },
-    {
-      "rank": 21,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Andrey Kuimov",
       "value": 3
+    },
+    {
+      "rank": 24,
+      "name": ".",
+      "value": 2
     },
     {
       "rank": 25,
