@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-10T10:56:58+00:00",
+  "updated": "2026-07-10T11:56:58+00:00",
   "count": 61,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5568,
+      "value": 5569,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3866,
+      "value": 3868,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1661,
+      "value": 1662,
       "move": 0
     },
     {
@@ -374,12 +374,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 74
+      "value": 76
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 71
+      "value": 72
     },
     {
       "rank": 3,
@@ -424,7 +424,7 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 12,
@@ -576,7 +576,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 49
     },
     {
       "rank": 2,
@@ -586,7 +586,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 27
     },
     {
       "rank": 4,
@@ -595,22 +595,22 @@
     },
     {
       "rank": 5,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 17
-    },
-    {
-      "rank": 6,
       "name": "a l",
       "value": 17
     },
     {
+      "rank": 6,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 16
+    },
+    {
       "rank": 7,
-      "name": "AstronaVt",
-      "value": 15
+      "name": "Archie",
+      "value": 16
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "AstronaVt",
       "value": 15
     },
     {
@@ -635,17 +635,17 @@
     },
     {
       "rank": 13,
-      "name": "🤗",
-      "value": 7
-    },
-    {
-      "rank": 14,
       "name": "Manis Love",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Zero-sum Gamer",
+      "value": 6
+    },
+    {
+      "rank": 15,
+      "name": "🤗",
       "value": 6
     },
     {
