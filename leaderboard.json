@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-10T08:56:58+00:00",
+  "updated": "2026-07-10T09:56:58+00:00",
   "count": 61,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5567,
+      "value": 5568,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1660,
+      "value": 1661,
       "move": 0
     },
     {
@@ -329,43 +329,43 @@
     },
     {
       "rank": 55,
-      "name": "xxx",
-      "value": 1,
-      "move": 0
-    },
-    {
-      "rank": 56,
-      "name": "⁤",
-      "value": 1,
-      "move": 0
-    },
-    {
-      "rank": 57,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": 0
-    },
-    {
-      "rank": 58,
-      "name": "Solomon Fridman",
-      "value": 1,
-      "move": 0
-    },
-    {
-      "rank": 59,
-      "name": "Darya",
-      "value": 1,
-      "move": 0
-    },
-    {
-      "rank": 60,
-      "name": "Alex",
-      "value": 1,
+      "name": "Daniil",
+      "value": 2,
       "move": null
     },
     {
+      "rank": 56,
+      "name": "xxx",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 57,
+      "name": "⁤",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 58,
+      "name": "Андрей Грубий",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 59,
+      "name": "Solomon Fridman",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 60,
+      "name": "Darya",
+      "value": 1,
+      "move": -1
+    },
+    {
       "rank": 61,
-      "name": "Daniil",
+      "name": "Alex",
       "value": 1,
       "move": null
     }
@@ -379,7 +379,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 3,
@@ -424,7 +424,7 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 12,
@@ -543,26 +543,31 @@
     },
     {
       "rank": 35,
-      "name": "Charlie Shefelman",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 39,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 40,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
@@ -606,7 +611,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 9,
@@ -625,12 +630,12 @@
     },
     {
       "rank": 12,
-      "name": "🤗",
-      "value": 8
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 13,
-      "name": "Anatoly Shadrin",
+      "name": "🤗",
       "value": 7
     },
     {
@@ -655,12 +660,12 @@
     },
     {
       "rank": 18,
-      "name": "Роман",
-      "value": 5
+      "name": "Olga Goncharova",
+      "value": 4
     },
     {
       "rank": 19,
-      "name": "Olga Goncharova",
+      "name": "Роман",
       "value": 4
     },
     {
@@ -730,26 +735,31 @@
     },
     {
       "rank": 33,
-      "name": "Charlie Shefelman",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Aся",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "DenisNazarov",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Artem Khomenko",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "Artem Khomenko",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     }
