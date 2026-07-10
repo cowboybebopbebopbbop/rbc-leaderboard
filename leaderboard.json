@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:56:57+00:00",
+  "updated": "2026-07-10T00:56:57+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -133,13 +133,13 @@
       "rank": 22,
       "name": "Manis Love",
       "value": 165,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 23,
       "name": "Константин",
       "value": 164,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 24,
@@ -223,43 +223,43 @@
       "rank": 37,
       "name": "ᴦоᴧод",
       "value": 57,
-      "move": 3
+      "move": 0
     },
     {
       "rank": 38,
       "name": "Sergei IVANOV",
       "value": 46,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 39,
       "name": "Vitaliy",
       "value": 45,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 40,
       "name": "SyslikJan",
       "value": 43,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 41,
       "name": "Руслан Иванов",
       "value": 19,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 42,
       "name": "Толян",
       "value": 18,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 43,
       "name": "Антон",
       "value": 17,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 44,
@@ -271,7 +271,7 @@
       "rank": 45,
       "name": "vpidelks",
       "value": 13,
-      "move": null
+      "move": 1
     },
     {
       "rank": 46,
@@ -283,25 +283,25 @@
       "rank": 47,
       "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 48,
       "name": "X888",
       "value": 8,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 49,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 50,
       "name": "***",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 51,
@@ -313,49 +313,49 @@
       "rank": 52,
       "name": "Sila",
       "value": 4,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 53,
       "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 54,
       "name": "Samurai_1",
       "value": 2,
-      "move": null
+      "move": 0
     },
     {
       "rank": 55,
       "name": "xxx",
       "value": 1,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 56,
       "name": "⁤",
       "value": 1,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 57,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 58,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -2
+      "move": 0
     },
     {
       "rank": 59,
       "name": "Darya",
       "value": 1,
-      "move": -2
+      "move": 0
     }
   ],
   "month": [
