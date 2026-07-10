@@ -460,7 +460,7 @@
         const opt=c.options[c.winner_option]||'—';
         card.appendChild(el('div','pred-res',`🏆 Итог: ${c.winner_price!=null?('$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → '):''}«${opt}»`));
       }else{
-        const st=c.status==='open'?('приём ответов до '+fmtDT(c.deadline)):(c.status==='manual'?'итог уточняется':('голоса зафиксированы · итог '+fmtDT(c.target_time)));
+        const st=c.status==='open'?(c.deadline?'приём ответов до '+fmtDT(c.deadline):(c.target_time?'идёт приём ответов · итог '+fmtDT(c.target_time):'идёт приём ответов')):(c.status==='manual'?'итог уточняется':('голоса зафиксированы · итог '+fmtDT(c.target_time)));
         card.appendChild(el('div','d',st));
       }
       const mx=Math.max(1,...c.votes);
