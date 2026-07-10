@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:51:43+00:00",
+  "updated": "2026-07-10T21:51:46+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -582,7 +582,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -731,26 +731,21 @@
     },
     {
       "rank": 31,
-      "name": "X888",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Ilya",
       "value": 1
     }
