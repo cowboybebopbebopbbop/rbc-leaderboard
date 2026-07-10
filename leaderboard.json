@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T04:56:58+00:00",
-  "count": 59,
+  "updated": "2026-07-10T05:56:58+00:00",
+  "count": 60,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3863,
+      "value": 3865,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1658,
+      "value": 1659,
       "move": 0
     },
     {
@@ -356,13 +356,19 @@
       "name": "Darya",
       "value": 1,
       "move": 0
+    },
+    {
+      "rank": 60,
+      "name": "Alex",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 71
+      "value": 73
     },
     {
       "rank": 2,
@@ -412,7 +418,7 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 12,
@@ -559,7 +565,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 48
     },
     {
       "rank": 2,
@@ -593,12 +599,12 @@
     },
     {
       "rank": 8,
-      "name": "Ольга",
-      "value": 12
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 9,
-      "name": "Archie",
+      "name": "Ольга",
       "value": 12
     },
     {
