@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T02:56:58+00:00",
+  "updated": "2026-07-10T03:56:58+00:00",
   "count": 59,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3862,
+      "value": 3863,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 57,
+      "value": 58,
       "move": 0
     },
     {
@@ -245,15 +245,15 @@
     },
     {
       "rank": 41,
-      "name": "Руслан Иванов",
-      "value": 19,
-      "move": 0
+      "name": "Толян",
+      "value": 18,
+      "move": 1
     },
     {
       "rank": 42,
-      "name": "Толян",
+      "name": "Руслан Иванов",
       "value": 18,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 43,
@@ -362,7 +362,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 70
+      "value": 71
     },
     {
       "rank": 2,
@@ -391,13 +391,13 @@
     },
     {
       "rank": 7,
-      "name": "Ольга",
+      "name": "ᴦоᴧод",
       "value": 23
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 22
+      "name": "Ольга",
+      "value": 23
     },
     {
       "rank": 9,
@@ -456,12 +456,12 @@
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
-      "value": 7
+      "name": "Turchyn Gennadii",
+      "value": 6
     },
     {
       "rank": 21,
-      "name": "Turchyn Gennadii",
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
@@ -559,7 +559,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -574,7 +574,7 @@
     {
       "rank": 4,
       "name": "ᴦоᴧод",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 5,
@@ -673,22 +673,22 @@
     },
     {
       "rank": 24,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
-      "rank": 25,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Алексей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ingvar 604",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
