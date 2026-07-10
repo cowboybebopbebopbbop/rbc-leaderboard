@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-10T12:56:58+00:00",
-  "count": 61,
+  "updated": "2026-07-10T13:56:58+00:00",
+  "count": 62,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5572,
+      "value": 5573,
       "move": 0
     },
     {
@@ -368,18 +368,24 @@
       "name": "Alex",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 62,
+      "name": "F. Yashin",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
-      "name": "Igor",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 76
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 75
+      "name": "Igor",
+      "value": 76
     },
     {
       "rank": 3,
@@ -586,7 +592,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 4,
@@ -665,23 +671,23 @@
     },
     {
       "rank": 19,
-      "name": "Eugene",
-      "value": 4
-    },
-    {
-      "rank": 20,
       "name": "Turchyn Gennadii",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Константин",
       "value": 4
+    },
+    {
+      "rank": 22,
+      "name": "Eugene",
+      "value": 3
     },
     {
       "rank": 23,
