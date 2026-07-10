@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:01:02+00:00",
+  "updated": "2026-07-10T17:31:11+00:00",
   "contests": [
     {
       "question": "Какой будет цена ETH в среду 15 июля, 12:00 МСК. Курс фиксируется по паре ETH/USDT на Binance. Ответы принимаются до 23:59 МСК субботы",
@@ -13,15 +13,15 @@
         "$2000 и выше"
       ],
       "votes": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        7,
+        2,
+        8,
+        15,
+        5,
+        3,
         0
       ],
-      "total": 0,
+      "total": 40,
       "posted": "2026-07-08T13:48:10+00:00",
       "deadline": null,
       "target_time": "2026-07-15T09:00:00+00:00",
@@ -93,119 +93,778 @@
   "board": [
     {
       "name": "Jekago |РБК Крипто, мод.",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Валерий",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Роман",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Pavel Maksin",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Денис Малахов",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Zero-sum Gamer",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "xxx",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Jamil A.",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Сергей",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Anatoly Shadrin",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Andrey Kuimov",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Сергей",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Миха",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Dmirriy",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Александр6666",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Василий",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Alex Popov",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "🤗",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Ник",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Олег",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Niki ᅠ",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Дима",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "TellItToUS",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Archie",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Roman",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Vyacheslav Kolodiy",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Михаил",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "Ирина Фет",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
     },
     {
       "name": "И",
-      "points": 1
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "streak": 1,
+      "best_streak": 1,
+      "ranked": true
+    },
+    {
+      "name": "Daina",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Дмитрий Александрович",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Eugene",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Ирина",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Кристина",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Yury Mikulski",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "AK",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Rafael Zinurov",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "terminal lucidity",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Ольга Владиславовна Кучеренко",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "BORIS A",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Juliya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Артур М",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "ᴦоᴧод",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Mark",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "\\\\\\\\\\",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Екатерина Родионова",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Александр",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Oleg",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "R",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Manis Love",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Olga Troitskaya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Серхио Ле'Трас",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "George",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Н@t@Y",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "K12",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Алексей",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Valeri 🫥",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Lubov.",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "D",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Natali",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Александра Вв",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Xxx Xxx",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "~",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Genri",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Yura Nusu",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "USDT/WM Kutuzovskaya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Михаил",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "L G",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Ольга Волкова",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Mikhail",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Vadim",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Юрий Рассказов",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Ольга",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Ivan Sergienko",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "ТехТорг",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Юрий",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Dima",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Bogdan",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Михаил",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Viktor",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Igor",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Оксана",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Sila",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Марина Сутырина | Design interior & invest",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Glays_father",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
+    },
+    {
+      "name": "Hot Since 96",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "ranked": true
     }
-  ]
+  ],
+  "min_games": 1
 }

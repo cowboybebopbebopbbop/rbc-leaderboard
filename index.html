@@ -82,6 +82,7 @@
   .row .v{font-variant-numeric:tabular-nums;font-weight:600;white-space:nowrap;}
   .mv{font-size:.7rem;margin-left:6px;font-weight:600;}
   .mv.up{color:hsl(var(--green));}.mv.down{color:hsl(var(--primary));}.mv.new{color:hsl(var(--muted-foreground));}
+  .strk{font-size:.72rem;margin-left:7px;color:hsl(var(--muted-foreground));font-weight:500;}
 
   h2{font-size:.95rem;margin:22px 0 6px;font-weight:700;letter-spacing:-.01em;}
   .sub{color:hsl(var(--muted-foreground));font-size:.84rem;margin:2px 0 8px;}
@@ -383,6 +384,8 @@
       if(c.status==='resolved'){p.appendChild(el('div','pres','🏆 Последний конкурс: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+(c.options[c.winner_option]||'—')+'»'));
         p.appendChild(el('div','psub','Угадали '+((c.winners||[]).length)+' — каждому +1 🎯. Следующий конкурс — по #ктоточнее в чате.'));}
       else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
+      const lead=(PRED.board||[]).find(b=>b.ranked!==false&&b.games!=null);
+      if(lead)p.appendChild(el('div','psub','Точнее всех: '+anon(lead.name)+' — '+lead.wins+'/'+lead.games+' ('+lead.win_pct+'%)'+(lead.streak>=2?' 🔥'+lead.streak:'')));
       box.appendChild(p);}
     if(LB&&LB.all&&LB.all.length){const p=el('div','panel');clickable(p,()=>switchTab('rating'),'Рейтинг участников');
       p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
@@ -448,8 +451,16 @@
   function renderPred(){const box=document.getElementById('pred-body');if(!box)return;box.textContent='';
     if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
     if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
-      const l=el('div','list');PRED.board.slice(0,50).forEach((b,i)=>{const r=el('div','row');const rk=el('div','r');rk.append(document.createTextNode(medal(i+1)));
-        r.append(rk,el('div','nm',anon(b.name)),el('div','v','🎯 '+b.points));l.appendChild(r);});box.appendChild(l);}
+      const mg=PRED.min_games||1;
+      box.appendChild(el('div','sub','Место — по доле угаданных среди сыгранных конкурсов'+(mg>1?' (в зачёте — сыгравшие '+mg+'+; остальные внизу без места)':'')+'. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
+      const l=el('div','list');let rank=0;
+      PRED.board.slice(0,50).forEach(b=>{const r=el('div','row');const rk=el('div','r');
+        rk.append(document.createTextNode(b.ranked===false?'—':String(medal(++rank))));
+        const nm=el('div','nm');nm.append(document.createTextNode(anon(b.name)));
+        if(b.streak>=2)nm.appendChild(el('span','mv up','🔥'+b.streak));
+        if(b.best_streak>=2)nm.appendChild(el('span','strk','рекорд: '+b.best_streak));
+        const val=b.games!=null?b.wins+'/'+b.games+' · '+b.win_pct+'%':'🎯 '+b.points;
+        r.append(rk,nm,el('div','v',val));l.appendChild(r);});box.appendChild(l);}
     box.appendChild(el('h2',null,'Конкурсы'));
     PRED.contests.forEach(c=>{
       const done=c.status==='resolved';
