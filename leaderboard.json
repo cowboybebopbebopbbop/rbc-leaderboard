@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:46:50+00:00",
+  "updated": "2026-07-11T17:46:54+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1722,
+      "value": 1723,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 904,
+      "value": 906,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 532,
+      "value": 533,
       "move": 0
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 68
+      "value": 70
     },
     {
       "rank": 4,
@@ -400,7 +400,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 6,
@@ -410,7 +410,7 @@
     {
       "rank": 7,
       "name": "Olga Goncharova",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 8,
@@ -592,7 +592,7 @@
     {
       "rank": 1,
       "name": "Viktor",
-      "value": 68
+      "value": 70
     },
     {
       "rank": 2,
@@ -616,27 +616,27 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 16
+      "name": "Ольга",
+      "value": 14
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 15
-    },
-    {
-      "rank": 8,
       "name": "ᅠ",
       "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 12
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Olga Goncharova",
+      "value": 12
+    },
+    {
+      "rank": 10,
+      "name": "Archie",
       "value": 11
     },
     {
@@ -646,12 +646,12 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "Manis Love",
+      "value": 7
     },
     {
       "rank": 13,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 7
     },
     {
@@ -691,82 +691,77 @@
     },
     {
       "rank": 21,
-      "name": "Turchyn Gennadii",
-      "value": 3
-    },
-    {
-      "rank": 22,
       "name": "Eugene",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": ".",
-      "value": 2
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 28,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 29,
+      "name": "Turchyn Gennadii",
+      "value": 1
+    },
+    {
+      "rank": 30,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Ingvar 604",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 36,
-      "name": "Ilya",
+      "rank": 35,
+      "name": ".",
       "value": 1
     }
   ]
