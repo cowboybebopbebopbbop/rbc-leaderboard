@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T19:47:02+00:00",
+  "updated": "2026-07-11T20:47:06+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -642,7 +642,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 12,
@@ -696,22 +696,22 @@
     },
     {
       "rank": 22,
-      "name": "Константин",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "Константин",
       "value": 1
     },
     {
@@ -746,21 +746,16 @@
     },
     {
       "rank": 32,
-      "name": "***",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": ".",
       "value": 1
     }
