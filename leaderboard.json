@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:46:38+00:00",
+  "updated": "2026-07-11T15:46:42+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1662,
+      "value": 1663,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 868,
+      "value": 902,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 758,
+      "value": 761,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 136,
+      "value": 138,
       "move": 0
     },
     {
@@ -390,7 +390,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 32
+      "value": 66
     },
     {
       "rank": 4,
@@ -399,18 +399,18 @@
     },
     {
       "rank": 5,
+      "name": "Zero-sum Gamer",
+      "value": 27
+    },
+    {
+      "rank": 6,
       "name": "Ольга",
       "value": 25
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Olga Goncharova",
       "value": 25
-    },
-    {
-      "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 24
     },
     {
       "rank": 8,
@@ -430,12 +430,12 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 12,
       "name": "ᅠ",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 13,
@@ -591,13 +591,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 50
+      "name": "Viktor",
+      "value": 66
     },
     {
       "rank": 2,
-      "name": "Viktor",
-      "value": 32
+      "name": "Igor",
+      "value": 50
     },
     {
       "rank": 3,
@@ -617,27 +617,27 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 13
-    },
-    {
-      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 13
     },
     {
+      "rank": 8,
+      "name": "ᅠ",
+      "value": 12
+    },
+    {
       "rank": 9,
-      "name": "Olga Goncharova",
-      "value": 11
+      "name": "Ольга",
+      "value": 12
     },
     {
       "rank": 10,
-      "name": "ᅠ",
-      "value": 10
+      "name": "Olga Goncharova",
+      "value": 11
     },
     {
       "rank": 11,
@@ -646,23 +646,23 @@
     },
     {
       "rank": 12,
+      "name": "Zero-sum Gamer",
+      "value": 8
+    },
+    {
+      "rank": 13,
       "name": "Manis Love",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Князь Владимир С",
       "value": 6
-    },
-    {
-      "rank": 15,
-      "name": "Zero-sum Gamer",
-      "value": 5
     },
     {
       "rank": 16,
