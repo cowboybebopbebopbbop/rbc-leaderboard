@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T20:47:06+00:00",
+  "updated": "2026-07-11T21:47:11+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -631,38 +631,38 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "Zero-sum Gamer",
       "value": 9
     },
     {
-      "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
+      "rank": 10,
+      "name": "Archie",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Vitaliy",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
       "rank": 15,
       "name": "Anatoly Shadrin",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 16,
@@ -671,27 +671,27 @@
     },
     {
       "rank": 17,
-      "name": "🤗",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "Роман",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Eugene",
+      "value": 3
+    },
+    {
+      "rank": 21,
+      "name": "🤗",
       "value": 3
     },
     {
