@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T22:51:50+00:00",
+  "updated": "2026-07-11T09:46:16+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -271,13 +271,13 @@
       "rank": 45,
       "name": "vpidelks",
       "value": 13,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 46,
       "name": "Turchyn Gennadii",
       "value": 12,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 47,
@@ -592,7 +592,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 4,
@@ -636,52 +636,52 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 7
-    },
-    {
-      "rank": 13,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 15,
-      "name": "🤗",
-      "value": 6
+      "rank": 14,
+      "name": "Vitaliy",
+      "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Zero-sum Gamer",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 18,
-      "name": "Turchyn Gennadii",
+      "rank": 17,
+      "name": "🤗",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Роман",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Константин",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Andrey Kuimov",
+      "value": 3
+    },
+    {
+      "rank": 21,
+      "name": "Turchyn Gennadii",
       "value": 3
     },
     {
@@ -696,37 +696,37 @@
     },
     {
       "rank": 24,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Daniil",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "Ingvar 604",
       "value": 1
     },
     {
