@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T11:46:28+00:00",
+  "updated": "2026-07-11T12:46:32+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -227,15 +227,15 @@
     },
     {
       "rank": 38,
-      "name": "Sergei IVANOV",
-      "value": 46,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 47,
+      "move": 1
     },
     {
       "rank": 39,
-      "name": "Vitaliy",
-      "value": 45,
-      "move": 0
+      "name": "Sergei IVANOV",
+      "value": 46,
+      "move": -1
     },
     {
       "rank": 40,
@@ -444,22 +444,22 @@
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 11
+    },
+    {
+      "rank": 15,
       "name": "🤗",
       "value": 10
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": ".",
       "value": 10
     },
     {
-      "rank": 16,
-      "name": "Manis Love",
-      "value": 9
-    },
-    {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 9
     },
     {
@@ -646,18 +646,18 @@
     },
     {
       "rank": 12,
-      "name": "Anatoly Shadrin",
+      "name": "Vitaliy",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 6
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 5
+      "name": "Князь Владимир С",
+      "value": 6
     },
     {
       "rank": 15,
