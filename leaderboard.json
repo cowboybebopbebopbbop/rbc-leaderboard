@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:47:23+00:00",
+  "updated": "2026-07-12T09:55:43+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1725,
+      "value": 1726,
       "move": 0
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 5,
@@ -597,7 +597,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 3,
@@ -617,7 +617,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 7,
@@ -631,17 +631,17 @@
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 9
-    },
-    {
-      "rank": 10,
       "name": "Archie",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Vitaliy",
+      "value": 7
+    },
+    {
+      "rank": 11,
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
@@ -661,101 +661,96 @@
     },
     {
       "rank": 15,
-      "name": "Anatoly Shadrin",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Роман",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Eugene",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "🤗",
-      "value": 3
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "name": "Anatoly Shadrin",
+      "value": 2
+    },
+    {
+      "rank": 22,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Ingvar 604",
+      "rank": 30,
+      "name": "🤗",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": ".",
       "value": 1
     }
