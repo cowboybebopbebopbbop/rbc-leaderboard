@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T09:55:43+00:00",
+  "updated": "2026-07-12T10:55:45+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 309,
+      "value": 310,
       "move": 0
     },
     {
@@ -519,13 +519,13 @@
     },
     {
       "rank": 29,
-      "name": "Ingvar 604",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
+      "name": "Ingvar 604",
+      "value": 2
     },
     {
       "rank": 31,
@@ -686,23 +686,23 @@
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Anatoly Shadrin",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "AstronaVt",
+      "name": "Anatoly Shadrin",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
+      "name": "AstronaVt",
+      "value": 2
     },
     {
       "rank": 24,
