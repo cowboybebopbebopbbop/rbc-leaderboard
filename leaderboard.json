@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:55:45+00:00",
+  "updated": "2026-07-12T14:54:49+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -602,7 +602,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 25
     },
     {
       "rank": 4,
@@ -631,12 +631,12 @@
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 8
+      "name": "Vitaliy",
+      "value": 7
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
+      "name": "Archie",
       "value": 7
     },
     {
@@ -686,71 +686,66 @@
     },
     {
       "rank": 20,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 2
-    },
-    {
-      "rank": 21,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "AstronaVt",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Константин",
+      "rank": 23,
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": ".",
       "value": 1
     }
