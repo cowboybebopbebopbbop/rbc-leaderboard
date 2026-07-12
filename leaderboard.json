@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T19:49:53+00:00",
+  "updated": "2026-07-12T20:49:53+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -737,11 +737,6 @@
     {
       "rank": 30,
       "name": "vpidelks",
-      "value": 1
-    },
-    {
-      "rank": 31,
-      "name": ".",
       "value": 1
     }
   ]
