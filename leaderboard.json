@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:47:19+00:00",
+  "updated": "2026-07-12T00:47:24+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -247,13 +247,13 @@
       "rank": 41,
       "name": "Толян",
       "value": 18,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 42,
       "name": "Руслан Иванов",
       "value": 18,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 43,
@@ -301,13 +301,13 @@
       "rank": 50,
       "name": "Роман",
       "value": 7,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 51,
       "name": "***",
       "value": 7,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 52,
@@ -331,49 +331,49 @@
       "rank": 55,
       "name": "Daniil",
       "value": 2,
-      "move": null
+      "move": 0
     },
     {
       "rank": 56,
       "name": "xxx",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 57,
       "name": "⁤",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 58,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 59,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 60,
       "name": "Darya",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 61,
       "name": "Alex",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 62,
       "name": "F. Yashin",
       "value": 1,
-      "move": null
+      "move": 0
     }
   ],
   "month": [
