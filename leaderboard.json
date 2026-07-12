@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:49:53+00:00",
+  "updated": "2026-07-12T17:49:53+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 310,
+      "value": 314,
       "move": 0
     },
     {
@@ -474,52 +474,52 @@
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
       "rank": 21,
-      "name": "Turchyn Gennadii",
+      "name": "Руслан Иванов",
       "value": 6
     },
     {
       "rank": 22,
-      "name": "Роман",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 23,
+      "name": "Роман",
+      "value": 6
+    },
+    {
+      "rank": 24,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 28,
-      "name": "Anatoly Radchenko",
-      "value": 2
-    },
-    {
       "rank": 29,
-      "name": "Sergey Saprykin ID: 125370212",
+      "name": "Anatoly Radchenko",
       "value": 2
     },
     {
@@ -656,53 +656,53 @@
     },
     {
       "rank": 14,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 5
+    },
+    {
+      "rank": 15,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Роман",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Eugene",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "AstronaVt",
       "value": 2
-    },
-    {
-      "rank": 23,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
     },
     {
       "rank": 24,
@@ -711,41 +711,36 @@
     },
     {
       "rank": 25,
-      "name": "Aся",
-      "value": 1
-    },
-    {
-      "rank": 26,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": ".",
       "value": 1
     }
