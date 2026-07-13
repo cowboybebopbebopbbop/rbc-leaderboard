@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T20:49:55+00:00",
+  "updated": "2026-07-13T21:49:56+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
@@ -668,7 +668,7 @@
     {
       "rank": 14,
       "name": "Князь Владимир С",
-      "value": 6
+      "value": 5
     },
     {
       "rank": 15,
@@ -727,36 +727,31 @@
     },
     {
       "rank": 26,
-      "name": "Andrey Kuimov",
-      "value": 1
-    },
-    {
-      "rank": 27,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "AstronaVt",
       "value": 1
     }
