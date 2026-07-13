@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T10:49:54+00:00",
+  "updated": "2026-07-13T11:49:54+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3877,
+      "value": 3879,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 536,
+      "value": 537,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 314,
+      "value": 315,
       "move": 0
     },
     {
@@ -246,7 +246,7 @@
     {
       "rank": 41,
       "name": "Толян",
-      "value": 18,
+      "value": 20,
       "move": 0
     },
     {
@@ -386,7 +386,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 85
+      "value": 87
     },
     {
       "rank": 2,
@@ -416,7 +416,7 @@
     {
       "rank": 7,
       "name": "Olga Goncharova",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 8,
@@ -475,13 +475,13 @@
     },
     {
       "rank": 19,
-      "name": "Anatoly Shadrin",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 7
     },
     {
       "rank": 20,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 6
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 21,
@@ -540,56 +540,61 @@
     },
     {
       "rank": 32,
+      "name": "Толян",
+      "value": 2
+    },
+    {
+      "rank": 33,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Ilya",
       "value": 1
     }
@@ -603,7 +608,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 48
+      "value": 50
     },
     {
       "rank": 3,
@@ -632,12 +637,12 @@
     },
     {
       "rank": 8,
-      "name": "ᅠ",
-      "value": 13
+      "name": "Olga Goncharova",
+      "value": 14
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
+      "name": "ᅠ",
       "value": 13
     },
     {
@@ -647,23 +652,23 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 6
     },
     {
       "rank": 15,
@@ -702,46 +707,51 @@
     },
     {
       "rank": 22,
-      "name": "Anatoly Shadrin",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 23,
+      "name": "Anatoly Shadrin",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "AstronaVt",
       "value": 1
     }
