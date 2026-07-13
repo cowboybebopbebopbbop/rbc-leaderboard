@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:49:55+00:00",
+  "updated": "2026-07-13T20:49:55+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
@@ -270,7 +270,7 @@
     {
       "rank": 45,
       "name": "vpidelks",
-      "value": 13,
+      "value": 14,
       "move": 0
     },
     {
@@ -540,52 +540,52 @@
     },
     {
       "rank": 32,
-      "name": "Толян",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 33,
+      "name": "Толян",
+      "value": 2
+    },
+    {
+      "rank": 34,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 40,
-      "name": "Синдбад Мореход",
-      "value": 1
-    },
-    {
       "rank": 41,
-      "name": "vpidelks",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
@@ -707,52 +707,52 @@
     },
     {
       "rank": 22,
-      "name": "Толян",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Anatoly Shadrin",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 24,
+      "name": "Anatoly Shadrin",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Andrey Kuimov",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 30,
-      "name": "Синдбад Мореход",
-      "value": 1
-    },
-    {
       "rank": 31,
-      "name": "vpidelks",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
