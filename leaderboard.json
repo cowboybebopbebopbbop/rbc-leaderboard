@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:49:55+00:00",
+  "updated": "2026-07-13T13:49:55+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3882,
+      "value": 3883,
       "move": 0
     },
     {
@@ -386,7 +386,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 90
+      "value": 91
     },
     {
       "rank": 2,
@@ -603,7 +603,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 2,
@@ -613,7 +613,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 4,
@@ -623,7 +623,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -702,27 +702,27 @@
     },
     {
       "rank": 21,
-      "name": "Andrey Kuimov",
-      "value": 2
-    },
-    {
-      "rank": 22,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "DenisNazarov",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "Andrey Kuimov",
       "value": 1
     },
     {
