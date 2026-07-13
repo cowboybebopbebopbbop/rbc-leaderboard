@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-13T15:49:55+00:00",
+  "updated": "2026-07-13T16:49:55+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5579,
+      "value": 5580,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 537,
+      "value": 538,
       "move": 0
     },
     {
@@ -391,7 +391,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 82
+      "value": 83
     },
     {
       "rank": 3,
@@ -410,12 +410,12 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 30
+      "name": "Olga Goncharova",
+      "value": 31
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 30
     },
     {
@@ -613,7 +613,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 4,
@@ -632,37 +632,37 @@
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 14
+      "name": "Olga Goncharova",
+      "value": 15
     },
     {
       "rank": 8,
-      "name": "Olga Goncharova",
+      "name": "Ольга",
       "value": 14
     },
     {
       "rank": 9,
       "name": "ᅠ",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 10,
-      "name": "Archie",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Vitaliy",
+      "value": 6
+    },
+    {
+      "rank": 13,
+      "name": "Archie",
       "value": 6
     },
     {
