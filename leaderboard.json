@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T01:49:53+00:00",
+  "updated": "2026-07-13T02:49:53+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "ᅠ",
-      "value": 138,
+      "value": 139,
       "move": 0
     },
     {
@@ -435,7 +435,7 @@
     {
       "rank": 12,
       "name": "ᅠ",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 13,
@@ -632,7 +632,7 @@
     {
       "rank": 9,
       "name": "ᅠ",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 10,
@@ -676,18 +676,18 @@
     },
     {
       "rank": 18,
-      "name": "Andrey Kuimov",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Eugene",
       "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Andrey Kuimov",
+      "value": 2
     },
     {
       "rank": 21,
@@ -696,47 +696,47 @@
     },
     {
       "rank": 22,
-      "name": "AstronaVt",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "vpidelks",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "AstronaVt",
       "value": 1
     }
   ]
