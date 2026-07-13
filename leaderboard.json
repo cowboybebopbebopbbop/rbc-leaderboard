@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-13T06:49:53+00:00",
+  "updated": "2026-07-13T07:49:53+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5573,
+      "value": 5575,
       "move": 0
     },
     {
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "Daniil",
-      "value": 2,
+      "value": 3,
       "move": 0
     },
     {
@@ -385,7 +385,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 76
+      "value": 78
     },
     {
       "rank": 3,
@@ -524,37 +524,37 @@
     },
     {
       "rank": 30,
-      "name": "Ingvar 604",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 31,
+      "name": "Ingvar 604",
+      "value": 2
+    },
+    {
+      "rank": 32,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 35,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
       "rank": 36,
-      "name": "Daniil",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
@@ -602,7 +602,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 24
+      "value": 26
     },
     {
       "rank": 4,
@@ -691,32 +691,32 @@
     },
     {
       "rank": 21,
-      "name": "Anatoly Shadrin",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 22,
+      "name": "Anatoly Shadrin",
+      "value": 2
+    },
+    {
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 25,
-      "name": "Turchyn Gennadii",
-      "value": 1
-    },
-    {
       "rank": 26,
-      "name": "Daniil",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
