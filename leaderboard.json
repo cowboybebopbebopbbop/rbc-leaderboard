@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-13T11:49:54+00:00",
+  "updated": "2026-07-13T12:49:55+00:00",
   "count": 63,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5576,
+      "value": 5578,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3879,
+      "value": 3882,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 769,
+      "value": 770,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "Anatoly Radchenko",
-      "value": 290,
+      "value": 292,
       "move": 0
     },
     {
@@ -386,12 +386,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 87
+      "value": 90
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 79
+      "value": 81
     },
     {
       "rank": 3,
@@ -401,7 +401,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 5,
@@ -505,28 +505,28 @@
     },
     {
       "rank": 25,
-      "name": "Константин",
+      "name": "Anatoly Radchenko",
       "value": 4
     },
     {
       "rank": 26,
-      "name": "Eugene",
+      "name": "Константин",
       "value": 4
     },
     {
       "rank": 27,
+      "name": "Eugene",
+      "value": 4
+    },
+    {
+      "rank": 28,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 3
-    },
-    {
-      "rank": 29,
-      "name": "Anatoly Radchenko",
-      "value": 2
     },
     {
       "rank": 30,
@@ -602,18 +602,18 @@
   "week": [
     {
       "rank": 1,
-      "name": "Viktor",
-      "value": 71
+      "name": "Igor",
+      "value": 53
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 50
+      "name": "Viktor",
+      "value": 40
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 4,
@@ -627,12 +627,12 @@
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 14
+      "name": "Zero-sum Gamer",
+      "value": 15
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 14
     },
     {
@@ -697,61 +697,66 @@
     },
     {
       "rank": 20,
-      "name": "Andrey Kuimov",
+      "name": "Anatoly Radchenko",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Daniil",
+      "name": "Andrey Kuimov",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Толян",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Anatoly Shadrin",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 24,
+      "name": "Anatoly Shadrin",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "AstronaVt",
       "value": 1
     }
