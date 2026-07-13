@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T23:49:53+00:00",
+  "updated": "2026-07-13T00:49:53+00:00",
   "count": 62,
   "has_movement": true,
   "all": [
@@ -229,13 +229,13 @@
       "rank": 38,
       "name": "Vitaliy",
       "value": 48,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 39,
       "name": "Sergei IVANOV",
       "value": 46,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 40,
