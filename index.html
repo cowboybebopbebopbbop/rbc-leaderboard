@@ -386,7 +386,7 @@
       else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
       /* лидер по точности — только если он единоличный; при ничьей не называем
          кого-то одного «точнее всех», а показываем размер группы лидеров */
-      const rb=(PRED.board||[]).filter(b=>b.ranked!==false&&b.games!=null);
+      const rb=(PRED.board||[]).filter(b=>b.games!=null);
       if(rb.length){const t0=rb[0],co=rb.filter(b=>b.win_pct===t0.win_pct&&b.wins===t0.wins).length;
         if(co===1)p.appendChild(el('div','psub','Точнее всех: '+anon(t0.name)+' — '+t0.wins+'/'+t0.games+' ('+t0.win_pct+'%)'+(t0.streak>=2?' 🔥'+t0.streak:'')));
         else{const a=co%10,b2=co%100;p.appendChild(el('div','psub','Лучшая точность: '+t0.win_pct+'% — у '+co+' '+((a===1&&b2!==11)?'участника':'участников')));}}
@@ -455,11 +455,10 @@
   function renderPred(){const box=document.getElementById('pred-body');if(!box)return;box.textContent='';
     if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
     if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
-      const mg=PRED.min_games||1;
-      box.appendChild(el('div','sub','Место — по доле угаданных среди сыгранных конкурсов'+(mg>1?' (в зачёте — сыгравшие '+mg+'+; остальные внизу без места)':'')+'. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
+      box.appendChild(el('div','sub','Место — по сглаженной точности: (угадано+1)/(сыграно+2). Малую выборку тянет к 50%, поэтому 100% с одной игры стоит выше 50%, но ниже проверенного 100% с нескольких. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
       const l=el('div','list');let rank=0;
       PRED.board.slice(0,50).forEach(b=>{const r=el('div','row');const rk=el('div','r');
-        rk.append(document.createTextNode(b.ranked===false?'—':String(medal(++rank))));
+        rk.append(document.createTextNode(String(medal(++rank))));
         const nm=el('div','nm');nm.append(document.createTextNode(anon(b.name)));
         if(b.streak>=2)nm.appendChild(el('span','mv up','🔥'+b.streak));
         if(b.best_streak>=2)nm.appendChild(el('span','strk','рекорд: '+b.best_streak));
