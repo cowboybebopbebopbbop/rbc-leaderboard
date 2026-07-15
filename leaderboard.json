@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T14:43:17+00:00",
+  "updated": "2026-07-15T15:43:17+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "Руслан Иванов",
-      "value": 18,
+      "value": 19,
       "move": -2
     },
     {
@@ -492,17 +492,17 @@
     },
     {
       "rank": 20,
-      "name": "Anatoly Shadrin",
+      "name": "Руслан Иванов",
       "value": 7
     },
     {
       "rank": 21,
-      "name": "Aся",
-      "value": 6
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "Aся",
       "value": 6
     },
     {
@@ -620,7 +620,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 2,
@@ -650,7 +650,7 @@
     {
       "rank": 7,
       "name": "ᴦоᴧод",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 8,
@@ -709,41 +709,46 @@
     },
     {
       "rank": 19,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Samurai_1",
       "value": 1
     },
     {
+      "rank": 25,
+      "name": "L G",
+      "value": 1
+    },
+    {
       "rank": 26,
+      "name": "Руслан Иванов",
+      "value": 1
+    },
+    {
+      "rank": 27,
       "name": "Синдбад Мореход",
       "value": 1
     }
