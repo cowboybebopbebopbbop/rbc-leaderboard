@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T11:43:15+00:00",
+  "updated": "2026-07-15T12:43:16+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3898,
+      "value": 3900,
       "move": 0
     },
     {
@@ -36,13 +36,13 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 986,
+      "value": 989,
       "move": 0
     },
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 909,
+      "value": 910,
       "move": 0
     },
     {
@@ -398,7 +398,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 106
+      "value": 108
     },
     {
       "rank": 2,
@@ -408,27 +408,27 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 73
+      "value": 74
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 37
     },
     {
       "rank": 5,
+      "name": "Olga Goncharova",
+      "value": 37
+    },
+    {
+      "rank": 6,
       "name": "Ольга",
       "value": 36
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Zero-sum Gamer",
       "value": 36
-    },
-    {
-      "rank": 7,
-      "name": "a l",
-      "value": 34
     },
     {
       "rank": 8,
@@ -615,32 +615,32 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 54
     },
     {
       "rank": 2,
       "name": "Viktor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 19
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
-      "value": 17
+      "name": "Olga Goncharova",
+      "value": 19
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 16
+      "name": "ᴦоᴧод",
+      "value": 17
     },
     {
       "rank": 7,
@@ -689,22 +689,22 @@
     },
     {
       "rank": 16,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Manis Love",
       "value": 2
     },
     {
