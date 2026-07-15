@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:22:07+00:00",
+  "updated": "2026-07-15T09:52:43+00:00",
   "count": 64,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3896,
+      "value": 3897,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 538,
+      "value": 544,
       "move": 0
     },
     {
@@ -392,7 +392,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 104
+      "value": 105
     },
     {
       "rank": 2,
@@ -406,23 +406,23 @@
     },
     {
       "rank": 4,
+      "name": "Olga Goncharova",
+      "value": 37
+    },
+    {
+      "rank": 5,
       "name": "Ольга",
       "value": 36
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Zero-sum Gamer",
       "value": 36
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "a l",
       "value": 34
-    },
-    {
-      "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 31
     },
     {
       "rank": 8,
@@ -623,23 +623,23 @@
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 18
+      "name": "Olga Goncharova",
+      "value": 19
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
+      "name": "a l",
       "value": 17
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 16
+      "name": "ᴦоᴧод",
+      "value": 17
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 13
+      "name": "Ольга",
+      "value": 16
     },
     {
       "rank": 8,
@@ -654,7 +654,7 @@
     {
       "rank": 10,
       "name": "ᅠ",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 11,
@@ -728,11 +728,6 @@
     },
     {
       "rank": 25,
-      "name": "🤗",
-      "value": 1
-    },
-    {
-      "rank": 26,
       "name": "Синдбад Мореход",
       "value": 1
     }
