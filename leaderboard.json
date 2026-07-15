@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:22:06+00:00",
+  "updated": "2026-07-15T08:23:45+00:00",
   "count": 64,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1726,
+      "value": 1729,
       "move": 0
     },
     {
@@ -406,18 +406,18 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 36
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 34
+      "name": "Zero-sum Gamer",
+      "value": 36
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 33
+      "name": "a l",
+      "value": 34
     },
     {
       "rank": 7,
@@ -633,13 +633,13 @@
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 15
+      "name": "Ольга",
+      "value": 16
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 13
+      "name": "Zero-sum Gamer",
+      "value": 15
     },
     {
       "rank": 8,
