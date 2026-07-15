@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-15T12:43:16+00:00",
+  "updated": "2026-07-15T13:43:16+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5588,
+      "value": 5591,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3900,
+      "value": 3901,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 910,
+      "value": 911,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": "Max",
-      "value": 81,
+      "value": 82,
       "move": -1
     },
     {
@@ -398,17 +398,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 108
+      "value": 109
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 91
+      "value": 94
     },
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 74
+      "value": 75
     },
     {
       "rank": 4,
@@ -609,23 +609,28 @@
       "rank": 43,
       "name": "Ilya",
       "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "Max",
+      "value": 1
     }
   ],
   "week": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 54
+      "value": 52
     },
     {
       "rank": 2,
       "name": "Viktor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 4,
@@ -735,6 +740,11 @@
     {
       "rank": 25,
       "name": "Синдбад Мореход",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Max",
       "value": 1
     }
   ]
