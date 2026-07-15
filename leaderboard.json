@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-15T13:43:16+00:00",
+  "updated": "2026-07-15T14:43:17+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5591,
+      "value": 5592,
       "move": 0
     },
     {
@@ -185,15 +185,15 @@
     },
     {
       "rank": 31,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -1
+      "name": "Max",
+      "value": 83,
+      "move": 0
     },
     {
       "rank": 32,
-      "name": "Max",
+      "name": "Sergey СЕО",
       "value": 82,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 33,
@@ -403,7 +403,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 94
+      "value": 95
     },
     {
       "rank": 3,
@@ -567,52 +567,52 @@
     },
     {
       "rank": 35,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 36,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 43,
-      "name": "Ilya",
-      "value": 1
-    },
-    {
       "rank": 44,
-      "name": "Max",
+      "name": "Ilya",
       "value": 1
     }
   ],
@@ -620,7 +620,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 50
     },
     {
       "rank": 2,
@@ -630,7 +630,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "value": 29
     },
     {
       "rank": 4,
@@ -644,12 +644,12 @@
     },
     {
       "rank": 6,
-      "name": "ᴦоᴧод",
-      "value": 17
+      "name": "Ольга",
+      "value": 16
     },
     {
       "rank": 7,
-      "name": "Ольга",
+      "name": "ᴦоᴧод",
       "value": 16
     },
     {
@@ -659,12 +659,12 @@
     },
     {
       "rank": 9,
-      "name": "ᅠ",
-      "value": 7
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 6
     },
     {
       "rank": 10,
-      "name": "Sergey Saprykin ID: 125370212",
+      "name": "ᅠ",
       "value": 6
     },
     {
@@ -699,22 +699,22 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 3
-    },
-    {
-      "rank": 18,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "L G",
+      "value": 2
+    },
+    {
+      "rank": 20,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
@@ -734,17 +734,17 @@
     },
     {
       "rank": 24,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 25,
-      "name": "Синдбад Мореход",
-      "value": 1
-    },
-    {
       "rank": 26,
-      "name": "Max",
+      "name": "Синдбад Мореход",
       "value": 1
     }
   ]
