@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-15T10:19:31+00:00",
+  "updated": "2026-07-15T10:53:21+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5580,
+      "value": 5588,
       "move": 0
     },
     {
@@ -403,7 +403,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 83
+      "value": 91
     },
     {
       "rank": 3,
@@ -625,7 +625,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 23
+      "value": 30
     },
     {
       "rank": 4,
@@ -714,31 +714,26 @@
     },
     {
       "rank": 21,
-      "name": "Eugene",
-      "value": 2
-    },
-    {
-      "rank": 22,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Синдбад Мореход",
       "value": 1
     }
