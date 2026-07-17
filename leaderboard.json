@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T20:55:56+00:00",
-  "count": 65,
+  "updated": "2026-07-17T21:56:01+00:00",
+  "count": 66,
   "has_movement": true,
   "all": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1667,
+      "value": 1670,
       "move": 0
     },
     {
@@ -293,105 +293,111 @@
     },
     {
       "rank": 49,
-      "name": "X888",
-      "value": 9,
-      "move": 0
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 11,
+      "move": null
     },
     {
       "rank": 50,
-      "name": "Юрий",
-      "value": 8,
-      "move": -2
+      "name": "X888",
+      "value": 9,
+      "move": -1
     },
     {
       "rank": 51,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "Юрий",
+      "value": 8,
+      "move": -3
     },
     {
       "rank": 52,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 53,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 54,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "***",
+      "value": 7,
+      "move": -2
     },
     {
       "rank": 55,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Sila",
+      "value": 4,
+      "move": -2
     },
     {
       "rank": 56,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 57,
-      "name": "Daniil",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 58,
-      "name": "xxx",
-      "value": 1,
-      "move": -1
+      "name": "Daniil",
+      "value": 3,
+      "move": -2
     },
     {
       "rank": 59,
-      "name": "⁤",
+      "name": "xxx",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 60,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 61,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 62,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 63,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 64,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 65,
+      "name": "F. Yashin",
+      "value": 1,
+      "move": -2
+    },
+    {
+      "rank": 66,
       "name": "Александр",
       "value": 1,
-      "move": -1
+      "move": -2
     }
   ],
   "month": [
@@ -437,13 +443,13 @@
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 24
+      "name": "Archie",
+      "value": 26
     },
     {
       "rank": 10,
-      "name": "Archie",
-      "value": 23
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 24
     },
     {
       "rank": 11,
@@ -659,22 +665,22 @@
     },
     {
       "rank": 9,
+      "name": "Archie",
+      "value": 8
+    },
+    {
+      "rank": 10,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᴦоᴧод",
       "value": 6
     },
     {
-      "rank": 11,
-      "name": "Aся",
-      "value": 5
-    },
-    {
       "rank": 12,
-      "name": "Archie",
+      "name": "Aся",
       "value": 5
     },
     {
