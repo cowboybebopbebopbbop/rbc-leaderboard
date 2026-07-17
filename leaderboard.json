@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T18:55:48+00:00",
+  "updated": "2026-07-17T19:55:52+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1730,
+      "value": 1734,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 553,
+      "value": 554,
       "move": 1
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 63,
+      "value": 64,
       "move": 0
     },
     {
@@ -413,7 +413,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 5,
@@ -428,12 +428,12 @@
     {
       "rank": 7,
       "name": "Ольга",
-      "value": 37
+      "value": 41
     },
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 9,
@@ -635,7 +635,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 5,
@@ -644,13 +644,13 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 12
+      "name": "Ольга",
+      "value": 16
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 12
+      "name": "a l",
+      "value": 11
     },
     {
       "rank": 8,
@@ -664,12 +664,12 @@
     },
     {
       "rank": 10,
-      "name": "Aся",
-      "value": 5
+      "name": "ᴦоᴧод",
+      "value": 6
     },
     {
       "rank": 11,
-      "name": "ᴦоᴧод",
+      "name": "Aся",
       "value": 5
     },
     {
@@ -694,51 +694,46 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
-      "rank": 17,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Archie",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": ".",
       "value": 1
     }
