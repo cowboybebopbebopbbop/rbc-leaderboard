@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:55:26+00:00",
+  "updated": "2026-07-17T03:55:27+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
@@ -625,7 +625,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 3,
@@ -719,22 +719,22 @@
     },
     {
       "rank": 21,
-      "name": "X888",
+      "name": "Руслан Иванов",
       "value": 1
     },
     {
       "rank": 22,
-      "name": "Роман",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 23,
-      "name": "vpidelks",
+      "name": "Роман",
       "value": 1
     },
     {
       "rank": 24,
-      "name": "ᴦоᴧод",
+      "name": "vpidelks",
       "value": 1
     }
   ]
