@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-17T09:55:28+00:00",
+  "updated": "2026-07-17T10:55:29+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5602,
+      "value": 5604,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3901,
+      "value": 3909,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 549,
+      "value": 552,
       "move": 1
     },
     {
@@ -221,15 +221,15 @@
     },
     {
       "rank": 37,
-      "name": "Алексей",
-      "value": 60,
-      "move": -1
+      "name": "ᴦоᴧод",
+      "value": 62,
+      "move": 0
     },
     {
       "rank": 38,
-      "name": "ᴦоᴧод",
-      "value": 58,
-      "move": -1
+      "name": "Алексей",
+      "value": 60,
+      "move": -2
     },
     {
       "rank": 39,
@@ -398,12 +398,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 109
+      "value": 117
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 105
+      "value": 107
     },
     {
       "rank": 3,
@@ -413,7 +413,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 42
+      "value": 45
     },
     {
       "rank": 5,
@@ -432,13 +432,13 @@
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 24
+      "name": "ᴦоᴧод",
+      "value": 27
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
-      "value": 23
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 24
     },
     {
       "rank": 10,
@@ -625,17 +625,17 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 35
+      "value": 43
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 36
     },
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 24
+      "value": 27
     },
     {
       "rank": 5,
@@ -674,61 +674,66 @@
     },
     {
       "rank": 12,
+      "name": "ᴦоᴧод",
+      "value": 4
+    },
+    {
+      "rank": 13,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Archie",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "vpidelks",
       "value": 1
     }
