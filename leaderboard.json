@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-17T07:55:29+00:00",
+  "updated": "2026-07-17T08:55:30+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5600,
+      "value": 5601,
       "move": 0
     },
     {
@@ -77,15 +77,15 @@
     },
     {
       "rank": 13,
-      "name": "Eugene",
-      "value": 547,
-      "move": 0
+      "name": "Olga Goncharova",
+      "value": 549,
+      "move": 1
     },
     {
       "rank": 14,
-      "name": "Olga Goncharova",
-      "value": 544,
-      "move": 0
+      "name": "Eugene",
+      "value": 547,
+      "move": -1
     },
     {
       "rank": 15,
@@ -403,7 +403,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 103
+      "value": 104
     },
     {
       "rank": 3,
@@ -412,17 +412,17 @@
     },
     {
       "rank": 4,
+      "name": "Olga Goncharova",
+      "value": 42
+    },
+    {
+      "rank": 5,
       "name": "a l",
       "value": 37
     },
     {
-      "rank": 5,
-      "name": "Ольга",
-      "value": 37
-    },
-    {
       "rank": 6,
-      "name": "Olga Goncharova",
+      "name": "Ольга",
       "value": 37
     },
     {
@@ -630,12 +630,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 19
+      "value": 24
     },
     {
       "rank": 5,
@@ -729,11 +729,6 @@
     },
     {
       "rank": 23,
-      "name": "Роман",
-      "value": 1
-    },
-    {
-      "rank": 24,
       "name": "vpidelks",
       "value": 1
     }
