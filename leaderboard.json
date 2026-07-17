@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:55:52+00:00",
+  "updated": "2026-07-17T20:55:56+00:00",
   "count": 65,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3914,
+      "value": 3916,
       "move": 0
     },
     {
@@ -24,13 +24,13 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1734,
+      "value": 1735,
       "move": 0
     },
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1663,
+      "value": 1667,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 782,
+      "value": 785,
       "move": 0
     },
     {
@@ -398,7 +398,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 122
+      "value": 124
     },
     {
       "rank": 2,
@@ -417,17 +417,17 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 42
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 41
+      "name": "Zero-sum Gamer",
+      "value": 42
     },
     {
       "rank": 7,
-      "name": "Ольга",
+      "name": "a l",
       "value": 41
     },
     {
@@ -442,13 +442,13 @@
     },
     {
       "rank": 10,
-      "name": "AstronaVt",
+      "name": "Archie",
       "value": 23
     },
     {
       "rank": 11,
-      "name": "Archie",
-      "value": 19
+      "name": "AstronaVt",
+      "value": 23
     },
     {
       "rank": 12,
@@ -537,72 +537,72 @@
     },
     {
       "rank": 29,
+      "name": "Синдбад Мореход",
+      "value": 4
+    },
+    {
+      "rank": 30,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Ingvar 604",
       "value": 2
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 41,
-      "name": "***",
-      "value": 1
-    },
-    {
       "rank": 42,
-      "name": "Синдбад Мореход",
+      "name": "***",
       "value": 1
     },
     {
@@ -620,7 +620,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 48
     },
     {
       "rank": 2,
@@ -635,7 +635,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 5,
@@ -645,7 +645,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 7,
@@ -674,66 +674,71 @@
     },
     {
       "rank": 12,
+      "name": "Archie",
+      "value": 5
+    },
+    {
+      "rank": 13,
       "name": "ᅠ",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "name": "Синдбад Мореход",
+      "value": 3
+    },
+    {
+      "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 19,
-      "name": "Archie",
-      "value": 1
-    },
-    {
-      "rank": 20,
+      "rank": 21,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": ".",
       "value": 1
     }
