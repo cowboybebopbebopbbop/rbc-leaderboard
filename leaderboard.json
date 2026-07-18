@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T03:56:23+00:00",
+  "updated": "2026-07-18T04:56:27+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "Толян",
-      "value": 20,
-      "move": -1
+      "name": "Руслан Иванов",
+      "value": 21,
+      "move": 0
     },
     {
       "rank": 45,
-      "name": "Руслан Иванов",
-      "value": 19,
-      "move": -1
+      "name": "Толян",
+      "value": 20,
+      "move": -2
     },
     {
       "rank": 46,
@@ -505,12 +505,12 @@
     },
     {
       "rank": 19,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 7
+      "name": "Руслан Иванов",
+      "value": 9
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 7
     },
     {
@@ -707,37 +707,37 @@
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 16,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 17,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Samurai_1",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "Руслан Иванов",
+      "name": "Samurai_1",
       "value": 1
     },
     {
