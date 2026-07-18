@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T10:56:50+00:00",
+  "updated": "2026-07-18T11:56:58+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5607,
+      "value": 5608,
       "move": 0
     },
     {
@@ -42,13 +42,13 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 911,
+      "value": 913,
       "move": 0
     },
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 786,
+      "value": 787,
       "move": 0
     },
     {
@@ -421,12 +421,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 110
+      "value": 111
     },
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 75
+      "value": 77
     },
     {
       "rank": 4,
@@ -530,13 +530,13 @@
     },
     {
       "rank": 24,
-      "name": "Роман",
+      "name": "Синдбад Мореход",
       "value": 6
     },
     {
       "rank": 25,
-      "name": "Синдбад Мореход",
-      "value": 5
+      "name": "Роман",
+      "value": 6
     },
     {
       "rank": 26,
@@ -642,23 +642,23 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 47
+      "name": "Viktor",
+      "value": 45
     },
     {
       "rank": 2,
-      "name": "Viktor",
-      "value": 43
+      "name": "Igor",
+      "value": 45
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 5,
@@ -707,12 +707,12 @@
     },
     {
       "rank": 14,
-      "name": "ᅠ",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 5
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "ᅠ",
       "value": 4
     },
     {
