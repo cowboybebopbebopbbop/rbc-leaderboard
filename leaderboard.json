@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T09:56:46+00:00",
+  "updated": "2026-07-18T10:56:50+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5606,
+      "value": 5607,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": ".",
-      "value": 121,
+      "value": 122,
       "move": 0
     },
     {
@@ -421,7 +421,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 109
+      "value": 110
     },
     {
       "rank": 3,
@@ -486,7 +486,7 @@
     {
       "rank": 15,
       "name": ".",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 16,
@@ -643,7 +643,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 47
     },
     {
       "rank": 2,
@@ -653,7 +653,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 4,
@@ -722,27 +722,27 @@
     },
     {
       "rank": 17,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
-      "rank": 18,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": ".",
       "value": 2
     },
     {
@@ -752,27 +752,17 @@
     },
     {
       "rank": 23,
-      "name": "Samurai_1",
-      "value": 1
-    },
-    {
-      "rank": 24,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "vpidelks",
-      "value": 1
-    },
-    {
-      "rank": 27,
-      "name": ".",
       "value": 1
     }
   ]
