@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T04:56:27+00:00",
+  "updated": "2026-07-18T05:56:31+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1735,
+      "value": 1736,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 554,
+      "value": 555,
       "move": 1
     },
     {
@@ -431,12 +431,12 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 6,
@@ -653,17 +653,17 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 18
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 17
+      "name": "Zero-sum Gamer",
+      "value": 18
     },
     {
       "rank": 7,
