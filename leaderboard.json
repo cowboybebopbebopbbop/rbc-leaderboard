@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T05:56:31+00:00",
+  "updated": "2026-07-18T06:56:35+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "DenisNazarov",
-      "value": 188,
+      "value": 189,
       "move": 0
     },
     {
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Sergei IVANOV",
-      "value": 46,
+      "value": 48,
       "move": 0
     },
     {
@@ -570,66 +570,71 @@
     },
     {
       "rank": 32,
-      "name": "Daniil",
+      "name": "Sergei IVANOV",
       "value": 2
     },
     {
       "rank": 33,
-      "name": "X888",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 34,
-      "name": "Ingvar 604",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 35,
-      "name": "vpidelks",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Толян",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "Max",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 38,
+      "name": "Толян",
+      "value": 2
+    },
+    {
+      "rank": 39,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 40,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 39,
-      "name": "DenisNazarov",
-      "value": 1
-    },
-    {
-      "rank": 40,
+      "rank": 41,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Ilya",
       "value": 1
     }
@@ -727,36 +732,46 @@
     },
     {
       "rank": 19,
-      "name": "Толян",
+      "name": "Sergei IVANOV",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Max",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Samurai_1",
-      "value": 1
+      "name": "Max",
+      "value": 2
     },
     {
       "rank": 22,
-      "name": "Daniil",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 23,
-      "name": "X888",
+      "name": "Samurai_1",
       "value": 1
     },
     {
       "rank": 24,
-      "name": "vpidelks",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 25,
+      "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "vpidelks",
+      "value": 1
+    },
+    {
+      "rank": 27,
       "name": ".",
       "value": 1
     }
