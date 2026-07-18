@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T00:57:24+00:00",
-  "count": 67,
+  "updated": "2026-07-18T01:56:16+00:00",
+  "count": 68,
   "has_movement": true,
   "all": [
     {
@@ -245,162 +245,168 @@
     },
     {
       "rank": 41,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": 0
+      "name": "I",
+      "value": 45,
+      "move": null
     },
     {
       "rank": 42,
-      "name": "🇲akⓈ",
-      "value": 33,
-      "move": 0
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -1
     },
     {
       "rank": 43,
-      "name": "Толян",
-      "value": 20,
-      "move": 0
+      "name": "🇲akⓈ",
+      "value": 33,
+      "move": -1
     },
     {
       "rank": 44,
-      "name": "Руслан Иванов",
-      "value": 19,
-      "move": 0
+      "name": "Толян",
+      "value": 20,
+      "move": -1
     },
     {
       "rank": 45,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 19,
+      "move": -1
     },
     {
       "rank": 46,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 47,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Anatoly Shadrin",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 48,
-      "name": "Turchyn Gennadii",
-      "value": 12,
-      "move": 0
+      "name": "vpidelks",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 49,
+      "name": "Turchyn Gennadii",
+      "value": 12,
+      "move": -1
+    },
+    {
+      "rank": 50,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 11,
       "move": null
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "X888",
       "value": 9,
-      "move": -1
-    },
-    {
-      "rank": 51,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 52,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "Юрий",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 53,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 54,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 55,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "***",
+      "value": 7,
+      "move": -2
     },
     {
       "rank": 56,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Sila",
+      "value": 4,
+      "move": -2
     },
     {
       "rank": 57,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 58,
-      "name": "Daniil",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 59,
-      "name": "xxx",
-      "value": 1,
-      "move": -1
+      "name": "Daniil",
+      "value": 3,
+      "move": -2
     },
     {
       "rank": 60,
-      "name": "⁤",
+      "name": "xxx",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 61,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 62,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 63,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 64,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 65,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 66,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 67,
+      "name": "Александр",
+      "value": 1,
+      "move": -2
+    },
+    {
+      "rank": 68,
       "name": "Артём",
       "value": 1,
       "move": null
