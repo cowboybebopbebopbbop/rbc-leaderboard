@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T10:36:53+00:00",
+  "updated": "2026-07-19T11:36:57+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 613,
+      "value": 614,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 315,
+      "value": 320,
       "move": 0
     },
     {
@@ -470,48 +470,48 @@
     },
     {
       "rank": 12,
+      "name": "Князь Владимир С",
+      "value": 19
+    },
+    {
+      "rank": 13,
       "name": "ᅠ",
       "value": 18
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 18
     },
     {
-      "rank": 14,
-      "name": "Князь Владимир С",
-      "value": 18
-    },
-    {
       "rank": 15,
-      "name": ".",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 12
     },
     {
       "rank": 16,
+      "name": ".",
+      "value": 12
+    },
+    {
+      "rank": 17,
       "name": "🤗",
       "value": 10
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Manis Love",
       "value": 9
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "L G",
       "value": 9
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Руслан Иванов",
       "value": 9
-    },
-    {
-      "rank": 20,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 7
     },
     {
       "rank": 21,
@@ -667,23 +667,23 @@
     },
     {
       "rank": 6,
-      "name": "Ольга",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 10
     },
     {
       "rank": 7,
+      "name": "Ольга",
+      "value": 10
+    },
+    {
+      "rank": 8,
       "name": "Archie",
       "value": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "wavesscalper | скальпер по волнам",
       "value": 7
-    },
-    {
-      "rank": 9,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 6
     },
     {
       "rank": 10,
@@ -697,17 +697,17 @@
     },
     {
       "rank": 12,
-      "name": "ᴦоᴧод",
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Aся",
-      "value": 5
+      "name": "ᴦоᴧод",
+      "value": 6
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 5
     },
     {
