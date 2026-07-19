@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T11:56:58+00:00",
+  "updated": "2026-07-19T09:36:48+00:00",
   "count": 68,
   "has_movement": true,
   "all": [
@@ -79,13 +79,13 @@
       "rank": 13,
       "name": "Olga Goncharova",
       "value": 555,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 14,
       "name": "Eugene",
       "value": 547,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 15,
@@ -223,13 +223,13 @@
       "rank": 37,
       "name": "ᴦоᴧод",
       "value": 64,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 38,
       "name": "Алексей",
       "value": 60,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 39,
@@ -301,115 +301,115 @@
       "rank": 50,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 11,
-      "move": null
+      "move": -1
     },
     {
       "rank": 51,
       "name": "X888",
       "value": 9,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 52,
       "name": "Юрий",
       "value": 8,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 53,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 54,
       "name": "Роман",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 55,
       "name": "***",
       "value": 7,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 56,
       "name": "Sila",
       "value": 4,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 57,
       "name": "Ilya",
       "value": 3,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 58,
       "name": "Samurai_1",
       "value": 3,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 59,
       "name": "Daniil",
       "value": 3,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 60,
       "name": "xxx",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 61,
       "name": "⁤",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 62,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 63,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 64,
       "name": "Darya",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 65,
       "name": "Alex",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 66,
       "name": "F. Yashin",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 67,
       "name": "Александр",
       "value": 1,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 68,
       "name": "Артём",
       "value": 1,
-      "move": null
+      "move": -1
     }
   ],
   "month": [
@@ -642,57 +642,57 @@
   "week": [
     {
       "rank": 1,
-      "name": "Viktor",
-      "value": 45
+      "name": "Igor",
+      "value": 44
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 45
-    },
-    {
-      "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 35
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Olga Goncharova",
-      "value": 23
+      "value": 20
+    },
+    {
+      "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 18
-    },
-    {
-      "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 18
-    },
-    {
-      "rank": 7,
       "name": "a l",
       "value": 11
     },
     {
-      "rank": 8,
-      "name": "Vitaliy",
-      "value": 9
+      "rank": 6,
+      "name": "Ольга",
+      "value": 11
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Archie",
-      "value": 8
+      "value": 7
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 9,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 6
+    },
+    {
+      "rank": 10,
+      "name": "Viktor",
+      "value": 6
+    },
+    {
+      "rank": 11,
+      "name": "Vitaliy",
       "value": 6
     },
     {
@@ -712,22 +712,22 @@
     },
     {
       "rank": 15,
-      "name": "ᅠ",
-      "value": 4
-    },
-    {
-      "rank": 16,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Sergei IVANOV",
+      "value": 2
+    },
+    {
+      "rank": 18,
+      "name": "ᅠ",
       "value": 2
     },
     {
