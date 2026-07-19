@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T16:37:17+00:00",
+  "updated": "2026-07-19T17:37:20+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "byk0t!?",
-      "value": 305,
+      "value": 306,
       "move": null
     },
     {
@@ -642,11 +642,16 @@
     },
     {
       "rank": 44,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "byk0t!?",
       "value": 1
     },
     {
       "rank": 45,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 1
+    },
+    {
+      "rank": 46,
       "name": "Ilya",
       "value": 1
     }
@@ -684,18 +689,18 @@
     },
     {
       "rank": 7,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 10
-    },
-    {
-      "rank": 8,
       "name": "Archie",
       "value": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "wavesscalper | скальпер по волнам",
       "value": 7
+    },
+    {
+      "rank": 9,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 6
     },
     {
       "rank": 10,
@@ -779,6 +784,11 @@
     },
     {
       "rank": 26,
+      "name": "byk0t!?",
+      "value": 1
+    },
+    {
+      "rank": 27,
       "name": "vpidelks",
       "value": 1
     }
