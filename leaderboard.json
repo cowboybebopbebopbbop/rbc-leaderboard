@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:37:37+00:00",
+  "updated": "2026-07-19T23:37:37+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1737,
+      "value": 1738,
       "move": 0
     },
     {
@@ -448,7 +448,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 6,
@@ -674,12 +674,12 @@
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 11
+      "name": "Ольга",
+      "value": 12
     },
     {
       "rank": 5,
-      "name": "Ольга",
+      "name": "a l",
       "value": 11
     },
     {
