@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T08:37:39+00:00",
+  "updated": "2026-07-20T09:37:40+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3919,
+      "value": 3920,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1739,
+      "value": 1740,
       "move": 0
     },
     {
@@ -353,21 +353,21 @@
     },
     {
       "rank": 59,
-      "name": "Ilya",
-      "value": 3,
-      "move": -2
+      "name": "Daniil",
+      "value": 4,
+      "move": 0
     },
     {
       "rank": 60,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 61,
-      "name": "Daniil",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 62,
@@ -428,7 +428,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 127
+      "value": 128
     },
     {
       "rank": 2,
@@ -448,7 +448,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 6,
@@ -582,17 +582,17 @@
     },
     {
       "rank": 32,
+      "name": "Daniil",
+      "value": 3
+    },
+    {
+      "rank": 33,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 33,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
       "rank": 34,
-      "name": "Daniil",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
@@ -660,12 +660,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -675,7 +675,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 5,
@@ -774,16 +774,21 @@
     },
     {
       "rank": 24,
-      "name": "X888",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "byk0t!?",
+      "name": "X888",
       "value": 1
     },
     {
       "rank": 26,
+      "name": "byk0t!?",
+      "value": 1
+    },
+    {
+      "rank": 27,
       "name": "vpidelks",
       "value": 1
     }
