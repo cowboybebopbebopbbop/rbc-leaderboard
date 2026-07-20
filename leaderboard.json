@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T02:37:37+00:00",
+  "updated": "2026-07-20T03:37:38+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -749,27 +749,27 @@
     },
     {
       "rank": 19,
-      "name": "ᅠ",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Толян",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "DenisNazarov",
+      "value": 1
+    },
+    {
+      "rank": 23,
+      "name": "ᅠ",
       "value": 1
     },
     {
