@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T11:37:41+00:00",
+  "updated": "2026-07-20T12:37:40+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -659,13 +659,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 41
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 39
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "name": "Igor",
+      "value": 38
     },
     {
       "rank": 3,
@@ -690,7 +690,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 8,
@@ -704,28 +704,28 @@
     },
     {
       "rank": 10,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 6
-    },
-    {
-      "rank": 11,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 6
+    },
+    {
+      "rank": 14,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 5
     },
     {
       "rank": 15,
@@ -739,51 +739,46 @@
     },
     {
       "rank": 17,
-      "name": "Anatoly Radchenko",
-      "value": 2
-    },
-    {
-      "rank": 18,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "vpidelks",
       "value": 1
     }
