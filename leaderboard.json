@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:37:40+00:00",
+  "updated": "2026-07-20T14:37:41+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3921,
+      "value": 3922,
       "move": 0
     },
     {
@@ -428,7 +428,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 129
+      "value": 130
     },
     {
       "rank": 2,
@@ -660,12 +660,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -694,32 +694,32 @@
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 7
-    },
-    {
-      "rank": 9,
       "name": "ᴦоᴧод",
       "value": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
+      "rank": 13,
+      "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
