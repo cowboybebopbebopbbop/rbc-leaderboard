@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T06:37:39+00:00",
+  "updated": "2026-07-20T07:37:39+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
@@ -18,13 +18,13 @@
     {
       "rank": 3,
       "name": "Aся",
-      "value": 1768,
+      "value": 1769,
       "move": 0
     },
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1738,
+      "value": 1739,
       "move": 0
     },
     {
@@ -448,7 +448,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 6,
@@ -527,13 +527,13 @@
     },
     {
       "rank": 21,
-      "name": "Anatoly Shadrin",
+      "name": "Aся",
       "value": 7
     },
     {
       "rank": 22,
-      "name": "Aся",
-      "value": 6
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 23,
@@ -665,7 +665,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 3,
@@ -675,7 +675,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 5,
@@ -714,18 +714,18 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Aся",
-      "value": 5
+      "name": "Князь Владимир С",
+      "value": 6
     },
     {
       "rank": 15,
