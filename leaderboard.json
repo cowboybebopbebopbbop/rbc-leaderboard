@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-20T04:37:38+00:00",
+  "updated": "2026-07-20T05:37:38+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5612,
+      "value": 5613,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 776,
+      "value": 777,
       "move": 0
     },
     {
@@ -433,7 +433,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 115
+      "value": 116
     },
     {
       "rank": 3,
@@ -453,7 +453,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 7,
@@ -665,7 +665,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 3,
@@ -684,12 +684,12 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 7
+      "name": "Zero-sum Gamer",
+      "value": 8
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Archie",
       "value": 7
     },
     {
