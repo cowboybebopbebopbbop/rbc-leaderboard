@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-20T15:37:41+00:00",
+  "updated": "2026-07-20T16:37:44+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5618,
+      "value": 5619,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3922,
+      "value": 3924,
       "move": 0
     },
     {
@@ -305,15 +305,15 @@
     },
     {
       "rank": 51,
-      "name": "Turchyn Gennadii",
-      "value": 12,
-      "move": -2
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 52,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 11,
-      "move": -2
+      "name": "Turchyn Gennadii",
+      "value": 12,
+      "move": -3
     },
     {
       "rank": 53,
@@ -428,12 +428,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 130
+      "value": 132
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 121
+      "value": 122
     },
     {
       "rank": 3,
@@ -597,61 +597,66 @@
     },
     {
       "rank": 35,
-      "name": "X888",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 36,
-      "name": "Ingvar 604",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 37,
-      "name": "vpidelks",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 38,
-      "name": "Толян",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Max",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 40,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 41,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "***",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Ilya",
       "value": 1
     }
@@ -659,18 +664,18 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 39
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 38
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 39
     },
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 4,
@@ -744,41 +749,46 @@
     },
     {
       "rank": 18,
-      "name": "Max",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "Max",
       "value": 2
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "vpidelks",
       "value": 1
     }
