@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-20T17:37:45+00:00",
+  "updated": "2026-07-20T18:37:44+00:00",
   "count": 71,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5619,
+      "value": 5620,
       "move": 0
     },
     {
@@ -439,7 +439,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 122
+      "value": 123
     },
     {
       "rank": 3,
@@ -670,12 +670,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 39
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 40
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 39
     },
     {
