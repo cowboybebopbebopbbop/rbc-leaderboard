@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-20T10:37:41+00:00",
+  "updated": "2026-07-20T11:37:41+00:00",
   "count": 70,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5614,
+      "value": 5616,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1670,
+      "value": 1672,
       "move": 0
     },
     {
@@ -433,7 +433,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 117
+      "value": 119
     },
     {
       "rank": 3,
@@ -467,13 +467,13 @@
     },
     {
       "rank": 9,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Archie",
       "value": 28
     },
     {
       "rank": 10,
-      "name": "Archie",
-      "value": 26
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 28
     },
     {
       "rank": 11,
@@ -660,17 +660,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 41
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 40
     },
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -684,13 +684,13 @@
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 8
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 7
+      "name": "Zero-sum Gamer",
+      "value": 8
     },
     {
       "rank": 8,
@@ -749,46 +749,41 @@
     },
     {
       "rank": 19,
-      "name": "Толян",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "vpidelks",
       "value": 1
     }
