@@ -101,10 +101,20 @@
   .pred-opt .pc{flex:none;width:64px;text-align:right;font-variant-numeric:tabular-nums;}
   .pred-opt.win{color:hsl(var(--green));font-weight:600;}
   .pred-opt.win .mini i{background:hsl(var(--green));}
-  .pred-chip{display:inline-block;font-size:.78rem;padding:3px 10px;border-radius:999px;margin:2px 6px 2px 0;
+  .pred-chip{display:inline-flex;align-items:center;gap:5px;vertical-align:middle;font-size:.78rem;padding:3px 10px;border-radius:999px;margin:2px 6px 2px 0;
     background:hsl(var(--green)/.12);color:hsl(var(--green));border:1px solid hsl(var(--green)/.35);}
   .sharelink{background:none;border:0;padding:0;margin-left:14px;color:hsl(var(--primary));font:inherit;font-size:.8rem;cursor:pointer;}
   .sharelink:hover{text-decoration:underline;}
+  /* график конкурса (перенос из пилота): линия цены + зоны голосования */
+  .pred-chart{height:340px;margin-top:10px;}
+  .pred-toggle{display:inline-flex;border:1px solid hsl(var(--border));border-radius:calc(var(--radius) - .15rem);overflow:hidden;margin-top:10px;}
+  .pred-toggle button{border:0;background:transparent;color:hsl(var(--muted-foreground));font-size:.78rem;padding:5px 11px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;}
+  .pred-toggle button.on{background:hsl(var(--muted));color:hsl(var(--foreground));font-weight:600;}
+  .pred-foot{margin-top:10px;display:flex;flex-wrap:wrap;align-items:center;gap:16px;}
+  .pred-foot .src{color:hsl(var(--primary));text-decoration:none;font-size:.8rem;display:inline-flex;align-items:center;gap:5px;}
+  .pred-foot .src:hover{text-decoration:underline;}
+  .pred-foot .sharelink{margin-left:0;display:inline-flex;align-items:center;gap:5px;}
+  .pred-ic{flex:none;vertical-align:-2px;}
   @keyframes flashcard{0%{box-shadow:0 0 0 2px hsl(var(--primary)/0);}18%{box-shadow:0 0 0 2px hsl(var(--primary)/.8);}100%{box-shadow:0 0 0 2px hsl(var(--primary)/0);}}
   .flash{animation:flashcard 2s ease;}
   @media(prefers-reduced-motion:reduce){.flash{animation:none;outline:2px solid hsl(var(--primary)/.6);}}
@@ -237,11 +247,12 @@
 </div>
 
 <script>
-  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,homeChart=null,histSig='',period='all',dynBusy=false;
+  let LB=null,FAQ=[],SEC=null,START=null,DISC=null,HALL=[],STATS=null,ACT=null,BTC=null,SENT=null,VOICES=[],UPD=[],EXP=[],HIST=null,FEED=[],PRED=null,pendingContest=null,feedSort='react',feedFilter='all',statDim='day',actChart=null,histChart=null,homeChart=null,histSig='',period='all',dynBusy=false,CH=null,predCharts=[];
   (function(){try{const t=localStorage.getItem('theme');if(t==='light')document.documentElement.classList.remove('dark');else if(t==='dark')document.documentElement.classList.add('dark');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',document.documentElement.classList.contains('dark'));})();
   function toggleTheme(){const d=document.documentElement.classList.toggle('dark');try{localStorage.setItem('theme',d?'dark':'light');}catch(e){}
     const b=document.getElementById('theme-btn');if(b)b.setAttribute('aria-pressed',d);restyleCharts();
+    if(PRED)renderPred();   // графики конкурсов перекрашиваем пересборкой (не через restyleCharts)
     if(!document.getElementById('view-home').classList.contains('hidden'))renderHome();}
   /* смена темы: перекрашиваем оси/легенды/палитру без dispose — зум и выбор легенды сохраняются */
   function restyleCharts(){const t=tc();
@@ -260,7 +271,8 @@
     window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
     if(t==='home'){renderHome();if(homeChart)homeChart.resize();}
     if(t==='stats'){if(actChart)actChart.resize();else renderActChart();}
-    if(t==='rating'&&histChart)histChart.resize();}
+    if(t==='rating'&&histChart)histChart.resize();
+    if(t==='pred')predCharts.forEach(ch=>{try{ch.resize();}catch(e){}});}   // график инициализируется 0×0 в скрытой вкладке
   function applyHash(){const h=(location.hash||'').replace(/^#/,'');
     if(!h){switchTab('home',true);return;}
     const parts=h.split('/'),tab=parts[0],arg=parts[1];
@@ -452,7 +464,99 @@
     _paintCard(ctx,c,mid,col,W,false);
     cv.toBlob(b=>b?resolve(b):reject(new Error('toBlob null')),'image/png');
   }catch(e){reject(e);}});}
-  function renderPred(){const box=document.getElementById('pred-body');if(!box)return;box.textContent='';
+  /* ===== график цены конкурса (перенос из пилота site/_dev_pred.html) ===== */
+  function predCol(){const d=document.documentElement.classList.contains('dark');
+    return d?{ax:'#8a929c',grid:'#23262d',red:'349,96%,50%',green:'142,65%,47%',lbl:'#c8cdd4',line:'#ffffff',gray:'150,155,165',zebra:'rgba(255,255,255,0.045)',bg:'#101013'}
+            :{ax:'#6b727b',grid:'#e7e9ec',red:'349,96%,45%',green:'142,72%,29%',lbl:'#3d434b',line:'#24292f',gray:'105,110,120',zebra:'rgba(0,0,0,0.04)',bg:'#ffffff'};}
+  const pSvgUri=s=>'data:image/svg+xml;charset=utf8,'+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">'+s+'</svg>');
+  const pPersonIcon=c=>pSvgUri(`<path fill="${c}" d="M12 11.5a4.2 4.2 0 1 0 0-8.4 4.2 4.2 0 0 0 0 8.4zm0 2.3c-3.6 0-9 1.8-9 5.4v1.9h18v-1.9c0-3.6-5.4-5.4-9-5.4z"/>`);
+  const pTargetIcon=c=>pSvgUri(`<circle cx="12" cy="12" r="9.4" fill="none" stroke="${c}" stroke-width="2.6"/><circle cx="12" cy="12" r="4.6" fill="none" stroke="${c}" stroke-width="2.6"/><circle cx="12" cy="12" r="1.5" fill="${c}"/>`);
+  const PICN={
+    chart:'<rect x="3" y="13" width="4" height="8" rx="1.2"/><rect x="10" y="8" width="4" height="13" rx="1.2"/><rect x="17" y="3" width="4" height="18" rx="1.2"/>',
+    list:'<rect x="3" y="5" width="18" height="2.6" rx="1.3"/><rect x="3" y="10.7" width="18" height="2.6" rx="1.3"/><rect x="3" y="16.4" width="18" height="2.6" rx="1.3"/>',
+    target:'<circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2.4"/><circle cx="12" cy="12" r="4.3" fill="none" stroke="currentColor" stroke-width="2.4"/><circle cx="12" cy="12" r="1.5"/>',
+    link:'<path d="M9.5 14.5a3.5 3.5 0 0 0 5 0l3-3a3.5 3.5 0 0 0-5-5l-1.3 1.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14.5 9.5a3.5 3.5 0 0 0-5 0l-3 3a3.5 3.5 0 0 0 5 5l1.3-1.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>',
+    image:'<rect x="3" y="5" width="18" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="8.5" cy="10" r="1.7"/><path d="M4.5 17.5 10 12l3 3 3.5-3.5 3 3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>',
+  };
+  function picon(name,size){const s=document.createElementNS('http://www.w3.org/2000/svg','svg');
+    s.setAttribute('viewBox','0 0 24 24');s.setAttribute('width',size||14);s.setAttribute('height',size||14);
+    s.setAttribute('fill','currentColor');s.setAttribute('class','pred-ic');s.innerHTML=PICN[name];return s;}
+  const pZoneEdges=(r,yMin,yMax)=>[r[0]==null?yMin:r[0], r[1]==null?yMax:r[1]];
+  function buildPredChart(node,c,ch){
+    const col=predCol(),mm=n=>String(n).padStart(2,'0'),msk=ms=>new Date(ms+3*3600e3),fmtPrice=v=>'$'+Math.round(v).toLocaleString('ru-RU');
+    const done=c.status==='resolved';
+    const posted=new Date(ch.posted).getTime(), target=new Date(ch.target).getTime();
+    const bounds=[...new Set(ch.ranges.flat().filter(v=>v!=null))].sort((a,b)=>a-b);
+    const widths=bounds.slice(1).map((b,i)=>b-bounds[i]).sort((a,b)=>a-b);
+    const zw=widths[Math.floor(widths.length/2)]||((bounds.at(-1)-bounds[0])/Math.max(1,bounds.length-1));
+    const prices=ch.series.map(p=>p[1]);
+    const yMin=Math.min(bounds[0]-zw*.55, Math.min(...prices)-zw*.15);
+    const yMax=Math.max(bounds.at(-1)+zw*.55, Math.max(...prices)+zw*.15);
+    const winner=i=>done&&i===c.winner_option;
+    const last=ch.series.at(-1);
+    const zi=v=>ch.ranges.findIndex(r=>(r[0]==null||v>=r[0])&&(r[1]==null||v<r[1]));
+    /* зелёный лидер — только когда голоса зафиксированы (voted); в фазе open ничего не решено */
+    const liveWin=(!done&&c.status!=='open'&&last)?zi(last[1]):-1;
+    const hot=i=>done?winner(i):i===liveWin;
+    const dl=ch.deadline?new Date(ch.deadline).getTime():null;
+    /* база зоны плоская (серый до фиксации, красный после, зелёный у победителя);
+       два оттенка каждой зоне даёт единая зебра ниже — границы сходятся на фиксации */
+    const zoneFills=[];
+    ch.ranges.forEach((r,i)=>{const [lo,hi]=pZoneEdges(r,yMin,yMax);
+      const colored=hot(i)?`hsla(${col.green},0.22)`:`hsla(${col.red},0.17)`;
+      if(dl&&dl>posted){
+        zoneFills.push([{xAxis:posted,yAxis:lo,itemStyle:{color:`rgba(${col.gray},0.06)`},label:{show:false}},{xAxis:dl,yAxis:hi}]);
+        zoneFills.push([{xAxis:dl,yAxis:lo,itemStyle:{color:colored},label:{show:false}},{xAxis:target,yAxis:hi}]);
+      }else{zoneFills.push([{yAxis:lo,itemStyle:{color:colored},label:{show:false}},{yAxis:hi}]);}});
+    ch.ranges.forEach((r,i)=>{if(i%2===0)return;const [lo,hi]=pZoneEdges(r,yMin,yMax);
+      zoneFills.push([{yAxis:lo,itemStyle:{color:col.zebra},label:{show:false}},{yAxis:hi}]);});
+    const early=ch.series.filter(p=>p[0]<=posted+(target-posted)*0.15).map(p=>p[1]);
+    const optPos=ch.ranges.map(r=>{const [lo,hi]=pZoneEdges(r,yMin,yMax);const band=(hi-lo)*0.38;
+      const top=early.filter(v=>v>hi-band&&v<=hi).length,bot=early.filter(v=>v>=lo&&v<lo+band).length;
+      return top<=bot?'insideTopLeft':'insideBottomLeft';});
+    const zoneLabels=kind=>ch.ranges.map((r,i)=>{const [lo,hi]=pZoneEdges(r,yMin,yMax);
+      const opts=kind==='opts',txt=opts?c.options[i]:String(c.votes[i]);
+      const icon=opts?null:(winner(i)?pTargetIcon(`hsl(${col.green})`):pPersonIcon(hot(i)?`hsl(${col.green})`:col.lbl));
+      return [{yAxis:lo,name:txt,itemStyle:{color:'rgba(0,0,0,0)'},
+        label:{show:true,position:opts?optPos[i]:'insideRight',fontSize:11,distance:8,
+          formatter:icon?txt+' {ic|}':txt,rich:icon?{ic:{backgroundColor:{image:icon},width:11,height:11}}:undefined,
+          color:hot(i)?`hsl(${col.green})`:col.lbl,fontWeight:hot(i)?'700':'400'}},{yAxis:hi}];});
+    const marks=[];
+    if(ch.deadline)marks.push({xAxis:new Date(ch.deadline).getTime(),
+      label:{formatter:'фиксация голосов',position:'end',fontSize:10,color:col.ax}});
+    const pts=[];
+    if(done&&c.winner_price!=null)pts.push({coord:[target,c.winner_price],itemStyle:{color:`hsl(${col.green})`},label:{show:false}});
+    const tipSeries=(!done&&last)?[{name:'tip',type:'effectScatter',data:[[last[0],last[1]]],symbolSize:7,z:6,silent:true,
+      rippleEffect:{brushType:'stroke',scale:3.6,period:2.6},itemStyle:{color:col.line},label:{show:false}}]:[];
+    const chart=echarts.init(node,null,{renderer:'canvas'});
+    chart.setOption({animation:true,animationDuration:0,animationDurationUpdate:0,backgroundColor:col.bg,
+      grid:{left:14,right:14,top:26,bottom:6,containLabel:true},
+      tooltip:{trigger:'axis',axisPointer:{type:'cross',label:{backgroundColor:'#333'}},valueFormatter:v=>fmtPrice(v),
+        formatter:ps=>{const p=ps.find(x=>x.seriesName==='price');if(!p)return '';
+          const zone=ch.ranges.findIndex(r=>(r[0]==null||p.value[1]>=r[0])&&(r[1]==null||p.value[1]<r[1]));
+          return `${fmtDT(new Date(p.value[0]).toISOString())}<br>${fmtPrice(p.value[1])}${zone>=0?' — зона «'+c.options[zone]+'»':''}`;}},
+      xAxis:{type:'time',min:posted,max:target,axisLabel:{color:col.ax,fontSize:10,hideOverlap:true,
+        formatter:v=>{const d=msk(v);return d.getUTCHours()===0?`${mm(d.getUTCDate())}.${mm(d.getUTCMonth()+1)}`:`${mm(d.getUTCHours())}:00`;}},
+        axisLine:{lineStyle:{color:col.grid}},splitLine:{show:false}},
+      yAxis:{type:'value',min:yMin,max:yMax,axisLabel:{show:false},splitLine:{show:false}},
+      series:[
+        {name:'fills',type:'line',data:[],silent:true,markArea:{silent:true,data:zoneFills}},
+        {name:'price',type:'line',data:ch.series,showSymbol:false,lineStyle:{width:2,color:col.line},itemStyle:{color:col.line},
+          markLine:{silent:true,symbol:'none',lineStyle:{color:col.ax,width:1,type:'dashed'},data:marks},
+          markPoint:{silent:true,symbol:'circle',symbolSize:7,label:{show:false},data:pts}},
+        {name:'zonesL',type:'line',data:[],silent:true,markArea:{silent:true,data:zoneLabels('opts')}},
+        {name:'zonesR',type:'line',data:[],silent:true,markArea:{silent:true,data:zoneLabels('votes')}},
+        ...tipSeries,
+      ]});
+    predCharts.push(chart);return chart;}
+  function predBars(c){const box=el('div'),done=c.status==='resolved',mx=Math.max(1,...c.votes);
+    c.options.forEach((o,i)=>{const row=el('div','pred-opt'+(done&&i===c.winner_option?' win':''));
+      row.appendChild(el('span','lbl',o));   // победитель — по зелёному цвету (.win), цифры вровень
+      const mb=el('div','mini');const f=el('i');f.style.width=(c.votes[i]/mx*100)+'%';mb.appendChild(f);row.appendChild(mb);
+      row.appendChild(el('span','pc',c.votes[i]+(c.total?` · ${Math.round(c.votes[i]/c.total*100)}%`:'')));
+      box.appendChild(row);});return box;}
+  function renderPred(){const box=document.getElementById('pred-body');if(!box)return;
+    predCharts.forEach(ch=>{try{ch.dispose();}catch(e){}});predCharts=[];box.textContent='';
     if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
     if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
       box.appendChild(el('div','sub','Место — по сглаженной точности: (угадано+1)/(сыграно+2). Малую выборку тянет к 50%, поэтому 100% с одной игры стоит выше 50%, но ниже проверенного 100% с нескольких. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
@@ -466,41 +570,57 @@
         const val=b.games!=null?b.wins+'/'+b.games+' · '+b.win_pct+'%':'🎯 '+b.points;
         r.append(rk,nm,el('div','v',val));l.appendChild(r);});box.appendChild(l);}
     box.appendChild(el('h2',null,'Конкурсы'));
+    const queue=[];
     PRED.contests.forEach(c=>{
       const done=c.status==='resolved';
       const mid=(String(c.link||'').match(/(\d+)$/)||[])[1]||'';
+      const ch=(CH&&CH.charts)?CH.charts[mid]:null;
       const card=el('div',done?'card wincard':'card');if(mid)card.id='c'+mid;
       card.appendChild(el('div','t',c.question));
       if(done){
         const opt=c.options[c.winner_option]||'—';
-        card.appendChild(el('div','pred-res',`🏆 Итог: ${c.winner_price!=null?('$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → '):''}«${opt}»`));
+        card.appendChild(el('div','pred-res',`Итог: ${c.winner_price!=null?('$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → '):''}«${opt}»`));
       }else{
         const st=c.status==='open'?(c.deadline?'приём ответов до '+fmtDT(c.deadline):(c.target_time?'идёт приём ответов · итог '+fmtDT(c.target_time):'идёт приём ответов')):(c.status==='manual'?'итог уточняется':('голоса зафиксированы · итог '+fmtDT(c.target_time)));
         card.appendChild(el('div','d',st));
       }
-      const mx=Math.max(1,...c.votes);
-      c.options.forEach((o,i)=>{const row=el('div','pred-opt'+(done&&i===c.winner_option?' win':''));
-        row.appendChild(el('span','lbl',(done&&i===c.winner_option?'🏆 ':'')+o));
-        const mb=el('div','mini');const f=el('i');f.style.width=(c.votes[i]/mx*100)+'%';mb.appendChild(f);row.appendChild(mb);
-        row.appendChild(el('span','pc',c.votes[i]+(c.total?` · ${Math.round(c.votes[i]/c.total*100)}%`:'')));card.appendChild(row);});
+      if(ch){   // график есть — он главный вид, список остаётся по переключателю
+        const chartBox=el('div','pred-chart'),listBox=predBars(c);listBox.style.display='none';
+        card.appendChild(chartBox);card.appendChild(listBox);
+        const tg=el('div','pred-toggle'),bC=el('button'),bL=el('button');
+        bC.append(picon('chart',13),document.createTextNode('график'));
+        bL.append(picon('list',13),document.createTextNode('список'));bC.classList.add('on');
+        bC.onclick=()=>{bC.classList.add('on');bL.classList.remove('on');listBox.style.display='none';chartBox.style.display='';predCharts.forEach(x=>x.resize());};
+        bL.onclick=()=>{bL.classList.add('on');bC.classList.remove('on');chartBox.style.display='none';listBox.style.display='';};
+        tg.append(bC,bL);card.appendChild(tg);
+        queue.push([chartBox,c,ch]);
+      }else{card.appendChild(predBars(c));}
       if(done&&c.winners&&c.winners.length){
-        card.appendChild(el('div','d',`Угадали ${c.winners.length} — каждому +1 🎯:`));
-        const wrap=el('div');wrap.style.marginTop='6px';c.winners.forEach(w=>wrap.appendChild(el('span','pred-chip','🎯 '+anon(w))));card.appendChild(wrap);
+        const cap=el('div','d');cap.append(document.createTextNode(`Угадали ${c.winners.length} — каждому +1 `),picon('target',12),document.createTextNode(':'));card.appendChild(cap);
+        const wrap=el('div');wrap.style.marginTop='6px';
+        c.winners.forEach(w=>{const chip=el('span','pred-chip');chip.append(picon('target',12),document.createTextNode(anon(w)));wrap.appendChild(chip);});card.appendChild(wrap);
       }
-      const meta=el('div','d',`${c.total} голосов · опубликован ${fmtD(c.posted)} · источник: ${c.source}`);card.appendChild(meta);
-      const a=el('a','src','Открыть опрос в чате →');a.href=c.link;ext(a);const ld=el('div');ld.style.marginTop='8px';ld.appendChild(a);
-      if(mid){const sh=el('button','sharelink','🔗 ссылка на конкурс');sh.type='button';
+      card.appendChild(el('div','d',`${c.total} голосов · опубликован ${fmtD(c.posted)} · источник: ${c.source}`));
+      const foot=el('div','pred-foot');
+      const a=el('a','src','Открыть опрос в чате →');a.href=c.link;ext(a);foot.appendChild(a);
+      if(mid){const sh=el('button','sharelink');sh.type='button';sh.append(picon('link',13),document.createTextNode('ссылка на конкурс'));const lbl=sh.lastChild;
         sh.onclick=()=>{history.replaceState(null,'','#pred/'+mid);const u=location.origin+location.pathname+'#pred/'+mid;
-          if(navigator.clipboard)navigator.clipboard.writeText(u).then(()=>{sh.textContent='✓ ссылка скопирована';setTimeout(()=>sh.textContent='🔗 ссылка на конкурс',1600);}).catch(()=>{});};
-        ld.appendChild(sh);}
-      if(done){const im=el('button','sharelink','🖼 картинкой');im.type='button';
-        im.onclick=async()=>{const prev=im.textContent;im.textContent='рисую…';
-          try{await navigator.clipboard.write([new ClipboardItem({'image/png':predImageBlob(c,mid)})]);im.textContent='✓ скопировано';}
-          catch(e){try{const b=await predImageBlob(c,mid);const a2=document.createElement('a');a2.href=URL.createObjectURL(b);a2.download='ktotochnee-'+(mid||'card')+'.png';a2.click();URL.revokeObjectURL(a2.href);im.textContent='✓ скачано';}catch(e2){im.textContent='ошибка';}}
-          setTimeout(()=>im.textContent=prev,1900);};
-        ld.appendChild(im);}
-      card.appendChild(ld);
+          if(navigator.clipboard)navigator.clipboard.writeText(u).then(()=>{lbl.textContent='ссылка скопирована';setTimeout(()=>lbl.textContent='ссылка на конкурс',1600);}).catch(()=>{});};
+        foot.appendChild(sh);}
+      const im=el('button','sharelink');im.type='button';im.append(picon('image',13),document.createTextNode('картинкой'));const imLbl=im.lastChild;
+      im.onclick=async()=>{const prev=imLbl.textContent;imLbl.textContent='рисую…';
+        try{const cEl=card.querySelector('.pred-chart'),inst=cEl?echarts.getInstanceByDom(cEl):null;
+          if(inst){if(cEl.style.display==='none'){cEl.style.display='';inst.resize();}
+            const url=inst.getDataURL({type:'png',pixelRatio:2,backgroundColor:predCol().bg});
+            const blob=await(await fetch(url)).blob();
+            try{await navigator.clipboard.write([new ClipboardItem({'image/png':blob})]);imLbl.textContent='скопировано';}
+            catch(e){const a2=document.createElement('a');a2.href=url;a2.download='ktotochnee-'+(mid||'card')+'.png';a2.click();imLbl.textContent='скачано';}}
+          else{const b=await predImageBlob(c,mid);const a2=document.createElement('a');a2.href=URL.createObjectURL(b);a2.download='ktotochnee-'+(mid||'card')+'.png';a2.click();URL.revokeObjectURL(a2.href);imLbl.textContent='скачано';}
+        }catch(e){imLbl.textContent='ошибка';}
+        setTimeout(()=>imLbl.textContent=prev,1900);};
+      foot.appendChild(im);card.appendChild(foot);
       box.appendChild(card);});
+    queue.forEach(([node,c,ch])=>buildPredChart(node,c,ch));
     if(pendingContest)scrollToContest(pendingContest);}
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
   /* палитры под тему: тёмная — светлые линии, светлая — затемнённые (контраст ≥3:1 на белом) */
@@ -584,6 +704,7 @@
       get('hall_of_fame.json',d=>{HALL=d.messages||[];renderHall();}),
       get('feed.json',d=>{FEED=d.items||[];populateFeedFilters();renderFeed();}),
       get('predictions.json',d=>{PRED=d;renderPred();}),
+      get('pred_charts.json',d=>{CH=d;renderPred();}),
       get('stats.json',d=>{STATS=d;}),
       get('activity.json',d=>{ACT=d;}),
       get('btc.json',d=>{BTC=d;}),
@@ -593,7 +714,7 @@
   }
   document.getElementById('search').addEventListener('input',renderRating);
   try{if(localStorage.getItem('welcome_dismissed')){const w=document.getElementById('welcome');if(w)w.remove();}}catch(e){}
-  window.addEventListener('resize',()=>{if(actChart)actChart.resize();if(histChart)histChart.resize();if(homeChart)homeChart.resize();});
+  window.addEventListener('resize',()=>{if(actChart)actChart.resize();if(histChart)histChart.resize();if(homeChart)homeChart.resize();predCharts.forEach(ch=>{try{ch.resize();}catch(e){}});});
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)loadDynamic();});
   loadDynamic();loadStatic();setInterval(()=>{if(!document.hidden)loadDynamic();},90000);
   window.addEventListener('popstate',applyHash);
