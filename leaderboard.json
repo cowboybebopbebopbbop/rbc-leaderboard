@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T13:37:48+00:00",
+  "updated": "2026-07-21T14:37:49+00:00",
   "count": 74,
   "has_movement": true,
   "all": [
@@ -24,13 +24,13 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1741,
+      "value": 1742,
       "move": 0
     },
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1678,
+      "value": 1679,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 614,
+      "value": 615,
       "move": 0
     },
     {
@@ -472,7 +472,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 6,
@@ -487,7 +487,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 9,
@@ -506,12 +506,12 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 19
+      "name": "Князь Владимир С",
+      "value": 20
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 19
     },
     {
@@ -719,12 +719,12 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 7,
@@ -738,22 +738,22 @@
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
+      "name": "Князь Владимир С",
       "value": 7
     },
     {
       "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 7
+    },
+    {
+      "rank": 11,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 11,
-      "name": "Aся",
-      "value": 6
-    },
-    {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 6
     },
     {
