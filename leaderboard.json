@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-21T03:37:46+00:00",
+  "updated": "2026-07-21T04:37:46+00:00",
   "count": 72,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5620,
+      "value": 5621,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "den",
-      "value": 283,
+      "value": 284,
       "move": 0
     },
     {
@@ -445,7 +445,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 123
+      "value": 124
     },
     {
       "rank": 3,
@@ -649,26 +649,31 @@
     },
     {
       "rank": 43,
-      "name": "Charlie Shefelman",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 44,
-      "name": "***",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "byk0t!?",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "byk0t!?",
       "value": 1
     },
     {
       "rank": 47,
+      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "value": 1
+    },
+    {
+      "rank": 48,
       "name": "Ilya",
       "value": 1
     }
@@ -676,12 +681,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 40
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 41
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 40
     },
     {
@@ -786,16 +791,21 @@
     },
     {
       "rank": 23,
-      "name": "Daniil",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 24,
-      "name": "X888",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 25,
+      "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 26,
       "name": "byk0t!?",
       "value": 1
     }
