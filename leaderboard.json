@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-21T12:37:47+00:00",
-  "count": 73,
+  "updated": "2026-07-21T13:37:48+00:00",
+  "count": 74,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5622,
+      "value": 5623,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3933,
+      "value": 3935,
       "move": 0
     },
     {
@@ -138,7 +138,7 @@
     {
       "rank": 23,
       "name": "DenisNazarov",
-      "value": 189,
+      "value": 190,
       "move": 0
     },
     {
@@ -246,7 +246,7 @@
     {
       "rank": 41,
       "name": "Vitaliy",
-      "value": 54,
+      "value": 55,
       "move": 0
     },
     {
@@ -440,18 +440,24 @@
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 74,
+      "name": "Роман Земнухов | Ведущий",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 141
+      "value": 143
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 125
+      "value": 126
     },
     {
       "rank": 3,
@@ -500,17 +506,17 @@
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 19
     },
     {
       "rank": 13,
-      "name": "ᅠ",
-      "value": 18
+      "name": "Князь Владимир С",
+      "value": 19
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "ᅠ",
       "value": 18
     },
     {
@@ -600,22 +606,22 @@
     },
     {
       "rank": 32,
-      "name": "Andrey Kuimov",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 33,
-      "name": "iDiklonius",
+      "name": "Andrey Kuimov",
       "value": 3
     },
     {
       "rank": 34,
-      "name": "Sergei IVANOV",
-      "value": 2
+      "name": "iDiklonius",
+      "value": 3
     },
     {
       "rank": 35,
-      "name": "DenisNazarov",
+      "name": "Sergei IVANOV",
       "value": 2
     },
     {
@@ -693,12 +699,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 49
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 3,
@@ -727,22 +733,22 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
+      "name": "Vitaliy",
       "value": 7
     },
     {
       "rank": 9,
+      "name": "ᴦоᴧод",
+      "value": 7
+    },
+    {
+      "rank": 10,
       "name": "Viktor",
       "value": 6
     },
     {
-      "rank": 10,
-      "name": "Aся",
-      "value": 6
-    },
-    {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 6
     },
     {
@@ -782,28 +788,28 @@
     },
     {
       "rank": 19,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Daniil",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Max",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "Max",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "DenisNazarov",
-      "value": 1
+      "name": ".",
+      "value": 2
     },
     {
       "rank": 24,
