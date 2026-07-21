@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T17:21:08+00:00",
-  "count": 75,
+  "updated": "2026-07-21T18:21:08+00:00",
+  "count": 76,
   "has_movement": true,
   "all": [
     {
@@ -24,19 +24,19 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1742,
+      "value": 1744,
       "move": 0
     },
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1680,
+      "value": 1682,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 994,
+      "value": 995,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 787,
+      "value": 788,
       "move": 1
     },
     {
@@ -180,7 +180,7 @@
     {
       "rank": 30,
       "name": "Andrey Tugarin",
-      "value": 119,
+      "value": 120,
       "move": null
     },
     {
@@ -395,60 +395,66 @@
     },
     {
       "rank": 66,
-      "name": "⁤",
-      "value": 1,
-      "move": -3
+      "name": "Juli Julia",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 67,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 68,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 69,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 70,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 71,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 72,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 73,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 74,
+      "name": "Артём",
+      "value": 1,
+      "move": -4
+    },
+    {
+      "rank": 75,
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
       "move": null
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "Роман Земнухов | Ведущий",
       "value": 1,
       "move": null
@@ -473,12 +479,12 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 6,
@@ -488,12 +494,12 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 8,
       "name": "Archie",
-      "value": 36
+      "value": 38
     },
     {
       "rank": 9,
@@ -567,23 +573,23 @@
     },
     {
       "rank": 23,
-      "name": "Turchyn Gennadii",
+      "name": "Andrey Tugarin",
       "value": 6
     },
     {
       "rank": 24,
-      "name": "Синдбад Мореход",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 25,
-      "name": "Роман",
+      "name": "Синдбад Мореход",
       "value": 6
     },
     {
       "rank": 26,
-      "name": "Andrey Tugarin",
-      "value": 5
+      "name": "Роман",
+      "value": 6
     },
     {
       "rank": 27,
@@ -720,27 +726,27 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 17
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 17
+      "name": "Ольга",
+      "value": 18
     },
     {
       "rank": 5,
+      "name": "Zero-sum Gamer",
+      "value": 18
+    },
+    {
+      "rank": 6,
       "name": "Olga Goncharova",
       "value": 17
     },
     {
-      "rank": 6,
-      "name": "Ольга",
-      "value": 16
-    },
-    {
       "rank": 7,
       "name": "a l",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 8,
@@ -764,17 +770,17 @@
     },
     {
       "rank": 12,
-      "name": "Aся",
+      "name": "Andrey Tugarin",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
+      "name": "Aся",
+      "value": 6
     },
     {
       "rank": 14,
-      "name": "Andrey Tugarin",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
