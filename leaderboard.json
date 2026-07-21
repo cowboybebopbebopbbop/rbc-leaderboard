@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T11:37:47+00:00",
-  "count": 72,
+  "updated": "2026-07-21T12:37:47+00:00",
+  "count": 73,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3930,
+      "value": 3933,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1677,
+      "value": 1678,
       "move": 0
     },
     {
@@ -434,13 +434,19 @@
       "name": "Артём",
       "value": 1,
       "move": -2
+    },
+    {
+      "rank": 73,
+      "name": "Mikhail Strovsky (PhD)",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 138
+      "value": 141
     },
     {
       "rank": 2,
@@ -475,7 +481,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 9,
@@ -687,7 +693,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 47
     },
     {
       "rank": 2,
@@ -706,13 +712,13 @@
     },
     {
       "rank": 5,
-      "name": "Ольга",
+      "name": "Archie",
       "value": 15
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 14
+      "name": "Ольга",
+      "value": 15
     },
     {
       "rank": 7,
