@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T04:37:46+00:00",
+  "updated": "2026-07-21T05:37:46+00:00",
   "count": 72,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1676,
+      "value": 1677,
       "move": 0
     },
     {
@@ -359,15 +359,15 @@
     },
     {
       "rank": 60,
-      "name": "Sila",
-      "value": 4,
-      "move": -2
+      "name": "Daniil",
+      "value": 5,
+      "move": 1
     },
     {
       "rank": 61,
-      "name": "Daniil",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -3
     },
     {
       "rank": 62,
@@ -475,7 +475,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 9,
@@ -584,17 +584,17 @@
     },
     {
       "rank": 30,
+      "name": "Daniil",
+      "value": 4
+    },
+    {
+      "rank": 31,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 31,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
       "rank": 32,
-      "name": "Daniil",
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -702,7 +702,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -771,32 +771,32 @@
     },
     {
       "rank": 19,
-      "name": "Max",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 20,
-      "name": ".",
+      "name": "Max",
       "value": 2
     },
     {
       "rank": 21,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "den",
-      "value": 1
-    },
-    {
       "rank": 24,
-      "name": "Daniil",
+      "name": "den",
       "value": 1
     },
     {
