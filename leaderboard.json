@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T08:37:46+00:00",
+  "updated": "2026-07-21T09:37:47+00:00",
   "count": 72,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3926,
+      "value": 3927,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 783,
+      "value": 786,
       "move": 0
     },
     {
@@ -440,7 +440,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 134
+      "value": 135
     },
     {
       "rank": 2,
@@ -455,7 +455,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 49
+      "value": 52
     },
     {
       "rank": 5,
@@ -681,13 +681,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 41
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 40
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 41
     },
     {
       "rank": 3,
@@ -696,18 +696,18 @@
     },
     {
       "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 16
+    },
+    {
+      "rank": 5,
       "name": "Ольга",
       "value": 15
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Archie",
       "value": 14
-    },
-    {
-      "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 13
     },
     {
       "rank": 7,
