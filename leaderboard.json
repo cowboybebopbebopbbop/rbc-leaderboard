@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T12:43:42+00:00",
+  "updated": "2026-07-22T13:43:42+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "Manis Love",
-      "value": 166,
+      "value": 167,
       "move": 0
     },
     {
@@ -180,7 +180,7 @@
     {
       "rank": 30,
       "name": "Andrey Tugarin",
-      "value": 120,
+      "value": 123,
       "move": null
     },
     {
@@ -544,7 +544,7 @@
     {
       "rank": 17,
       "name": "Manis Love",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 18,
@@ -553,28 +553,28 @@
     },
     {
       "rank": 19,
-      "name": "L G",
+      "name": "Andrey Tugarin",
       "value": 9
     },
     {
       "rank": 20,
-      "name": "Руслан Иванов",
+      "name": "L G",
       "value": 9
     },
     {
       "rank": 21,
+      "name": "Руслан Иванов",
+      "value": 9
+    },
+    {
+      "rank": 22,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Anatoly Shadrin",
       "value": 7
-    },
-    {
-      "rank": 23,
-      "name": "Andrey Tugarin",
-      "value": 6
     },
     {
       "rank": 24,
@@ -716,12 +716,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 36
     },
     {
       "rank": 3,
@@ -750,23 +750,23 @@
     },
     {
       "rank": 8,
+      "name": "Andrey Tugarin",
+      "value": 9
+    },
+    {
+      "rank": 9,
       "name": "Vitaliy",
       "value": 7
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᴦоᴧод",
       "value": 7
-    },
-    {
-      "rank": 11,
-      "name": "Andrey Tugarin",
-      "value": 6
     },
     {
       "rank": 12,
@@ -790,18 +790,18 @@
     },
     {
       "rank": 16,
-      "name": "Viktor",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 3
+    },
+    {
+      "rank": 18,
+      "name": "Viktor",
+      "value": 2
     },
     {
       "rank": 19,
@@ -810,52 +810,52 @@
     },
     {
       "rank": 20,
-      "name": "DenisNazarov",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Daniil",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Max",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Manis Love",
-      "value": 1
-    },
-    {
-      "rank": 25,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "byk0t!?",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Max",
       "value": 1
     }
   ]
