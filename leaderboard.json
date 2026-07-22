@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:21:09+00:00",
+  "updated": "2026-07-22T09:22:08+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -283,91 +283,91 @@
       "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 26,
-      "move": null
+      "move": -1
     },
     {
       "rank": 48,
       "name": "Руслан Иванов",
       "value": 21,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 49,
       "name": "Толян",
       "value": 20,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 50,
       "name": "Антон",
       "value": 17,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 51,
       "name": "Anatoly Shadrin",
       "value": 17,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 52,
       "name": "vpidelks",
       "value": 14,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 53,
       "name": "Advokat Krysanov",
       "value": 14,
-      "move": null
+      "move": -1
     },
     {
       "rank": 54,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 13,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 55,
       "name": "Turchyn Gennadii",
       "value": 12,
-      "move": -4
+      "move": -1
     },
     {
       "rank": 56,
       "name": "X888",
       "value": 9,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 57,
       "name": "Юрий",
       "value": 8,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 58,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 59,
       "name": "Роман",
       "value": 7,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 60,
       "name": "***",
       "value": 7,
-      "move": -3
+      "move": -1
     },
     {
       "rank": 61,
       "name": "xxx",
       "value": 6,
-      "move": 1
+      "move": 3
     },
     {
       "rank": 62,
@@ -379,19 +379,19 @@
       "rank": 63,
       "name": "Sila",
       "value": 4,
-      "move": -5
+      "move": -3
     },
     {
       "rank": 64,
       "name": "Ilya",
       "value": 3,
-      "move": -5
+      "move": -2
     },
     {
       "rank": 65,
       "name": "Samurai_1",
       "value": 3,
-      "move": -5
+      "move": -2
     },
     {
       "rank": 66,
@@ -403,49 +403,49 @@
       "rank": 67,
       "name": "⁤",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 68,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 69,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 70,
       "name": "Darya",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 71,
       "name": "Alex",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 72,
       "name": "F. Yashin",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 73,
       "name": "Александр",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 74,
       "name": "Артём",
       "value": 1,
-      "move": -4
+      "move": -2
     },
     {
       "rank": 75,
@@ -715,13 +715,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 52
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 45
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "name": "Igor",
+      "value": 42
     },
     {
       "rank": 3,
@@ -730,18 +730,18 @@
     },
     {
       "rank": 4,
-      "name": "Ольга",
-      "value": 18
-    },
-    {
-      "rank": 5,
       "name": "Zero-sum Gamer",
       "value": 18
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Olga Goncharova",
       "value": 17
+    },
+    {
+      "rank": 6,
+      "name": "Ольга",
+      "value": 15
     },
     {
       "rank": 7,
