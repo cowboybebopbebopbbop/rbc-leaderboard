@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T09:24:03+00:00",
+  "updated": "2026-07-22T09:43:42+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -721,7 +721,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 3,
@@ -735,13 +735,13 @@
     },
     {
       "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 17
+      "name": "Ольга",
+      "value": 15
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 15
+      "name": "Olga Goncharova",
+      "value": 11
     },
     {
       "rank": 7,
