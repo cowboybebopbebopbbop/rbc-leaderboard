@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T13:47:36+00:00",
+  "updated": "2026-07-22T14:24:39+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3942,
+      "value": 3944,
       "move": 0
     },
     {
@@ -464,7 +464,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 150
+      "value": 152
     },
     {
       "rank": 2,
@@ -716,12 +716,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 3,
@@ -851,11 +851,6 @@
     {
       "rank": 28,
       "name": "byk0t!?",
-      "value": 1
-    },
-    {
-      "rank": 29,
-      "name": "Max",
       "value": 1
     }
   ]
