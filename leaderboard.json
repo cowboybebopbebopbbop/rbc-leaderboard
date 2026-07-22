@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T15:24:41+00:00",
+  "updated": "2026-07-22T16:24:42+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -736,7 +736,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
@@ -845,11 +845,6 @@
     },
     {
       "rank": 27,
-      "name": "X888",
-      "value": 1
-    },
-    {
-      "rank": 28,
       "name": "byk0t!?",
       "value": 1
     }
