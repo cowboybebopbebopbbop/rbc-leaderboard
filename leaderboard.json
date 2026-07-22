@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T16:24:42+00:00",
+  "updated": "2026-07-22T17:24:46+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1683,
+      "value": 1684,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 55,
+      "value": 57,
       "move": -1
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "I",
-      "value": 45,
+      "value": 46,
       "move": -1
     },
     {
@@ -499,7 +499,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 9,
@@ -518,13 +518,13 @@
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
-      "value": 20
+      "name": "Vitaliy",
+      "value": 21
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 19
+      "name": "Князь Владимир С",
+      "value": 20
     },
     {
       "rank": 14,
@@ -708,7 +708,7 @@
     },
     {
       "rank": 50,
-      "name": "Ilya",
+      "name": "I",
       "value": 1
     }
   ],
@@ -726,7 +726,7 @@
     {
       "rank": 3,
       "name": "Archie",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
@@ -756,7 +756,7 @@
     {
       "rank": 9,
       "name": "Vitaliy",
-      "value": 7
+      "value": 9
     },
     {
       "rank": 10,
@@ -846,6 +846,11 @@
     {
       "rank": 27,
       "name": "byk0t!?",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "I",
       "value": 1
     }
   ]
