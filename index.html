@@ -93,7 +93,7 @@
   .feed-text{display:block;white-space:pre-wrap;word-break:break-word;}
   /* прогнозы: карточка итогов + строки вариантов */
   .wincard{border-color:hsl(var(--green)/.45);background:linear-gradient(160deg,hsl(var(--green)/.10),transparent 55%);}
-  #pred-body .card>.t{font-weight:600;font-size:.95rem;}
+  #view-pred .card>.t{font-weight:600;font-size:.95rem;}
   .pred-res{font-size:1rem;font-weight:700;margin:2px 0 8px;}
   .pred-opt{display:flex;align-items:center;gap:8px;font-size:.82rem;margin:5px 0;color:hsl(var(--muted-foreground));}
   .pred-opt .lbl{flex:0 0 42%;max-width:230px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
@@ -226,7 +226,9 @@
   <section id="view-pred" class="hidden">
     <h2>Прогнозы — «Кто точнее» 🎯</h2>
     <div class="sub">Конкурсы точности от админов форума (опросы с #ктоточнее в чате). Попал в верный вариант — получил 🎯, очки копятся между конкурсами. Игра на очки: без ставок и денег, не финсовет. Итог фиксируется автоматически по данным биржи Binance (инструмент берётся из вопроса: BTC, ETH и т.д.).</div>
-    <div id="pred-body"></div>
+    <div class="subnav"><button type="button" data-s="contests" class="active" aria-pressed="true" onclick="subPred('contests')">Конкурсы</button><button type="button" data-s="board" aria-pressed="false" onclick="subPred('board')">Рейтинг точности</button></div>
+    <div id="pred-contests"></div>
+    <div id="pred-board" class="hidden"></div>
   </section>
 
   <section id="view-useful" class="hidden">
@@ -278,10 +280,10 @@
     const parts=h.split('/'),tab=parts[0],arg=parts[1];
     if(!VIEWS.includes(tab)){switchTab('home',true);history.replaceState(null,'',location.pathname);return;}
     switchTab(tab,true);
-    if(!arg)return;
+    if(!arg){if(tab==='pred')subPred('contests',true);return;}
     if(tab==='useful'&&['faq','sec','start','disc'].includes(arg))subP(arg,true);
     else if(tab==='trading'&&['sent','voices','upd','exp'].includes(arg))subT(arg,true);
-    else if(tab==='pred')scrollToContest(arg);}
+    else if(tab==='pred'){if(arg==='board')subPred('board',true);else if(arg==='contests')subPred('contests',true);else{subPred('contests',true);scrollToContest(arg);}}}
   function scrollToContest(mid){const c=document.getElementById('c'+mid);
     if(!c){pendingContest=mid;return;}
     pendingContest=null;
@@ -294,6 +296,11 @@
   function subT(s,fromHash){['sent','voices','upd','exp'].forEach(v=>document.getElementById('t-'+v).classList.toggle('hidden',v!==s));
     document.querySelectorAll('#view-trading .subnav button').forEach(a=>{const on=a.dataset.s===s;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
     if(!fromHash)history.replaceState(null,'','#trading/'+s);}
+  function subPred(s,fromHash){['contests','board'].forEach(v=>document.getElementById('pred-'+v).classList.toggle('hidden',v!==s));
+    document.querySelectorAll('#view-pred .subnav button').forEach(a=>{const on=a.dataset.s===s;a.classList.toggle('active',on);a.setAttribute('aria-pressed',on);});
+    if(!fromHash)history.replaceState(null,'','#pred'+(s==='board'?'/board':''));
+    if(s==='contests')predCharts.forEach(ch=>{try{ch.resize();}catch(e){}});}   // графики живут в контейнере конкурсов — размер чиним при показе
+  function goPred(s){switchTab('pred');subPred(s);}
   function goStart(s){switchTab('useful');subP(s);}
   function dismissWelcome(){const w=document.getElementById('welcome');if(w){if(w.contains(document.activeElement)){const tb=document.getElementById('theme-btn');if(tb)tb.focus();}w.remove();}try{localStorage.setItem('welcome_dismissed','1');}catch(e){}}
   const medal=r=>r===1?'🥇':r===2?'🥈':r===3?'🥉':r;
@@ -391,18 +398,25 @@
     const head=(emoji,title,go)=>{const h=el('div','phead');h.append(el('span','hic',emoji),el('span','pt',title),el('span','pgo',go));return h;};
     const clickable=(node,fn,label)=>{node.setAttribute('role','button');node.tabIndex=0;if(label)node.setAttribute('aria-label',label);
       node.onclick=fn;node.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();fn(e);}};};
-    if(PRED&&PRED.contests&&PRED.contests.length){const c=PRED.contests[0],p=el('div','panel contest');clickable(p,()=>switchTab('pred'),'Прогнозы — «Кто точнее»');
-      p.appendChild(head('🎯','Прогнозы — «Кто точнее»','в раздел →'));
+    /* блок 1 — конкурсы: последний/текущий, ведёт на вкладку «Конкурсы» */
+    if(PRED&&PRED.contests&&PRED.contests.length){const c=PRED.contests[0],p=el('div','panel contest');clickable(p,()=>goPred('contests'),'Прогнозы — «Кто точнее»: все конкурсы');
+      p.appendChild(head('🎯','Прогнозы — «Кто точнее»','все конкурсы →'));
       if(c.status==='resolved'){p.appendChild(el('div','pres','🏆 Последний конкурс: '+(c.winner_price!=null?'$'+Math.round(c.winner_price).toLocaleString('ru-RU')+' → ':'')+'«'+(c.options[c.winner_option]||'—')+'»'));
         p.appendChild(el('div','psub','Угадали '+((c.winners||[]).length)+' — каждому +1 🎯. Следующий конкурс — по #ктоточнее в чате.'));}
       else{p.appendChild(el('div','pres','🗳 Идёт конкурс — голосуй в чате'));p.appendChild(el('div','psub',c.question||''));p.appendChild(el('div','psub',(c.total||0)+' проголосовало'+(c.deadline?' · приём до '+fmtDT(c.deadline):'')));}
+      box.appendChild(p);}
+    /* блок 2 — рейтинг точности целиком: превью топ-10, ведёт на вкладку со всем списком */
+    if(PRED&&PRED.board&&PRED.board.length){const p=el('div','panel');clickable(p,()=>goPred('board'),'Рейтинг точности — все участники');
+      p.appendChild(head('🏅','Рейтинг точности — топ-10','весь рейтинг →'));
       /* лидер по точности — только если он единоличный; при ничьей не называем
          кого-то одного «точнее всех», а показываем размер группы лидеров */
       const rb=(PRED.board||[]).filter(b=>b.games!=null);
       if(rb.length){const t0=rb[0],co=rb.filter(b=>b.win_pct===t0.win_pct&&b.wins===t0.wins).length;
         if(co===1)p.appendChild(el('div','psub','Точнее всех: '+anon(t0.name)+' — '+t0.wins+'/'+t0.games+' ('+t0.win_pct+'%)'+(t0.streak>=2?' 🔥'+t0.streak:'')));
         else{const a=co%10,b2=co%100;p.appendChild(el('div','psub','Лучшая точность: '+t0.win_pct+'% — у '+co+' '+((a===1&&b2!==11)?'участника':'участников')));}}
-      box.appendChild(p);}
+      const g=el('div','rank');PRED.board.slice(0,10).forEach((b,i)=>{const rk=el('div','rk');
+        rk.append(el('span','rn',String(medal(i+1))),el('span','rnm',anon(b.name)),el('span','rv',b.games!=null?b.wins+'/'+b.games:'🎯'+b.points));g.appendChild(rk);});
+      p.appendChild(g);box.appendChild(p);}
     if(LB&&LB.all&&LB.all.length){const p=el('div','panel');clickable(p,()=>switchTab('rating'),'Рейтинг участников');
       p.appendChild(head('🏆','Рейтинг — топ-10','весь рейтинг + график →'));
       const g=el('div','rank');LB.all.slice(0,10).forEach(it=>{const rk=el('div','rk');
@@ -562,21 +576,22 @@
       const mb=el('div','mini');const f=el('i');f.style.width=(c.votes[i]/mx*100)+'%';mb.appendChild(f);row.appendChild(mb);
       row.appendChild(el('span','pc',c.votes[i]+(c.total?` · ${Math.round(c.votes[i]/c.total*100)}%`:'')));
       box.appendChild(row);});return box;}
-  function renderPred(){const box=document.getElementById('pred-body');if(!box)return;
-    predCharts.forEach(ch=>{try{ch.dispose();}catch(e){}});predCharts=[];box.textContent='';
-    if(!PRED||!PRED.contests||!PRED.contests.length){box.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
-    if(PRED.board&&PRED.board.length){box.appendChild(el('h2',null,'Рейтинг точности'));
-      box.appendChild(el('div','sub','Место — по сглаженной точности: (угадано+1)/(сыграно+2). Малую выборку тянет к 50%, поэтому 100% с одной игры стоит выше 50%, но ниже проверенного 100% с нескольких. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
-      if(PRED.board.length>50)box.appendChild(el('div','sub','Показаны топ-50 из '+PRED.board.length+' участников.'));
+  function renderPred(){const cbox=document.getElementById('pred-contests'),bbox=document.getElementById('pred-board');if(!cbox||!bbox)return;
+    predCharts.forEach(ch=>{try{ch.dispose();}catch(e){}});predCharts=[];cbox.textContent='';bbox.textContent='';
+    /* вкладка «Рейтинг точности» — весь список, без обрезки в топ-50 */
+    if(PRED&&PRED.board&&PRED.board.length){
+      bbox.appendChild(el('div','sub','Место — по сглаженной точности: (угадано+1)/(сыграно+2). Малую выборку тянет к 50%, поэтому 100% с одной игры стоит выше 50%, но ниже проверенного 100% с нескольких. 🔥 — активная серия угадываний, «рекорд» — лучшая серия.'));
       const l=el('div','list');let rank=0;
-      PRED.board.slice(0,50).forEach(b=>{const r=el('div','row');const rk=el('div','r');
+      PRED.board.forEach(b=>{const r=el('div','row');const rk=el('div','r');
         rk.append(document.createTextNode(String(medal(++rank))));
         const nm=el('div','nm');nm.append(document.createTextNode(anon(b.name)));
         if(b.streak>=2)nm.appendChild(el('span','mv up','🔥'+b.streak));
         if(b.best_streak>=2)nm.appendChild(el('span','strk','рекорд: '+b.best_streak));
         const val=b.games!=null?b.wins+'/'+b.games+' · '+b.win_pct+'%':'🎯 '+b.points;
-        r.append(rk,nm,el('div','v',val));l.appendChild(r);});box.appendChild(l);}
-    box.appendChild(el('h2',null,'Конкурсы'));
+        r.append(rk,nm,el('div','v',val));l.appendChild(r);});bbox.appendChild(l);
+    }else{bbox.appendChild(el('div','empty','рейтинг появится после первых конкурсов'));}
+    /* вкладка «Конкурсы» — текущий + все прошлые */
+    if(!PRED||!PRED.contests||!PRED.contests.length){cbox.appendChild(el('div','empty','ждём первый конкурс — следи за #ктоточнее в чате'));return;}
     const queue=[];
     PRED.contests.forEach(c=>{
       const done=c.status==='resolved';
@@ -626,7 +641,7 @@
         }catch(e){imLbl.textContent='ошибка';}
         setTimeout(()=>imLbl.textContent=prev,1900);};
       foot.appendChild(im);card.appendChild(foot);
-      box.appendChild(card);});
+      cbox.appendChild(card);});
     queue.forEach(([node,c,ch])=>buildPredChart(node,c,ch));
     if(pendingContest)scrollToContest(pendingContest);}
   function renderHall(){const box=document.getElementById('hall-rows');box.textContent='';HALL.forEach((it,i)=>{const r=el('div','item');const a=el('a','lnk');a.href=it.link;a.textContent=medal(i+1)+'  '+(it.snippet||'сообщение');ext(a);r.appendChild(a);r.appendChild(el('div','d',anon(it.author)+' · '+it.score+' 👍❤️ · '+it.category));box.appendChild(r);});}
