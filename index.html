@@ -526,6 +526,13 @@
       label:{formatter:'фиксация голосов',position:'end',fontSize:10,color:col.ax}});
     const pts=[];
     if(done&&c.winner_price!=null)pts.push({coord:[target,c.winner_price],itemStyle:{color:`hsl(${col.green})`},label:{show:false}});
+    /* у завершённого — линию доводим до цены ИТОГА (winner_price, 1m-свеча в цель), а не до
+       грубого часового close: иначе конец линии не сходится с зелёной точкой, и axis-тултип
+       у края покажет число линии, противореча строке «Итог». winner_price — точный замер в цель. */
+    const priceSeries=ch.series.slice();
+    if(done&&c.winner_price!=null){
+      if(priceSeries.length&&priceSeries.at(-1)[0]>=target)priceSeries[priceSeries.length-1]=[target,c.winner_price];
+      else priceSeries.push([target,c.winner_price]);}
     const tipSeries=(!done&&last)?[{name:'tip',type:'effectScatter',data:[[last[0],last[1]]],symbolSize:7,z:6,silent:true,
       rippleEffect:{brushType:'stroke',scale:3.6,period:2.6},itemStyle:{color:col.line},label:{show:false}}]:[];
     const chart=echarts.init(node,null,{renderer:'canvas'});
@@ -541,7 +548,7 @@
       yAxis:{type:'value',min:yMin,max:yMax,axisLabel:{show:false},splitLine:{show:false}},
       series:[
         {name:'fills',type:'line',data:[],silent:true,markArea:{silent:true,data:zoneFills}},
-        {name:'price',type:'line',data:ch.series,showSymbol:false,lineStyle:{width:2,color:col.line},itemStyle:{color:col.line},
+        {name:'price',type:'line',data:priceSeries,showSymbol:false,lineStyle:{width:2,color:col.line},itemStyle:{color:col.line},
           markLine:{silent:true,symbol:'none',lineStyle:{color:col.ax,width:1,type:'dashed'},data:marks},
           markPoint:{silent:true,symbol:'circle',symbolSize:7,label:{show:false},data:pts}},
         {name:'zonesL',type:'line',data:[],silent:true,markArea:{silent:true,data:zoneLabels('opts')}},
