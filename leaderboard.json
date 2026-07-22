@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-22T14:24:39+00:00",
+  "updated": "2026-07-22T15:24:41+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5627,
+      "value": 5628,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3944,
+      "value": 3945,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1000,
+      "value": 1001,
       "move": 0
     },
     {
@@ -464,12 +464,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 152
+      "value": 153
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 130
+      "value": 131
     },
     {
       "rank": 3,
@@ -489,7 +489,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 7,
@@ -716,12 +716,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 3,
@@ -741,7 +741,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 7,
@@ -790,37 +790,37 @@
     },
     {
       "rank": 16,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
