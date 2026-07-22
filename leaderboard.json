@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T09:43:42+00:00",
+  "updated": "2026-07-22T10:43:42+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3938,
+      "value": 3941,
       "move": 0
     },
     {
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1682,
+      "value": 1683,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 995,
+      "value": 996,
       "move": 0
     },
     {
@@ -464,7 +464,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 146
+      "value": 149
     },
     {
       "rank": 2,
@@ -494,12 +494,12 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 8,
       "name": "Archie",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 9,
@@ -715,18 +715,18 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "name": "Igor",
+      "value": 44
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 41
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 37
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 4,
@@ -746,7 +746,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 8,
@@ -765,77 +765,77 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
-      "value": 6
-    },
-    {
-      "rank": 12,
       "name": "Andrey Tugarin",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "Aся",
-      "value": 6
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 14,
       "name": "xxx",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "name": "Viktor",
+      "value": 4
+    },
+    {
+      "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Manis Love",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "Aся",
       "value": 1
     },
     {
