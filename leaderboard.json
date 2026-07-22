@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T11:43:42+00:00",
+  "updated": "2026-07-22T12:43:42+00:00",
   "count": 76,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 998,
+      "value": 1000,
       "move": 0
     },
     {
@@ -488,13 +488,13 @@
     },
     {
       "rank": 6,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 48
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 46
+      "name": "Olga Goncharova",
+      "value": 48
     },
     {
       "rank": 8,
@@ -716,7 +716,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 42
     },
     {
       "rank": 2,
@@ -741,7 +741,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 7,
@@ -785,13 +785,13 @@
     },
     {
       "rank": 15,
-      "name": "Viktor",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 4
+      "name": "Viktor",
+      "value": 3
     },
     {
       "rank": 17,
