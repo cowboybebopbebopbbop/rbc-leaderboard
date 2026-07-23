@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-23T07:25:00+00:00",
-  "count": 76,
+  "updated": "2026-07-23T08:25:01+00:00",
+  "count": 77,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5629,
+      "value": 5630,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3945,
+      "value": 3948,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 787,
+      "value": 788,
       "move": 0
     },
     {
@@ -458,18 +458,24 @@
       "name": "Роман Земнухов | Ведущий",
       "value": 1,
       "move": 0
+    },
+    {
+      "rank": 77,
+      "name": "Капибара",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 153
+      "value": 156
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 132
+      "value": 133
     },
     {
       "rank": 3,
@@ -573,17 +579,17 @@
     },
     {
       "rank": 23,
-      "name": "Anatoly Shadrin",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 24,
-      "name": "Turchyn Gennadii",
-      "value": 6
+      "name": "Anatoly Shadrin",
+      "value": 7
     },
     {
       "rank": 25,
-      "name": "Синдбад Мореход",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
@@ -716,12 +722,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 47
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
@@ -770,12 +776,12 @@
     },
     {
       "rank": 12,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
+      "name": "Синдбад Мореход",
+      "value": 6
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
