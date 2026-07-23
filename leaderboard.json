@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T19:25:17+00:00",
+  "updated": "2026-07-23T20:25:18+00:00",
   "count": 80,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "Manis Love",
-      "value": 167,
+      "value": 168,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 57,
+      "value": 58,
       "move": 0
     },
     {
@@ -543,7 +543,7 @@
     {
       "rank": 12,
       "name": "Vitaliy",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 13,
@@ -568,7 +568,7 @@
     {
       "rank": 17,
       "name": "Manis Love",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 18,
@@ -774,17 +774,17 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
+      "name": "Vitaliy",
       "value": 10
     },
     {
       "rank": 9,
-      "name": "Andrey Tugarin",
-      "value": 9
+      "name": "ᴦоᴧод",
+      "value": 10
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
+      "name": "Andrey Tugarin",
       "value": 9
     },
     {
@@ -829,27 +829,27 @@
     },
     {
       "rank": 19,
-      "name": "Серхио Ле'Трас",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Капибара",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 21,
+      "name": "Капибара",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Sergei IVANOV",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Manis Love",
+      "name": "Sergei IVANOV",
       "value": 2
     },
     {
