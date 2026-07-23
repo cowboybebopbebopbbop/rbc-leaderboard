@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T14:25:11+00:00",
-  "count": 79,
+  "updated": "2026-07-23T15:25:12+00:00",
+  "count": 80,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3950,
+      "value": 3951,
       "move": 0
     },
     {
@@ -476,13 +476,19 @@
       "name": "Арина Белова",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 80,
+      "name": "A.",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 158
+      "value": 159
     },
     {
       "rank": 2,
@@ -734,7 +740,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
