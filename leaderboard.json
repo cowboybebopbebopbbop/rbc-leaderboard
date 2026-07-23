@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:25:13+00:00",
+  "updated": "2026-07-23T17:25:15+00:00",
   "count": 80,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1747,
+      "value": 1749,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1001,
+      "value": 1004,
       "move": 0
     },
     {
@@ -227,21 +227,21 @@
     },
     {
       "rank": 38,
-      "name": "ᴦоᴧод",
+      "name": "Серхио Ле'Трас",
       "value": 67,
-      "move": 2
+      "move": 1
     },
     {
       "rank": 39,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": -1
+      "name": "ᴦоᴧод",
+      "value": 67,
+      "move": 1
     },
     {
       "rank": 40,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": -1
+      "name": "AstronaVt",
+      "value": 66,
+      "move": -2
     },
     {
       "rank": 41,
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 26,
+      "value": 27,
       "move": 0
     },
     {
@@ -503,7 +503,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 54
+      "value": 56
     },
     {
       "rank": 5,
@@ -513,7 +513,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 49
+      "value": 52
     },
     {
       "rank": 7,
@@ -677,62 +677,62 @@
     },
     {
       "rank": 39,
-      "name": "Капибара",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "X888",
+      "name": "Капибара",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Ingvar 604",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "byk0t!?",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "vpidelks",
+      "name": "byk0t!?",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "Max",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 45,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 46,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Samurai_1",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "den",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Charlie Shefelman",
+      "name": "Samurai_1",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "***",
+      "name": "Charlie Shefelman",
       "value": 1
     }
   ],
@@ -754,18 +754,18 @@
     },
     {
       "rank": 4,
+      "name": "Ольга",
+      "value": 19
+    },
+    {
+      "rank": 5,
       "name": "Zero-sum Gamer",
       "value": 18
     },
     {
-      "rank": 5,
-      "name": "Ольга",
-      "value": 17
-    },
-    {
       "rank": 6,
       "name": "a l",
-      "value": 12
+      "value": 15
     },
     {
       "rank": 7,
@@ -844,51 +844,61 @@
     },
     {
       "rank": 22,
-      "name": "Руслан Иванов",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Капибара",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Daniil",
+      "name": "Капибара",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "byk0t!?",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 26,
+      "name": "byk0t!?",
+      "value": 2
+    },
+    {
+      "rank": 27,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 27,
-      "name": "ᅠ",
-      "value": 1
-    },
-    {
       "rank": 28,
-      "name": "den",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "ᅠ",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "I",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 33,
       "name": "Толян",
       "value": 1
     }
