@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-23T10:25:03+00:00",
-  "count": 78,
+  "updated": "2026-07-23T11:25:05+00:00",
+  "count": 79,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5630,
+      "value": 5631,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1745,
+      "value": 1747,
       "move": 0
     },
     {
@@ -47,15 +47,15 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 788,
-      "move": 0
+      "name": "Синдбад Мореход",
+      "value": 790,
+      "move": 1
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 788,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 10,
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 312,
+      "value": 314,
       "move": 0
     },
     {
@@ -227,21 +227,21 @@
     },
     {
       "rank": 38,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 67,
+      "move": 2
     },
     {
       "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 65,
-      "move": 0
+      "name": "AstronaVt",
+      "value": 66,
+      "move": -1
     },
     {
       "rank": 40,
-      "name": "ᴦоᴧод",
+      "name": "Серхио Ле'Трас",
       "value": 65,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 41,
@@ -287,15 +287,15 @@
     },
     {
       "rank": 48,
-      "name": "Руслан Иванов",
+      "name": "Толян",
       "value": 21,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 49,
-      "name": "Толян",
-      "value": 20,
-      "move": 0
+      "name": "Руслан Иванов",
+      "value": 21,
+      "move": -1
     },
     {
       "rank": 50,
@@ -470,6 +470,12 @@
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
       "move": -3
+    },
+    {
+      "rank": 79,
+      "name": "Арина Белова",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -481,7 +487,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 133
+      "value": 134
     },
     {
       "rank": 3,
@@ -490,13 +496,13 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 54
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 52
+      "name": "Zero-sum Gamer",
+      "value": 54
     },
     {
       "rank": 6,
@@ -516,12 +522,12 @@
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 30
+      "value": 32
     },
     {
       "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 28
+      "value": 30
     },
     {
       "rank": 11,
@@ -580,12 +586,12 @@
     },
     {
       "rank": 22,
-      "name": "Aся",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 9
     },
     {
       "rank": 23,
-      "name": "Синдбад Мореход",
+      "name": "Aся",
       "value": 7
     },
     {
@@ -650,37 +656,37 @@
     },
     {
       "rank": 36,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 37,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Капибара",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Ingvar 604",
       "value": 2
     },
     {
-      "rank": 41,
-      "name": "vpidelks",
-      "value": 2
-    },
-    {
       "rank": 42,
-      "name": "Толян",
+      "name": "vpidelks",
       "value": 2
     },
     {
@@ -733,7 +739,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 3,
@@ -748,7 +754,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 15
+      "value": 17
     },
     {
       "rank": 6,
@@ -772,33 +778,33 @@
     },
     {
       "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 9
+    },
+    {
+      "rank": 11,
+      "name": "Синдбад Мореход",
+      "value": 8
+    },
+    {
+      "rank": 12,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 11,
-      "name": "ᴦоᴧод",
-      "value": 7
-    },
-    {
-      "rank": 12,
-      "name": "Синдбад Мореход",
+      "rank": 13,
+      "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "xxx",
       "value": 5
-    },
-    {
-      "rank": 15,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 4
     },
     {
       "rank": 16,
@@ -873,6 +879,11 @@
     {
       "rank": 30,
       "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 31,
+      "name": "Толян",
       "value": 1
     }
   ]
