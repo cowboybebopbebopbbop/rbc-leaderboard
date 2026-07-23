@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:25:01+00:00",
+  "updated": "2026-07-23T09:25:02+00:00",
   "count": 77,
   "has_movement": true,
   "all": [
@@ -395,75 +395,75 @@
     },
     {
       "rank": 66,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": 0
+      "name": "Капибара",
+      "value": 3,
+      "move": null
     },
     {
       "rank": 67,
-      "name": "⁤",
-      "value": 1,
-      "move": 0
+      "name": "Роман Земнухов | Ведущий",
+      "value": 2,
+      "move": 9
     },
     {
       "rank": 68,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": 0
+      "name": "Juli Julia",
+      "value": 2,
+      "move": -2
     },
     {
       "rank": 69,
-      "name": "Solomon Fridman",
+      "name": "⁤",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 70,
-      "name": "Darya",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 71,
-      "name": "Alex",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 72,
-      "name": "F. Yashin",
+      "name": "Darya",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 73,
-      "name": "Александр",
+      "name": "Alex",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 74,
-      "name": "Артём",
+      "name": "F. Yashin",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 75,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Александр",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 76,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "Артём",
       "value": 1,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 77,
-      "name": "Капибара",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": null
+      "move": -2
     }
   ],
   "month": [
@@ -654,67 +654,67 @@
     },
     {
       "rank": 38,
-      "name": "X888",
+      "name": "Капибара",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Ingvar 604",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "vpidelks",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Толян",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Max",
+      "name": "Толян",
       "value": 2
     },
     {
       "rank": 43,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 44,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 47,
-      "name": "***",
-      "value": 1
-    },
-    {
       "rank": 48,
-      "name": "byk0t!?",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "𝔸𝕞𝕚𝕣𝕙𝕒𝕟",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "I",
+      "name": "byk0t!?",
       "value": 1
     }
   ],
@@ -831,31 +831,41 @@
     },
     {
       "rank": 23,
-      "name": "Daniil",
+      "name": "Капибара",
       "value": 2
     },
     {
       "rank": 24,
+      "name": "Daniil",
+      "value": 2
+    },
+    {
+      "rank": 25,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "ᅠ",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
+      "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "I",
       "value": 1
     }
