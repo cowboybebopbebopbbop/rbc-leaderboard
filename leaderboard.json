@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-23T18:25:16+00:00",
+  "updated": "2026-07-23T19:25:17+00:00",
   "count": 80,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5635,
+      "value": 5639,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": "Charlie Shefelman",
-      "value": 118,
+      "value": 119,
       "move": 0
     },
     {
@@ -228,13 +228,13 @@
     {
       "rank": 38,
       "name": "Серхио Ле'Трас",
-      "value": 67,
+      "value": 68,
       "move": 1
     },
     {
       "rank": 39,
       "name": "ᴦоᴧод",
-      "value": 67,
+      "value": 68,
       "move": 1
     },
     {
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 27,
+      "value": 30,
       "move": 0
     },
     {
@@ -299,39 +299,39 @@
     },
     {
       "rank": 50,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 20,
+      "move": 4
+    },
+    {
+      "rank": 51,
       "name": "ilya Kalashnikov",
       "value": 19,
       "move": null
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "Антон",
       "value": 17,
-      "move": -1
-    },
-    {
-      "rank": 52,
-      "name": "Anatoly Shadrin",
-      "value": 17,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 53,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -1
+      "name": "Anatoly Shadrin",
+      "value": 17,
+      "move": -2
     },
     {
       "rank": 54,
-      "name": "Advokat Krysanov",
+      "name": "vpidelks",
       "value": 14,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 55,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13,
-      "move": -1
+      "name": "Advokat Krysanov",
+      "value": 14,
+      "move": -2
     },
     {
       "rank": 56,
@@ -389,21 +389,21 @@
     },
     {
       "rank": 65,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Капибара",
+      "value": 4,
+      "move": null
     },
     {
       "rank": 66,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 67,
-      "name": "Капибара",
+      "name": "Samurai_1",
       "value": 3,
-      "move": null
+      "move": -2
     },
     {
       "rank": 68,
@@ -493,7 +493,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 138
+      "value": 142
     },
     {
       "rank": 3,
@@ -528,7 +528,7 @@
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 10,
@@ -582,157 +582,157 @@
     },
     {
       "rank": 20,
-      "name": "L G",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
       "rank": 21,
-      "name": "Руслан Иванов",
+      "name": "L G",
       "value": 9
     },
     {
       "rank": 22,
-      "name": "Синдбад Мореход",
+      "name": "Руслан Иванов",
       "value": 9
     },
     {
       "rank": 23,
+      "name": "Синдбад Мореход",
+      "value": 9
+    },
+    {
+      "rank": 24,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Turchyn Gennadii",
       "value": 6
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Роман",
       "value": 6
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "xxx",
       "value": 6
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Anatoly Radchenko",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 31,
-      "name": "Eugene",
-      "value": 4
-    },
-    {
       "rank": 32,
-      "name": "Daniil",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 33,
+      "name": "Eugene",
+      "value": 4
+    },
+    {
+      "rank": 34,
+      "name": "Daniil",
+      "value": 4
+    },
+    {
+      "rank": 35,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 36,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 37,
+      "name": "Серхио Ле'Трас",
+      "value": 3
+    },
+    {
+      "rank": 38,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 39,
+      "name": "Капибара",
+      "value": 3
+    },
+    {
+      "rank": 40,
       "name": "Толян",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 41,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 38,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 2
-    },
-    {
-      "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
-      "rank": 40,
-      "name": "Капибара",
-      "value": 2
-    },
-    {
-      "rank": 41,
-      "name": "X888",
-      "value": 2
-    },
-    {
       "rank": 42,
-      "name": "Ingvar 604",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "byk0t!?",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "vpidelks",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "Max",
+      "name": "byk0t!?",
       "value": 2
     },
     {
       "rank": 46,
+      "name": "vpidelks",
+      "value": 2
+    },
+    {
+      "rank": 47,
+      "name": "Max",
+      "value": 2
+    },
+    {
+      "rank": 48,
       "name": "Artem Khomenko",
       "value": 1
     },
     {
-      "rank": 47,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 1
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "den",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Charlie Shefelman",
+      "name": "den",
       "value": 1
     }
   ],
@@ -745,7 +745,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 47
     },
     {
       "rank": 3,
@@ -774,107 +774,107 @@
     },
     {
       "rank": 8,
+      "name": "ᴦоᴧод",
+      "value": 10
+    },
+    {
+      "rank": 9,
       "name": "Andrey Tugarin",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 9
     },
     {
-      "rank": 10,
-      "name": "ᴦоᴧод",
+      "rank": 11,
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Синдбад Мореход",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "xxx",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 18,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "name": "Серхио Ле'Трас",
+      "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Капибара",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 22,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 23,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 24,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 21,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 2
-    },
-    {
-      "rank": 22,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
-      "rank": 23,
+      "rank": 25,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Капибара",
-      "value": 2
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 27,
-      "name": "Aся",
-      "value": 1
-    },
-    {
       "rank": 28,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Aся",
       "value": 1
     },
     {
@@ -889,16 +889,21 @@
     },
     {
       "rank": 31,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Толян",
       "value": 1
     }
