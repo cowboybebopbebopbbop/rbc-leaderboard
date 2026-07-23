@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T09:25:02+00:00",
-  "count": 77,
+  "updated": "2026-07-23T10:25:03+00:00",
+  "count": 78,
   "has_movement": true,
   "all": [
     {
@@ -299,171 +299,177 @@
     },
     {
       "rank": 50,
-      "name": "Антон",
-      "value": 17,
-      "move": 0
+      "name": "ilya Kalashnikov",
+      "value": 19,
+      "move": null
     },
     {
       "rank": 51,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 52,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "Anatoly Shadrin",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 53,
-      "name": "Advokat Krysanov",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 54,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13,
-      "move": 0
+      "name": "Advokat Krysanov",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 55,
-      "name": "Turchyn Gennadii",
-      "value": 12,
-      "move": 0
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 13,
+      "move": -1
     },
     {
       "rank": 56,
-      "name": "X888",
-      "value": 9,
-      "move": 0
+      "name": "Turchyn Gennadii",
+      "value": 12,
+      "move": -1
     },
     {
       "rank": 57,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "X888",
+      "value": 9,
+      "move": -1
     },
     {
       "rank": 58,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "Юрий",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 59,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 60,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 61,
-      "name": "xxx",
-      "value": 6,
-      "move": 0
+      "name": "***",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 62,
-      "name": "Daniil",
-      "value": 5,
-      "move": 0
+      "name": "xxx",
+      "value": 6,
+      "move": -1
     },
     {
       "rank": 63,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Daniil",
+      "value": 5,
+      "move": -1
     },
     {
       "rank": 64,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Sila",
+      "value": 4,
+      "move": -1
     },
     {
       "rank": 65,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 66,
+      "name": "Samurai_1",
+      "value": 3,
+      "move": -1
+    },
+    {
+      "rank": 67,
       "name": "Капибара",
       "value": 3,
       "move": null
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 9
-    },
-    {
-      "rank": 68,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": -2
+      "move": 8
     },
     {
       "rank": 69,
-      "name": "⁤",
-      "value": 1,
-      "move": -2
+      "name": "Juli Julia",
+      "value": 2,
+      "move": -3
     },
     {
       "rank": 70,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 71,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 72,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 73,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 74,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 75,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 76,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 77,
+      "name": "Артём",
+      "value": 1,
+      "move": -3
+    },
+    {
+      "rank": 78,
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -2
+      "move": -3
     }
   ],
   "month": [
