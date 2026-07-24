@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T05:25:30+00:00",
-  "count": 80,
+  "updated": "2026-07-24T06:25:31+00:00",
+  "count": 81,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3953,
+      "value": 3954,
       "move": 0
     },
     {
@@ -407,78 +407,84 @@
     },
     {
       "rank": 68,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 8
+      "name": "Don Michele Corleone",
+      "value": 3,
+      "move": null
     },
     {
       "rank": 69,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
+      "move": 7
     },
     {
       "rank": 70,
-      "name": "⁤",
-      "value": 1,
-      "move": -3
+      "name": "Juli Julia",
+      "value": 2,
+      "move": -4
     },
     {
       "rank": 71,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 72,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 73,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 74,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 75,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 76,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 77,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 78,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 79,
+      "name": "Mikhail Strovsky (PhD)",
+      "value": 1,
+      "move": -4
+    },
+    {
+      "rank": 80,
       "name": "Арина Белова",
       "value": 1,
       "move": null
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "A.",
       "value": 1,
       "move": null
@@ -488,7 +494,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 161
+      "value": 162
     },
     {
       "rank": 2,
@@ -740,12 +746,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 48
+      "value": 41
     },
     {
       "rank": 3,
@@ -779,47 +785,47 @@
     },
     {
       "rank": 9,
-      "name": "Vitaliy",
-      "value": 10
-    },
-    {
-      "rank": 10,
       "name": "ᴦоᴧод",
       "value": 10
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Andrey Tugarin",
       "value": 9
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Синдбад Мореход",
       "value": 8
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "xxx",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Vitaliy",
       "value": 4
     },
     {
@@ -879,31 +885,26 @@
     },
     {
       "rank": 29,
-      "name": "ᅠ",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Толян",
       "value": 1
     }
