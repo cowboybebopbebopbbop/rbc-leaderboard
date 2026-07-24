@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-24T14:25:42+00:00",
-  "count": 83,
+  "updated": "2026-07-24T15:25:42+00:00",
+  "count": 84,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5644,
+      "value": 5645,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 619,
+      "value": 620,
       "move": 0
     },
     {
@@ -500,6 +500,12 @@
       "name": "Арина Белова",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 84,
+      "name": "A M",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -511,7 +517,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 147
+      "value": 148
     },
     {
       "rank": 3,
@@ -555,12 +561,12 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 24
+      "name": "Князь Владимир С",
+      "value": 25
     },
     {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 24
     },
     {
@@ -758,12 +764,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 3,
@@ -798,7 +804,7 @@
     {
       "rank": 9,
       "name": "Князь Владимир С",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 10,
