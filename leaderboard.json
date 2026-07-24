@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T09:25:34+00:00",
-  "count": 81,
+  "updated": "2026-07-24T10:25:35+00:00",
+  "count": 82,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3954,
+      "value": 3955,
       "move": 0
     },
     {
@@ -395,96 +395,102 @@
     },
     {
       "rank": 66,
-      "name": "Ilya",
-      "value": 3,
-      "move": -2
+      "name": "xv",
+      "value": 4,
+      "move": null
     },
     {
       "rank": 67,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 68,
+      "name": "Samurai_1",
+      "value": 3,
+      "move": -3
+    },
+    {
+      "rank": 69,
       "name": "Don Michele Corleone",
       "value": 3,
       "move": null
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 7
-    },
-    {
-      "rank": 70,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": -4
+      "move": 6
     },
     {
       "rank": 71,
+      "name": "Juli Julia",
+      "value": 2,
+      "move": -5
+    },
+    {
+      "rank": 72,
       "name": "A.",
       "value": 2,
       "move": null
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "⁤",
       "value": 1,
-      "move": -5
-    },
-    {
-      "rank": 73,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 74,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 75,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 76,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 77,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 78,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 79,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 80,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 81,
+      "name": "Mikhail Strovsky (PhD)",
+      "value": 1,
+      "move": -6
+    },
+    {
+      "rank": 82,
       "name": "Арина Белова",
       "value": 1,
       "move": null
@@ -494,7 +500,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 162
+      "value": 163
     },
     {
       "rank": 2,
@@ -746,12 +752,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 53
+      "value": 47
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 3,
@@ -810,42 +816,42 @@
     },
     {
       "rank": 14,
-      "name": "Olga Goncharova",
-      "value": 6
-    },
-    {
-      "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Капибара",
+      "value": 3
+    },
+    {
+      "rank": 21,
+      "name": "Olga Goncharova",
       "value": 3
     },
     {
