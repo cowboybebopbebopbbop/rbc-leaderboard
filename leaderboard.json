@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:52:40+00:00",
+  "updated": "2026-07-24T21:52:41+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 913,
+      "value": 914,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": "Charlie Shefelman",
-      "value": 120,
+      "value": 122,
       "move": 0
     },
     {
@@ -522,7 +522,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 77
+      "value": 78
     },
     {
       "rank": 4,
@@ -651,62 +651,62 @@
     },
     {
       "rank": 29,
-      "name": "Алексей",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
       "rank": 30,
+      "name": "Алексей",
+      "value": 5
+    },
+    {
+      "rank": 31,
       "name": "Anatoly Radchenko",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Daniil",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 39,
-      "name": "Капибара",
-      "value": 3
-    },
-    {
       "rank": 40,
-      "name": "Charlie Shefelman",
+      "name": "Капибара",
       "value": 3
     },
     {
@@ -778,13 +778,13 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 18
+      "name": "Ольга",
+      "value": 17
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 17
+      "name": "Archie",
+      "value": 15
     },
     {
       "rank": 6,
@@ -848,52 +848,52 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 3
+      "name": "Charlie Shefelman",
+      "value": 4
     },
     {
       "rank": 19,
-      "name": "Серхио Ле'Трас",
+      "name": "Viktor",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Капибара",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 21,
-      "name": ".",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Viktor",
-      "value": 2
+      "name": "Капибара",
+      "value": 3
     },
     {
       "rank": 23,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 24,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Руслан Иванов",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "den",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Charlie Shefelman",
+      "name": "den",
       "value": 2
     },
     {
