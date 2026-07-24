@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:25:48+00:00",
+  "updated": "2026-07-24T20:25:49+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -773,18 +773,18 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
-      "value": 22
+      "name": "Olga Goncharova",
+      "value": 19
     },
     {
       "rank": 4,
-      "name": "Ольга",
-      "value": 22
+      "name": "Archie",
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 20
+      "name": "Ольга",
+      "value": 18
     },
     {
       "rank": 6,
@@ -813,32 +813,32 @@
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
-      "value": 8
-    },
-    {
-      "rank": 12,
-      "name": "ᴦоᴧод",
-      "value": 7
-    },
-    {
-      "rank": 13,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "name": "ᴦоᴧод",
+      "value": 6
+    },
+    {
+      "rank": 14,
       "name": "xxx",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 5
+    },
+    {
+      "rank": 16,
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
