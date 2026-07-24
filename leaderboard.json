@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-24T12:25:38+00:00",
-  "count": 82,
+  "updated": "2026-07-24T13:25:40+00:00",
+  "count": 83,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5643,
+      "value": 5644,
       "move": 0
     },
     {
@@ -72,13 +72,13 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 617,
+      "value": 619,
       "move": 0
     },
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 568,
+      "value": 570,
       "move": 0
     },
     {
@@ -341,156 +341,162 @@
     },
     {
       "rank": 57,
-      "name": "X888",
-      "value": 9,
-      "move": -1
+      "name": "Pike",
+      "value": 12,
+      "move": null
     },
     {
       "rank": 58,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "name": "X888",
+      "value": 9,
+      "move": -2
     },
     {
       "rank": 59,
-      "name": "xxx",
-      "value": 7,
-      "move": 2
+      "name": "Юрий",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 60,
-      "name": "Ingvar 604",
+      "name": "xxx",
       "value": 7,
-      "move": -2
+      "move": 1
     },
     {
       "rank": 61,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 62,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 63,
-      "name": "Daniil",
-      "value": 5,
-      "move": -1
+      "name": "***",
+      "value": 7,
+      "move": -3
     },
     {
       "rank": 64,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "Daniil",
+      "value": 5,
+      "move": -2
     },
     {
       "rank": 65,
+      "name": "Sila",
+      "value": 4,
+      "move": -2
+    },
+    {
+      "rank": 66,
       "name": "Капибара",
       "value": 4,
       "move": null
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "xv",
       "value": 4,
       "move": null
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "Ilya",
       "value": 3,
-      "move": -3
-    },
-    {
-      "rank": 68,
-      "name": "Samurai_1",
-      "value": 3,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 69,
+      "name": "Samurai_1",
+      "value": 3,
+      "move": -4
+    },
+    {
+      "rank": 70,
       "name": "Don Michele Corleone",
       "value": 3,
       "move": null
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 6
-    },
-    {
-      "rank": 71,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": -5
+      "move": 5
     },
     {
       "rank": 72,
+      "name": "Juli Julia",
+      "value": 2,
+      "move": -6
+    },
+    {
+      "rank": 73,
       "name": "A.",
       "value": 2,
       "move": null
     },
     {
-      "rank": 73,
+      "rank": 74,
       "name": "⁤",
       "value": 1,
-      "move": -6
-    },
-    {
-      "rank": 74,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 75,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 76,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 77,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 78,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 79,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 80,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 81,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -6
+      "move": -7
     },
     {
       "rank": 82,
+      "name": "Mikhail Strovsky (PhD)",
+      "value": 1,
+      "move": -7
+    },
+    {
+      "rank": 83,
       "name": "Арина Белова",
       "value": 1,
       "move": null
@@ -505,7 +511,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 146
+      "value": 147
     },
     {
       "rank": 3,
@@ -515,7 +521,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 61
+      "value": 63
     },
     {
       "rank": 5,
@@ -549,18 +555,18 @@
     },
     {
       "rank": 11,
+      "name": "Князь Владимир С",
+      "value": 24
+    },
+    {
+      "rank": 12,
       "name": "Vitaliy",
       "value": 23
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "AstronaVt",
       "value": 23
-    },
-    {
-      "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 22
     },
     {
       "rank": 14,
@@ -757,7 +763,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 3,
@@ -771,12 +777,12 @@
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 15
+      "name": "Olga Goncharova",
+      "value": 17
     },
     {
       "rank": 6,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 15
     },
     {
@@ -791,12 +797,12 @@
     },
     {
       "rank": 9,
-      "name": "Andrey Tugarin",
-      "value": 9
+      "name": "Князь Владимир С",
+      "value": 11
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "Andrey Tugarin",
       "value": 9
     },
     {
@@ -836,22 +842,22 @@
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Капибара",
+      "value": 3
+    },
+    {
+      "rank": 21,
+      "name": ".",
       "value": 3
     },
     {
