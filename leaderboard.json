@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T15:25:42+00:00",
+  "updated": "2026-07-24T16:25:43+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3955,
+      "value": 3956,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 620,
+      "value": 621,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "iDiklonius",
-      "value": 456,
+      "value": 457,
       "move": 0
     },
     {
@@ -180,7 +180,7 @@
     {
       "rank": 30,
       "name": "Andrey Tugarin",
-      "value": 123,
+      "value": 124,
       "move": 0
     },
     {
@@ -512,7 +512,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 163
+      "value": 164
     },
     {
       "rank": 2,
@@ -562,7 +562,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 12,
@@ -601,13 +601,13 @@
     },
     {
       "rank": 19,
-      "name": "🤗",
+      "name": "Andrey Tugarin",
       "value": 10
     },
     {
       "rank": 20,
-      "name": "Andrey Tugarin",
-      "value": 9
+      "name": "🤗",
+      "value": 10
     },
     {
       "rank": 21,
@@ -671,32 +671,32 @@
     },
     {
       "rank": 33,
-      "name": "Eugene",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 34,
-      "name": "Daniil",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 35,
+      "name": "Daniil",
+      "value": 4
+    },
+    {
+      "rank": 36,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 37,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 38,
-      "name": "iDiklonius",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
@@ -764,7 +764,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -804,12 +804,12 @@
     {
       "rank": 9,
       "name": "Князь Владимир С",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 10,
       "name": "Andrey Tugarin",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 11,
@@ -913,21 +913,26 @@
     },
     {
       "rank": 31,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "I",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "Толян",
       "value": 1
     }
