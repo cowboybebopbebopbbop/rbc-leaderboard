@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T16:25:43+00:00",
+  "updated": "2026-07-24T17:25:45+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -173,20 +173,20 @@
     },
     {
       "rank": 29,
-      "name": ".",
-      "value": 124,
-      "move": 0
+      "name": "Andrey Tugarin",
+      "value": 125,
+      "move": 1
     },
     {
       "rank": 30,
-      "name": "Andrey Tugarin",
+      "name": ".",
       "value": 124,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 31,
       "name": "Charlie Shefelman",
-      "value": 119,
+      "value": 120,
       "move": 0
     },
     {
@@ -602,7 +602,7 @@
     {
       "rank": 19,
       "name": "Andrey Tugarin",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 20,
@@ -706,22 +706,22 @@
     },
     {
       "rank": 40,
-      "name": "Толян",
+      "name": "Charlie Shefelman",
       "value": 3
     },
     {
       "rank": 41,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 42,
       "name": "Sergei IVANOV",
       "value": 2
     },
     {
-      "rank": 42,
-      "name": "den",
-      "value": 2
-    },
-    {
       "rank": 43,
-      "name": "Charlie Shefelman",
+      "name": "den",
       "value": 2
     },
     {
@@ -764,12 +764,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 3,
@@ -809,7 +809,7 @@
     {
       "rank": 10,
       "name": "Andrey Tugarin",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 11,
@@ -893,32 +893,32 @@
     },
     {
       "rank": 27,
-      "name": "Daniil",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "byk0t!?",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 29,
+      "name": "byk0t!?",
+      "value": 2
+    },
+    {
+      "rank": 30,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "iDiklonius",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
