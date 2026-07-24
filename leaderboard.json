@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:25:47+00:00",
+  "updated": "2026-07-24T19:25:48+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -788,23 +788,23 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 15
-    },
-    {
-      "rank": 7,
       "name": "Zero-sum Gamer",
       "value": 14
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Князь Владимир С",
       "value": 13
+    },
+    {
+      "rank": 9,
+      "name": "a l",
+      "value": 11
     },
     {
       "rank": 10,
