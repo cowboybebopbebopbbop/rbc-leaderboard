@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-24T10:25:35+00:00",
+  "updated": "2026-07-24T11:25:37+00:00",
   "count": 82,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5642,
+      "value": 5643,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1751,
+      "value": 1752,
       "move": 0
     },
     {
@@ -505,7 +505,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 145
+      "value": 146
     },
     {
       "rank": 3,
@@ -515,7 +515,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 5,
@@ -752,12 +752,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 3,
@@ -767,46 +767,46 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 18
-    },
-    {
-      "rank": 6,
       "name": "a l",
       "value": 15
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 12
     },
     {
-      "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 10
+      "rank": 7,
+      "name": "Zero-sum Gamer",
+      "value": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Andrey Tugarin",
       "value": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Синдбад Мореход",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
+      "value": 6
+    },
+    {
+      "rank": 12,
+      "name": "ᴦоᴧод",
       "value": 6
     },
     {
