@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:25:40+00:00",
+  "updated": "2026-07-24T14:25:42+00:00",
   "count": 83,
   "has_movement": true,
   "all": [
@@ -47,15 +47,15 @@
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 790,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 788,
-      "move": -1
+      "name": "Синдбад Мореход",
+      "value": 790,
+      "move": 0
     },
     {
       "rank": 10,
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 570,
+      "value": 573,
       "move": 0
     },
     {
@@ -221,21 +221,21 @@
     },
     {
       "rank": 37,
-      "name": "terminal lucidity",
-      "value": 69,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 70,
+      "move": 3
     },
     {
       "rank": 38,
-      "name": "Серхио Ле'Трас",
-      "value": 68,
-      "move": 1
+      "name": "terminal lucidity",
+      "value": 69,
+      "move": -1
     },
     {
       "rank": 39,
-      "name": "ᴦоᴧод",
+      "name": "Серхио Ле'Трас",
       "value": 68,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 40,
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 59,
+      "value": 60,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 23,
+      "value": 24,
       "move": 6
     },
     {
@@ -521,7 +521,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 63
+      "value": 66
     },
     {
       "rank": 5,
@@ -531,7 +531,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 54
+      "value": 56
     },
     {
       "rank": 7,
@@ -546,7 +546,7 @@
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 33
+      "value": 35
     },
     {
       "rank": 10,
@@ -555,13 +555,13 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 24
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 23
+      "name": "Князь Владимир С",
+      "value": 24
     },
     {
       "rank": 13,
@@ -580,17 +580,17 @@
     },
     {
       "rank": 16,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 13
+    },
+    {
+      "rank": 17,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 12
     },
     {
-      "rank": 17,
-      "name": "Manis Love",
-      "value": 12
-    },
-    {
       "rank": 18,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Manis Love",
       "value": 12
     },
     {
@@ -758,7 +758,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
@@ -778,7 +778,7 @@
     {
       "rank": 5,
       "name": "Olga Goncharova",
-      "value": 17
+      "value": 20
     },
     {
       "rank": 6,
@@ -787,13 +787,13 @@
     },
     {
       "rank": 7,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 12
+      "name": "Zero-sum Gamer",
+      "value": 14
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 12
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 13
     },
     {
       "rank": 9,
@@ -812,27 +812,27 @@
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 6
+      "name": "ᴦоᴧод",
+      "value": 8
     },
     {
       "rank": 13,
-      "name": "ᴦоᴧод",
+      "name": "Vitaliy",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "xxx",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 6
     },
     {
       "rank": 15,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
+      "name": "xxx",
+      "value": 6
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
