@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-24T07:25:32+00:00",
+  "updated": "2026-07-24T08:25:33+00:00",
   "count": 81,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5640,
+      "value": 5642,
       "move": 0
     },
     {
@@ -425,67 +425,67 @@
     },
     {
       "rank": 71,
-      "name": "⁤",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 72,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 73,
-      "name": "Solomon Fridman",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 74,
-      "name": "Darya",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 75,
-      "name": "Alex",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 76,
-      "name": "F. Yashin",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 77,
-      "name": "Александр",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 78,
-      "name": "Артём",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 79,
-      "name": "Mikhail Strovsky (PhD)",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 80,
-      "name": "Арина Белова",
-      "value": 1,
+      "name": "A.",
+      "value": 2,
       "move": null
     },
     {
+      "rank": 72,
+      "name": "⁤",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 73,
+      "name": "Андрей Грубий",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 74,
+      "name": "Solomon Fridman",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 75,
+      "name": "Darya",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 76,
+      "name": "Alex",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 77,
+      "name": "F. Yashin",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 78,
+      "name": "Александр",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 79,
+      "name": "Артём",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 80,
+      "name": "Mikhail Strovsky (PhD)",
+      "value": 1,
+      "move": -5
+    },
+    {
       "rank": 81,
-      "name": "A.",
+      "name": "Арина Белова",
       "value": 1,
       "move": null
     }
@@ -499,7 +499,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 143
+      "value": 145
     },
     {
       "rank": 3,
@@ -738,7 +738,7 @@
     },
     {
       "rank": 50,
-      "name": "Samurai_1",
+      "name": "A.",
       "value": 1
     }
   ],
@@ -751,7 +751,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 42
     },
     {
       "rank": 3,
@@ -780,27 +780,27 @@
     },
     {
       "rank": 8,
-      "name": "Olga Goncharova",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "ᴦоᴧод",
       "value": 10
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Andrey Tugarin",
       "value": 9
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Синдбад Мореход",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Князь Владимир С",
+      "value": 7
+    },
+    {
+      "rank": 12,
+      "name": "Olga Goncharova",
       "value": 7
     },
     {
@@ -885,26 +885,31 @@
     },
     {
       "rank": 29,
-      "name": "Aся",
+      "name": "A.",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Charlie Shefelman",
+      "name": "Aся",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Толян",
       "value": 1
     }
