@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T10:49:48+00:00",
+  "updated": "2026-07-25T11:49:49+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -763,12 +763,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "name": "Igor",
+      "value": 39
     },
     {
       "rank": 2,
-      "name": "Igor",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 39
     },
     {
@@ -848,53 +848,53 @@
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
-      "rank": 19,
-      "name": "Viktor",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "name": "Синдбад Мореход",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Viktor",
+      "value": 1
     },
     {
       "rank": 28,
