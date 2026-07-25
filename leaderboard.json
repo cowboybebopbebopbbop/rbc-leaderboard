@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:49:47+00:00",
+  "updated": "2026-07-25T10:49:48+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1752,
+      "value": 1753,
       "move": 0
     },
     {
@@ -532,7 +532,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 6,
@@ -764,7 +764,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 2,
@@ -779,7 +779,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 5,
@@ -868,32 +868,32 @@
     },
     {
       "rank": 22,
-      "name": ".",
-      "value": 3
-    },
-    {
-      "rank": 23,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "wavesscalper | скальпер по волнам",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": ".",
       "value": 2
     },
     {
