@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-25T05:52:48+00:00",
+  "updated": "2026-07-25T06:52:49+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5646,
+      "value": 5647,
       "move": 0
     },
     {
@@ -517,7 +517,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 149
+      "value": 150
     },
     {
       "rank": 3,
@@ -763,12 +763,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 40
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 41
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 40
     },
     {
@@ -779,7 +779,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -878,56 +878,51 @@
     },
     {
       "rank": 24,
-      "name": "Sergei IVANOV",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "name": "DenisNazarov",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Толян",
       "value": 1
     }
