@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T22:49:56+00:00",
-  "count": 86,
+  "updated": "2026-07-25T23:49:57+00:00",
+  "count": 87,
   "has_movement": true,
   "all": [
     {
@@ -449,72 +449,78 @@
     },
     {
       "rank": 75,
-      "name": "⁤",
-      "value": 1,
-      "move": -5
+      "name": "ШКИПЕР #MCS",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 76,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 77,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 78,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 79,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 80,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 81,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 82,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 83,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 84,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 85,
+      "name": "Арина Белова",
+      "value": 1,
+      "move": -6
+    },
+    {
+      "rank": 86,
       "name": "A M",
       "value": 1,
       "move": null
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "Аslan Beispekov",
       "value": 1,
       "move": null
