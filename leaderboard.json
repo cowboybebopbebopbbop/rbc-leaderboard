@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T13:49:50+00:00",
-  "count": 84,
+  "updated": "2026-07-25T14:49:51+00:00",
+  "count": 85,
   "has_movement": true,
   "all": [
     {
@@ -504,6 +504,12 @@
     {
       "rank": 84,
       "name": "A M",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 85,
+      "name": "Аslan Beispekov",
       "value": 1,
       "move": null
     }
