@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T04:52:47+00:00",
+  "updated": "2026-07-25T05:52:48+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -774,7 +774,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -893,46 +893,41 @@
     },
     {
       "rank": 27,
-      "name": "Руслан Иванов",
-      "value": 2
-    },
-    {
-      "rank": 28,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Толян",
       "value": 1
     }
