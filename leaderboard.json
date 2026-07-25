@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T11:49:49+00:00",
+  "updated": "2026-07-25T12:49:50+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -161,8 +161,8 @@
     },
     {
       "rank": 27,
-      "name": "ᅠ",
-      "value": 140,
+      "name": "-",
+      "value": 141,
       "move": 0
     },
     {
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 30,
+      "value": 31,
       "move": 0
     },
     {
@@ -577,7 +577,7 @@
     {
       "rank": 14,
       "name": "ᅠ",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 15,
@@ -651,27 +651,27 @@
     },
     {
       "rank": 29,
-      "name": "Charlie Shefelman",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
       "rank": 30,
-      "name": "Алексей",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
       "rank": 31,
+      "name": "Алексей",
+      "value": 5
+    },
+    {
+      "rank": 32,
       "name": "Anatoly Radchenko",
       "value": 4
     },
     {
-      "rank": 32,
-      "name": "Константин",
-      "value": 4
-    },
-    {
       "rank": 33,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Константин",
       "value": 4
     },
     {
@@ -834,7 +834,7 @@
     {
       "rank": 15,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 16,
@@ -908,21 +908,26 @@
     },
     {
       "rank": 30,
-      "name": "iDiklonius",
+      "name": "-",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "I",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "I",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Толян",
       "value": 1
     }
