@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T00:54:21+00:00",
+  "updated": "2026-07-25T01:52:45+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
@@ -245,15 +245,15 @@
     },
     {
       "rank": 41,
-      "name": "Алексей",
-      "value": 60,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 61,
+      "move": 1
     },
     {
       "rank": 42,
-      "name": "Vitaliy",
+      "name": "Алексей",
       "value": 60,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 43,
@@ -567,7 +567,7 @@
     {
       "rank": 12,
       "name": "Vitaliy",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 13,
@@ -814,7 +814,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 12,
