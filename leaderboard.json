@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-25T01:52:45+00:00",
+  "updated": "2026-07-25T02:52:46+00:00",
   "count": 84,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5645,
+      "value": 5646,
       "move": 0
     },
     {
@@ -389,15 +389,15 @@
     },
     {
       "rank": 65,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "Капибара",
+      "value": 5,
+      "move": 0
     },
     {
       "rank": 66,
-      "name": "Капибара",
+      "name": "Sila",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 67,
@@ -419,27 +419,27 @@
     },
     {
       "rank": 70,
+      "name": "A.",
+      "value": 3,
+      "move": 10
+    },
+    {
+      "rank": 71,
       "name": "Don Michele Corleone",
       "value": 3,
       "move": null
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
-    },
-    {
-      "rank": 72,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 73,
-      "name": "A.",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 7
+      "move": -4
     },
     {
       "rank": 74,
@@ -517,7 +517,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 148
+      "value": 149
     },
     {
       "rank": 3,
@@ -686,27 +686,27 @@
     },
     {
       "rank": 36,
-      "name": "Daniil",
+      "name": "Капибара",
       "value": 4
     },
     {
       "rank": 37,
+      "name": "Daniil",
+      "value": 4
+    },
+    {
+      "rank": 38,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 40,
-      "name": "Капибара",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
@@ -721,42 +721,42 @@
     },
     {
       "rank": 43,
-      "name": "den",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "X888",
+      "name": "den",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "Ingvar 604",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 46,
-      "name": "byk0t!?",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "vpidelks",
+      "name": "byk0t!?",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "Max",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "Artem Khomenko",
-      "value": 1
+      "name": "Max",
+      "value": 2
     },
     {
       "rank": 50,
-      "name": "A.",
+      "name": "Artem Khomenko",
       "value": 1
     }
   ],
@@ -769,7 +769,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 3,
@@ -843,32 +843,32 @@
     },
     {
       "rank": 17,
-      "name": "Charlie Shefelman",
+      "name": "Капибара",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "Charlie Shefelman",
       "value": 4
     },
     {
       "rank": 19,
+      "name": "Синдбад Мореход",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 22,
-      "name": "Капибара",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
@@ -883,33 +883,33 @@
     },
     {
       "rank": 25,
-      "name": "DenisNazarov",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Руслан Иванов",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "den",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Daniil",
+      "name": "den",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "byk0t!?",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "A.",
-      "value": 1
+      "name": "byk0t!?",
+      "value": 2
     },
     {
       "rank": 31,
