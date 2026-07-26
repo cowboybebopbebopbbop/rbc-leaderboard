@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T10:50:09+00:00",
+  "updated": "2026-07-26T11:50:10+00:00",
   "count": 87,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3958,
+      "value": 3959,
       "move": 0
     },
     {
@@ -138,7 +138,7 @@
     {
       "rank": 23,
       "name": "DenisNazarov",
-      "value": 191,
+      "value": 192,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "Sergei IVANOV",
-      "value": 48,
+      "value": 49,
       "move": -1
     },
     {
@@ -530,7 +530,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 166
+      "value": 167
     },
     {
       "rank": 2,
@@ -679,22 +679,22 @@
     },
     {
       "rank": 31,
-      "name": "Алексей",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
       "rank": 32,
+      "name": "Алексей",
+      "value": 5
+    },
+    {
+      "rank": 33,
       "name": "Anatoly Radchenko",
       "value": 4
     },
     {
-      "rank": 33,
-      "name": "Константин",
-      "value": 4
-    },
-    {
       "rank": 34,
-      "name": "DenisNazarov",
+      "name": "Константин",
       "value": 4
     },
     {
@@ -719,28 +719,28 @@
     },
     {
       "rank": 39,
-      "name": "A.",
+      "name": "Sergei IVANOV",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "Andrey Kuimov",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 41,
-      "name": "Серхио Ле'Трас",
+      "name": "Andrey Kuimov",
       "value": 3
     },
     {
       "rank": 42,
-      "name": "Толян",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 43,
-      "name": "Sergei IVANOV",
-      "value": 2
+      "name": "Толян",
+      "value": 3
     },
     {
       "rank": 44,
@@ -782,7 +782,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
@@ -851,27 +851,27 @@
     },
     {
       "rank": 15,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Manis Love",
+      "value": 3
+    },
+    {
+      "rank": 19,
+      "name": "DenisNazarov",
       "value": 3
     },
     {
@@ -886,42 +886,42 @@
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "-",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Viktor",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Sergei IVANOV",
       "value": 1
     },
     {
