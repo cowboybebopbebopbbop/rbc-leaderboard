@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T16:50:16+00:00",
+  "updated": "2026-07-26T17:50:18+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3959,
+      "value": 3960,
       "move": 0
     },
     {
@@ -536,7 +536,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 167
+      "value": 168
     },
     {
       "rank": 2,
@@ -788,7 +788,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -907,42 +907,42 @@
     },
     {
       "rank": 25,
-      "name": "byk0t!?",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "byk0t!?",
       "value": 1
     },
     {
