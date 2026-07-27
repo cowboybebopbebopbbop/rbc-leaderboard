@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T12:50:50+00:00",
+  "updated": "2026-07-27T13:50:55+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3960,
+      "value": 3961,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "byk0t!?",
-      "value": 307,
+      "value": 308,
       "move": 0
     },
     {
@@ -536,7 +536,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 168
+      "value": 169
     },
     {
       "rank": 2,
@@ -745,27 +745,27 @@
     },
     {
       "rank": 43,
-      "name": "Толян",
+      "name": "byk0t!?",
       "value": 3
     },
     {
       "rank": 44,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 45,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 46,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 47,
-      "name": "byk0t!?",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
@@ -802,23 +802,23 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 14
-    },
-    {
-      "rank": 5,
       "name": "Ольга",
       "value": 14
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 13
+    },
+    {
+      "rank": 6,
+      "name": "Archie",
       "value": 13
     },
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 8,
@@ -902,42 +902,42 @@
     },
     {
       "rank": 24,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "byk0t!?",
       "value": 2
     },
     {
       "rank": 25,
-      "name": ".",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
       "rank": 26,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 27,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 30,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 1
-    },
-    {
       "rank": 31,
-      "name": "byk0t!?",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
