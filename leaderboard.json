@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-27T07:50:38+00:00",
+  "updated": "2026-07-27T08:50:39+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5650,
+      "value": 5651,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1754,
+      "value": 1755,
       "move": 0
     },
     {
@@ -47,15 +47,15 @@
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 790,
-      "move": 0
+      "name": "Синдбад Мореход",
+      "value": 791,
+      "move": 1
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 790,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 10,
@@ -541,7 +541,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 153
+      "value": 154
     },
     {
       "rank": 3,
@@ -556,7 +556,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 61
+      "value": 62
     },
     {
       "rank": 6,
@@ -635,17 +635,17 @@
     },
     {
       "rank": 21,
+      "name": "Синдбад Мореход",
+      "value": 10
+    },
+    {
+      "rank": 22,
       "name": "L G",
       "value": 9
     },
     {
-      "rank": 22,
-      "name": "Руслан Иванов",
-      "value": 9
-    },
-    {
       "rank": 23,
-      "name": "Синдбад Мореход",
+      "name": "Руслан Иванов",
       "value": 9
     },
     {
@@ -788,12 +788,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
@@ -808,7 +808,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -867,32 +867,32 @@
     },
     {
       "rank": 17,
+      "name": "Синдбад Мореход",
+      "value": 4
+    },
+    {
+      "rank": 18,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "-",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 22,
-      "name": "Синдбад Мореход",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
