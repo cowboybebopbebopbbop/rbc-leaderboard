@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T17:51:00+00:00",
+  "updated": "2026-07-27T18:51:00+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1004,
+      "value": 1005,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 63,
+      "value": 64,
       "move": 0
     },
     {
@@ -566,7 +566,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 8,
@@ -586,7 +586,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 12,
@@ -793,7 +793,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -807,13 +807,13 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "a l",
       "value": 12
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 11
+      "name": "Zero-sum Gamer",
+      "value": 12
     },
     {
       "rank": 7,
@@ -838,7 +838,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 12,
