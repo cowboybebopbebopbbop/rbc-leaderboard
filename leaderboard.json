@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-27T15:50:57+00:00",
+  "updated": "2026-07-27T16:50:58+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5656,
+      "value": 5657,
       "move": 0
     },
     {
@@ -541,7 +541,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 159
+      "value": 160
     },
     {
       "rank": 3,
@@ -788,12 +788,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 39
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
@@ -807,27 +807,27 @@
     },
     {
       "rank": 5,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
-    },
-    {
-      "rank": 6,
       "name": "Archie",
       "value": 13
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Zero-sum Gamer",
       "value": 12
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "a l",
       "value": 11
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Andrey Tugarin",
+      "value": 11
+    },
+    {
+      "rank": 9,
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
