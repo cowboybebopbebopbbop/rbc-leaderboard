@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-27T08:50:39+00:00",
+  "updated": "2026-07-27T09:50:41+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5651,
+      "value": 5653,
       "move": 0
     },
     {
@@ -541,7 +541,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 154
+      "value": 156
     },
     {
       "rank": 3,
@@ -788,12 +788,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 40
     },
     {
       "rank": 3,
@@ -808,7 +808,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 16
+      "value": 14
     },
     {
       "rank": 6,
@@ -902,32 +902,32 @@
     },
     {
       "rank": 24,
-      "name": "Daniil",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Daniil",
       "value": 1
     },
     {
