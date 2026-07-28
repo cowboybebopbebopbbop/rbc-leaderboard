@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-28T08:51:12+00:00",
+  "updated": "2026-07-28T09:51:13+00:00",
   "count": 89,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5659,
+      "value": 5661,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3964,
+      "value": 3966,
       "move": 0
     },
     {
@@ -542,12 +542,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 172
+      "value": 174
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 158
+      "value": 160
     },
     {
       "rank": 3,
@@ -793,12 +793,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 38
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 40
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 38
     },
     {
@@ -848,72 +848,72 @@
     },
     {
       "rank": 12,
-      "name": "Zero-sum Gamer",
-      "value": 7
-    },
-    {
-      "rank": 13,
-      "name": "xxx",
-      "value": 7
-    },
-    {
-      "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 14,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 15,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "name": "Zero-sum Gamer",
+      "value": 4
+    },
+    {
+      "rank": 17,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "-",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "wavesscalper | скальпер по волнам",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "xxx",
       "value": 2
     },
     {
