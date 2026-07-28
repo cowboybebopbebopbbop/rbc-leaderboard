@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T02:51:07+00:00",
+  "updated": "2026-07-28T03:51:08+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
@@ -897,42 +897,42 @@
     },
     {
       "rank": 23,
-      "name": "den",
-      "value": 2
-    },
-    {
-      "rank": 24,
       "name": "byk0t!?",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "den",
       "value": 1
     },
     {
