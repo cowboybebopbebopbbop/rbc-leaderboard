@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-28T10:51:14+00:00",
+  "updated": "2026-07-28T11:51:15+00:00",
   "count": 89,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5663,
+      "value": 5664,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3968,
+      "value": 3971,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 791,
+      "value": 792,
       "move": 1
     },
     {
@@ -542,12 +542,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 175
+      "value": 178
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 161
+      "value": 162
     },
     {
       "rank": 3,
@@ -631,7 +631,7 @@
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 11
     },
     {
@@ -641,7 +641,7 @@
     },
     {
       "rank": 21,
-      "name": "Синдбад Мореход",
+      "name": ".",
       "value": 10
     },
     {
@@ -794,12 +794,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 39
+      "value": 41
     },
     {
       "rank": 3,
@@ -839,7 +839,7 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 11,
@@ -858,12 +858,12 @@
     },
     {
       "rank": 14,
-      "name": "Капибара",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 5
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "Капибара",
       "value": 4
     },
     {
