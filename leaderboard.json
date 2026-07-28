@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-28T06:51:11+00:00",
+  "updated": "2026-07-28T07:51:11+00:00",
   "count": 89,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5658,
+      "value": 5659,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Axel",
-      "value": 686,
+      "value": 688,
       "move": 0
     },
     {
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "Vitaliy",
-      "value": 64,
+      "value": 65,
       "move": 0
     },
     {
@@ -547,7 +547,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 157
+      "value": 158
     },
     {
       "rank": 3,
@@ -572,7 +572,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 8,
@@ -587,7 +587,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 11,
@@ -626,12 +626,12 @@
     },
     {
       "rank": 18,
-      "name": ".",
-      "value": 12
+      "name": "Andrey Tugarin",
+      "value": 11
     },
     {
       "rank": 19,
-      "name": "Andrey Tugarin",
+      "name": ".",
       "value": 11
     },
     {
@@ -766,28 +766,28 @@
     },
     {
       "rank": 46,
-      "name": "X888",
+      "name": "Axel",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "Ingvar 604",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "vpidelks",
+      "name": "Ingvar 604",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "Max",
+      "name": "vpidelks",
       "value": 2
     },
     {
       "rank": 50,
-      "name": "Artem Khomenko",
-      "value": 1
+      "name": "Max",
+      "value": 2
     }
   ],
   "week": [
@@ -799,7 +799,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 3,
@@ -823,12 +823,12 @@
     },
     {
       "rank": 7,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Vitaliy",
       "value": 11
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
@@ -838,13 +838,13 @@
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
-      "value": 10
+      "name": "Archie",
+      "value": 9
     },
     {
       "rank": 11,
-      "name": "Archie",
-      "value": 9
+      "name": "Zero-sum Gamer",
+      "value": 8
     },
     {
       "rank": 12,
@@ -903,56 +903,61 @@
     },
     {
       "rank": 23,
-      "name": "byk0t!?",
+      "name": "Axel",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "byk0t!?",
       "value": 2
     },
     {
       "rank": 25,
-      "name": ".",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
       "rank": 26,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 27,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Толян",
       "value": 1
     }
