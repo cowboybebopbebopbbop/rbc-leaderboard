@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T03:51:08+00:00",
+  "updated": "2026-07-28T04:51:09+00:00",
   "count": 88,
   "has_movement": true,
   "all": [
@@ -793,7 +793,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 3,
@@ -838,7 +838,7 @@
     {
       "rank": 11,
       "name": "Archie",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 12,
@@ -937,21 +937,16 @@
     },
     {
       "rank": 31,
-      "name": "Daniil",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Толян",
       "value": 1
     }
