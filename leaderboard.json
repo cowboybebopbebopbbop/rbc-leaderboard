@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-28T13:51:17+00:00",
+  "updated": "2026-07-28T14:51:19+00:00",
   "count": 90,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5665,
+      "value": 5666,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3971,
+      "value": 3972,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1757,
+      "value": 1758,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1006,
+      "value": 1007,
       "move": 0
     },
     {
@@ -548,12 +548,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 178
+      "value": 179
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 163
+      "value": 164
     },
     {
       "rank": 3,
@@ -568,12 +568,12 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 64
+      "value": 65
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 7,
@@ -800,12 +800,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 3,
@@ -820,7 +820,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -845,16 +845,16 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 8
-    },
-    {
-      "rank": 11,
-      "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 6
+    },
+    {
+      "rank": 12,
+      "name": "Князь Владимир С",
       "value": 6
     },
     {
