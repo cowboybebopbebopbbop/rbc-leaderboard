@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T16:51:21+00:00",
+  "updated": "2026-07-28T17:51:23+00:00",
   "count": 90,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3973,
+      "value": 3974,
       "move": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1758,
+      "value": 1761,
       "move": 0
     },
     {
@@ -227,15 +227,15 @@
     },
     {
       "rank": 38,
-      "name": "Andrey Kuimov",
+      "name": "ᴦоᴧод",
       "value": 78,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 39,
-      "name": "ᴦоᴧод",
-      "value": 76,
-      "move": -1
+      "name": "Andrey Kuimov",
+      "value": 78,
+      "move": -2
     },
     {
       "rank": 40,
@@ -548,7 +548,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 180
+      "value": 181
     },
     {
       "rank": 2,
@@ -562,13 +562,13 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 66
+      "name": "Ольга",
+      "value": 68
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 65
+      "name": "Olga Goncharova",
+      "value": 66
     },
     {
       "rank": 6,
@@ -582,13 +582,13 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 42
+      "name": "ᴦоᴧод",
+      "value": 43
     },
     {
       "rank": 9,
-      "name": "ᴦоᴧод",
-      "value": 41
+      "name": "Archie",
+      "value": 42
     },
     {
       "rank": 10,
@@ -805,31 +805,31 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
-      "name": "Olga Goncharova",
+      "name": "Ольга",
       "value": 18
     },
     {
       "rank": 4,
-      "name": "Ольга",
-      "value": 16
+      "name": "Olga Goncharova",
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "a l",
+      "name": "ᴦоᴧод",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 11
+      "name": "a l",
+      "value": 12
     },
     {
       "rank": 7,
-      "name": "ᴦоᴧод",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 11
     },
     {
@@ -839,33 +839,33 @@
     },
     {
       "rank": 9,
-      "name": "Andrey Tugarin",
-      "value": 9
-    },
-    {
-      "rank": 10,
-      "name": "Archie",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "Синдбад Мореход",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 10,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 11,
       "name": "Князь Владимир С",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "name": "Andrey Tugarin",
+      "value": 5
+    },
+    {
+      "rank": 13,
       "name": "Charlie Shefelman",
       "value": 5
+    },
+    {
+      "rank": 14,
+      "name": "Archie",
+      "value": 4
     },
     {
       "rank": 15,
@@ -879,23 +879,23 @@
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
-      "rank": 18,
       "name": "-",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Zero-sum Gamer",
       "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Manis Love",
+      "value": 2
     },
     {
       "rank": 21,
