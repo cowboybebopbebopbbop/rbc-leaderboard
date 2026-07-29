@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-29T16:54:27+00:00",
+  "updated": "2026-07-29T17:54:28+00:00",
   "count": 91,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5673,
+      "value": 5674,
       "move": 0
     },
     {
@@ -559,7 +559,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 162
+      "value": 163
     },
     {
       "rank": 3,
@@ -588,13 +588,13 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 43
+      "name": "Archie",
+      "value": 42
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 42
+      "name": "ᴦоᴧод",
+      "value": 41
     },
     {
       "rank": 10,
@@ -806,7 +806,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -841,7 +841,7 @@
     {
       "rank": 8,
       "name": "Vitaliy",
-      "value": 10
+      "value": 8
     },
     {
       "rank": 9,
@@ -965,21 +965,16 @@
     },
     {
       "rank": 33,
-      "name": "I",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": ".",
       "value": 1
     }
