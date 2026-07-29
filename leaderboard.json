@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-29T10:54:15+00:00",
-  "count": 90,
+  "updated": "2026-07-29T11:54:17+00:00",
+  "count": 91,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5669,
+      "value": 5671,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3979,
+      "value": 3980,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1008,
+      "value": 1010,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 314,
+      "value": 315,
       "move": 0
     },
     {
@@ -542,18 +542,24 @@
       "name": "Аslan Beispekov",
       "value": 1,
       "move": -2
+    },
+    {
+      "rank": 91,
+      "name": "Виталий",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 181
+      "value": 182
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 162
+      "value": 164
     },
     {
       "rank": 3,
@@ -573,7 +579,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 56
+      "value": 58
     },
     {
       "rank": 7,
@@ -598,7 +604,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 12,
@@ -712,58 +718,58 @@
     },
     {
       "rank": 34,
-      "name": "Anatoly Radchenko",
-      "value": 4
-    },
-    {
-      "rank": 35,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Sergei IVANOV",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "byk0t!?",
       "value": 3
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Толян",
       "value": 3
+    },
+    {
+      "rank": 44,
+      "name": "Anatoly Radchenko",
+      "value": 2
     },
     {
       "rank": 45,
@@ -824,13 +830,13 @@
     },
     {
       "rank": 6,
-      "name": "a l",
-      "value": 12
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 11
     },
     {
       "rank": 7,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 11
+      "name": "a l",
+      "value": 10
     },
     {
       "rank": 8,
@@ -894,27 +900,27 @@
     },
     {
       "rank": 20,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 23,
-      "name": "byk0t!?",
-      "value": 2
-    },
-    {
       "rank": 24,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "byk0t!?",
       "value": 2
     },
     {
@@ -924,57 +930,57 @@
     },
     {
       "rank": 26,
-      "name": ".",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Толян",
+      "value": 1
+    },
+    {
+      "rank": 36,
+      "name": ".",
       "value": 1
     }
   ]
