@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:54:10+00:00",
+  "updated": "2026-07-29T09:54:14+00:00",
   "count": 90,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3976,
+      "value": 3977,
       "move": 0
     },
     {
@@ -548,12 +548,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 180
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 161
+      "value": 160
     },
     {
       "rank": 3,
@@ -578,7 +578,7 @@
     {
       "rank": 7,
       "name": "Zero-sum Gamer",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 8,
@@ -805,7 +805,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 3,
@@ -864,27 +864,27 @@
     },
     {
       "rank": 14,
-      "name": "Archie",
-      "value": 4
-    },
-    {
-      "rank": 15,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "-",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Серхио Ле'Трас",
+      "value": 3
+    },
+    {
+      "rank": 18,
+      "name": "Archie",
       "value": 3
     },
     {
