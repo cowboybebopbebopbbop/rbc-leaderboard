@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:53:58+00:00",
+  "updated": "2026-07-29T00:51:53+00:00",
   "count": 90,
   "has_movement": true,
   "all": [
@@ -49,13 +49,13 @@
       "rank": 8,
       "name": "Синдбад Мореход",
       "value": 794,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
       "value": 790,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 10,
