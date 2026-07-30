@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T09:54:49+00:00",
+  "updated": "2026-07-30T10:54:49+00:00",
   "count": 92,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3984,
+      "value": 3985,
       "move": 0
     },
     {
@@ -407,33 +407,33 @@
     },
     {
       "rank": 68,
-      "name": "Daniil",
-      "value": 6,
-      "move": 0
+      "name": "A.",
+      "value": 7,
+      "move": 3
     },
     {
       "rank": 69,
+      "name": "Daniil",
+      "value": 6,
+      "move": -1
+    },
+    {
+      "rank": 70,
       "name": "Александр Николаев",
       "value": 6,
       "move": null
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "Капибара",
       "value": 5,
-      "move": -1
-    },
-    {
-      "rank": 71,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 72,
-      "name": "A.",
+      "name": "Sila",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 73,
@@ -560,7 +560,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 182
+      "value": 183
     },
     {
       "rank": 2,
@@ -689,67 +689,67 @@
     },
     {
       "rank": 27,
-      "name": "DenisNazarov",
+      "name": "A.",
       "value": 6
     },
     {
       "rank": 28,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "DenisNazarov",
       "value": 6
     },
     {
       "rank": 29,
-      "name": "Turchyn Gennadii",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
       "rank": 30,
-      "name": "Charlie Shefelman",
+      "name": "Turchyn Gennadii",
       "value": 6
     },
     {
       "rank": 31,
-      "name": "Роман",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
       "rank": 32,
+      "name": "Роман",
+      "value": 6
+    },
+    {
+      "rank": 33,
       "name": "Daniil",
       "value": 5
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Алексей",
       "value": 5
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 38,
-      "name": "Sergei IVANOV",
-      "value": 3
-    },
-    {
       "rank": 39,
-      "name": "A.",
+      "name": "Sergei IVANOV",
       "value": 3
     },
     {
@@ -812,17 +812,17 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 3,
       "name": "Ольга",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -856,32 +856,32 @@
     },
     {
       "rank": 10,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "A.",
       "value": 6
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
       "rank": 12,
+      "name": "Синдбад Мореход",
+      "value": 6
+    },
+    {
+      "rank": 13,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
-      "rank": 14,
-      "name": "Viktor",
-      "value": 3
-    },
-    {
       "rank": 15,
-      "name": "A.",
+      "name": "Viktor",
       "value": 3
     },
     {
@@ -976,11 +976,6 @@
     },
     {
       "rank": 34,
-      "name": "Толян",
-      "value": 1
-    },
-    {
-      "rank": 35,
       "name": ".",
       "value": 1
     }
