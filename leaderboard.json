@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T16:18:04+00:00",
+  "updated": "2026-07-30T17:18:07+00:00",
   "count": 94,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "Axel",
-      "value": 688,
+      "value": 689,
       "move": 0
     },
     {
@@ -776,27 +776,27 @@
     },
     {
       "rank": 42,
-      "name": "byk0t!?",
+      "name": "Axel",
       "value": 3
     },
     {
       "rank": 43,
-      "name": "Толян",
+      "name": "byk0t!?",
       "value": 3
     },
     {
       "rank": 44,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 45,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 45,
-      "name": "den",
-      "value": 2
-    },
-    {
       "rank": 46,
-      "name": "Axel",
+      "name": "den",
       "value": 2
     },
     {
@@ -839,7 +839,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 17
+      "value": 15
     },
     {
       "rank": 5,
@@ -853,27 +853,27 @@
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 10
-    },
-    {
-      "rank": 8,
       "name": "Vitaliy",
       "value": 9
     },
     {
-      "rank": 9,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "rank": 8,
+      "name": "a l",
       "value": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Князь Владимир С",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
+      "value": 6
+    },
+    {
+      "rank": 11,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
@@ -903,7 +903,7 @@
     },
     {
       "rank": 17,
-      "name": "Серхио Ле'Трас",
+      "name": "Axel",
       "value": 3
     },
     {
@@ -928,32 +928,32 @@
     },
     {
       "rank": 22,
-      "name": "Axel",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🌸𝑽",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
