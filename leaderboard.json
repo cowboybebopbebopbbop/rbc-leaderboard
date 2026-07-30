@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-30T12:54:53+00:00",
+  "updated": "2026-07-30T13:55:07+00:00",
   "count": 93,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5675,
+      "value": 5676,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "ᴦоᴧод",
-      "value": 79,
+      "value": 80,
       "move": 0
     },
     {
@@ -571,7 +571,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 164
+      "value": 165
     },
     {
       "rank": 3,
@@ -606,7 +606,7 @@
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 10,
@@ -823,7 +823,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 3,
@@ -838,7 +838,7 @@
     {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 6,
@@ -902,17 +902,17 @@
     },
     {
       "rank": 18,
-      "name": "Archie",
-      "value": 3
-    },
-    {
-      "rank": 19,
       "name": "Zero-sum Gamer",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Andrey Tugarin",
+      "value": 2
+    },
+    {
+      "rank": 20,
+      "name": "Archie",
       "value": 2
     },
     {
@@ -927,52 +927,52 @@
     },
     {
       "rank": 23,
-      "name": "byk0t!?",
-      "value": 2
-    },
-    {
-      "rank": 24,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "xxx",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Daniil",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "byk0t!?",
       "value": 1
     },
     {
