@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T07:54:46+00:00",
+  "updated": "2026-07-30T08:54:48+00:00",
   "count": 91,
   "has_movement": true,
   "all": [
@@ -806,7 +806,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -960,21 +960,16 @@
     },
     {
       "rank": 32,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": ".",
       "value": 1
     }
