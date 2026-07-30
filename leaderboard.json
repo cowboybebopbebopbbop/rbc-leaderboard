@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T08:54:48+00:00",
-  "count": 91,
+  "updated": "2026-07-30T09:54:49+00:00",
+  "count": 92,
   "has_movement": true,
   "all": [
     {
@@ -96,13 +96,13 @@
     {
       "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 320,
+      "value": 321,
       "move": 0
     },
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 315,
+      "value": 316,
       "move": 0
     },
     {
@@ -413,138 +413,144 @@
     },
     {
       "rank": 69,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "Александр Николаев",
+      "value": 6,
+      "move": null
     },
     {
       "rank": 70,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Капибара",
+      "value": 5,
+      "move": -1
     },
     {
       "rank": 71,
-      "name": "A.",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 72,
-      "name": "xv",
+      "name": "A.",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 73,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "xv",
+      "value": 4,
+      "move": -1
     },
     {
       "rank": 74,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 75,
-      "name": "Don Michele Corleone",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 76,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 0
+      "name": "Don Michele Corleone",
+      "value": 3,
+      "move": -1
     },
     {
       "rank": 77,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 78,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 79,
-      "name": "⁤",
-      "value": 1,
-      "move": 0
+      "name": "ШКИПЕР #MCS",
+      "value": 2,
+      "move": -1
     },
     {
       "rank": 80,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 81,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 82,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 83,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 84,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 85,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 86,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 87,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 88,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Аslan Beispekov",
+      "name": "A M",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
+      "name": "Аslan Beispekov",
+      "value": 1,
+      "move": -1
+    },
+    {
+      "rank": 92,
       "name": "Виталий",
       "value": 1,
       "move": null
@@ -604,7 +610,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 12,
@@ -623,18 +629,18 @@
     },
     {
       "rank": 15,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 13
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
       "rank": 17,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 12
+      "name": "Синдбад Мореход",
+      "value": 13
     },
     {
       "rank": 18,
@@ -865,7 +871,7 @@
     },
     {
       "rank": 13,
-      "name": "Капибара",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
@@ -900,17 +906,17 @@
     },
     {
       "rank": 20,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "Andrey Tugarin",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Archie",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "Капибара",
       "value": 2
     },
     {
@@ -930,46 +936,51 @@
     },
     {
       "rank": 26,
-      "name": "Sergei IVANOV",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Manis Love",
+      "name": "Sergei IVANOV",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "den",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Daniil",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "ilya Kalashnikov",
+      "name": "Daniil",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Толян",
+      "name": "ilya Kalashnikov",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "Толян",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": ".",
       "value": 1
     }
