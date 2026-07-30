@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T17:18:07+00:00",
+  "updated": "2026-07-30T18:18:09+00:00",
   "count": 94,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1687,
+      "value": 1688,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "Turchyn Gennadii",
-      "value": 12,
+      "value": 13,
       "move": -1
     },
     {
@@ -413,15 +413,15 @@
     },
     {
       "rank": 69,
-      "name": "A.",
+      "name": "Daniil",
       "value": 7,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 70,
-      "name": "Daniil",
-      "value": 6,
-      "move": -2
+      "name": "A.",
+      "value": 7,
+      "move": 1
     },
     {
       "rank": 71,
@@ -607,7 +607,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 9,
@@ -696,27 +696,27 @@
     },
     {
       "rank": 26,
-      "name": "Anatoly Shadrin",
+      "name": "Turchyn Gennadii",
       "value": 7
     },
     {
       "rank": 27,
-      "name": "xxx",
+      "name": "Anatoly Shadrin",
       "value": 7
     },
     {
       "rank": 28,
+      "name": "xxx",
+      "value": 7
+    },
+    {
+      "rank": 29,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 29,
-      "name": "DenisNazarov",
-      "value": 6
-    },
-    {
       "rank": 30,
-      "name": "Turchyn Gennadii",
+      "name": "DenisNazarov",
       "value": 6
     },
     {
@@ -726,13 +726,13 @@
     },
     {
       "rank": 32,
-      "name": "Роман",
+      "name": "Daniil",
       "value": 6
     },
     {
       "rank": 33,
-      "name": "Daniil",
-      "value": 5
+      "name": "Роман",
+      "value": 6
     },
     {
       "rank": 34,
@@ -903,22 +903,22 @@
     },
     {
       "rank": 17,
-      "name": "Axel",
+      "name": "Archie",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "Zero-sum Gamer",
+      "name": "Axel",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "Andrey Tugarin",
-      "value": 2
+      "name": "Zero-sum Gamer",
+      "value": 3
     },
     {
       "rank": 20,
-      "name": "Archie",
+      "name": "Andrey Tugarin",
       "value": 2
     },
     {
@@ -928,66 +928,71 @@
     },
     {
       "rank": 22,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 23,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Daniil",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "byk0t!?",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "ilya Kalashnikov",
+      "name": "byk0t!?",
       "value": 1
     },
     {
       "rank": 34,
+      "name": "ilya Kalashnikov",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "xxx",
       "value": 1
     }
