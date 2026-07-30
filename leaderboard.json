@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T10:54:49+00:00",
+  "updated": "2026-07-30T11:54:51+00:00",
   "count": 92,
   "has_movement": true,
   "all": [
@@ -817,22 +817,22 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 3,
-      "name": "Ольга",
-      "value": 18
-    },
-    {
-      "rank": 4,
       "name": "Olga Goncharova",
       "value": 18
     },
     {
+      "rank": 4,
+      "name": "Ольга",
+      "value": 17
+    },
+    {
       "rank": 5,
       "name": "ᴦоᴧод",
-      "value": 14
+      "value": 12
     },
     {
       "rank": 6,
@@ -866,67 +866,67 @@
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 6
-    },
-    {
-      "rank": 13,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 14,
-      "name": "wavesscalper | скальпер по волнам",
+      "rank": 13,
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "-",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Zero-sum Gamer",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Andrey Tugarin",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Archie",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Капибара",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "byk0t!?",
+      "value": 2
+    },
+    {
+      "rank": 24,
+      "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
@@ -972,11 +972,6 @@
     {
       "rank": 33,
       "name": "ilya Kalashnikov",
-      "value": 1
-    },
-    {
-      "rank": 34,
-      "name": ".",
       "value": 1
     }
   ]
