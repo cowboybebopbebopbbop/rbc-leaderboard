@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:12:02+00:00",
+  "updated": "2026-07-31T20:12:03+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 579,
+      "value": 580,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "Manis Love",
-      "value": 168,
+      "value": 169,
       "move": 0
     },
     {
@@ -359,15 +359,15 @@
     },
     {
       "rank": 60,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -2
+      "name": "Advokat Krysanov",
+      "value": 17,
+      "move": -1
     },
     {
       "rank": 61,
-      "name": "Advokat Krysanov",
+      "name": "vpidelks",
       "value": 14,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 62,
@@ -589,7 +589,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 153
+      "value": 152
     },
     {
       "rank": 3,
@@ -599,7 +599,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 5,
@@ -658,18 +658,18 @@
     },
     {
       "rank": 16,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Manis Love",
       "value": 13
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 12
+      "name": "Синдбад Мореход",
+      "value": 13
     },
     {
       "rank": 19,
@@ -778,57 +778,57 @@
     },
     {
       "rank": 40,
-      "name": "Sergei IVANOV",
+      "name": "Advokat Krysanov",
       "value": 3
     },
     {
       "rank": 41,
-      "name": "Andrey Kuimov",
+      "name": "Sergei IVANOV",
       "value": 3
     },
     {
       "rank": 42,
-      "name": "Серхио Ле'Трас",
+      "name": "Andrey Kuimov",
       "value": 3
     },
     {
       "rank": 43,
-      "name": "byk0t!?",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 44,
-      "name": "I",
+      "name": "byk0t!?",
       "value": 3
     },
     {
       "rank": 45,
-      "name": "Толян",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 46,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 47,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 49,
-      "name": "Ingvar 604",
-      "value": 2
-    },
-    {
       "rank": 50,
-      "name": "vpidelks",
+      "name": "Ingvar 604",
       "value": 2
     }
   ],
@@ -860,17 +860,17 @@
     },
     {
       "rank": 6,
+      "name": "Olga Goncharova",
+      "value": 7
+    },
+    {
+      "rank": 7,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 7,
-      "name": "Archie",
-      "value": 6
-    },
-    {
       "rank": 8,
-      "name": "Olga Goncharova",
+      "name": "Archie",
       "value": 6
     },
     {
@@ -905,86 +905,96 @@
     },
     {
       "rank": 15,
-      "name": "Viktor",
+      "name": "Advokat Krysanov",
       "value": 3
     },
     {
       "rank": 16,
-      "name": "Charlie Shefelman",
+      "name": "Viktor",
       "value": 3
     },
     {
       "rank": 17,
+      "name": "Charlie Shefelman",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Zero-sum Gamer",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 24,
-      "name": "🌸𝑽",
-      "value": 1
-    },
-    {
       "rank": 25,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Turchyn Gennadii",
+      "name": "🌸𝑽",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Капибара",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "byk0t!?",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "ilya Kalashnikov",
+      "name": "Капибара",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Валерия Sweetandflow",
+      "name": "byk0t!?",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "ilya Kalashnikov",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "Валерия Sweetandflow",
+      "value": 1
+    },
+    {
+      "rank": 33,
       "name": "xxx",
       "value": 1
     }
