@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T06:18:24+00:00",
-  "count": 95,
+  "updated": "2026-07-31T07:18:25+00:00",
+  "count": 96,
   "has_movement": true,
   "all": [
     {
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 1764,
+      "value": 1766,
       "move": 0
     },
     {
@@ -572,6 +572,12 @@
       "name": "Лада",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 96,
+      "name": "Валерия Sweetandflow",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -593,7 +599,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 71
+      "value": 73
     },
     {
       "rank": 5,
@@ -845,7 +851,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 13
+      "value": 15
     },
     {
       "rank": 5,
@@ -964,36 +970,31 @@
     },
     {
       "rank": 28,
-      "name": "den",
-      "value": 1
-    },
-    {
-      "rank": 29,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Капибара",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "xxx",
       "value": 1
     }
