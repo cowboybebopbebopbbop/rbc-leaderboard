@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T11:19:35+00:00",
+  "updated": "2026-07-31T12:19:59+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 3987,
+      "value": 3988,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 575,
+      "value": 577,
       "move": 0
     },
     {
@@ -584,7 +584,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 185
+      "value": 186
     },
     {
       "rank": 2,
@@ -604,7 +604,7 @@
     {
       "rank": 5,
       "name": "Olga Goncharova",
-      "value": 61
+      "value": 63
     },
     {
       "rank": 6,
@@ -841,36 +841,36 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 3,
-      "name": "Olga Goncharova",
-      "value": 20
-    },
-    {
-      "rank": 4,
       "name": "Ольга",
       "value": 15
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "ᴦоᴧод",
       "value": 12
     },
     {
-      "rank": 6,
-      "name": "Vitaliy",
-      "value": 8
+      "rank": 5,
+      "name": "Olga Goncharova",
+      "value": 9
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Князь Владимир С",
       "value": 8
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "a l",
+      "value": 7
+    },
+    {
+      "rank": 8,
+      "name": "Vitaliy",
       "value": 7
     },
     {
