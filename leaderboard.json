@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:12:20+00:00",
+  "updated": "2026-08-01T13:12:23+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
@@ -881,47 +881,47 @@
     },
     {
       "rank": 9,
-      "name": "-",
-      "value": 5
-    },
-    {
-      "rank": 10,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 13,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "rank": 12,
+      "name": "-",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Viktor",
+      "value": 3
+    },
+    {
+      "rank": 17,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
