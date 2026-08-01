@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T05:12:13+00:00",
+  "updated": "2026-08-01T06:12:14+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -47,15 +47,15 @@
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 794,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 792,
-      "move": 0
+      "name": "Синдбад Мореход",
+      "value": 794,
+      "move": -1
     },
     {
       "rank": 10,
@@ -604,12 +604,12 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 64
+      "value": 63
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 7,
@@ -624,7 +624,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 10,
@@ -743,37 +743,37 @@
     },
     {
       "rank": 33,
-      "name": "Алексей",
-      "value": 6
-    },
-    {
-      "rank": 34,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Константин",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Axel",
+      "value": 4
+    },
+    {
+      "rank": 39,
+      "name": "Алексей",
       "value": 4
     },
     {
@@ -905,32 +905,32 @@
     },
     {
       "rank": 15,
+      "name": "Zero-sum Gamer",
+      "value": 4
+    },
+    {
+      "rank": 16,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "I",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "Zero-sum Gamer",
+      "name": "I",
       "value": 2
     },
     {
