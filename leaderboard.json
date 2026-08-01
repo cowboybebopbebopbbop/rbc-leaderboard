@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T21:12:32+00:00",
+  "updated": "2026-08-01T22:12:32+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
@@ -590,7 +590,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 173
+      "value": 172
     },
     {
       "rank": 2,
@@ -640,7 +640,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 29
+      "value": 28
     },
     {
       "rank": 12,
