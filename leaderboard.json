@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T06:12:14+00:00",
+  "updated": "2026-08-01T07:12:15+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 794,
+      "value": 795,
       "move": 1
     },
     {
@@ -584,7 +584,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 178
     },
     {
       "rank": 2,
@@ -624,7 +624,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 10,
@@ -836,7 +836,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 2,
@@ -880,32 +880,32 @@
     },
     {
       "rank": 10,
+      "name": "Zero-sum Gamer",
+      "value": 5
+    },
+    {
+      "rank": 11,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
       "rank": 15,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
