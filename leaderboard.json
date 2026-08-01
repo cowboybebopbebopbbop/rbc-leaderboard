@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:12:31+00:00",
+  "updated": "2026-08-01T21:12:32+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
@@ -739,12 +739,12 @@
     },
     {
       "rank": 31,
-      "name": "Роман",
-      "value": 6
+      "name": "Руслан Иванов",
+      "value": 5
     },
     {
       "rank": 32,
-      "name": "Руслан Иванов",
+      "name": "Роман",
       "value": 5
     },
     {
@@ -779,32 +779,32 @@
     },
     {
       "rank": 39,
-      "name": "Алексей",
-      "value": 4
-    },
-    {
-      "rank": 40,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Sergei IVANOV",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Andrey Kuimov",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "byk0t!?",
+      "value": 3
+    },
+    {
+      "rank": 44,
+      "name": "Алексей",
       "value": 3
     },
     {
