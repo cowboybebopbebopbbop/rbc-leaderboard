@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-01T19:12:28+00:00",
+  "updated": "2026-08-01T20:12:31+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5689,
+      "value": 5690,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Синдбад Мореход",
-      "value": 794,
+      "value": 795,
       "move": -1
     },
     {
@@ -595,7 +595,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 148
+      "value": 149
     },
     {
       "rank": 3,
@@ -659,17 +659,17 @@
     },
     {
       "rank": 15,
+      "name": "Синдбад Мореход",
+      "value": 14
+    },
+    {
+      "rank": 16,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 13
     },
     {
-      "rank": 16,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
-    },
-    {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
@@ -842,7 +842,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -886,8 +886,8 @@
     },
     {
       "rank": 10,
-      "name": "A.",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 5
     },
     {
       "rank": 11,
@@ -906,17 +906,17 @@
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
-      "rank": 15,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Viktor",
+      "value": 3
+    },
+    {
+      "rank": 16,
+      "name": "A.",
       "value": 3
     },
     {
@@ -976,26 +976,21 @@
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 29,
       "name": "byk0t!?",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Валерия Sweetandflow",
       "value": 1
     }
