@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T01:12:08+00:00",
+  "updated": "2026-08-01T02:12:10+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -649,7 +649,7 @@
     {
       "rank": 14,
       "name": "AstronaVt",
-      "value": 21
+      "value": 15
     },
     {
       "rank": 15,
@@ -678,12 +678,12 @@
     },
     {
       "rank": 20,
-      "name": "🤗",
-      "value": 10
+      "name": "L G",
+      "value": 9
     },
     {
       "rank": 21,
-      "name": "L G",
+      "name": "🤗",
       "value": 9
     },
     {
@@ -870,18 +870,18 @@
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 5
-    },
-    {
-      "rank": 9,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Vitaliy",
       "value": 5
+    },
+    {
+      "rank": 10,
+      "name": "A.",
+      "value": 4
     },
     {
       "rank": 11,
