@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T08:12:17+00:00",
+  "updated": "2026-08-01T09:12:18+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 795,
+      "value": 796,
       "move": 1
     },
     {
@@ -589,7 +589,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 150
+      "value": 149
     },
     {
       "rank": 3,
@@ -644,7 +644,7 @@
     {
       "rank": 13,
       "name": "ᅠ",
-      "value": 21
+      "value": 19
     },
     {
       "rank": 14,
@@ -870,17 +870,17 @@
     },
     {
       "rank": 8,
+      "name": "Zero-sum Gamer",
+      "value": 6
+    },
+    {
+      "rank": 9,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 9,
-      "name": "Vitaliy",
-      "value": 5
-    },
-    {
       "rank": 10,
-      "name": "Zero-sum Gamer",
+      "name": "Vitaliy",
       "value": 5
     },
     {
