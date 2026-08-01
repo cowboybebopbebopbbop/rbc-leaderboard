@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:12:18+00:00",
+  "updated": "2026-08-01T11:12:19+00:00",
   "count": 96,
   "has_movement": true,
   "all": [
@@ -678,77 +678,77 @@
     },
     {
       "rank": 20,
-      "name": "L G",
-      "value": 9
-    },
-    {
-      "rank": 21,
       "name": "🤗",
       "value": 9
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": ".",
       "value": 9
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Turchyn Gennadii",
       "value": 7
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Anatoly Shadrin",
       "value": 7
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "xxx",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Daniil",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Роман",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Константин",
+      "value": 4
+    },
+    {
+      "rank": 34,
+      "name": "L G",
       "value": 4
     },
     {
@@ -851,7 +851,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
