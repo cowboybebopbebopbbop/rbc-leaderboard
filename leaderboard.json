@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T02:12:41+00:00",
+  "updated": "2026-08-02T03:12:41+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 917,
+      "value": 918,
       "move": 0
     },
     {
@@ -600,7 +600,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 81
+      "value": 82
     },
     {
       "rank": 4,
@@ -891,27 +891,27 @@
     },
     {
       "rank": 11,
-      "name": "DenisNazarov",
+      "name": "Viktor",
       "value": 4
     },
     {
       "rank": 12,
-      "name": "-",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "Axel",
+      "name": "-",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "Advokat Krysanov",
-      "value": 3
+      "name": "Axel",
+      "value": 4
     },
     {
       "rank": 15,
-      "name": "Viktor",
+      "name": "Advokat Krysanov",
       "value": 3
     },
     {
