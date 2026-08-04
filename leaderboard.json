@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T23:26:03+00:00",
+  "updated": "2026-08-04T00:24:28+00:00",
   "count": 97,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1013,
+      "value": 1019,
       "move": 0
     },
     {
@@ -251,15 +251,15 @@
     },
     {
       "rank": 42,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 67,
+      "move": 1
     },
     {
       "rank": 43,
-      "name": "Vitaliy",
+      "name": "AstronaVt",
       "value": 66,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 44,
@@ -615,7 +615,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 51
+      "value": 57
     },
     {
       "rank": 7,
@@ -635,7 +635,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 11,
@@ -851,18 +851,18 @@
     },
     {
       "rank": 3,
+      "name": "a l",
+      "value": 13
+    },
+    {
+      "rank": 4,
       "name": "Ольга",
       "value": 12
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "ᴦоᴧод",
       "value": 10
-    },
-    {
-      "rank": 5,
-      "name": "a l",
-      "value": 7
     },
     {
       "rank": 6,
@@ -906,22 +906,22 @@
     },
     {
       "rank": 14,
+      "name": "Vitaliy",
+      "value": 3
+    },
+    {
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 16,
-      "name": "-",
-      "value": 2
-    },
-    {
       "rank": 17,
-      "name": "Vitaliy",
+      "name": "-",
       "value": 2
     },
     {
