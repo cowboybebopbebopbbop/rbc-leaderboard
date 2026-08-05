@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T20:43:07+00:00",
+  "updated": "2026-08-05T21:43:09+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -652,7 +652,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 12,
@@ -826,27 +826,27 @@
     },
     {
       "rank": 46,
-      "name": "Andrey Kuimov",
-      "value": 1
-    },
-    {
-      "rank": 47,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     }
   ],
