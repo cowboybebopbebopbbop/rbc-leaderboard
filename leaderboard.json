@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-05T17:42:45+00:00",
-  "count": 98,
+  "updated": "2026-08-05T18:42:49+00:00",
+  "count": 99,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5700,
+      "value": 5701,
       "move": 0
     },
     {
@@ -590,6 +590,12 @@
       "name": "Djoni Wik",
       "value": 1,
       "move": -1
+    },
+    {
+      "rank": 99,
+      "name": "ЮРА",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -601,7 +607,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 150
+      "value": 151
     },
     {
       "rank": 3,
@@ -847,12 +853,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 26
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 27
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 26
     },
     {
@@ -863,7 +869,7 @@
     {
       "rank": 4,
       "name": "ᴦоᴧод",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 5,
