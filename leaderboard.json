@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T16:42:43+00:00",
+  "updated": "2026-08-05T17:42:45+00:00",
   "count": 98,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 711,
+      "value": 715,
       "move": 0
     },
     {
@@ -690,38 +690,38 @@
     },
     {
       "rank": 20,
+      "name": "L G",
+      "value": 8
+    },
+    {
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "xxx",
       "value": 7
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Daniil",
       "value": 6
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Charlie Shefelman",
       "value": 5
-    },
-    {
-      "rank": 26,
-      "name": "L G",
-      "value": 4
     },
     {
       "rank": 27,
@@ -847,12 +847,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "name": "Igor",
+      "value": 26
     },
     {
       "rank": 2,
-      "name": "Igor",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 26
     },
     {
@@ -887,101 +887,106 @@
     },
     {
       "rank": 9,
+      "name": "L G",
+      "value": 4
+    },
+    {
+      "rank": 10,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Ольга",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "-",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "wavesscalper | скальпер по волнам",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Валерия Sweetandflow",
       "value": 1
     }
