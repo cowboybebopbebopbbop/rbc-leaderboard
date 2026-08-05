@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T11:58:48+00:00",
+  "updated": "2026-08-05T12:58:51+00:00",
   "count": 98,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4008,
+      "value": 4009,
       "move": 0
     },
     {
@@ -596,7 +596,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 180
     },
     {
       "rank": 2,
@@ -605,23 +605,23 @@
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 83
-    },
-    {
-      "rank": 4,
       "name": "Olga Goncharova",
       "value": 57
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Ольга",
       "value": 55
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "a l",
       "value": 53
+    },
+    {
+      "rank": 6,
+      "name": "Viktor",
+      "value": 52
     },
     {
       "rank": 7,
@@ -848,12 +848,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 3,
@@ -907,47 +907,47 @@
     },
     {
       "rank": 13,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 14,
       "name": "-",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 19,
+      "name": "DenisNazarov",
+      "value": 1
+    },
+    {
+      "rank": 20,
       "name": "🌸𝑽",
+      "value": 1
+    },
+    {
+      "rank": 21,
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
