@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T10:58:47+00:00",
+  "updated": "2026-08-05T11:58:48+00:00",
   "count": 98,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4007,
+      "value": 4008,
       "move": 0
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 21,
       "name": "den",
-      "value": 285,
+      "value": 286,
       "move": 0
     },
     {
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 34,
+      "value": 35,
       "move": -1
     },
     {
@@ -596,7 +596,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 178
+      "value": 179
     },
     {
       "rank": 2,
@@ -680,12 +680,12 @@
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 8
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 9
     },
     {
       "rank": 19,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Manis Love",
       "value": 8
     },
     {
@@ -770,37 +770,37 @@
     },
     {
       "rank": 36,
-      "name": "Eugene",
+      "name": "den",
       "value": 3
     },
     {
       "rank": 37,
-      "name": "byk0t!?",
+      "name": "Eugene",
       "value": 3
     },
     {
       "rank": 38,
-      "name": "I",
+      "name": "byk0t!?",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "Толян",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 40,
+      "name": "Толян",
+      "value": 3
+    },
+    {
+      "rank": 41,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 41,
-      "name": "Andrey Kuimov",
-      "value": 2
-    },
-    {
       "rank": 42,
-      "name": "den",
+      "name": "Andrey Kuimov",
       "value": 2
     },
     {
@@ -853,12 +853,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 25
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 11
+      "value": 9
     },
     {
       "rank": 4,
@@ -902,12 +902,12 @@
     },
     {
       "rank": 12,
-      "name": "DenisNazarov",
-      "value": 2
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 3
     },
     {
       "rank": 13,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
@@ -937,22 +937,22 @@
     },
     {
       "rank": 19,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🌸𝑽",
+      "value": 1
+    },
+    {
+      "rank": 22,
+      "name": "den",
       "value": 1
     },
     {
@@ -977,6 +977,11 @@
     },
     {
       "rank": 27,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 1
+    },
+    {
+      "rank": 28,
       "name": "Валерия Sweetandflow",
       "value": 1
     }
