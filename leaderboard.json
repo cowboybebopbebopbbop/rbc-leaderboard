@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:58:51+00:00",
+  "updated": "2026-08-05T13:42:35+00:00",
   "count": 98,
   "has_movement": true,
   "all": [
@@ -601,7 +601,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 147
+      "value": 146
     },
     {
       "rank": 3,
@@ -616,7 +616,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 53
+      "value": 52
     },
     {
       "rank": 6,
@@ -800,28 +800,28 @@
     },
     {
       "rank": 42,
-      "name": "Andrey Kuimov",
-      "value": 2
-    },
-    {
-      "rank": 43,
       "name": "Turchyn Gennadii",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Max",
       "value": 2
+    },
+    {
+      "rank": 46,
+      "name": "Andrey Kuimov",
+      "value": 1
     },
     {
       "rank": 47,
@@ -853,7 +853,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 3,
@@ -887,22 +887,22 @@
     },
     {
       "rank": 9,
-      "name": "Ольга",
-      "value": 4
-    },
-    {
-      "rank": 10,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 3
+    },
+    {
+      "rank": 12,
+      "name": "Ольга",
       "value": 3
     },
     {

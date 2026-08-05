@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:58:51+00:00",
+  "updated": "2026-08-05T13:42:35+00:00",
   "contests": [
     {
       "question": "Какой будет цена BTC в среду 12 августа, 12:00 МСК. Курс фиксируется по паре BTC/USDT на Binance. Ответы принимаются до 23:59 МСК воскресенья",
@@ -15,17 +15,17 @@
         "выше $72 000"
       ],
       "votes": [
+        1,
+        3,
+        7,
+        1,
+        5,
+        3,
+        1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1
       ],
-      "total": 0,
+      "total": 22,
       "posted": "2026-08-05T11:32:48+00:00",
       "deadline": "2026-08-09T20:59:59+00:00",
       "target_time": "2026-08-12T09:00:00+00:00",
@@ -64,10 +64,25 @@
       "posted": "2026-07-29T10:05:58+00:00",
       "deadline": "2026-08-02T20:59:59+00:00",
       "target_time": "2026-08-05T09:00:00+00:00",
-      "status": "voted",
-      "winner_option": null,
-      "winner_price": null,
-      "winners": [],
+      "status": "resolved",
+      "winner_option": 4,
+      "winner_price": 64120.81,
+      "winners": [
+        "Igor Zau",
+        "Mikhail",
+        "Ник",
+        "Александр",
+        "Олег",
+        "🤗",
+        "O K",
+        "Alex Popov",
+        "den",
+        "Daina",
+        "GT",
+        "Viktor",
+        "Zero-sum Gamer",
+        "Алексей"
+      ],
       "link": "https://t.me/c/2222981283/391740",
       "source": "Binance BTCUSDT"
     },
@@ -281,30 +296,21 @@
   "board": [
     {
       "name": "🤗",
-      "wins": 2,
-      "games": 2,
+      "wins": 3,
+      "games": 3,
       "win_pct": 100,
-      "score": 0.75,
-      "streak": 2,
-      "best_streak": 2
+      "score": 0.8,
+      "streak": 3,
+      "best_streak": 3
     },
     {
       "name": "Олег",
-      "wins": 2,
-      "games": 2,
+      "wins": 3,
+      "games": 3,
       "win_pct": 100,
-      "score": 0.75,
-      "streak": 2,
-      "best_streak": 2
-    },
-    {
-      "name": "Niki ᅠ",
-      "wins": 2,
-      "games": 2,
-      "win_pct": 100,
-      "score": 0.75,
-      "streak": 2,
-      "best_streak": 2
+      "score": 0.8,
+      "streak": 3,
+      "best_streak": 3
     },
     {
       "name": "Vyacheslav Kolodiy",
@@ -323,15 +329,6 @@
       "score": 0.75,
       "streak": 2,
       "best_streak": 2
-    },
-    {
-      "name": "Juliya",
-      "wins": 3,
-      "games": 4,
-      "win_pct": 75,
-      "score": 0.6667,
-      "streak": 3,
-      "best_streak": 3
     },
     {
       "name": "xxx",
@@ -487,15 +484,6 @@
       "best_streak": 1
     },
     {
-      "name": "Света",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.6667,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "name": "Evgeniy",
       "wins": 1,
       "games": 1,
@@ -523,15 +511,6 @@
       "best_streak": 1
     },
     {
-      "name": "Vitaliy",
-      "wins": 1,
-      "games": 1,
-      "win_pct": 100,
-      "score": 0.6667,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "name": "Сергей",
       "wins": 1,
       "games": 1,
@@ -550,6 +529,42 @@
       "best_streak": 1
     },
     {
+      "name": "Igor Zau",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "O K",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "GT",
+      "wins": 1,
+      "games": 1,
+      "win_pct": 100,
+      "score": 0.6667,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "𝓐𝓽𝓵𝓪𝓷𝓽",
+      "wins": 2,
+      "games": 3,
+      "win_pct": 67,
+      "score": 0.6,
+      "streak": 0,
+      "best_streak": 2
+    },
+    {
       "name": "Юрий",
       "wins": 2,
       "games": 3,
@@ -557,6 +572,42 @@
       "score": 0.6,
       "streak": 2,
       "best_streak": 2
+    },
+    {
+      "name": "Александр",
+      "wins": 2,
+      "games": 3,
+      "win_pct": 67,
+      "score": 0.6,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "Juliya",
+      "wins": 3,
+      "games": 5,
+      "win_pct": 60,
+      "score": 0.5714,
+      "streak": 0,
+      "best_streak": 3
+    },
+    {
+      "name": "Alex Popov",
+      "wins": 3,
+      "games": 5,
+      "win_pct": 60,
+      "score": 0.5714,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "Daina",
+      "wins": 2,
+      "games": 4,
+      "win_pct": 50,
+      "score": 0.5,
+      "streak": 1,
+      "best_streak": 1
     },
     {
       "name": "Роман",
@@ -568,25 +619,16 @@
       "best_streak": 1
     },
     {
-      "name": "Alex Popov",
+      "name": "Zero-sum Gamer",
       "wins": 2,
       "games": 4,
       "win_pct": 50,
       "score": 0.5,
-      "streak": 0,
+      "streak": 1,
       "best_streak": 1
     },
     {
       "name": "Pavel Maksin",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.5,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Денис Малахов",
       "wins": 1,
       "games": 2,
       "win_pct": 50,
@@ -649,15 +691,6 @@
       "best_streak": 1
     },
     {
-      "name": "Александра",
-      "wins": 1,
-      "games": 2,
-      "win_pct": 50,
-      "score": 0.5,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
       "name": "Igor",
       "wins": 1,
       "games": 2,
@@ -694,7 +727,16 @@
       "best_streak": 1
     },
     {
-      "name": "Александр",
+      "name": "Света",
+      "wins": 1,
+      "games": 2,
+      "win_pct": 50,
+      "score": 0.5,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Vitaliy",
       "wins": 1,
       "games": 2,
       "win_pct": 50,
@@ -712,30 +754,12 @@
       "best_streak": 1
     },
     {
-      "name": "Jekago |РБК Крипто, мод.",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Daina",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Валерий",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
+      "name": "Ник",
+      "wins": 2,
+      "games": 5,
+      "win_pct": 40,
+      "score": 0.4286,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -748,7 +772,7 @@
       "best_streak": 1
     },
     {
-      "name": "Zero-sum Gamer",
+      "name": "Денис Малахов",
       "wins": 1,
       "games": 3,
       "win_pct": 33,
@@ -763,24 +787,6 @@
       "win_pct": 33,
       "score": 0.4,
       "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Екатерина Родионова",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Olga Troitskaya",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 1,
       "best_streak": 1
     },
     {
@@ -802,34 +808,7 @@
       "best_streak": 1
     },
     {
-      "name": "Archie",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Glays_father",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 0,
-      "best_streak": 1
-    },
-    {
-      "name": "Синдбад Мореход",
-      "wins": 1,
-      "games": 3,
-      "win_pct": 33,
-      "score": 0.4,
-      "streak": 1,
-      "best_streak": 1
-    },
-    {
-      "name": "Евгений",
+      "name": "Александра",
       "wins": 1,
       "games": 3,
       "win_pct": 33,
@@ -856,7 +835,16 @@
       "best_streak": 1
     },
     {
-      "name": "Сергей",
+      "name": "den",
+      "wins": 1,
+      "games": 3,
+      "win_pct": 33,
+      "score": 0.4,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "Jekago |РБК Крипто, мод.",
       "wins": 1,
       "games": 4,
       "win_pct": 25,
@@ -865,12 +853,57 @@
       "best_streak": 1
     },
     {
-      "name": "Ник",
+      "name": "Валерий",
       "wins": 1,
       "games": 4,
       "win_pct": 25,
       "score": 0.3333,
       "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Екатерина Родионова",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Olga Troitskaya",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Алексей",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "Archie",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Mikhail",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 1,
       "best_streak": 1
     },
     {
@@ -883,7 +916,34 @@
       "best_streak": 1
     },
     {
-      "name": "Оксана",
+      "name": "Viktor",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 1,
+      "best_streak": 1
+    },
+    {
+      "name": "Glays_father",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Синдбад Мореход",
+      "wins": 1,
+      "games": 4,
+      "win_pct": 25,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Евгений",
       "wins": 1,
       "games": 4,
       "win_pct": 25,
@@ -910,15 +970,6 @@
       "best_streak": 0
     },
     {
-      "name": "Rafael Zinurov",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "name": "terminal lucidity",
       "wins": 0,
       "games": 1,
@@ -929,15 +980,6 @@
     },
     {
       "name": "Ольга Владиславовна Кучеренко",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "BORIS A",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -983,15 +1025,6 @@
     },
     {
       "name": "Н@t@Y",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "K12",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -1369,15 +1402,6 @@
       "best_streak": 0
     },
     {
-      "name": "Vladimir",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "name": "Ивановский Роман",
       "wins": 0,
       "games": 1,
@@ -1621,15 +1645,6 @@
       "best_streak": 0
     },
     {
-      "name": "Alexey",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "name": "Артем",
       "wins": 0,
       "games": 1,
@@ -1676,15 +1691,6 @@
     },
     {
       "name": "Аджиев Адам",
-      "wins": 0,
-      "games": 1,
-      "win_pct": 0,
-      "score": 0.3333,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "A.",
       "wins": 0,
       "games": 1,
       "win_pct": 0,
@@ -1783,7 +1789,223 @@
       "best_streak": 0
     },
     {
-      "name": "Ирина",
+      "name": "A A",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Viy_583",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Yerke",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "zzuda",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Александр",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Vlas",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "jenya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Марк Шуманский",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "darwin",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Alexander",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Kristina Galushka",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Sergey",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "влад малов",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Aся",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Voo Olya",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Demius",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Katerina",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Павел",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Sergei Morozov",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "A",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "@Olga",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Данил",
+      "wins": 0,
+      "games": 1,
+      "win_pct": 0,
+      "score": 0.3333,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Сергей",
+      "wins": 1,
+      "games": 5,
+      "win_pct": 20,
+      "score": 0.2857,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "Оксана",
+      "wins": 1,
+      "games": 5,
+      "win_pct": 20,
+      "score": 0.2857,
+      "streak": 0,
+      "best_streak": 1
+    },
+    {
+      "name": "AK",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -1792,7 +2014,16 @@
       "best_streak": 0
     },
     {
-      "name": "AK",
+      "name": "Rafael Zinurov",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "BORIS",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -1820,6 +2051,15 @@
     },
     {
       "name": "George",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "K12",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -1882,15 +2122,6 @@
       "best_streak": 0
     },
     {
-      "name": "Николай",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.25,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
       "name": "Evgen R",
       "wins": 0,
       "games": 2,
@@ -1918,16 +2149,7 @@
       "best_streak": 0
     },
     {
-      "name": "Sergei IVANOV",
-      "wins": 0,
-      "games": 2,
-      "win_pct": 0,
-      "score": 0.25,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Vladimir",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -1954,7 +2176,7 @@
       "best_streak": 0
     },
     {
-      "name": "den",
+      "name": "Alexey",
       "wins": 0,
       "games": 2,
       "win_pct": 0,
@@ -1963,7 +2185,16 @@
       "best_streak": 0
     },
     {
-      "name": "Алексей",
+      "name": "A.",
+      "wins": 0,
+      "games": 2,
+      "win_pct": 0,
+      "score": 0.25,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Ирина",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -1972,7 +2203,7 @@
       "best_streak": 0
     },
     {
-      "name": "L G",
+      "name": "Николай",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -1981,7 +2212,7 @@
       "best_streak": 0
     },
     {
-      "name": "Mikhail",
+      "name": "Sergei IVANOV",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -1990,25 +2221,7 @@
       "best_streak": 0
     },
     {
-      "name": "Viktor",
-      "wins": 0,
-      "games": 3,
-      "win_pct": 0,
-      "score": 0.2,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "Руслан Иванов",
-      "wins": 0,
-      "games": 3,
-      "win_pct": 0,
-      "score": 0.2,
-      "streak": 0,
-      "best_streak": 0
-    },
-    {
-      "name": "Sergey",
+      "name": "Алехандро)🍅 Белов🍅",
       "wins": 0,
       "games": 3,
       "win_pct": 0,
@@ -2026,29 +2239,56 @@
       "best_streak": 0
     },
     {
-      "name": "ᴦоᴧод",
+      "name": "L G",
       "wins": 0,
       "games": 4,
       "win_pct": 0,
       "score": 0.1667,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Руслан Иванов",
+      "wins": 0,
+      "games": 4,
+      "win_pct": 0,
+      "score": 0.1667,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "Sergey",
+      "wins": 0,
+      "games": 4,
+      "win_pct": 0,
+      "score": 0.1667,
+      "streak": 0,
+      "best_streak": 0
+    },
+    {
+      "name": "ᴦоᴧод",
+      "wins": 0,
+      "games": 5,
+      "win_pct": 0,
+      "score": 0.1429,
       "streak": 0,
       "best_streak": 0
     },
     {
       "name": "Manis Love",
       "wins": 0,
-      "games": 4,
+      "games": 5,
       "win_pct": 0,
-      "score": 0.1667,
+      "score": 0.1429,
       "streak": 0,
       "best_streak": 0
     },
     {
       "name": "Ольга Волкова",
       "wins": 0,
-      "games": 4,
+      "games": 5,
       "win_pct": 0,
-      "score": 0.1667,
+      "score": 0.1429,
       "streak": 0,
       "best_streak": 0
     }
