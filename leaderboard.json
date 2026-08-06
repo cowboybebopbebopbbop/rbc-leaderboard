@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T14:09:40+00:00",
+  "updated": "2026-08-06T15:09:42+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -647,7 +647,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 11,
@@ -696,13 +696,13 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "L G",
       "value": 8
     },
     {
       "rank": 21,
-      "name": "L G",
-      "value": 8
+      "name": "Manis Love",
+      "value": 7
     },
     {
       "rank": 22,
@@ -953,41 +953,36 @@
     },
     {
       "rank": 21,
-      "name": "🌸𝑽",
-      "value": 1
-    },
-    {
-      "rank": 22,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Валерия Sweetandflow",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Max",
       "value": 1
     }
