@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T16:09:43+00:00",
+  "updated": "2026-08-06T17:09:44+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -928,37 +928,37 @@
     },
     {
       "rank": 16,
-      "name": "Axel",
-      "value": 2
-    },
-    {
-      "rank": 17,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Turchyn Gennadii",
+      "value": 1
+    },
+    {
+      "rank": 22,
+      "name": "Axel",
       "value": 1
     },
     {
