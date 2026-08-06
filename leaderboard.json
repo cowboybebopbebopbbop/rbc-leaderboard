@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T19:09:46+00:00",
+  "updated": "2026-08-06T20:09:47+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -390,7 +390,7 @@
     {
       "rank": 65,
       "name": "X888",
-      "value": 9,
+      "value": 11,
       "move": -1
     },
     {
@@ -632,7 +632,7 @@
     {
       "rank": 7,
       "name": "ᴦоᴧод",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 8,
@@ -647,7 +647,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 24
+      "value": 23
     },
     {
       "rank": 11,
@@ -656,13 +656,13 @@
     },
     {
       "rank": 12,
-      "name": "ᅠ",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 17
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 17
+      "name": "ᅠ",
+      "value": 16
     },
     {
       "rank": 14,
@@ -781,67 +781,67 @@
     },
     {
       "rank": 37,
-      "name": "byk0t!?",
+      "name": "X888",
       "value": 3
     },
     {
       "rank": 38,
-      "name": "I",
+      "name": "byk0t!?",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "Толян",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "Max",
+      "name": "Толян",
       "value": 3
     },
     {
       "rank": 41,
+      "name": "Max",
+      "value": 3
+    },
+    {
+      "rank": 42,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Eugene",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 48,
-      "name": "Turchyn Gennadii",
-      "value": 1
-    },
-    {
       "rank": 49,
-      "name": "X888",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
@@ -883,22 +883,22 @@
     },
     {
       "rank": 7,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 4
-    },
-    {
-      "rank": 8,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Viktor",
+      "value": 3
+    },
+    {
+      "rank": 10,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
@@ -923,7 +923,7 @@
     },
     {
       "rank": 15,
-      "name": "I",
+      "name": "X888",
       "value": 2
     },
     {
@@ -968,11 +968,16 @@
     },
     {
       "rank": 24,
-      "name": "Валерия Sweetandflow",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 25,
+      "name": "Валерия Sweetandflow",
+      "value": 1
+    },
+    {
+      "rank": 26,
       "name": "Max",
       "value": 1
     }
