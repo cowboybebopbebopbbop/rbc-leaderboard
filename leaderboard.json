@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:09:39+00:00",
+  "updated": "2026-08-06T14:09:40+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4014,
+      "value": 4015,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Max",
-      "value": 83,
+      "value": 84,
       "move": -1
     },
     {
@@ -395,45 +395,45 @@
     },
     {
       "rank": 66,
-      "name": "Юрий",
-      "value": 8,
-      "move": -1
+      "name": "A.",
+      "value": 9,
+      "move": 5
     },
     {
       "rank": 67,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 68,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -1
+      "name": "xxx",
+      "value": 8,
+      "move": -2
     },
     {
       "rank": 69,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 70,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 71,
-      "name": "Daniil",
+      "name": "***",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 72,
-      "name": "A.",
+      "name": "Daniil",
       "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 73,
@@ -691,28 +691,28 @@
     },
     {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 8
     },
     {
       "rank": 20,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 8
     },
     {
       "rank": 21,
+      "name": "L G",
+      "value": 8
+    },
+    {
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "xxx",
       "value": 7
-    },
-    {
-      "rank": 23,
-      "name": "A.",
-      "value": 6
     },
     {
       "rank": 24,
@@ -796,27 +796,27 @@
     },
     {
       "rank": 40,
+      "name": "Max",
+      "value": 3
+    },
+    {
+      "rank": 41,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Eugene",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 43,
-      "name": "Anatoly Shadrin",
-      "value": 2
-    },
-    {
       "rank": 44,
-      "name": "Max",
+      "name": "Anatoly Shadrin",
       "value": 2
     },
     {
@@ -854,12 +854,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 23
     },
     {
       "rank": 3,
@@ -913,72 +913,82 @@
     },
     {
       "rank": 13,
-      "name": "-",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "-",
       "value": 2
     },
     {
       "rank": 15,
-      "name": "Axel",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 16,
-      "name": "I",
+      "name": "Axel",
       "value": 2
     },
     {
       "rank": 17,
+      "name": "I",
+      "value": 2
+    },
+    {
+      "rank": 18,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Валерия Sweetandflow",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "Max",
       "value": 1
     }
   ]
