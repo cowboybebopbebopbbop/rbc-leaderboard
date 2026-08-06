@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T22:43:12+00:00",
+  "updated": "2026-08-06T11:09:37+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -602,27 +602,27 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 180
+      "value": 175
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 151
+      "value": 150
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 57
+      "value": 55
     },
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 6,
@@ -781,62 +781,62 @@
     },
     {
       "rank": 37,
-      "name": "Eugene",
-      "value": 3
-    },
-    {
-      "rank": 38,
       "name": "byk0t!?",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Толян",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 42,
-      "name": "Turchyn Gennadii",
+      "rank": 41,
+      "name": "Eugene",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Anatoly Shadrin",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Сергей",
+      "value": 1
+    },
+    {
+      "rank": 48,
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
@@ -854,12 +854,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 26
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 3,
@@ -908,91 +908,76 @@
     },
     {
       "rank": 12,
-      "name": "A.",
-      "value": 3
-    },
-    {
-      "rank": 13,
       "name": "Ольга",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "-",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Daniil",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 1
-    },
-    {
-      "rank": 29,
+      "rank": 26,
       "name": "Валерия Sweetandflow",
       "value": 1
     }
