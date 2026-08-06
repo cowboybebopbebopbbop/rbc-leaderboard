@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T12:09:38+00:00",
+  "updated": "2026-08-06T13:09:39+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4009,
+      "value": 4014,
       "move": 0
     },
     {
@@ -602,7 +602,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 173
+      "value": 176
     },
     {
       "rank": 2,
@@ -853,13 +853,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "name": "Igor",
+      "value": 29
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 24
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 26
     },
     {
       "rank": 3,
@@ -868,13 +868,13 @@
     },
     {
       "rank": 4,
-      "name": "ᴦоᴧод",
+      "name": "Olga Goncharova",
       "value": 7
     },
     {
       "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 7
+      "name": "ᴦоᴧод",
+      "value": 6
     },
     {
       "rank": 6,
@@ -883,13 +883,13 @@
     },
     {
       "rank": 7,
-      "name": "Archie",
+      "name": "Zero-sum Gamer",
       "value": 5
     },
     {
       "rank": 8,
-      "name": "Zero-sum Gamer",
-      "value": 5
+      "name": "Archie",
+      "value": 4
     },
     {
       "rank": 9,
@@ -918,32 +918,32 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 2
-    },
-    {
-      "rank": 15,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Axel",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "DenisNazarov",
+      "value": 1
+    },
+    {
+      "rank": 19,
+      "name": "Vitaliy",
       "value": 1
     },
     {
