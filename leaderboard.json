@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T21:09:48+00:00",
+  "updated": "2026-08-06T22:09:49+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -607,7 +607,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 149
+      "value": 148
     },
     {
       "rank": 3,
@@ -913,71 +913,66 @@
     },
     {
       "rank": 13,
-      "name": "-",
-      "value": 2
-    },
-    {
-      "rank": 14,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 17,
-      "name": "DenisNazarov",
+      "rank": 16,
+      "name": "-",
       "value": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Archie",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Axel",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Валерия Sweetandflow",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Max",
       "value": 1
     }
