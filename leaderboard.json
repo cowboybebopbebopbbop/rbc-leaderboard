@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T17:09:44+00:00",
+  "updated": "2026-08-06T18:09:45+00:00",
   "count": 99,
   "has_movement": true,
   "all": [
@@ -888,22 +888,22 @@
     },
     {
       "rank": 8,
-      "name": "Archie",
-      "value": 4
-    },
-    {
-      "rank": 9,
       "name": "L G",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Viktor",
+      "value": 3
+    },
+    {
+      "rank": 11,
+      "name": "Archie",
       "value": 3
     },
     {
@@ -963,26 +963,21 @@
     },
     {
       "rank": 23,
-      "name": "Daniil",
-      "value": 1
-    },
-    {
-      "rank": 24,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Валерия Sweetandflow",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
       "value": 1
     }
