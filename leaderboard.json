@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-07T15:34:12+00:00",
-  "count": 100,
+  "updated": "2026-08-07T16:34:13+00:00",
+  "count": 101,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5708,
+      "value": 5710,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4027,
+      "value": 4029,
       "move": 0
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "rank": 4,
-      "name": "Ольга",
-      "value": 1767,
+      "name": "🅾🅻🅶🅰",
+      "value": 1768,
       "move": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 626,
+      "value": 627,
       "move": 0
     },
     {
@@ -602,18 +602,24 @@
       "name": "Игорь",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 101,
+      "name": "❤️",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 175
+      "value": 177
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 145
+      "value": 147
     },
     {
       "rank": 3,
@@ -627,13 +633,13 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 55
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 54
+      "name": "Zero-sum Gamer",
+      "value": 55
     },
     {
       "rank": 7,
@@ -658,7 +664,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 12,
@@ -667,12 +673,12 @@
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 14
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 13
     },
     {
       "rank": 14,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Синдбад Мореход",
       "value": 13
     },
     {
@@ -703,7 +709,7 @@
     {
       "rank": 20,
       "name": "L G",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 21,
@@ -712,28 +718,28 @@
     },
     {
       "rank": 22,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
-      "rank": 23,
       "name": "DenisNazarov",
       "value": 6
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aся",
       "value": 6
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "iDiklonius",
       "value": 6
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Daniil",
       "value": 6
+    },
+    {
+      "rank": 26,
+      "name": "Manis Love",
+      "value": 5
     },
     {
       "rank": 27,
@@ -782,42 +788,42 @@
     },
     {
       "rank": 36,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
-      "rank": 37,
       "name": "den",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "X888",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "byk0t!?",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Толян",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Max",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Anatoly Radchenko",
+      "value": 2
+    },
+    {
+      "rank": 43,
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
@@ -860,12 +866,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 38
+      "value": 40
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 3,
@@ -894,27 +900,27 @@
     },
     {
       "rank": 8,
-      "name": "🤗",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 9,
+      "name": "🤗",
+      "value": 4
+    },
+    {
+      "rank": 10,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 11,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 3
-    },
-    {
       "rank": 12,
-      "name": "Князь Владимир С",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
@@ -954,16 +960,21 @@
     },
     {
       "rank": 20,
-      "name": "Синдбад Мореход",
+      "name": "🅾🅻🅶🅰",
       "value": 1
     },
     {
       "rank": 21,
-      "name": "Алексей",
+      "name": "Синдбад Мореход",
       "value": 1
     },
     {
       "rank": 22,
+      "name": "Алексей",
+      "value": 1
+    },
+    {
+      "rank": 23,
       "name": "Max",
       "value": 1
     }
