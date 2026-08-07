@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-07T11:34:05+00:00",
+  "updated": "2026-08-07T12:34:06+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5707,
+      "value": 5708,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4024,
+      "value": 4025,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 586,
+      "value": 590,
       "move": 0
     },
     {
@@ -608,7 +608,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 178
+      "value": 179
     },
     {
       "rank": 2,
@@ -618,7 +618,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 61
+      "value": 65
     },
     {
       "rank": 4,
@@ -702,13 +702,13 @@
     },
     {
       "rank": 20,
-      "name": "Manis Love",
+      "name": "xxx",
       "value": 7
     },
     {
       "rank": 21,
-      "name": "xxx",
-      "value": 7
+      "name": "Manis Love",
+      "value": 6
     },
     {
       "rank": 22,
@@ -865,7 +865,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 27
+      "value": 28
     },
     {
       "rank": 3,
@@ -875,7 +875,7 @@
     {
       "rank": 4,
       "name": "Olga Goncharova",
-      "value": 11
+      "value": 13
     },
     {
       "rank": 5,
