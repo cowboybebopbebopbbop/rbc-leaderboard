@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:10:00+00:00",
+  "updated": "2026-08-07T08:34:02+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4018,
+      "value": 4019,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 286,
+      "value": 290,
       "move": 0
     },
     {
@@ -608,7 +608,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 178
     },
     {
       "rank": 2,
@@ -668,7 +668,7 @@
     {
       "rank": 13,
       "name": "ᅠ",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 14,
@@ -737,122 +737,122 @@
     },
     {
       "rank": 27,
+      "name": "🤗",
+      "value": 5
+    },
+    {
+      "rank": 28,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Роман",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Sergei IVANOV",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "den",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "X888",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "byk0t!?",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Толян",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Max",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Eugene",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "🤗",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     }
   ],
@@ -865,7 +865,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 3,
@@ -884,47 +884,47 @@
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 5
-    },
-    {
-      "rank": 7,
       "name": "L G",
       "value": 4
     },
     {
+      "rank": 7,
+      "name": "🤗",
+      "value": 4
+    },
+    {
       "rank": 8,
+      "name": "Zero-sum Gamer",
+      "value": 4
+    },
+    {
+      "rank": 9,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 13,
-      "name": "Manis Love",
-      "value": 1
-    },
-    {
       "rank": 14,
-      "name": "-",
+      "name": "Manis Love",
       "value": 1
     },
     {
@@ -954,31 +954,21 @@
     },
     {
       "rank": 20,
-      "name": "Ольга",
-      "value": 1
-    },
-    {
-      "rank": 21,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "I",
-      "value": 1
-    },
-    {
-      "rank": 24,
+      "rank": 22,
       "name": "Валерия Sweetandflow",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "Max",
       "value": 1
     }
