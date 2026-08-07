@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-07T08:34:02+00:00",
+  "updated": "2026-08-07T09:34:03+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5704,
+      "value": 5705,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4019,
+      "value": 4020,
       "move": 0
     },
     {
@@ -608,12 +608,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 178
+      "value": 174
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 149
+      "value": 148
     },
     {
       "rank": 3,
@@ -643,7 +643,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 41
+      "value": 38
     },
     {
       "rank": 9,
@@ -860,12 +860,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -874,13 +874,13 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 7
+      "name": "ᴦоᴧод",
+      "value": 6
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
-      "value": 6
+      "name": "Olga Goncharova",
+      "value": 5
     },
     {
       "rank": 6,
