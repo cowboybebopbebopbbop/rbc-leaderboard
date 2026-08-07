@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:34:03+00:00",
+  "updated": "2026-08-07T10:34:04+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4020,
+      "value": 4023,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 580,
+      "value": 586,
       "move": 0
     },
     {
@@ -608,7 +608,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 174
+      "value": 177
     },
     {
       "rank": 2,
@@ -617,13 +617,13 @@
     },
     {
       "rank": 3,
-      "name": "a l",
-      "value": 58
+      "name": "Olga Goncharova",
+      "value": 61
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 55
+      "name": "a l",
+      "value": 56
     },
     {
       "rank": 5,
@@ -662,18 +662,18 @@
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 17
+      "name": "Синдбад Мореход",
+      "value": 14
     },
     {
       "rank": 13,
-      "name": "ᅠ",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 14
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
-      "value": 14
+      "name": "ᅠ",
+      "value": 13
     },
     {
       "rank": 15,
@@ -737,22 +737,22 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
-      "value": 5
-    },
-    {
-      "rank": 28,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Axel",
+      "value": 4
+    },
+    {
+      "rank": 30,
+      "name": "🤗",
       "value": 4
     },
     {
@@ -822,37 +822,37 @@
     },
     {
       "rank": 44,
-      "name": "Eugene",
-      "value": 2
-    },
-    {
-      "rank": 45,
       "name": "vpidelks",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Алексей",
       "value": 1
     }
   ],
@@ -860,7 +860,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 36
     },
     {
       "rank": 2,
@@ -874,13 +874,13 @@
     },
     {
       "rank": 4,
-      "name": "ᴦоᴧод",
-      "value": 6
+      "name": "Olga Goncharova",
+      "value": 11
     },
     {
       "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 5
+      "name": "ᴦоᴧод",
+      "value": 6
     },
     {
       "rank": 6,
