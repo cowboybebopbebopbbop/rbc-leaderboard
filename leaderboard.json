@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T04:09:56+00:00",
+  "updated": "2026-08-07T05:09:57+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
@@ -827,32 +827,32 @@
     },
     {
       "rank": 45,
-      "name": "Anatoly Shadrin",
-      "value": 2
-    },
-    {
-      "rank": 46,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "🤗",
       "value": 1
     }
   ],
