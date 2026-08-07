@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-07T18:34:15+00:00",
-  "count": 101,
+  "updated": "2026-08-07T19:34:17+00:00",
+  "count": 102,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5710,
+      "value": 5711,
       "move": 0
     },
     {
@@ -608,6 +608,12 @@
       "name": "❤️",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 102,
+      "name": "Lubo",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -619,7 +625,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 147
+      "value": 148
     },
     {
       "rank": 3,
@@ -871,7 +877,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 3,
@@ -880,13 +886,13 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 15
+      "name": "a l",
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 14
+      "name": "Olga Goncharova",
+      "value": 13
     },
     {
       "rank": 6,
@@ -945,36 +951,31 @@
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 1
-    },
-    {
-      "rank": 18,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "🅾🅻🅶🅰",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Max",
       "value": 1
     }
