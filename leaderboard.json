@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T20:34:17+00:00",
+  "updated": "2026-08-07T21:34:18+00:00",
   "count": 102,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1697,
+      "value": 1698,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 813,
+      "value": 814,
       "move": 0
     },
     {
@@ -639,12 +639,12 @@
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 55
+      "name": "Zero-sum Gamer",
+      "value": 56
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
+      "name": "Ольга",
       "value": 55
     },
     {
@@ -655,12 +655,12 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 35
+      "value": 33
     },
     {
       "rank": 10,
@@ -882,7 +882,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 4,
@@ -897,7 +897,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 7,
@@ -916,18 +916,18 @@
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 3
-    },
-    {
-      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
+    },
+    {
+      "rank": 12,
+      "name": "Viktor",
+      "value": 2
     },
     {
       "rank": 13,
