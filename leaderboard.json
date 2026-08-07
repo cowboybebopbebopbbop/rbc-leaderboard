@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:34:17+00:00",
+  "updated": "2026-08-07T20:34:17+00:00",
   "count": 102,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1696,
+      "value": 1697,
       "move": 0
     },
     {
@@ -655,7 +655,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 9,
@@ -705,7 +705,7 @@
     {
       "rank": 18,
       "name": "ᅠ",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 19,
@@ -799,37 +799,37 @@
     },
     {
       "rank": 37,
-      "name": "Роман",
-      "value": 3
-    },
-    {
-      "rank": 38,
       "name": "byk0t!?",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Толян",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Max",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Anatoly Radchenko",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Руслан Иванов",
+      "value": 2
+    },
+    {
+      "rank": 43,
+      "name": "Роман",
       "value": 2
     },
     {
@@ -892,17 +892,17 @@
     {
       "rank": 5,
       "name": "Olga Goncharova",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 6,
-      "name": "L G",
+      "name": "Archie",
       "value": 6
     },
     {
       "rank": 7,
-      "name": "Archie",
-      "value": 5
+      "name": "L G",
+      "value": 6
     },
     {
       "rank": 8,
@@ -916,66 +916,61 @@
     },
     {
       "rank": 10,
-      "name": "Advokat Krysanov",
-      "value": 3
-    },
-    {
-      "rank": 11,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "🅾🅻🅶🅰",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Max",
       "value": 1
     }
