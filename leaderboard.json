@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T16:34:13+00:00",
+  "updated": "2026-08-07T17:34:14+00:00",
   "count": 101,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 318,
+      "value": 319,
       "move": 0
     },
     {
@@ -649,7 +649,7 @@
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 43
+      "value": 40
     },
     {
       "rank": 9,
@@ -669,7 +669,7 @@
     {
       "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 13,
@@ -925,22 +925,22 @@
     },
     {
       "rank": 13,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 15,
-      "name": "X888",
-      "value": 2
-    },
-    {
       "rank": 16,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "X888",
       "value": 2
     },
     {
