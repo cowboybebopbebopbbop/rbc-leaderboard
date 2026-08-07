@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T14:34:11+00:00",
+  "updated": "2026-08-07T15:34:12+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4025,
+      "value": 4027,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 715,
+      "value": 717,
       "move": 0
     },
     {
@@ -72,13 +72,13 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 624,
+      "value": 626,
       "move": 0
     },
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 591,
+      "value": 592,
       "move": 0
     },
     {
@@ -608,7 +608,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 174
+      "value": 175
     },
     {
       "rank": 2,
@@ -618,7 +618,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 66
+      "value": 67
     },
     {
       "rank": 4,
@@ -643,7 +643,7 @@
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 9,
@@ -658,7 +658,7 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 18
+      "value": 20
     },
     {
       "rank": 12,
@@ -702,27 +702,27 @@
     },
     {
       "rank": 20,
+      "name": "L G",
+      "value": 8
+    },
+    {
+      "rank": 21,
       "name": "xxx",
       "value": 7
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 6
     },
     {
-      "rank": 23,
-      "name": "Aся",
-      "value": 6
-    },
-    {
       "rank": 24,
-      "name": "L G",
+      "name": "Aся",
       "value": 6
     },
     {
@@ -860,7 +860,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 36
+      "value": 38
     },
     {
       "rank": 2,
@@ -874,23 +874,23 @@
     },
     {
       "rank": 4,
+      "name": "Olga Goncharova",
+      "value": 15
+    },
+    {
+      "rank": 5,
       "name": "a l",
       "value": 14
     },
     {
-      "rank": 5,
-      "name": "Olga Goncharova",
-      "value": 14
-    },
-    {
       "rank": 6,
-      "name": "Archie",
-      "value": 5
+      "name": "L G",
+      "value": 6
     },
     {
       "rank": 7,
-      "name": "L G",
-      "value": 4
+      "name": "Archie",
+      "value": 5
     },
     {
       "rank": 8,
@@ -914,37 +914,37 @@
     },
     {
       "rank": 12,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 13,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "wavesscalper | скальпер по волнам",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 17,
-      "name": "Vitaliy",
-      "value": 1
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 1
     },
     {
