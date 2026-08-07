@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T13:34:09+00:00",
+  "updated": "2026-08-07T14:34:11+00:00",
   "count": 100,
   "has_movement": true,
   "all": [
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 796,
+      "value": 813,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Olga Goncharova",
-      "value": 590,
+      "value": 591,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "iDiklonius",
-      "value": 457,
+      "value": 459,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 316,
+      "value": 318,
       "move": 0
     },
     {
@@ -608,17 +608,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 176
+      "value": 174
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 148
+      "value": 145
     },
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 4,
@@ -627,27 +627,27 @@
     },
     {
       "rank": 5,
+      "name": "Zero-sum Gamer",
+      "value": 55
+    },
+    {
+      "rank": 6,
       "name": "Ольга",
       "value": 54
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Viktor",
       "value": 51
     },
     {
-      "rank": 7,
-      "name": "ᴦоᴧод",
-      "value": 45
-    },
-    {
       "rank": 8,
-      "name": "Archie",
-      "value": 38
+      "name": "ᴦоᴧод",
+      "value": 44
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "Archie",
       "value": 38
     },
     {
@@ -658,31 +658,31 @@
     {
       "rank": 11,
       "name": "Князь Владимир С",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 12,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 16
+    },
+    {
+      "rank": 13,
       "name": "Синдбад Мореход",
       "value": 14
     },
     {
-      "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 14
-    },
-    {
       "rank": 14,
-      "name": "ᅠ",
-      "value": 13
-    },
-    {
-      "rank": 15,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 12
+    },
+    {
+      "rank": 16,
+      "name": "ᅠ",
       "value": 12
     },
     {
@@ -727,18 +727,18 @@
     },
     {
       "rank": 25,
-      "name": "Daniil",
+      "name": "iDiklonius",
       "value": 6
     },
     {
       "rank": 26,
-      "name": "Charlie Shefelman",
-      "value": 5
+      "name": "Daniil",
+      "value": 6
     },
     {
       "rank": 27,
-      "name": "iDiklonius",
-      "value": 4
+      "name": "Charlie Shefelman",
+      "value": 5
     },
     {
       "rank": 28,
@@ -865,22 +865,22 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 28
+      "value": 27
     },
     {
       "rank": 3,
+      "name": "Zero-sum Gamer",
+      "value": 21
+    },
+    {
+      "rank": 4,
       "name": "a l",
       "value": 14
     },
     {
-      "rank": 4,
-      "name": "Olga Goncharova",
-      "value": 13
-    },
-    {
       "rank": 5,
-      "name": "ᴦоᴧод",
-      "value": 6
+      "name": "Olga Goncharova",
+      "value": 14
     },
     {
       "rank": 6,
@@ -899,27 +899,27 @@
     },
     {
       "rank": 9,
-      "name": "Zero-sum Gamer",
-      "value": 4
-    },
-    {
-      "rank": 10,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "A.",
+      "value": 2
+    },
+    {
+      "rank": 13,
+      "name": "iDiklonius",
       "value": 2
     },
     {
@@ -929,27 +929,27 @@
     },
     {
       "rank": 15,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 2
+    },
+    {
+      "rank": 16,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 18,
-      "name": "den",
-      "value": 1
-    },
-    {
       "rank": 19,
-      "name": "Axel",
+      "name": "den",
       "value": 1
     },
     {
@@ -964,11 +964,6 @@
     },
     {
       "rank": 22,
-      "name": "Валерия Sweetandflow",
-      "value": 1
-    },
-    {
-      "rank": 23,
       "name": "Max",
       "value": 1
     }
