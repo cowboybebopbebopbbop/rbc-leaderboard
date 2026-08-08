@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:34:40+00:00",
+  "updated": "2026-08-08T19:34:41+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 795,
+      "value": 798,
       "move": -1
     },
     {
@@ -704,22 +704,22 @@
     },
     {
       "rank": 12,
+      "name": "Синдбад Мореход",
+      "value": 16
+    },
+    {
+      "rank": 13,
       "name": "Andrey Tugarin",
       "value": 14
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "wavesscalper | скальпер по волнам",
       "value": 14
     },
     {
-      "rank": 14,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 13
-    },
-    {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
@@ -956,52 +956,52 @@
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 13,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 3
+    },
+    {
+      "rank": 14,
       "name": "Viktor",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "🅾🅻🅶🅰",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 20,
-      "name": "den",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "Синдбад Мореход",
+      "name": "den",
       "value": 1
     },
     {
