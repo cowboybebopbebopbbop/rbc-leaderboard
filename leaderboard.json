@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T07:34:28+00:00",
+  "updated": "2026-08-08T08:34:29+00:00",
   "count": 105,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "Manis Love",
-      "value": 169,
+      "value": 171,
       "move": 0
     },
     {
@@ -638,7 +638,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 177
+      "value": 176
     },
     {
       "rank": 2,
@@ -662,13 +662,13 @@
     },
     {
       "rank": 6,
-      "name": "a l",
+      "name": "Viktor",
       "value": 51
     },
     {
       "rank": 7,
-      "name": "Viktor",
-      "value": 51
+      "name": "a l",
+      "value": 50
     },
     {
       "rank": 8,
@@ -742,28 +742,28 @@
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
+      "name": "Manis Love",
       "value": 6
     },
     {
       "rank": 23,
-      "name": "Aся",
+      "name": "DenisNazarov",
       "value": 6
     },
     {
       "rank": 24,
-      "name": "iDiklonius",
+      "name": "Aся",
       "value": 6
     },
     {
       "rank": 25,
-      "name": "Daniil",
+      "name": "iDiklonius",
       "value": 6
     },
     {
       "rank": 26,
-      "name": "Manis Love",
-      "value": 5
+      "name": "Daniil",
+      "value": 6
     },
     {
       "rank": 27,
@@ -895,12 +895,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "value": 28
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
@@ -959,36 +959,41 @@
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 16,
-      "name": "🅾🅻🅶🅰",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "X888",
+      "name": "🅾🅻🅶🅰",
       "value": 2
     },
     {
       "rank": 18,
+      "name": "X888",
+      "value": 2
+    },
+    {
+      "rank": 19,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Max",
       "value": 1
     }
