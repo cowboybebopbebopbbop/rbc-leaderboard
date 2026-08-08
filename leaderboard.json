@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T04:34:26+00:00",
-  "count": 104,
+  "updated": "2026-08-08T05:34:26+00:00",
+  "count": 105,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4029,
+      "value": 4030,
       "move": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "rank": 8,
       "name": "Zero-sum Gamer",
-      "value": 814,
+      "value": 815,
       "move": 0
     },
     {
@@ -626,13 +626,19 @@
       "name": "Kirill Soppa",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 105,
+      "name": "Юлия Шапранова",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 176
+      "value": 177
     },
     {
       "rank": 2,
@@ -646,12 +652,12 @@
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 56
+      "name": "Zero-sum Gamer",
+      "value": 57
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "a l",
       "value": 56
     },
     {
@@ -884,7 +890,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 2,
@@ -894,7 +900,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 4,
