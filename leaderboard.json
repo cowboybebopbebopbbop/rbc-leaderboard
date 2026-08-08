@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T13:34:35+00:00",
+  "updated": "2026-08-08T14:34:36+00:00",
   "count": 106,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4030,
+      "value": 4031,
       "move": 0
     },
     {
@@ -644,7 +644,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 175
+      "value": 176
     },
     {
       "rank": 2,
@@ -674,7 +674,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 8,
@@ -698,12 +698,12 @@
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 15
+      "name": "Andrey Tugarin",
+      "value": 14
     },
     {
       "rank": 13,
-      "name": "Andrey Tugarin",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 14
     },
     {
@@ -896,7 +896,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
