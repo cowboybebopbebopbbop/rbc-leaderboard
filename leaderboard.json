@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T05:34:26+00:00",
+  "updated": "2026-08-08T06:34:27+00:00",
   "count": 105,
   "has_movement": true,
   "all": [
@@ -17,15 +17,15 @@
     },
     {
       "rank": 3,
-      "name": "Aся",
+      "name": "🅾🅻🅶🅰",
       "value": 1769,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 4,
-      "name": "🅾🅻🅶🅰",
-      "value": 1768,
-      "move": 0
+      "name": "Aся",
+      "value": 1769,
+      "move": -1
     },
     {
       "rank": 5,
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Andrey Tugarin",
-      "value": 125,
+      "value": 126,
       "move": 0
     },
     {
@@ -657,13 +657,13 @@
     },
     {
       "rank": 5,
-      "name": "a l",
+      "name": "Ольга",
       "value": 56
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 55
+      "name": "a l",
+      "value": 54
     },
     {
       "rank": 7,
@@ -713,7 +713,7 @@
     {
       "rank": 16,
       "name": "Andrey Tugarin",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 17,
@@ -847,37 +847,37 @@
     },
     {
       "rank": 43,
-      "name": "vpidelks",
-      "value": 2
-    },
-    {
-      "rank": 44,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Samurai_1",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Роман",
+      "value": 1
+    },
+    {
+      "rank": 49,
+      "name": "vpidelks",
       "value": 1
     },
     {
@@ -900,7 +900,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 23
+      "value": 20
     },
     {
       "rank": 4,
@@ -959,31 +959,36 @@
     },
     {
       "rank": 15,
-      "name": "X888",
+      "name": "🅾🅻🅶🅰",
       "value": 2
     },
     {
       "rank": 16,
-      "name": "Vitaliy",
-      "value": 1
+      "name": "X888",
+      "value": 2
     },
     {
       "rank": 17,
-      "name": "den",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
       "rank": 18,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 1
     },
     {
       "rank": 19,
-      "name": "Синдбад Мореход",
+      "name": "den",
       "value": 1
     },
     {
       "rank": 20,
+      "name": "Синдбад Мореход",
+      "value": 1
+    },
+    {
+      "rank": 21,
       "name": "Max",
       "value": 1
     }
