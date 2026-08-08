@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T15:34:37+00:00",
-  "count": 106,
+  "updated": "2026-08-08T16:34:38+00:00",
+  "count": 107,
   "has_movement": true,
   "all": [
     {
@@ -515,126 +515,132 @@
     },
     {
       "rank": 86,
-      "name": "⁤",
-      "value": 1,
-      "move": -2
+      "name": "Юрий",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 87,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 88,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 89,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 90,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 91,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 92,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 93,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 94,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 95,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 96,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 97,
-      "name": "Аslan Beispekov",
+      "name": "A M",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 98,
-      "name": "Виталий",
+      "name": "Аslan Beispekov",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 99,
-      "name": "Лада",
+      "name": "Виталий",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 100,
-      "name": "Djoni Wik",
+      "name": "Лада",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 101,
-      "name": "ЮРА",
+      "name": "Djoni Wik",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 102,
+      "name": "ЮРА",
+      "value": 1,
+      "move": -3
+    },
+    {
+      "rank": 103,
       "name": "Игорь",
       "value": 1,
       "move": null
     },
     {
-      "rank": 103,
+      "rank": 104,
       "name": "❤️",
       "value": 1,
       "move": null
     },
     {
-      "rank": 104,
+      "rank": 105,
       "name": "Lubo",
       "value": 1,
       "move": null
     },
     {
-      "rank": 105,
+      "rank": 106,
       "name": "Kirill Soppa",
       "value": 1,
       "move": null
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "Юлия Шапранова",
       "value": 1,
       "move": null
@@ -644,7 +650,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 176
+      "value": 172
     },
     {
       "rank": 2,
@@ -664,7 +670,7 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 6,
@@ -688,13 +694,13 @@
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
+      "name": "Князь Владимир С",
       "value": 23
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 23
+      "name": "Vitaliy",
+      "value": 22
     },
     {
       "rank": 12,
@@ -901,7 +907,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 3,
