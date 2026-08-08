@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T00:35:41+00:00",
-  "count": 102,
+  "updated": "2026-08-08T01:34:22+00:00",
+  "count": 103,
   "has_movement": true,
   "all": [
     {
@@ -614,6 +614,12 @@
       "name": "Lubo",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 103,
+      "name": "Kirill Soppa",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -966,11 +972,6 @@
     },
     {
       "rank": 20,
-      "name": "Алексей",
-      "value": 1
-    },
-    {
-      "rank": 21,
       "name": "Max",
       "value": 1
     }
