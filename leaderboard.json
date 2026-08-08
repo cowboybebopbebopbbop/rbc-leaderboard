@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-08T03:34:25+00:00",
+  "updated": "2026-08-08T04:34:26+00:00",
   "count": 104,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5711,
+      "value": 5712,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 290,
+      "value": 291,
       "move": 0
     },
     {
@@ -637,7 +637,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 148
+      "value": 149
     },
     {
       "rank": 3,
@@ -672,7 +672,7 @@
     {
       "rank": 9,
       "name": "ᴦоᴧод",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 10,
@@ -766,17 +766,17 @@
     },
     {
       "rank": 28,
+      "name": "🤗",
+      "value": 5
+    },
+    {
+      "rank": 29,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 29,
-      "name": "Axel",
-      "value": 4
-    },
-    {
       "rank": 30,
-      "name": "🤗",
+      "name": "Axel",
       "value": 4
     },
     {
@@ -889,7 +889,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
@@ -924,7 +924,7 @@
     {
       "rank": 9,
       "name": "🤗",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 10,
