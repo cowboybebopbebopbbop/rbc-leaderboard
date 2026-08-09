@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:34:48+00:00",
+  "updated": "2026-08-09T02:34:49+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1026,
+      "value": 1027,
       "move": 0
     },
     {
@@ -650,7 +650,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 171
+      "value": 170
     },
     {
       "rank": 2,
@@ -680,7 +680,7 @@
     {
       "rank": 7,
       "name": "a l",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 8,
@@ -917,7 +917,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 5,
@@ -966,33 +966,33 @@
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 2
-    },
-    {
-      "rank": 15,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "🅾🅻🅶🅰",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "X888",
       "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Viktor",
+      "value": 1
     },
     {
       "rank": 20,
