@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:34:46+00:00",
+  "updated": "2026-08-09T00:34:47+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -619,19 +619,19 @@
       "rank": 103,
       "name": "Игорь",
       "value": 1,
-      "move": null
+      "move": -3
     },
     {
       "rank": 104,
       "name": "❤️",
       "value": 1,
-      "move": null
+      "move": -3
     },
     {
       "rank": 105,
       "name": "Lubo",
       "value": 1,
-      "move": null
+      "move": -3
     },
     {
       "rank": 106,
