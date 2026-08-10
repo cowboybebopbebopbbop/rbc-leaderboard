@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T06:35:24+00:00",
+  "updated": "2026-08-10T07:35:24+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 816,
+      "value": 817,
       "move": 0
     },
     {
@@ -665,7 +665,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 5,
@@ -912,7 +912,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
