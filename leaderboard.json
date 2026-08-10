@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-10T08:35:25+00:00",
+  "updated": "2026-08-10T09:35:26+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5715,
+      "value": 5722,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Olga Goncharova",
-      "value": 594,
+      "value": 596,
       "move": 0
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "rank": 18,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 319,
+      "name": "@wavesscalper",
+      "value": 320,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "A.",
-      "value": 9,
+      "value": 10,
       "move": 0
     },
     {
@@ -655,12 +655,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 142
+      "value": 149
     },
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 63
+      "value": 65
     },
     {
       "rank": 4,
@@ -709,12 +709,12 @@
     },
     {
       "rank": 13,
-      "name": "Andrey Tugarin",
-      "value": 14
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 15
     },
     {
       "rank": 14,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Andrey Tugarin",
       "value": 14
     },
     {
@@ -734,13 +734,13 @@
     },
     {
       "rank": 18,
-      "name": "ᅠ",
+      "name": "A.",
       "value": 9
     },
     {
       "rank": 19,
-      "name": "A.",
-      "value": 8
+      "name": "ᅠ",
+      "value": 9
     },
     {
       "rank": 20,
@@ -907,7 +907,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 25
+      "value": 32
     },
     {
       "rank": 3,
@@ -922,7 +922,7 @@
     {
       "rank": 5,
       "name": "Olga Goncharova",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 6,
@@ -956,23 +956,23 @@
     },
     {
       "rank": 12,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 4
+    },
+    {
+      "rank": 13,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
       "rank": 14,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 2
+      "name": "Синдбад Мореход",
+      "value": 3
     },
     {
       "rank": 16,
