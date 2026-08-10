@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-10T16:35:36+00:00",
+  "updated": "2026-08-10T17:35:37+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5726,
+      "value": 5729,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 717,
+      "value": 718,
       "move": 0
     },
     {
@@ -655,17 +655,17 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 153
+      "value": 156
     },
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 64
+      "value": 63
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -675,7 +675,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 50
+      "value": 49
     },
     {
       "rank": 7,
@@ -704,18 +704,18 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 15
-    },
-    {
-      "rank": 13,
       "name": "wavesscalper | скальпер по волнам",
       "value": 15
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Andrey Tugarin",
       "value": 14
+    },
+    {
+      "rank": 14,
+      "name": "Viktor",
+      "value": 13
     },
     {
       "rank": 15,
@@ -744,27 +744,27 @@
     },
     {
       "rank": 20,
-      "name": "xxx",
+      "name": "L G",
       "value": 7
     },
     {
       "rank": 21,
+      "name": "xxx",
+      "value": 7
+    },
+    {
+      "rank": 22,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 6
     },
     {
-      "rank": 23,
-      "name": "Aся",
-      "value": 6
-    },
-    {
       "rank": 24,
-      "name": "L G",
+      "name": "Aся",
       "value": 6
     },
     {
@@ -907,7 +907,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 36
+      "value": 39
     },
     {
       "rank": 3,
@@ -942,7 +942,7 @@
     {
       "rank": 9,
       "name": "L G",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 10,
