@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T10:35:28+00:00",
+  "updated": "2026-08-10T11:35:28+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 630,
+      "value": 631,
       "move": 0
     },
     {
@@ -650,7 +650,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 165
+      "value": 161
     },
     {
       "rank": 2,
@@ -660,7 +660,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 65
+      "value": 64
     },
     {
       "rank": 4,
@@ -694,12 +694,12 @@
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
-      "value": 22
+      "name": "Князь Владимир С",
+      "value": 23
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 22
     },
     {
@@ -769,57 +769,57 @@
     },
     {
       "rank": 25,
-      "name": "iDiklonius",
-      "value": 6
-    },
-    {
-      "rank": 26,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Daniil",
       "value": 5
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Sergei IVANOV",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Руслан Иванов",
+      "value": 3
+    },
+    {
+      "rank": 35,
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -864,37 +864,37 @@
     },
     {
       "rank": 44,
-      "name": "Samurai_1",
-      "value": 1
-    },
-    {
-      "rank": 45,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "ilya Kalashnikov",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Валерия Sweetandflow",
       "value": 1
     }
   ],
@@ -926,12 +926,12 @@
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 7
+      "name": "Князь Владимир С",
+      "value": 8
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
+      "name": "Archie",
       "value": 7
     },
     {
