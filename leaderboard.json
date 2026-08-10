@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T15:35:32+00:00",
+  "updated": "2026-08-10T16:35:36+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -221,15 +221,15 @@
     },
     {
       "rank": 37,
-      "name": "Сергей",
-      "value": 94,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 97,
+      "move": 1
     },
     {
       "rank": 38,
-      "name": "ᴦоᴧод",
-      "value": 86,
-      "move": 0
+      "name": "Сергей",
+      "value": 94,
+      "move": -1
     },
     {
       "rank": 39,
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Серхио Ле'Трас",
-      "value": 68,
+      "value": 69,
       "move": 0
     },
     {
@@ -665,27 +665,27 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 56
     },
     {
       "rank": 5,
-      "name": "Ольга",
-      "value": 54
-    },
-    {
-      "rank": 6,
       "name": "a l",
       "value": 50
     },
     {
+      "rank": 6,
+      "name": "Ольга",
+      "value": 50
+    },
+    {
       "rank": 7,
-      "name": "Archie",
-      "value": 35
+      "name": "ᴦоᴧод",
+      "value": 39
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 28
+      "name": "Archie",
+      "value": 35
     },
     {
       "rank": 9,
@@ -699,13 +699,13 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 16
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 16
+      "name": "Viktor",
+      "value": 15
     },
     {
       "rank": 13,
@@ -784,32 +784,32 @@
     },
     {
       "rank": 28,
-      "name": "Капибара",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 29,
-      "name": "Axel",
+      "name": "Капибара",
       "value": 4
     },
     {
       "rank": 30,
-      "name": ".",
+      "name": "Axel",
       "value": 4
     },
     {
       "rank": 31,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 32,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 32,
-      "name": "Sergei IVANOV",
-      "value": 3
-    },
-    {
       "rank": 33,
-      "name": "Серхио Ле'Трас",
+      "name": "Sergei IVANOV",
       "value": 3
     },
     {
@@ -926,91 +926,101 @@
     },
     {
       "rank": 6,
+      "name": "ᴦоᴧод",
+      "value": 11
+    },
+    {
+      "rank": 7,
       "name": "Князь Владимир С",
       "value": 8
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Archie",
       "value": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "L G",
       "value": 6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "🅾🅻🅶🅰",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "wavesscalper | скальпер по волнам",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
+      "name": "Серхио Ле'Трас",
+      "value": 1
+    },
+    {
+      "rank": 24,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "Max",
       "value": 1
     }
