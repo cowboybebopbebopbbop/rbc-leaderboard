@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:35:28+00:00",
+  "updated": "2026-08-10T12:35:29+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -252,7 +252,7 @@
     {
       "rank": 42,
       "name": "terminal lucidity",
-      "value": 69,
+      "value": 71,
       "move": 0
     },
     {
@@ -859,42 +859,42 @@
     },
     {
       "rank": 43,
+      "name": "terminal lucidity",
+      "value": 2
+    },
+    {
+      "rank": 44,
       "name": "🌸𝑽",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "vpidelks",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "ilya Kalashnikov",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Валерия Sweetandflow",
+      "name": "ilya Kalashnikov",
       "value": 1
     }
   ],
@@ -981,31 +981,36 @@
     },
     {
       "rank": 17,
-      "name": "iDiklonius",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "X888",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "X888",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Max",
       "value": 1
     }
