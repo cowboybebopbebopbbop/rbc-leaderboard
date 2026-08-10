@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:35:23+00:00",
+  "updated": "2026-08-10T06:35:24+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -305,15 +305,15 @@
     },
     {
       "rank": 51,
-      "name": "Bazylev Nickolai",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 38,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 52,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 37,
-      "move": 0
+      "name": "Bazylev Nickolai",
+      "value": 38,
+      "move": -1
     },
     {
       "rank": 53,
@@ -730,7 +730,7 @@
     {
       "rank": 17,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 18,
@@ -951,12 +951,12 @@
     },
     {
       "rank": 11,
-      "name": "Andrey Tugarin",
-      "value": 3
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
     },
     {
       "rank": 12,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Andrey Tugarin",
       "value": 3
     },
     {
