@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:35:37+00:00",
+  "updated": "2026-08-10T18:35:37+00:00",
   "count": 107,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1032,
+      "value": 1036,
       "move": 0
     },
     {
@@ -660,7 +660,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 63
+      "value": 61
     },
     {
       "rank": 4,
@@ -670,7 +670,7 @@
     {
       "rank": 5,
       "name": "a l",
-      "value": 50
+      "value": 54
     },
     {
       "rank": 6,
@@ -714,17 +714,17 @@
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 13
-    },
-    {
-      "rank": 15,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 13
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 12
+    },
+    {
+      "rank": 16,
+      "name": "Viktor",
       "value": 12
     },
     {
@@ -911,13 +911,13 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 21
+      "name": "a l",
+      "value": 23
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 19
+      "name": "Zero-sum Gamer",
+      "value": 21
     },
     {
       "rank": 5,
