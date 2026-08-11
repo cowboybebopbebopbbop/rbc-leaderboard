@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T19:36:07+00:00",
+  "updated": "2026-08-11T20:36:09+00:00",
   "count": 108,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1700,
+      "value": 1701,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "ᴦоᴧод",
-      "value": 98,
+      "value": 99,
       "move": 1
     },
     {
@@ -686,12 +686,12 @@
     {
       "rank": 7,
       "name": "ᴦоᴧод",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 8,
       "name": "Archie",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 9,
@@ -933,12 +933,12 @@
     {
       "rank": 6,
       "name": "ᴦоᴧод",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 7,
       "name": "Archie",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 8,
