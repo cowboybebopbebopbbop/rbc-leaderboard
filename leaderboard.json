@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T16:36:01+00:00",
+  "updated": "2026-08-11T17:36:02+00:00",
   "count": 108,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 817,
+      "value": 818,
       "move": 0
     },
     {
@@ -676,7 +676,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 6,
@@ -735,13 +735,13 @@
     },
     {
       "rank": 17,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 11
+      "name": "A.",
+      "value": 9
     },
     {
       "rank": 18,
-      "name": "A.",
-      "value": 9
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 7
     },
     {
       "rank": 19,
@@ -918,7 +918,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 4,
