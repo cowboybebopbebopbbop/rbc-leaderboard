@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T11:36:29+00:00",
+  "updated": "2026-08-12T12:36:29+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
@@ -515,123 +515,123 @@
     },
     {
       "rank": 86,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": 0
+      "move": 19
     },
     {
       "rank": 87,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 88,
-      "name": "⁤",
-      "value": 1,
-      "move": 0
+      "name": "Юрий",
+      "value": 2,
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 92,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 93,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 94,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Аslan Beispekov",
+      "name": "A M",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Виталий",
+      "name": "Аslan Beispekov",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Лада",
+      "name": "Виталий",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "Djoni Wik",
+      "name": "Лада",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 103,
-      "name": "ЮРА",
+      "name": "Djoni Wik",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Игорь",
+      "name": "ЮРА",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
-      "name": "❤️",
+      "name": "Игорь",
       "value": 1,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 106,
@@ -662,12 +662,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 162
+      "value": 161
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 155
+      "value": 152
     },
     {
       "rank": 3,
@@ -682,7 +682,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 6,
@@ -751,18 +751,18 @@
     },
     {
       "rank": 19,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 7
-    },
-    {
-      "rank": 20,
       "name": "byk0t!?",
       "value": 7
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "xxx",
       "value": 7
+    },
+    {
+      "rank": 21,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 6
     },
     {
       "rank": 22,
@@ -866,32 +866,32 @@
     },
     {
       "rank": 42,
-      "name": "Anatoly Radchenko",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "terminal lucidity",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 44,
       "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 45,
-      "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Роман Земнухов | Ведущий",
+      "value": 1
+    },
+    {
+      "rank": 47,
+      "name": "❤️",
       "value": 1
     },
     {
@@ -1018,31 +1018,36 @@
     },
     {
       "rank": 22,
-      "name": "den",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 1
     },
     {
+      "rank": 26,
+      "name": "den",
+      "value": 1
+    },
+    {
       "rank": 27,
+      "name": "❤️",
+      "value": 1
+    },
+    {
+      "rank": 28,
       "name": "Max",
       "value": 1
     }
