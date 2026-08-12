@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-12T06:36:26+00:00",
-  "count": 108,
+  "updated": "2026-08-12T07:36:27+00:00",
+  "count": 109,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5735,
+      "value": 5737,
       "move": 0
     },
     {
@@ -650,13 +650,19 @@
       "name": "Юлия Шапранова",
       "value": 1,
       "move": 0
+    },
+    {
+      "rank": 109,
+      "name": "X Maolady",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 162
+      "value": 163
     },
     {
       "rank": 2,
@@ -907,12 +913,12 @@
   "week": [
     {
       "rank": 1,
-      "name": "Igor",
-      "value": 45
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 47
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Igor",
       "value": 45
     },
     {
