@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:36:27+00:00",
+  "updated": "2026-08-12T08:36:27+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
@@ -662,7 +662,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 163
+      "value": 162
     },
     {
       "rank": 2,
@@ -672,7 +672,7 @@
     {
       "rank": 3,
       "name": "Olga Goncharova",
-      "value": 66
+      "value": 65
     },
     {
       "rank": 4,
@@ -791,32 +791,32 @@
     },
     {
       "rank": 27,
-      "name": "Daniil",
-      "value": 5
-    },
-    {
-      "rank": 28,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "den",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Axel",
+      "value": 4
+    },
+    {
+      "rank": 32,
+      "name": "Daniil",
       "value": 4
     },
     {
