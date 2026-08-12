@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-12T09:36:29+00:00",
+  "updated": "2026-08-12T10:36:29+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5737,
+      "value": 5738,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 718,
+      "value": 719,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 323,
+      "value": 324,
       "move": 0
     },
     {
@@ -662,12 +662,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 161
+      "value": 162
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 158
+      "value": 157
     },
     {
       "rank": 3,
@@ -712,7 +712,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 12,
@@ -746,12 +746,12 @@
     },
     {
       "rank": 18,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 7
+      "name": "L G",
+      "value": 8
     },
     {
       "rank": 19,
-      "name": "L G",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 7
     },
     {
@@ -913,13 +913,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 47
+      "name": "Igor",
+      "value": 45
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 45
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 42
     },
     {
       "rank": 3,
@@ -954,12 +954,12 @@
     {
       "rank": 9,
       "name": "L G",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 10,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 11,
@@ -1023,26 +1023,21 @@
     },
     {
       "rank": 23,
-      "name": "Viktor",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 24,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
-      "rank": 25,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
       "value": 1
     }
