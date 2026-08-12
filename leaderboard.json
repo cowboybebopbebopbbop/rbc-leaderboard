@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T04:36:24+00:00",
+  "updated": "2026-08-12T05:36:25+00:00",
   "count": 108,
   "has_movement": true,
   "all": [
@@ -132,7 +132,7 @@
     {
       "rank": 22,
       "name": "den",
-      "value": 286,
+      "value": 287,
       "move": 0
     },
     {
@@ -800,42 +800,42 @@
     },
     {
       "rank": 30,
-      "name": "Капибара",
+      "name": "den",
       "value": 4
     },
     {
       "rank": 31,
-      "name": "Axel",
+      "name": "Капибара",
       "value": 4
     },
     {
       "rank": 32,
-      "name": ".",
+      "name": "Axel",
       "value": 4
     },
     {
       "rank": 33,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 34,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Sergei IVANOV",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 36,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
       "rank": 37,
-      "name": "den",
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -1007,32 +1007,32 @@
     },
     {
       "rank": 21,
-      "name": "X888",
+      "name": "den",
       "value": 2
     },
     {
       "rank": 22,
+      "name": "X888",
+      "value": 2
+    },
+    {
+      "rank": 23,
       "name": "Viktor",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
       "rank": 24,
-      "name": "Серхио Ле'Трас",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "den",
+      "name": "Сергей",
       "value": 1
     },
     {
