@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:58:00+00:00",
+  "updated": "2026-08-14T20:58:05+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -980,22 +980,22 @@
     },
     {
       "rank": 12,
-      "name": "Archie",
-      "value": 4
-    },
-    {
-      "rank": 13,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 3
+    },
+    {
+      "rank": 15,
+      "name": "Archie",
       "value": 3
     },
     {
