@@ -356,7 +356,7 @@
 <script>
 'use strict';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const S={preds:null,charts:null,me:null,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
+const S={preds:null,charts:null,me:null,pid:null,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
 
 /* ===== Telegram Mini App (стадия 1): страница работает и как обычный сайт ===== */
 const TG=(window.Telegram&&window.Telegram.WebApp&&window.Telegram.WebApp.initDataUnsafe&&window.Telegram.WebApp.initDataUnsafe.user)?window.Telegram.WebApp:null;
@@ -375,11 +375,13 @@ function tgInit(){ if(!TG) return; try{ TG.ready(); TG.expand();
   TG.BackButton&&TG.BackButton.onClick(()=>{ if($('#replay').classList.contains('on')) closeReplay();
     else if($('#sheet').classList.contains('on')) closeSheet();
     else if($('#levelup').classList.contains('on')) closeLevelUp(); }); }catch(e){} }
-function tgAutoLogin(){ if(!TG||S.me) return;
+function tgAutoLogin(){ if(!TG||S.pid!=null||S.me) return;
   const u=TG.initDataUnsafe.user, bl=S.preds.board||[];
   const cands=[[u.first_name,u.last_name].filter(Boolean).join(' '), u.first_name, u.username].filter(Boolean);
   for(const c of cands){ const m=bl.filter(x=>x.name===c);
-    if(m.length===1){ S.me=c; localStorage.setItem('oracle_me',c); break; } }
+    if(m.length===1){ S.me=c; localStorage.setItem('oracle_me',c);
+      if(m[0].pid!=null){ S.pid=m[0].pid; localStorage.setItem('oracle_pid',String(m[0].pid)); }
+      break; } }
 }
 
 /* ============================== иконки: pixelarticons (MIT, halfmage/pixelarticons) ============================== */
@@ -681,6 +683,13 @@ function levelOf(b){ const xp=xpOf(b); let i=0;
   for(let j=0;j<LEVELS.length;j++) if(xp>=LEVELS[j].xp) i=j;
   return {...LEVELS[i], n:i+1, xp, next:LEVELS[i+1]||null}; }
 const lvlOfName=name=>levelOf(boardOf(name)||{games:0,wins:0,best_streak:0});
+/* Победитель конкурса: pid важнее имени — оно могло смениться после игры */
+const winnerPid=(c,i)=>(c.winner_pids||[])[i]??null;
+const winnerRow=(c,i,nm)=>{const p=winnerPid(c,i); return (p!=null&&boardByPid(p))||boardOf(nm);};
+const winnerName=(c,i,nm)=>(winnerRow(c,i,nm)||{}).name||nm;
+const lvlOfWinner=(c,i,nm)=>levelOf(winnerRow(c,i,nm)||{games:0,wins:0,best_streak:0});
+const isWinnerMe=(c,i)=>{const p=winnerPid(c,i); const mr=meRow(); if(!mr) return false;
+  return p!=null&&mr.pid!=null?p===mr.pid:(c.winners||[])[i]===mr.name;};
 
 /* ============================== утилиты ============================== */
 const SYMG={BTCUSDT:'B',ETHUSDT:'E',SOLUSDT:'S'};
@@ -722,7 +731,19 @@ async function loadData(){
 }
 const contests=()=>(S.preds?.contests||[]).filter(c=>['open','voted','resolved'].includes(c.status));
 const boardOf=n=>(S.preds?.board||[]).find(b=>b.name===n)||null;
-const myWins=n=>contests().filter(c=>c.status==='resolved'&&(c.winners||[]).includes(n));
+/* Личность игрока — анонимный pid из predictions.json (его выдаёт бот, проверив
+   telegram-айди). Имя — только запасной ключ для браузера: тёзок не различает
+   и рвётся при переименовании. */
+const boardByPid=p=>(S.preds?.board||[]).find(b=>b.pid===p)||null;
+const meRow=()=>S.pid!=null?boardByPid(S.pid):boardOf(S.me);
+const isMeRow=b=>!!b&&(S.pid!=null?b.pid===S.pid:(S.me!=null&&b.name===S.me));
+const wonBy=(c,pid,name)=>(pid!=null&&c.winner_pids)?c.winner_pids.includes(pid)
+                                                    :(c.winners||[]).includes(name);
+const winsOf=(pid,name)=>contests().filter(c=>c.status==='resolved'&&wonBy(c,pid,name));
+const myWins=n=>winsOf(null,n);
+function readPid(){ const m=(location.hash||'').match(/pid=(\d+)/); if(m) return +m[1];
+  const sp=TG&&TG.initDataUnsafe&&TG.initDataUnsafe.start_param;
+  return (sp&&/^\d+$/.test(sp))?+sp:null; }
 
 /* ===== сезоны — как времена года (по МСК) ===== */
 const SEASONS=[
@@ -741,16 +762,24 @@ const skIdx=key=>+key.split('-')[1];
 const skYear=key=>+key.split('-')[0];
 const seasonNom=key=>SEASONS[skIdx(key)].nom+(skYear(key)!==seasonOf(Date.now()).year?' '+skYear(key):'');
 const seasonGen=key=>SEASONS[skIdx(key)].gen+(skYear(key)!==seasonOf(Date.now()).year?' '+skYear(key):'');
+/* Победы сезона считаем по pid: тёзки — разные строки, переименование не рвёт. */
 function seasonData(){ const m={};
   for(const c of contests()) if(c.status==='resolved'){
-    const k=seasonOf(c.target_time).key; m[k]=m[k]||{};
-    for(const w of (c.winners||[])) m[k][w]=(m[k][w]||0)+1; }
+    const k=seasonOf(c.target_time).key; const bucket=m[k]=m[k]||{};
+    const wp=c.winner_pids||[];
+    (c.winners||[]).forEach((w,i)=>{ const pid=wp[i]!=null?wp[i]:null;
+      const key=pid!=null?'p'+pid:'n'+w;
+      const e=bucket[key]||(bucket[key]={pid,name:w,wins:0});
+      e.wins++; e.name=(pid!=null&&boardByPid(pid)?boardByPid(pid).name:w); }); }
   return m; }
-function championsOf(key){ const d=seasonData()[key]; if(!d||!Object.keys(d).length) return {names:[],wins:0};
-  const mx=Math.max(...Object.values(d));
-  return {names:Object.keys(d).filter(n=>d[n]===mx),wins:mx}; }
-function champTitles(name){ const cur=seasonOf(Date.now()).key;
-  return Object.keys(seasonData()).filter(k=>k<cur&&championsOf(k).names.includes(name)).sort(); }
+function seasonList(key){ const d=seasonData()[key]||{};
+  return Object.values(d).sort((x,y)=>y.wins-x.wins||(x.name>y.name?1:-1)); }
+function championsOf(key){ const l=seasonList(key); if(!l.length) return {names:[],wins:0,entries:[]};
+  const mx=l[0].wins, top=l.filter(e=>e.wins===mx);
+  return {names:top.map(e=>e.name),wins:mx,entries:top}; }
+function champTitles(pid,name){ const cur=seasonOf(Date.now()).key;
+  return Object.keys(seasonData()).filter(k=>k<cur&&championsOf(k).entries.some(
+    e=>pid!=null&&e.pid!=null?e.pid===pid:e.name===name)).sort(); }
 
 /* ============================== звук ============================== */
 let AC=null; const ac=()=>AC||(AC=new (window.AudioContext||window.webkitAudioContext)());
@@ -883,13 +912,13 @@ function renderLive(){
   const curZone=cur&&ch?zoneOf(ch.ranges,cur[1]):-1;
 
   if(resolved){
-    const wn=c.winners||[]; const meWon=S.me&&wn.includes(S.me);
+    const wn=c.winners||[]; const mr=meRow(); const meWon=!!mr&&wonBy(c,mr.pid,mr.name);
     v.innerHTML=`
       <div class="ticker"><span class="price" style="color:var(--green)">${ch?zoneShort(ch.ranges,c.winner_option):''}</span>
         <span class="asset">${esc(symName(ch?.symbol))} · ФИНИШ<br>${fmtD(tg)}</span></div>
       <div class="statusline">итог ${fmtP(c.winner_price)} · новый конкурс — обычно в среду</div>
       <div class="bigstate ${meWon?'win':''}">${meWon?'Ты угадал. Красиво.':wn.length?'Угадали '+wn.length+'. Рынок дал себя прочитать.':'Не угадал никто — рынок победил всех.'}</div>
-      ${wn.length?`<div class="wgrid" style="margin-top:8px">${wn.slice(0,8).map((w,i)=>`<span class="wtag ${w===S.me?'meish':''}" style="--i:${i}">${beastImg(levelOf(boardOf(w)||{games:0,wins:0,best_streak:0}),16)} ${esc(w)}</span>`).join('')}${wn.length>8?`<span class="wtag" style="--i:8">+${wn.length-8}</span>`:''}</div>`:''}
+      ${wn.length?`<div class="wgrid" style="margin-top:8px">${wn.slice(0,8).map((w,i)=>`<span class="wtag ${isWinnerMe(c,i)?'meish':''}" style="--i:${i}">${beastImg(lvlOfWinner(c,i,w),16)} ${esc(winnerName(c,i,w))}</span>`).join('')}${wn.length>8?`<span class="wtag" style="--i:8">+${wn.length-8}</span>`:''}</div>`:''}
       <button class="cta" style="margin-top:20px" onclick="openReplay('${id}')">${icon('flag')} Смотреть реплей финиша</button>
       <a class="cta ghost" style="margin-top:8px" href="https://t.me/RBCCrypto_forum" target="_blank" rel="noopener">обсудить на форуме →</a>`;
     if(wn.length&&localStorage.getItem('oracle_fin_seen')!==id&&!document.hidden){
@@ -977,7 +1006,7 @@ function renderFin(){
   v.innerHTML=`<div class="sect"><h2>ФИНИШИ</h2><div class="k">жми — покажу гонку</div></div>
     <div class="stag">${rs.map((c,i)=>{
       const id=chartIdOf(c), sym=S.charts[id]?.symbol;
-      const meWon=S.me&&(c.winners||[]).includes(S.me);
+      const mr=meRow(); const meWon=!!mr&&wonBy(c,mr.pid,mr.name);
       const ch=S.charts[id];
       return `<div class="frow" style="--i:${i}" onclick="openReplay('${id}')">
         ${medalImg(sym,36)}
@@ -1020,7 +1049,7 @@ function finishReplay(instant){
   const info=drawLadder($('#rcanvas'),ch,{progress:1,votes:c.votes,myZone:S.bets[id],
     deadline:c.deadline,winnerZone:c.winner_option,winnerPrice:c.winner_price,h:H});
   $('#rclock').textContent='ФИНИШ · '+fmtDT(c.target_time);
-  const meWon=S.me&&(c.winners||[]).includes(S.me);
+  const mr=meRow(); const meWon=!!mr&&wonBy(c,mr.pid,mr.name);
   const betWon=S.bets[id]!=null&&S.bets[id]===c.winner_option;
   if(!instant){
     const fx=info.Rt-4, fy=info.py(c.winner_price);
@@ -1037,7 +1066,7 @@ function finishReplay(instant){
     <div class="r-price">${esc(symName(ch.symbol))} → <b id="rpricev">${fmtP(c.winner_price)}</b> · зона ${zoneShort(ch.ranges,c.winner_option)}</div>
     ${S.bets[id]!=null&&!betWon?`<div class="r-sub">твоя метка ${zoneShort(ch.ranges,S.bets[id])} — мимо. В среду отыграемся.</div>`:''}
     ${wn.length?`<div class="k" style="margin-top:16px">угадали ${wn.length}</div>
-      <div class="wgrid">${wn.map((w,i)=>`<span class="wtag ${w===S.me?'meish':''}" style="--i:${i}">${beastImg(lvlOfName(w),16)} ${esc(w)}</span>`).join('')}</div>`
+      <div class="wgrid">${wn.map((w,i)=>`<span class="wtag ${isWinnerMe(c,i)?'meish':''}" style="--i:${i}" ${winnerPid(c,i)!=null?`onclick="openPlayerPid(${winnerPid(c,i)})"`:''}>${beastImg(lvlOfWinner(c,i,w),16)} ${esc(winnerName(c,i,w))}</span>`).join('')}</div>`
       :'<div class="r-sub" style="margin-top:14px">не угадал никто — рынок победил всех</div>'}
     <button class="cta ghost" style="margin-top:20px" onclick="closeReplay()">закрыть</button>`;
   const pv=$('#rpricev'); if(!instant&&pv) countTo(pv,c.winner_price,{fmt:v=>fmtP(v),from:c.winner_price*.97,dur:700});
@@ -1047,29 +1076,32 @@ function closeReplay(){ cancelAnimationFrame(RP.raf); $('#replay').classList.rem
 /* ============================== Я ============================== */
 function renderMe(){
   const v=$('#v-me');
-  if(!S.me){
+  if(!meRow()){
     v.innerHTML=`<div class="sect"><h2>КТО ТЫ?</h2><div class="k">имя из опросов #ктоточнее · без регистрации</div></div>
       <input class="search" id="mesearch" placeholder="имя в telegram…" autocomplete="off">
       <div id="mecands"></div>
-      <div class="undernote" style="margin-top:14px">Нет в списке — значит ещё не голосовал. Среда это исправит.</div>`;
+      <a class="cta ghost" style="margin-top:16px" href="https://t.me/RBC_oracle_bot" target="_blank" rel="noopener">${icon('zap')} Опознать меня через бота</a>
+      <div class="undernote" style="margin-top:10px">Бот узнает тебя по аккаунту и откроет ровно твой профиль — надёжнее, чем выбирать имя руками (тёзки, переименования).
+      Нет в списке — значит ещё не голосовал: среда это исправит.</div>`;
     const inp=$('#mesearch'), out=$('#mecands');
     const show=q=>{ const b=S.preds.board||[]; const qq=q.trim().toLowerCase();
       const list=(qq?b.filter(x=>x.name.toLowerCase().includes(qq)):b.slice(0,8)).slice(0,10);
       out.innerHTML=list.map(x=>{ const lv=levelOf(x);
-        return `<div class="cand" data-n="${esc(x.name)}">${beastImg(lv,26)} ${esc(x.name)}
+        return `<div class="cand" data-n="${esc(x.name)}" data-pid="${x.pid??''}">${beastImg(lv,26)} ${esc(x.name)}
         <span class="st">${x.wins}/${x.games} · ур.${lv.n}</span></div>`;}).join('');
       $$('#mecands .cand').forEach(el=>el.onclick=()=>{ S.me=el.dataset.n;
+        const pid=el.dataset.pid; if(pid){ S.pid=+pid; localStorage.setItem('oracle_pid',pid); }
         localStorage.setItem('oracle_me',S.me); sWin(); renderAll(); showUnlock(); }); };
     inp.oninput=()=>show(inp.value);
     const tu=TG&&TG.initDataUnsafe.user;
     if(tu&&tu.first_name){ inp.value=tu.first_name; show(inp.value); } else show('');
     return;
   }
-  const b=boardOf(S.me)||{name:S.me,wins:0,games:0,win_pct:0,streak:0,best_streak:0};
+  const b=meRow()||{name:S.me,wins:0,games:0,win_pct:0,streak:0,best_streak:0};
   const lv=levelOf(b);
-  const wins=myWins(S.me);
+  const wins=winsOf(b.pid,b.name);
   const losses=Math.max(0,b.games-b.wins);
-  const pos=(S.preds.board||[]).findIndex(x=>x.name===S.me)+1;
+  const pos=(S.preds.board||[]).indexOf(b)+1;
   const pct=Math.round(b.win_pct);
   v.innerHTML=`
   <div class="plinth">
@@ -1077,7 +1109,7 @@ function renderMe(){
     <div class="pname">${esc(b.name)}</div>
     <div class="plvl">${pos===1?icon('crown','width:13px;height:13px;vertical-align:-2px')+' ':''}ур.${lv.n} · ${lv.name}${pos>0?' · №'+pos:''}</div>
     <div class="phint">«${lv.hint}»</div>
-    ${champTitles(S.me).length?`<div class="ctitle">${icon('crown')} ${champTitles(S.me).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
+    ${champTitles(b.pid,b.name).length?`<div class="ctitle">${icon('crown')} ${champTitles(b.pid,b.name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
     ${lv.next?`<div class="xp"><div class="lbl"><span>до «${lv.next.name}»</span><span>${lv.xp} / ${lv.next.xp} xp</span></div>
       <div class="xpbar"><i id="xpbar"></i></div>
       <div class="k" style="margin-top:7px">xp: сыграл +10 · угадал +60 · рекорд серии +20</div></div>`:''}
@@ -1111,12 +1143,14 @@ function renderMe(){
     $$('.accbars i').forEach(i=>i.style.width=i.dataset.w+'%');
   }));
 }
-function resetMe(){ S.me=null; localStorage.removeItem('oracle_me'); renderAll(); }
+function resetMe(){ S.me=null; S.pid=null;
+  localStorage.removeItem('oracle_me'); localStorage.removeItem('oracle_pid');
+  renderAll(); }
 
 /* ===== церемония нового звания ===== */
 function maybeLevelUp(){
-  if(!S.me) return; const b=boardOf(S.me); if(!b) return;
-  const lv=levelOf(b), key='oracle_lvl_'+S.me;
+  const b=meRow(); if(!b) return;
+  const lv=levelOf(b), key='oracle_lvl_'+(S.pid!=null?'p'+S.pid:b.name);
   const prev=+localStorage.getItem(key)||0;
   localStorage.setItem(key,lv.n);
   if(prev&&lv.n>prev) showLevelUp(lv);
@@ -1158,8 +1192,8 @@ function hideUnlock(){ $('#unlock').classList.remove('on'); switchTab('me'); }
 
 /* карточка-шаринг */
 async function shareCard(){
-  const b=boardOf(S.me)||{name:S.me,wins:0,games:0,win_pct:0,streak:0,best_streak:0};
-  const lv=levelOf(b), pos=(S.preds.board||[]).findIndex(x=>x.name===S.me)+1;
+  const b=meRow()||{name:S.me,wins:0,games:0,win_pct:0,streak:0,best_streak:0};
+  const lv=levelOf(b), pos=(S.preds.board||[]).indexOf(b)+1;
   try{ await document.fonts.load('900 90px Unbounded'); await document.fonts.load('500 30px "IBM Plex Mono"'); }catch(e){}
   const cv=document.createElement('canvas'); cv.width=1080; cv.height=1350;
   const x=cv.getContext('2d');
@@ -1219,16 +1253,16 @@ function renderLeague(){
     html+=`<div class="champline">${icon('crown')} оракул ${seasonGen(lastKey)} — <b>${champ.names.map(esc).join(', ')}</b> · ${champ.wins} ${champ.wins===1?'победа':'победы'}</div>`;
 
   if(S.lgMode==='season'){
-    const sd=seasonData()[cur]||{};
-    const nameCount={}; for(const x of b) nameCount[x.name]=(nameCount[x.name]||0)+1;
-    const list=Object.keys(sd).sort((x,y)=>sd[y]-sd[x]||b.findIndex(p=>p.name===x)-b.findIndex(p=>p.name===y));
-    html+=list.length?`<div id="lrows">${list.map((n,i)=>{ const p=boardOf(n)||{wins:0,games:0,win_pct:0,streak:0}; const lv=levelOf(p);
-        const dupes=(nameCount[n]||0)>1;
-        return `<div class="lrow ${n===S.me?'meish':''}" data-n="${esc(n)}">
+    const list=seasonList(cur);
+    html+=list.length?`<div id="lrows">${list.map((e,i)=>{
+        const row=e.pid!=null?boardByPid(e.pid):boardOf(e.name);
+        const lv=levelOf(row||{games:0,wins:0,best_streak:0});
+        const idx=row?b.indexOf(row):-1;
+        return `<div class="lrow ${isMeRow(row)?'meish':''}" ${idx>=0?`data-i="${idx}"`:`data-n="${esc(e.name)}"`}>
         <div class="pos">${i+1}</div>${beastImg(lv,26)}
-        <div class="nm">${esc(n)}<small>${dupes?'тёзки ×'+nameCount[n]+' — победы вместе':'ур.'+lv.n+' '+lv.name}</small></div>
-        <div class="sc"><b>${sd[n]}</b><span>побед</span></div>
-        ${S.me&&n!==S.me&&nameCount[n]===1?`<button class="duelbtn" data-duel="${esc(n)}">${icon('sword')}</button>`:''}</div>`;}).join('')}</div>
+        <div class="nm">${esc(e.name)}<small>ур.${lv.n} ${lv.name}</small></div>
+        <div class="sc"><b>${e.wins}</b><span>побед</span></div>
+        ${meRow()&&!isMeRow(row)&&idx>=0?`<button class="duelbtn" data-dueli="${idx}">${icon('sword')}</button>`:''}</div>`;}).join('')}</div>
       <div class="undernote" style="margin-top:12px">Сезон — как время года: ${SEASONS[skIdx(cur)].nom} длится ${SEASONS[skIdx(cur)].range}. ${SEASONS[skIdx(cur)].ends} лучший получит титул «Оракул ${seasonGen(cur)}» — корону на карточку навсегда.</div>`
       :`<div class="undernote" style="margin-top:16px">${SEASONS[skIdx(cur)].instr[0].toUpperCase()+SEASONS[skIdx(cur)].instr.slice(1)} побед ещё нет — всё решится в среду.</div>`;
   } else {
@@ -1254,11 +1288,11 @@ function renderLeague(){
     const rows=q=>{ const qq=(q||'').trim().toLowerCase();
       const list=qq?b.filter(x=>x.name.toLowerCase().includes(qq)):b;
       $('#lrows').innerHTML=list.map(x=>{ const i=b.indexOf(x), lv=levelOf(x);
-        return `<div class="lrow ${x.name===S.me?'meish':''}" data-i="${i}">
+        return `<div class="lrow ${isMeRow(x)?'meish':''}" data-i="${i}">
           <div class="pos">${i+1}</div>${beastImg(lv,26)}
           <div class="nm">${esc(x.name)}<small>ур.${lv.n} ${lv.name}${x.streak>=2?' · '+icon('fire','width:11px;height:11px;vertical-align:-2px')+x.streak:''}</small></div>
           <div class="sc"><b>${x.wins}/${x.games}</b><span>${Math.round(x.win_pct)}%</span></div>
-          ${S.me&&x.name!==S.me?`<button class="duelbtn" data-dueli="${i}">${icon('sword')}</button>`:''}</div>`;}).join('');
+          ${meRow()&&!isMeRow(x)?`<button class="duelbtn" data-dueli="${i}">${icon('sword')}</button>`:''}</div>`;}).join('');
       bindRows(); };
     $('#lsearch').oninput=e=>rows(e.target.value); rows('');
   } else bindRows();
@@ -1279,7 +1313,11 @@ function openPlayer(name){
     $$('#sheetbody .cand').forEach(el=>el.onclick=()=>openPlayerIdx(+el.dataset.i));
     return;
   }
-  const wins=myWins(name);
+  let pid=null;
+  for(const c of contests()){ const i=(c.winners||[]).indexOf(name);
+    if(i>=0&&winnerPid(c,i)!=null){ pid=winnerPid(c,i); break; } }
+  if(pid!=null&&boardByPid(pid)) return openPlayerPid(pid);
+  const wins=winsOf(pid,name);
   $('#sheetbody').innerHTML=`<div style="text-align:center;padding-top:8px">
     <div style="display:flex;justify-content:center">${beastImg({n:1,spr:'plankton'},64)}</div>
     <div class="sh-title" style="margin-top:10px">${esc(name)}</div>
@@ -1288,15 +1326,17 @@ function openPlayer(name){
   </div>`;
   showSheet();
 }
+function openPlayerPid(pid){ const i=(S.preds.board||[]).findIndex(b=>b.pid===pid);
+  if(i>=0) openPlayerIdx(i); }
 function openPlayerIdx(idx){
   const b=(S.preds.board||[])[idx]; if(!b) return;
   const name=b.name, lv=levelOf(b), pos=idx+1;
-  const wins=myWins(name);
+  const wins=winsOf(b.pid,name);
   $('#sheetbody').innerHTML=`<div style="text-align:center;padding-top:8px">
     <div style="display:flex;justify-content:center">${beastImg(lv,64)}</div>
     <div class="sh-title" style="margin-top:10px">${esc(name)}</div>
     <div class="plvl">ур.${lv.n} · ${lv.name} · №${pos}</div>
-    ${champTitles(name).length?`<div class="ctitle">${icon('crown')} ${champTitles(name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
+    ${champTitles(b.pid,name).length?`<div class="ctitle">${icon('crown')} ${champTitles(b.pid,name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
     <div class="stats4" style="margin-top:14px">
       <div class="st"><b class="grn">${b.wins}</b><span>побед</span></div>
       <div class="st"><b class="red">${Math.max(0,b.games-b.wins)}</b><span>промахов</span></div>
@@ -1304,12 +1344,12 @@ function openPlayerIdx(idx){
       <div class="st"><b>${Math.round(b.win_pct)}%</b><span>точность</span></div>
     </div>
     ${wins.length?`<div class="undernote" style="margin-top:12px;text-align:left">золото: ${wins.map(c=>esc(symName(S.charts[chartIdOf(c)]?.symbol))+' '+fmtD(c.target_time)).join(' · ')}</div>`:''}
-    ${S.me&&S.me!==name?`<button class="cta" style="margin-top:16px" onclick="duel(${idx})">${icon('sword')} Дуэль</button>`:''}
+    ${meRow()&&!isMeRow(b)?`<button class="cta" style="margin-top:16px" onclick="duel(${idx})">${icon('sword')} Дуэль</button>`:''}
   </div>`;
   showSheet();
 }
 function duel(ref){
-  const a=boardOf(S.me);
+  const a=meRow();
   const b=typeof ref==='number'?(S.preds.board||[])[ref]:boardOf(ref);
   if(!a||!b) return;
   const name=b.name;
@@ -1317,9 +1357,9 @@ function duel(ref){
   const row=(lbl,va,vb,fmt=x=>x)=>{ const t=va+vb||1;
     return `<div class="dstat"><div class="lbl"><b>${fmt(va)}</b><span>${lbl}</span><b>${fmt(vb)}</b></div>
     <div class="dbar"><i class="l" data-w="${Math.round(100*va/t)}"></i><i class="r" data-w="${Math.round(100*vb/t)}"></i></div></div>`;};
-  const verdict= a.score===b.score?'ничья — рынок рассудит':(a.score>b.score?esc(S.me)+' точнее — пока':esc(name)+' точнее — пока');
+  const verdict= a.score===b.score?'ничья — рынок рассудит':(a.score>b.score?esc(a.name)+' точнее — пока':esc(name)+' точнее — пока');
   $('#sheetbody').innerHTML=`<div class="duel">
-      <div class="side">${beastImg(la,52)}<div class="n">${esc(S.me)}</div></div>
+      <div class="side">${beastImg(la,52)}<div class="n">${esc(a.name)}</div></div>
       <div class="vs">VS</div>
       <div class="side">${beastImg(lb,52)}<div class="n">${esc(name)}</div></div>
     </div>
@@ -1359,13 +1399,20 @@ function renderAll(){
   renderLive(); renderFin(); renderMe(); renderLeague();
   maybeLevelUp();
   const mt=$('#metab');
-  if(S.me){ const lv=levelOf(boardOf(S.me)||{games:0,wins:0,best_streak:0});
+  const mr=meRow();
+  if(mr){ const lv=levelOf(mr);
     mt.innerHTML=`${beastImg(lv,21)}Я`; }
   else mt.innerHTML=`<svg class="px" viewBox="0 0 24 24"></svg>Я<span class="dot"></span>`,
     setIcon(mt.querySelector('svg'),'user');
 }
 (async function init(){
   tgInit();
+  /* Личность: pid выдаёт бот (он проверил telegram-айди) — через #pid=N в адресе
+     кнопки или startapp. Один раз запомнили — дальше узнаём сами. */
+  const urlPid=readPid();
+  if(urlPid!=null){ S.pid=urlPid; localStorage.setItem('oracle_pid',String(urlPid));
+    try{ history.replaceState(null,'',location.pathname+location.search); }catch(e){} }
+  else { const st=+localStorage.getItem('oracle_pid'); if(st) S.pid=st; }
   S.me=localStorage.getItem('oracle_me')||null;
   try{ S.bets=JSON.parse(localStorage.getItem('oracle_bets')||'{}'); }catch(e){ S.bets={}; }
   S.sound=!!localStorage.getItem('oracle_sound');
@@ -1375,12 +1422,19 @@ function renderAll(){
     return;
   }
   tgAutoLogin();
+  const mr0=meRow(); if(mr0&&mr0.name!==S.me){ S.me=mr0.name; localStorage.setItem('oracle_me',S.me); }
   renderAll();
   applyStagger($('#v-live'));
   setInterval(async()=>{ try{ await loadData(); renderAll(); }catch(e){} },3e5);
   document.addEventListener('visibilitychange',async()=>{ if(!document.hidden){
     try{ await loadData(); renderAll(); }catch(e){} maybeAskMark(); } });
   addEventListener('resize',()=>{ if($('#v-live').classList.contains('on')) renderLive(); });
+  /* переход по ссылке бота при уже открытой странице (смена #pid не перезагружает) */
+  addEventListener('hashchange',()=>{ const p=readPid();
+    if(p!=null&&p!==S.pid){ S.pid=p; localStorage.setItem('oracle_pid',String(p));
+      const r=meRow(); if(r){ S.me=r.name; localStorage.setItem('oracle_me',S.me); }
+      try{ history.replaceState(null,'',location.pathname+location.search); }catch(e){}
+      renderAll(); switchTab('me'); } });
 })();
 </script>
 </body>
