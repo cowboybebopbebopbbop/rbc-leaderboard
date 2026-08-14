@@ -381,9 +381,19 @@ function tgInit(){ if(!TG) return; try{ TG.ready(); TG.expand();
   TG.BackButton&&TG.BackButton.onClick(()=>{ if($('#replay').classList.contains('on')) closeReplay();
     else if($('#sheet').classList.contains('on')) closeSheet();
     else if($('#levelup').classList.contains('on')) closeLevelUp(); }); }catch(e){} }
-const BOT_URL='https://t.me/RBC_oracle_bot';
-function openBot(){ try{ if(TG&&TG.openTelegramLink) return TG.openTelegramLink(BOT_URL); }catch(e){}
+/* ?start=verify — чтобы у бота появилась кнопка «Запустить»: без отправленного
+   сообщения он молчит, и человек попадает в пустой чат. */
+const BOT_URL='https://t.me/RBC_oracle_bot?start=verify';
+function jumpBot(){ try{ if(TG&&TG.openTelegramLink) return TG.openTelegramLink(BOT_URL); }catch(e){}
   window.open(BOT_URL,'_blank','noopener'); }
+function openBot(){
+  $('#sheetbody').innerHTML=`<div class="sh-title">Подтвердить, что это ты</div>
+    <div class="undernote" style="margin-top:8px">Открою чат с ботом. Нажми там
+    <b>«Запустить»</b> — он узнает тебя по аккаунту и пришлёт кнопку с твоим профилем.
+    Если кнопки «Запустить» нет — просто напиши боту любое слово.</div>
+    <button class="cta" style="margin-top:16px" onclick="closeSheet();jumpBot()">Открыть чат с ботом</button>
+    <button class="textbtn" style="width:100%;margin-top:6px" onclick="closeSheet()">позже</button>`;
+  showSheet(); }
 function tgAutoLogin(){ if(!TG||S.pid!=null||S.me) return;
   const u=TG.initDataUnsafe.user, bl=S.preds.board||[];
   const cands=[[u.first_name,u.last_name].filter(Boolean).join(' '), u.first_name, u.username].filter(Boolean);
