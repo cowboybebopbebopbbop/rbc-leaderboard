@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T15:10:33+00:00",
+  "updated": "2026-08-14T15:26:25+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
@@ -944,7 +944,7 @@
     {
       "rank": 7,
       "name": "Igor",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 8,
@@ -973,32 +973,32 @@
     },
     {
       "rank": 13,
-      "name": "L G",
-      "value": 4
-    },
-    {
-      "rank": 14,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "terminal lucidity",
+      "value": 2
+    },
+    {
+      "rank": 18,
+      "name": "L G",
       "value": 2
     },
     {
