@@ -272,11 +272,14 @@
   .mebar .go{margin-left:auto; font-size:13px; color:var(--amber); white-space:nowrap}
   /* пьедестал: три равные колонки, существа на общей линии, подписи не тянут блок */
   .podium{display:grid; grid-template-columns:1fr 1fr 1fr; align-items:end; gap:var(--s2); margin-top:var(--s6)}
-  .pod{min-width:0; text-align:center; cursor:pointer}
-  .pod .beast{position:relative; display:flex; align-items:flex-end; justify-content:center; height:64px}
+  .pod{position:relative; min-width:0; text-align:center; cursor:pointer}
+  .pod .beast{position:relative; display:flex; align-items:flex-end; justify-content:center;
+    height:64px; transform-origin:50% 100%}
+  .pod.p1 .beast{height:92px}                    /* запас сверху — короне нужно своё место */
   .pod img{width:48px; height:48px}
   .pod.p1 img{width:62px; height:62px; filter:drop-shadow(0 0 18px rgba(255,176,32,.4))}
-  .pod .crown{position:absolute; top:-4px; left:50%; transform:translateX(-50%); width:16px; height:16px; color:var(--amber)}
+  .pod .crown{position:absolute; top:-2px; left:50%; z-index:3; width:24px; height:24px;
+    color:var(--amber); filter:drop-shadow(0 2px 7px rgba(0,0,0,.7))}
   .pod .base{position:relative; overflow:hidden; margin-top:var(--s2);
     border:1px solid var(--hair); border-bottom:none; border-radius:10px 10px 0 0;
     background:var(--ink2); padding:var(--s2) var(--s1); height:64px;
@@ -293,14 +296,53 @@
      передаётся движением, а не только размером. Серебро и бронза стоят тихо.
      ============================================================ */
   .pod .base{animation:podRise .52s var(--ease-out) both}
-  .pod .beast{animation:podBeast .38s var(--ease-back) both}
-  .pod.p3 .base{animation-delay:0s}      .pod.p3 .beast{animation-delay:.18s}
-  .pod.p2 .base{animation-delay:.14s}    .pod.p2 .beast{animation-delay:.32s}
-  .pod.p1 .base{animation-delay:.28s}    .pod.p1 .beast{animation-delay:.46s}
   @keyframes podRise{from{opacity:0; transform:translateY(26px)} to{opacity:1; transform:none}}
-  @keyframes podBeast{from{opacity:0; transform:translateY(-14px) scale(.86)} to{opacity:1; transform:none}}
-  .pod .crown{animation:crownDrop .42s var(--ease-back) .78s both}
-  @keyframes crownDrop{from{opacity:0; transform:translateX(-50%) translateY(-16px) rotate(-12deg)}
+
+  /* ПРИЗЕМЛЕНИЕ. Четыре стадии, как учат в анимации веса:
+     падение с ускорением (гравитация, ease-in — не «выплывает», а рушится),
+     сплющивание в момент удара (squash), отскок вверх (stretch) и осадка.
+     Существо тяжёлое — потому и тумбу вдавливает, и волну от удара пускает. */
+  .pod .beast{animation:podLand .72s both}
+  @keyframes podLand{
+      0%{opacity:0; transform:translateY(-54px) scaleY(1.06) scaleX(.94);
+         animation-timing-function:cubic-bezier(.55,0,.85,.35)}   /* разгон падения */
+     10%{opacity:1}
+     52%{transform:translateY(0) scaleY(1) scaleX(1);
+         animation-timing-function:cubic-bezier(.3,0,.5,1)}
+     64%{transform:translateY(0) scaleY(.78) scaleX(1.18)}        /* удар: сплющило */
+     78%{transform:translateY(-9px) scaleY(1.08) scaleX(.95)}     /* отскок */
+     90%{transform:translateY(0) scaleY(.96) scaleX(1.03)}
+    100%{transform:none}}
+
+  /* тумба принимает вес: вдавливается ровно в момент удара */
+  .pod .base{position:relative}
+  .pod .base>.hit{position:absolute; inset:0; pointer-events:none}
+  .pod.p3 .base{animation-delay:0s}   .pod.p3 .beast{animation-delay:.18s}
+  .pod.p2 .base{animation-delay:.14s} .pod.p2 .beast{animation-delay:.32s}
+  .pod.p1 .base{animation-delay:.28s} .pod.p1 .beast{animation-delay:.46s}
+
+  /* ударная волна из-под ног — тем заметнее, чем выше место */
+  .pod .beast::before{content:''; position:absolute; left:50%; bottom:-4px; width:14px; height:14px;
+    margin-left:-7px; border-radius:50%; border:2px solid rgba(255,176,32,.75);
+    transform:scale(.2); opacity:0; animation:podShock .46s var(--ease-out) both}
+  .pod.p3 .beast::before{animation-delay:.55s}
+  .pod.p2 .beast::before{animation-delay:.69s}
+  .pod.p1 .beast::before{animation-delay:.83s; border-color:rgba(255,176,32,.95); border-width:3px}
+  @keyframes podShock{
+      0%{opacity:0; transform:scale(.2)}
+     15%{opacity:.95}
+    100%{opacity:0; transform:scale(3.4)}}
+
+  /* короткая тряска всей колонки в момент удара — вес чувствуется телом */
+  .pod{animation:podJolt .16s linear both}
+  .pod.p3{animation-delay:.55s} .pod.p2{animation-delay:.69s} .pod.p1{animation-delay:.83s}
+  @keyframes podJolt{0%,100%{transform:none} 35%{transform:translateY(2px)} 70%{transform:translateY(-1px)}}
+  .pod.p1{animation-name:podJoltHard}
+  @keyframes podJoltHard{0%,100%{transform:none} 30%{transform:translateY(4px)} 65%{transform:translateY(-2px)}}
+
+  /* корона садится после того, как чемпион утвердился на тумбе */
+  .pod .crown{animation:crownDrop .44s var(--ease-back) 1.05s both}
+  @keyframes crownDrop{from{opacity:0; transform:translateX(-50%) translateY(-22px) rotate(-14deg)}
                        to{opacity:1; transform:translateX(-50%) translateY(0) rotate(0)}}
   /* блик по тумбе чемпиона: короткий проход раз в 4.5 с */
   .pod.p1 .base::after{content:''; position:absolute; top:-30%; bottom:-30%; left:-40%; width:38%;
@@ -1419,7 +1461,7 @@ function renderLeague(){
     if(top.length===3){
       const P=(i,cls)=>{ const lv=levelOf(top[i]);
         return `<div class="pod ${cls}" onclick="openPlayerIdx(${i})">
-        <span class="beast">${cls==='p1'?`<span class="crown">${icon('crown')}</span>`:''}${beastImg(lv,cls==='p1'?66:48)}</span>
+        ${cls==='p1'?`<span class="crown">${icon('crown')}</span>`:''}<span class="beast">${beastImg(lv,cls==='p1'?66:48)}</span>
         <div class="base"><div class="n">${esc(top[i].name)}</div>
         <div class="s">${top[i].wins}/${top[i].games}${top[i].streak>=2?' · '+icon('fire','width:11px;height:11px;vertical-align:-1px')+top[i].streak:''}</div></div></div>`;};
       html+=`<div class="podium">${P(1,'p2')}${P(0,'p1')}${P(2,'p3')}</div>`;
