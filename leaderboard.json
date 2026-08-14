@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:58:05+00:00",
+  "updated": "2026-08-14T21:58:11+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -941,7 +941,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 5,
@@ -955,27 +955,27 @@
     },
     {
       "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 6
-    },
-    {
-      "rank": 8,
       "name": "@wavesscalper",
       "value": 6
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Igor",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "𝑽",
+      "value": 4
+    },
+    {
+      "rank": 11,
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
