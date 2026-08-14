@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T15:26:25+00:00",
+  "updated": "2026-08-14T16:26:27+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
@@ -687,7 +687,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 7,
@@ -851,22 +851,22 @@
     },
     {
       "rank": 39,
-      "name": "X888",
-      "value": 3
-    },
-    {
-      "rank": 40,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Руслан Иванов",
+      "value": 2
+    },
+    {
+      "rank": 42,
+      "name": "X888",
       "value": 2
     },
     {
@@ -914,7 +914,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 40
+      "value": 38
     },
     {
       "rank": 2,
@@ -933,23 +933,23 @@
     },
     {
       "rank": 5,
-      "name": "Князь Владимир С",
-      "value": 9
-    },
-    {
-      "rank": 6,
       "name": "Olga Goncharova",
       "value": 9
     },
     {
+      "rank": 6,
+      "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
       "rank": 7,
-      "name": "Igor",
-      "value": 7
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 6
     },
     {
       "rank": 8,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 6
+      "name": "Igor",
+      "value": 5
     },
     {
       "rank": 9,
