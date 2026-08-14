@@ -23,3 +23,7 @@
 !experts.json
 !discipline.json
 !.gitignore
+!oracle.html
+!oracle_art/
+!oracle_art/**
+!.nojekyll
