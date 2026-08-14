@@ -145,6 +145,12 @@
   .wtag.meish{border-color:var(--amber); color:var(--amber); box-shadow:0 0 14px rgba(255,176,32,.18)}
 
   /* ===== профиль ===== */
+  .idwarn{display:flex; align-items:center; gap:8px; margin:14px 20px 0; padding:9px 11px;
+    border:1px solid var(--hair2); border-radius:9px; font-size:10.5px; color:var(--mut);
+    text-align:left; cursor:pointer; transition:border-color var(--t2)}
+  .idwarn:active{border-color:var(--amber)}
+  .idwarn svg{width:13px; height:13px; color:var(--amber); flex:none}
+  .idwarn b{color:var(--amber); white-space:nowrap; margin-left:auto}
   .plinth{position:relative; margin-top:18px; padding:26px 0 20px; text-align:center; overflow:hidden;
     border:1px solid var(--hair); border-radius:14px; background:
     repeating-linear-gradient(0deg, rgba(244,241,232,.016) 0 1px, transparent 1px 4px), var(--ink2)}
@@ -356,7 +362,7 @@
 <script>
 'use strict';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const S={preds:null,charts:null,me:null,pid:null,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
+const S={preds:null,charts:null,me:null,pid:null,verified:false,bets:{},sound:false,crowd:null,liveTimer:0,voteTs:0};
 
 /* ===== Telegram Mini App (стадия 1): страница работает и как обычный сайт ===== */
 const TG=(window.Telegram&&window.Telegram.WebApp&&window.Telegram.WebApp.initDataUnsafe&&window.Telegram.WebApp.initDataUnsafe.user)?window.Telegram.WebApp:null;
@@ -375,12 +381,16 @@ function tgInit(){ if(!TG) return; try{ TG.ready(); TG.expand();
   TG.BackButton&&TG.BackButton.onClick(()=>{ if($('#replay').classList.contains('on')) closeReplay();
     else if($('#sheet').classList.contains('on')) closeSheet();
     else if($('#levelup').classList.contains('on')) closeLevelUp(); }); }catch(e){} }
+const BOT_URL='https://t.me/RBC_oracle_bot';
+function openBot(){ try{ if(TG&&TG.openTelegramLink) return TG.openTelegramLink(BOT_URL); }catch(e){}
+  window.open(BOT_URL,'_blank','noopener'); }
 function tgAutoLogin(){ if(!TG||S.pid!=null||S.me) return;
   const u=TG.initDataUnsafe.user, bl=S.preds.board||[];
   const cands=[[u.first_name,u.last_name].filter(Boolean).join(' '), u.first_name, u.username].filter(Boolean);
   for(const c of cands){ const m=bl.filter(x=>x.name===c);
     if(m.length===1){ S.me=c; localStorage.setItem('oracle_me',c);
-      if(m[0].pid!=null){ S.pid=m[0].pid; localStorage.setItem('oracle_pid',String(m[0].pid)); }
+      if(m[0].pid!=null){ S.pid=m[0].pid; localStorage.setItem('oracle_pid',String(m[0].pid));
+        S.verified=false; localStorage.removeItem('oracle_verified'); }
       break; } }
 }
 
@@ -1080,7 +1090,7 @@ function renderMe(){
     v.innerHTML=`<div class="sect"><h2>КТО ТЫ?</h2><div class="k">имя из опросов #ктоточнее · без регистрации</div></div>
       <input class="search" id="mesearch" placeholder="имя в telegram…" autocomplete="off">
       <div id="mecands"></div>
-      <a class="cta ghost" style="margin-top:16px" href="https://t.me/RBC_oracle_bot" target="_blank" rel="noopener">${icon('zap')} Опознать меня через бота</a>
+      <button class="cta ghost" style="margin-top:16px" onclick="openBot()">${icon('zap')} Опознать меня через бота</button>
       <div class="undernote" style="margin-top:10px">Бот узнает тебя по аккаунту и откроет ровно твой профиль — надёжнее, чем выбирать имя руками (тёзки, переименования).
       Нет в списке — значит ещё не голосовал: среда это исправит.</div>`;
     const inp=$('#mesearch'), out=$('#mecands');
@@ -1091,6 +1101,7 @@ function renderMe(){
         <span class="st">${x.wins}/${x.games} · ур.${lv.n}</span></div>`;}).join('');
       $$('#mecands .cand').forEach(el=>el.onclick=()=>{ S.me=el.dataset.n;
         const pid=el.dataset.pid; if(pid){ S.pid=+pid; localStorage.setItem('oracle_pid',pid); }
+        S.verified=false; localStorage.removeItem('oracle_verified');
         localStorage.setItem('oracle_me',S.me); sWin(); renderAll(); showUnlock(); }); };
     inp.oninput=()=>show(inp.value);
     const tu=TG&&TG.initDataUnsafe.user;
@@ -1110,6 +1121,8 @@ function renderMe(){
     <div class="plvl">${pos===1?icon('crown','width:13px;height:13px;vertical-align:-2px')+' ':''}ур.${lv.n} · ${lv.name}${pos>0?' · №'+pos:''}</div>
     <div class="phint">«${lv.hint}»</div>
     ${champTitles(b.pid,b.name).length?`<div class="ctitle">${icon('crown')} ${champTitles(b.pid,b.name).map(k=>'оракул '+seasonGen(k)).join(' · ')}</div>`:''}
+    ${S.verified?'':`<div class="idwarn" onclick="openBot()">${icon('target')}
+      <span>профиль подобран по имени — подтверди, что это ты</span><b>подтвердить →</b></div>`}
     ${lv.next?`<div class="xp"><div class="lbl"><span>до «${lv.next.name}»</span><span>${lv.xp} / ${lv.next.xp} xp</span></div>
       <div class="xpbar"><i id="xpbar"></i></div>
       <div class="k" style="margin-top:7px">xp: сыграл +10 · угадал +60 · рекорд серии +20</div></div>`:''}
@@ -1144,7 +1157,9 @@ function renderMe(){
   }));
 }
 function resetMe(){ S.me=null; S.pid=null;
+  S.verified=false;
   localStorage.removeItem('oracle_me'); localStorage.removeItem('oracle_pid');
+  localStorage.removeItem('oracle_verified');
   renderAll(); }
 
 /* ===== церемония нового звания ===== */
@@ -1410,9 +1425,11 @@ function renderAll(){
   /* Личность: pid выдаёт бот (он проверил telegram-айди) — через #pid=N в адресе
      кнопки или startapp. Один раз запомнили — дальше узнаём сами. */
   const urlPid=readPid();
-  if(urlPid!=null){ S.pid=urlPid; localStorage.setItem('oracle_pid',String(urlPid));
+  if(urlPid!=null){ S.pid=urlPid; S.verified=true;          // выдал бот — Telegram подтвердил, кто это
+    localStorage.setItem('oracle_pid',String(urlPid)); localStorage.setItem('oracle_verified','1');
     try{ history.replaceState(null,'',location.pathname+location.search); }catch(e){} }
-  else { const st=+localStorage.getItem('oracle_pid'); if(st) S.pid=st; }
+  else { const st=+localStorage.getItem('oracle_pid'); if(st){ S.pid=st;
+    S.verified=localStorage.getItem('oracle_verified')==='1'; } }
   S.me=localStorage.getItem('oracle_me')||null;
   try{ S.bets=JSON.parse(localStorage.getItem('oracle_bets')||'{}'); }catch(e){ S.bets={}; }
   S.sound=!!localStorage.getItem('oracle_sound');
@@ -1431,7 +1448,8 @@ function renderAll(){
   addEventListener('resize',()=>{ if($('#v-live').classList.contains('on')) renderLive(); });
   /* переход по ссылке бота при уже открытой странице (смена #pid не перезагружает) */
   addEventListener('hashchange',()=>{ const p=readPid();
-    if(p!=null&&p!==S.pid){ S.pid=p; localStorage.setItem('oracle_pid',String(p));
+    if(p!=null&&p!==S.pid){ S.pid=p; S.verified=true;
+      localStorage.setItem('oracle_pid',String(p)); localStorage.setItem('oracle_verified','1');
       const r=meRow(); if(r){ S.me=r.name; localStorage.setItem('oracle_me',S.me); }
       try{ history.replaceState(null,'',location.pathname+location.search); }catch(e){}
       renderAll(); switchTab('me'); } });
