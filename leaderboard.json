@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T06:23:28+00:00",
+  "updated": "2026-08-14T07:23:29+00:00",
   "count": 109,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 820,
+      "value": 823,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Сергей",
-      "value": 95,
+      "value": 96,
       "move": 0
     },
     {
@@ -676,13 +676,13 @@
     },
     {
       "rank": 4,
-      "name": "a l",
-      "value": 52
+      "name": "Zero-sum Gamer",
+      "value": 53
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 50
+      "name": "a l",
+      "value": 52
     },
     {
       "rank": 6,
@@ -851,32 +851,32 @@
     },
     {
       "rank": 39,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "X888",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 41,
-      "name": "I",
+      "name": "X888",
       "value": 3
     },
     {
       "rank": 42,
-      "name": "Max",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 43,
-      "name": "terminal lucidity",
-      "value": 2
+      "name": "Max",
+      "value": 3
     },
     {
       "rank": 44,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
@@ -919,7 +919,7 @@
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 24
+      "value": 27
     },
     {
       "rank": 3,
@@ -929,7 +929,7 @@
     {
       "rank": 4,
       "name": "Igor",
-      "value": 17
+      "value": 15
     },
     {
       "rank": 5,
@@ -1008,27 +1008,27 @@
     },
     {
       "rank": 20,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 21,
+      "name": "iDiklonius",
+      "value": 2
+    },
+    {
+      "rank": 22,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 23,
-      "name": "Серхио Ле'Трас",
-      "value": 1
-    },
-    {
       "rank": 24,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
