@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T15:25:57+00:00",
+  "updated": "2026-08-17T16:25:58+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -926,7 +926,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 2,
@@ -1015,26 +1015,21 @@
     },
     {
       "rank": 19,
-      "name": "Серхио Ле'Трас",
-      "value": 1
-    },
-    {
-      "rank": 20,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Arewoe",
       "value": 1
     }
