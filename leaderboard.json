@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T04:25:48+00:00",
+  "updated": "2026-08-17T05:25:50+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1039,
+      "value": 1040,
       "move": 0
     },
     {
@@ -688,13 +688,13 @@
     },
     {
       "rank": 4,
-      "name": "Olga Goncharova",
+      "name": "a l",
       "value": 47
     },
     {
       "rank": 5,
-      "name": "a l",
-      "value": 46
+      "name": "Olga Goncharova",
+      "value": 47
     },
     {
       "rank": 6,
@@ -873,52 +873,52 @@
     },
     {
       "rank": 41,
-      "name": "Руслан Иванов",
-      "value": 2
-    },
-    {
-      "rank": 42,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Aся",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Толян",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Валерия Sweetandflow",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Max",
       "value": 1
     }
   ],
@@ -941,7 +941,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 5,
