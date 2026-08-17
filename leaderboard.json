@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:26:00+00:00",
+  "updated": "2026-08-17T20:26:01+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1042,
+      "value": 1043,
       "move": 0
     },
     {
@@ -689,7 +689,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 5,
@@ -960,32 +960,32 @@
     },
     {
       "rank": 8,
-      "name": "@wavesscalper",
-      "value": 5
-    },
-    {
-      "rank": 9,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "𝑽",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 13,
+      "name": "@wavesscalper",
       "value": 4
     },
     {
