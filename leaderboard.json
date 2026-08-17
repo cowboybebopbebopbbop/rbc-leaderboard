@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:25:58+00:00",
+  "updated": "2026-08-17T17:25:59+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4044,
+      "value": 4045,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 127
+      "value": 128
     },
     {
       "rank": 3,
@@ -926,22 +926,22 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "value": 29
     },
     {
       "rank": 2,
-      "name": "ᴦоᴧод",
-      "value": 21
+      "name": "Igor",
+      "value": 12
     },
     {
       "rank": 3,
-      "name": "Igor",
+      "name": "Zero-sum Gamer",
       "value": 11
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 11
+      "name": "ᴦоᴧод",
+      "value": 10
     },
     {
       "rank": 5,
@@ -1000,18 +1000,18 @@
     },
     {
       "rank": 16,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 17,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
+    },
+    {
+      "rank": 18,
+      "name": "L G",
+      "value": 1
     },
     {
       "rank": 19,
