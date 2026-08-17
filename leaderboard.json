@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:25:53+00:00",
+  "updated": "2026-08-17T10:25:53+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4036,
+      "value": 4040,
       "move": 0
     },
     {
@@ -209,15 +209,15 @@
     },
     {
       "rank": 35,
-      "name": "🏴‍☠️",
-      "value": 105,
-      "move": 0
+      "name": "ᴦоᴧод",
+      "value": 106,
+      "move": 1
     },
     {
       "rank": 36,
-      "name": "ᴦоᴧод",
-      "value": 103,
-      "move": 0
+      "name": "🏴‍☠️",
+      "value": 105,
+      "move": -1
     },
     {
       "rank": 37,
@@ -257,15 +257,15 @@
     },
     {
       "rank": 43,
-      "name": "Серхио Ле'Трас",
-      "value": 69,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 71,
+      "move": 1
     },
     {
       "rank": 44,
-      "name": "Vitaliy",
-      "value": 67,
-      "move": 0
+      "name": "Серхио Ле'Трас",
+      "value": 69,
+      "move": -1
     },
     {
       "rank": 45,
@@ -329,21 +329,21 @@
     },
     {
       "rank": 55,
-      "name": "𝑽",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 30,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 56,
-      "name": "Iodva",
+      "name": "𝑽",
       "value": 30,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 57,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 27,
-      "move": 0
+      "name": "Iodva",
+      "value": 30,
+      "move": -1
     },
     {
       "rank": 58,
@@ -674,12 +674,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 150
+      "value": 149
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 119
+      "value": 123
     },
     {
       "rank": 3,
@@ -698,13 +698,13 @@
     },
     {
       "rank": 6,
-      "name": "Ольга",
-      "value": 41
+      "name": "ᴦоᴧод",
+      "value": 42
     },
     {
       "rank": 7,
-      "name": "ᴦоᴧод",
-      "value": 39
+      "name": "Ольга",
+      "value": 41
     },
     {
       "rank": 8,
@@ -719,21 +719,21 @@
     {
       "rank": 10,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 16
+      "value": 19
     },
     {
       "rank": 11,
+      "name": "Vitaliy",
+      "value": 17
+    },
+    {
+      "rank": 12,
       "name": "Andrey Tugarin",
       "value": 14
     },
     {
-      "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 14
-    },
-    {
       "rank": 13,
-      "name": "Vitaliy",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 13
     },
     {
@@ -926,12 +926,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 34
+      "value": 31
     },
     {
       "rank": 2,
       "name": "ᴦоᴧод",
-      "value": 17
+      "value": 20
     },
     {
       "rank": 3,
@@ -945,78 +945,78 @@
     },
     {
       "rank": 5,
+      "name": "Igor",
+      "value": 7
+    },
+    {
+      "rank": 6,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 6
+    },
+    {
+      "rank": 7,
       "name": "🅾🅻🅶🅰",
       "value": 5
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "@wavesscalper",
       "value": 5
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 8,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
-      "rank": 9,
-      "name": "𝑽",
-      "value": 4
-    },
-    {
       "rank": 10,
-      "name": "byk0t!?",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 11,
+      "name": "Сергей",
+      "value": 4
+    },
+    {
+      "rank": 12,
+      "name": "𝑽",
+      "value": 4
+    },
+    {
+      "rank": 13,
+      "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 14,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 12,
-      "name": "Igor",
-      "value": 3
-    },
-    {
-      "rank": 13,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 3
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "name": "Archie",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Сергей",
       "value": 2
-    },
-    {
-      "rank": 19,
-      "name": "A.",
-      "value": 1
     },
     {
       "rank": 20,
