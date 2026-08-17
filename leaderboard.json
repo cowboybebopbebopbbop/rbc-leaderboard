@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:26:01+00:00",
+  "updated": "2026-08-17T21:26:02+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -985,17 +985,17 @@
     },
     {
       "rank": 13,
-      "name": "@wavesscalper",
-      "value": 4
-    },
-    {
-      "rank": 14,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Archie",
+      "value": 3
+    },
+    {
+      "rank": 15,
+      "name": "@wavesscalper",
       "value": 3
     },
     {
