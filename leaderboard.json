@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-17T10:25:53+00:00",
+  "updated": "2026-08-17T11:25:54+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5756,
+      "value": 5757,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4040,
+      "value": 4041,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 123
+      "value": 124
     },
     {
       "rank": 3,
@@ -744,12 +744,12 @@
     {
       "rank": 15,
       "name": "Синдбад Мореход",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 16,
       "name": "Viktor",
-      "value": 11
+      "value": 9
     },
     {
       "rank": 17,
@@ -858,17 +858,17 @@
     },
     {
       "rank": 38,
-      "name": ".",
-      "value": 3
-    },
-    {
-      "rank": 39,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "X888",
+      "value": 2
+    },
+    {
+      "rank": 40,
+      "name": ".",
       "value": 2
     },
     {
@@ -926,7 +926,7 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 2,
@@ -946,7 +946,7 @@
     {
       "rank": 5,
       "name": "Igor",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 6,
@@ -1000,22 +1000,22 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
