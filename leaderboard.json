@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T05:26:10+00:00",
+  "updated": "2026-08-18T06:26:10+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -180,7 +180,7 @@
     {
       "rank": 30,
       "name": ".",
-      "value": 128,
+      "value": 129,
       "move": 1
     },
     {
@@ -778,17 +778,17 @@
     },
     {
       "rank": 22,
+      "name": ".",
+      "value": 7
+    },
+    {
+      "rank": 23,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
-      "rank": 23,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
       "rank": 24,
-      "name": ".",
+      "name": "Manis Love",
       "value": 6
     },
     {
@@ -970,22 +970,22 @@
     },
     {
       "rank": 10,
+      "name": ".",
+      "value": 5
+    },
+    {
+      "rank": 11,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "𝑽",
       "value": 4
     },
     {
-      "rank": 12,
-      "name": "byk0t!?",
-      "value": 4
-    },
-    {
       "rank": 13,
-      "name": ".",
+      "name": "byk0t!?",
       "value": 4
     },
     {
