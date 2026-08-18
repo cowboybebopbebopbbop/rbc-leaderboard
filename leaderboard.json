@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:26:12+00:00",
+  "updated": "2026-08-18T09:26:14+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4052,
+      "value": 4054,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1701,
+      "value": 1706,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 135
+      "value": 137
     },
     {
       "rank": 3,
@@ -709,7 +709,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 31
+      "value": 36
     },
     {
       "rank": 9,
@@ -931,7 +931,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 18
+      "value": 20
     },
     {
       "rank": 3,
@@ -945,58 +945,58 @@
     },
     {
       "rank": 5,
+      "name": "Archie",
+      "value": 8
+    },
+    {
+      "rank": 6,
       "name": "a l",
       "value": 7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "🅾🅻🅶🅰",
       "value": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Viktor",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "𝑽",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "byk0t!?",
       "value": 4
-    },
-    {
-      "rank": 15,
-      "name": "Archie",
-      "value": 3
     },
     {
       "rank": 16,
