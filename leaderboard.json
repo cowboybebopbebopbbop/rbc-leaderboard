@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:26:07+00:00",
+  "updated": "2026-08-18T04:26:09+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1043,
+      "value": 1044,
       "move": 0
     },
     {
@@ -179,15 +179,15 @@
     },
     {
       "rank": 30,
-      "name": "Andrey Tugarin",
+      "name": ".",
       "value": 128,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 31,
-      "name": ".",
-      "value": 124,
-      "move": 0
+      "name": "Andrey Tugarin",
+      "value": 128,
+      "move": -1
     },
     {
       "rank": 32,
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": 0
+      "name": "Сергей",
+      "value": 69,
+      "move": 1
     },
     {
       "rank": 46,
-      "name": "Сергей",
+      "name": "AstronaVt",
       "value": 66,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 47,
@@ -689,7 +689,7 @@
     {
       "rank": 4,
       "name": "a l",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 5,
@@ -763,112 +763,112 @@
     },
     {
       "rank": 19,
-      "name": "byk0t!?",
+      "name": "Сергей",
       "value": 7
     },
     {
       "rank": 20,
-      "name": "xxx",
+      "name": "byk0t!?",
       "value": 7
     },
     {
       "rank": 21,
+      "name": "xxx",
+      "value": 7
+    },
+    {
+      "rank": 22,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 6
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 23,
+      "rank": 24,
+      "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 5
     },
     {
-      "rank": 24,
+      "rank": 26,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 25,
+      "rank": 27,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "🤗",
       "value": 5
     },
     {
-      "rank": 28,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
-      "rank": 29,
+      "rank": 30,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "den",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Капибара",
       "value": 4
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Daniil",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "terminal lucidity",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "I",
       "value": 3
     },
     {
-      "rank": 39,
-      "name": "X888",
-      "value": 2
-    },
-    {
       "rank": 40,
-      "name": ".",
+      "name": "X888",
       "value": 2
     },
     {
@@ -950,91 +950,96 @@
     },
     {
       "rank": 6,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "a l",
       "value": 6
     },
     {
       "rank": 7,
-      "name": "a l",
-      "value": 5
+      "name": "Сергей",
+      "value": 6
     },
     {
       "rank": 8,
+      "name": "Алехандро)🍅 Белов🍅",
+      "value": 6
+    },
+    {
+      "rank": 9,
       "name": "Olga Goncharova",
       "value": 5
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "𝑽",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 14,
       "name": "Viktor",
       "value": 3
     },
     {
-      "rank": 13,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "name": "Archie",
       "value": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Arewoe",
       "value": 1
     }
