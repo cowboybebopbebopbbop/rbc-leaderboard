@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T11:26:16+00:00",
+  "updated": "2026-08-18T12:26:17+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 923,
+      "value": 924,
       "move": 0
     },
     {
@@ -743,18 +743,18 @@
     },
     {
       "rank": 15,
-      "name": "A.",
+      "name": "Viktor",
       "value": 11
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "A.",
       "value": 11
     },
     {
       "rank": 17,
-      "name": "Viktor",
-      "value": 10
+      "name": "Синдбад Мореход",
+      "value": 11
     },
     {
       "rank": 18,
@@ -970,7 +970,7 @@
     },
     {
       "rank": 10,
-      "name": "Olga Goncharova",
+      "name": "Viktor",
       "value": 5
     },
     {
@@ -980,71 +980,66 @@
     },
     {
       "rank": 12,
-      "name": "Viktor",
-      "value": 4
-    },
-    {
-      "rank": 13,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "𝑽",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "@wavesscalper",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Arewoe",
       "value": 1
     }
