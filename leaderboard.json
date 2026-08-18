@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:26:20+00:00",
+  "updated": "2026-08-18T16:26:23+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4057,
+      "value": 4061,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1779,
+      "value": 1781,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 925,
+      "value": 927,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 798,
+      "value": 799,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Сергей",
-      "value": 96,
+      "value": 97,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 140
+      "value": 144
     },
     {
       "rank": 3,
@@ -699,7 +699,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 7,
@@ -728,18 +728,18 @@
     },
     {
       "rank": 12,
-      "name": "Andrey Tugarin",
+      "name": "Viktor",
       "value": 14
     },
     {
       "rank": 13,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 13
+      "name": "Andrey Tugarin",
+      "value": 14
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 12
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
       "rank": 15,
@@ -748,12 +748,12 @@
     },
     {
       "rank": 16,
-      "name": "A.",
-      "value": 11
+      "name": "Синдбад Мореход",
+      "value": 12
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "A.",
       "value": 11
     },
     {
@@ -823,37 +823,37 @@
     },
     {
       "rank": 31,
-      "name": "den",
+      "name": "Сергей",
       "value": 4
     },
     {
       "rank": 32,
-      "name": "Капибара",
+      "name": "den",
       "value": 4
     },
     {
       "rank": 33,
-      "name": "Axel",
+      "name": "Капибара",
       "value": 4
     },
     {
       "rank": 34,
-      "name": "Daniil",
+      "name": "Axel",
       "value": 4
     },
     {
       "rank": 35,
+      "name": "Daniil",
+      "value": 4
+    },
+    {
+      "rank": 36,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 36,
-      "name": "terminal lucidity",
-      "value": 3
-    },
-    {
       "rank": 37,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 3
     },
     {
@@ -925,13 +925,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 26
+      "name": "Igor",
+      "value": 27
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 23
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 26
     },
     {
       "rank": 3,
@@ -945,23 +945,23 @@
     },
     {
       "rank": 5,
-      "name": "ᴦоᴧод",
+      "name": "🅾🅻🅶🅰",
       "value": 9
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 8
+      "name": "ᴦоᴧод",
+      "value": 9
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
-      "value": 7
+      "name": "Viktor",
+      "value": 8
     },
     {
       "rank": 8,
-      "name": "Viktor",
-      "value": 6
+      "name": "Archie",
+      "value": 8
     },
     {
       "rank": 9,
@@ -1040,6 +1040,11 @@
     },
     {
       "rank": 24,
+      "name": "Синдбад Мореход",
+      "value": 1
+    },
+    {
+      "rank": 25,
       "name": "Arewoe",
       "value": 1
     }
