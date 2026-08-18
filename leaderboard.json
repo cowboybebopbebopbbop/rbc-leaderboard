@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T07:26:12+00:00",
+  "updated": "2026-08-18T08:26:12+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4051,
+      "value": 4052,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 922,
+      "value": 923,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "iDiklonius",
-      "value": 460,
+      "value": 461,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 134
+      "value": 135
     },
     {
       "rank": 3,
@@ -749,7 +749,7 @@
     {
       "rank": 16,
       "name": "Viktor",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 17,
@@ -808,22 +808,22 @@
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 29,
-      "name": "🤗",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
       "rank": 30,
-      "name": "Серхио Ле'Трас",
-      "value": 4
+      "name": "🤗",
+      "value": 5
     },
     {
       "rank": 31,
-      "name": "iDiklonius",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
@@ -931,7 +931,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 3,
@@ -975,23 +975,23 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Viktor",
       "value": 4
     },
     {
       "rank": 12,
-      "name": "𝑽",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "byk0t!?",
+      "name": "𝑽",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "Viktor",
-      "value": 3
+      "name": "byk0t!?",
+      "value": 4
     },
     {
       "rank": 15,
@@ -1005,27 +1005,27 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 20,
-      "name": "L G",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "iDiklonius",
+      "name": "L G",
       "value": 1
     },
     {
