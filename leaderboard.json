@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:26:14+00:00",
+  "updated": "2026-08-18T10:26:15+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4054,
+      "value": 4056,
       "move": 0
     },
     {
@@ -401,21 +401,21 @@
     },
     {
       "rank": 67,
-      "name": "Pike",
+      "name": "A.",
       "value": 12,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 68,
-      "name": "X888",
-      "value": 11,
-      "move": 0
+      "name": "Pike",
+      "value": 12,
+      "move": -1
     },
     {
       "rank": 69,
-      "name": "A.",
-      "value": 10,
-      "move": 0
+      "name": "X888",
+      "value": 11,
+      "move": -1
     },
     {
       "rank": 70,
@@ -674,12 +674,12 @@
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 150
+      "value": 148
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 137
+      "value": 139
     },
     {
       "rank": 3,
@@ -714,7 +714,7 @@
     {
       "rank": 9,
       "name": "Князь Владимир С",
-      "value": 25
+      "value": 20
     },
     {
       "rank": 10,
@@ -743,18 +743,18 @@
     },
     {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "A.",
       "value": 11
     },
     {
       "rank": 16,
-      "name": "Viktor",
-      "value": 10
+      "name": "Синдбад Мореход",
+      "value": 11
     },
     {
       "rank": 17,
-      "name": "A.",
-      "value": 9
+      "name": "Viktor",
+      "value": 10
     },
     {
       "rank": 18,
@@ -931,7 +931,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 20
+      "value": 22
     },
     {
       "rank": 3,
@@ -1000,46 +1000,51 @@
     },
     {
       "rank": 16,
-      "name": "Сергей",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 20,
+      "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 21,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "L G",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "den",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Arewoe",
       "value": 1
     }
