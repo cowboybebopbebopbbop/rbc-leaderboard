@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:26:23+00:00",
+  "updated": "2026-08-18T17:26:23+00:00",
   "count": 111,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4061,
+      "value": 4065,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 633,
+      "value": 634,
       "move": 0
     },
     {
@@ -679,7 +679,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 144
+      "value": 148
     },
     {
       "rank": 3,
@@ -713,12 +713,12 @@
     },
     {
       "rank": 9,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 19
+      "name": "Князь Владимир С",
+      "value": 20
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 19
     },
     {
@@ -926,7 +926,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 27
+      "value": 31
     },
     {
       "rank": 2,
@@ -1010,22 +1010,22 @@
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "@wavesscalper",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 20,
-      "name": "L G",
-      "value": 1
-    },
-    {
       "rank": 21,
-      "name": "Князь Владимир С",
+      "name": "L G",
       "value": 1
     },
     {
