@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T13:11:28+00:00",
-  "count": 113,
+  "updated": "2026-08-19T14:11:33+00:00",
+  "count": 114,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1051,
+      "value": 1052,
       "move": 0
     },
     {
@@ -119,15 +119,15 @@
     },
     {
       "rank": 20,
-      "name": "Anatoly Radchenko",
+      "name": "🤗",
       "value": 292,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 21,
-      "name": "🤗",
-      "value": 291,
-      "move": 0
+      "name": "Anatoly Radchenko",
+      "value": 292,
+      "move": -1
     },
     {
       "rank": 22,
@@ -680,13 +680,19 @@
       "name": "zhuqu",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 114,
+      "name": "Сергей Astronavt",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 152
+      "value": 151
     },
     {
       "rank": 2,
@@ -696,12 +702,12 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 5,
@@ -721,7 +727,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 9,
@@ -800,37 +806,37 @@
     },
     {
       "rank": 24,
-      "name": "byk0t!?",
+      "name": "🤗",
       "value": 6
     },
     {
       "rank": 25,
+      "name": "byk0t!?",
+      "value": 6
+    },
+    {
+      "rank": 26,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 29,
-      "name": "Олег",
-      "value": 5
-    },
-    {
       "rank": 30,
-      "name": "🤗",
+      "name": "Олег",
       "value": 5
     },
     {
@@ -948,7 +954,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 4,
@@ -1037,11 +1043,16 @@
     },
     {
       "rank": 21,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 22,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 23,
       "name": "Arewoe",
       "value": 1
     }
