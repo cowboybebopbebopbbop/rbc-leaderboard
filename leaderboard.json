@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T10:11:22+00:00",
-  "count": 112,
+  "updated": "2026-08-19T11:11:23+00:00",
+  "count": 113,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4071,
+      "value": 4072,
       "move": 0
     },
     {
@@ -674,18 +674,24 @@
       "name": "zhuqu",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 113,
+      "name": "Олег",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 152
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 146
+      "value": 144
     },
     {
       "rank": 3,
@@ -715,7 +721,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 37
+      "value": 35
     },
     {
       "rank": 9,
@@ -932,7 +938,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 2,
@@ -1031,21 +1037,16 @@
     },
     {
       "rank": 21,
-      "name": "L G",
-      "value": 1
-    },
-    {
-      "rank": 22,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Arewoe",
       "value": 1
     }
