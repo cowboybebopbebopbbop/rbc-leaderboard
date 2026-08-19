@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T02:26:31+00:00",
-  "count": 111,
+  "updated": "2026-08-19T03:26:31+00:00",
+  "count": 112,
   "has_movement": true,
   "all": [
     {
@@ -668,6 +668,12 @@
       "name": "X Maolady",
       "value": 1,
       "move": 0
+    },
+    {
+      "rank": 112,
+      "name": "zhuqu",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
