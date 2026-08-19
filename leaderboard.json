@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T09:11:21+00:00",
+  "updated": "2026-08-19T10:11:22+00:00",
   "count": 112,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4066,
+      "value": 4071,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1049,
+      "value": 1050,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 799,
+      "value": 800,
       "move": 0
     },
     {
@@ -680,17 +680,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 147
+      "value": 151
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 147
+      "value": 146
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 56
+      "value": 57
     },
     {
       "rank": 4,
@@ -704,13 +704,13 @@
     },
     {
       "rank": 6,
-      "name": "Ольга",
+      "name": "ᴦоᴧод",
       "value": 42
     },
     {
       "rank": 7,
-      "name": "ᴦоᴧод",
-      "value": 42
+      "name": "Ольга",
+      "value": 41
     },
     {
       "rank": 8,
@@ -744,17 +744,17 @@
     },
     {
       "rank": 14,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Синдбад Мореход",
       "value": 13
     },
     {
       "rank": 15,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 12
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 12
     },
     {
@@ -932,17 +932,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 32
+      "value": 37
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 4,
@@ -1016,7 +1016,7 @@
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
       "rank": 23,
-      "name": "Синдбад Мореход",
+      "name": "@wavesscalper",
       "value": 1
     },
     {
