@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:12:19+00:00",
+  "updated": "2026-08-19T19:12:26+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1062,
+      "value": 1063,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 292,
+      "value": 293,
       "move": 1
     },
     {
@@ -311,15 +311,15 @@
     },
     {
       "rank": 52,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 38,
-      "move": 0
+      "name": "Bazylev Nickolai",
+      "value": 39,
+      "move": 1
     },
     {
       "rank": 53,
-      "name": "Bazylev Nickolai",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 38,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 54,
@@ -419,51 +419,51 @@
     },
     {
       "rank": 70,
-      "name": "Юрий",
-      "value": 8,
-      "move": 0
+      "name": "Олег",
+      "value": 9,
+      "move": null
     },
     {
       "rank": 71,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 72,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "xxx",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 73,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 74,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 75,
-      "name": "Daniil",
+      "name": "***",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 76,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Daniil",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 77,
-      "name": "Олег",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": null
+      "move": -1
     },
     {
       "rank": 78,
@@ -702,7 +702,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 69
+      "value": 70
     },
     {
       "rank": 4,
@@ -781,62 +781,62 @@
     },
     {
       "rank": 19,
+      "name": "Олег",
+      "value": 8
+    },
+    {
+      "rank": 20,
       "name": "Сергей",
       "value": 7
     },
     {
-      "rank": 20,
-      "name": "xxx",
-      "value": 7
-    },
-    {
       "rank": 21,
-      "name": ".",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 22,
+      "name": "xxx",
+      "value": 7
+    },
+    {
+      "rank": 23,
+      "name": ".",
+      "value": 7
+    },
+    {
+      "rank": 24,
       "name": "Manis Love",
       "value": 6
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 6
     },
     {
-      "rank": 24,
-      "name": "🤗",
-      "value": 6
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "name": "byk0t!?",
       "value": 6
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 29,
-      "name": "Charlie Shefelman",
-      "value": 5
-    },
-    {
       "rank": 30,
-      "name": "Олег",
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
@@ -906,37 +906,37 @@
     },
     {
       "rank": 44,
-      "name": "Роман Земнухов | Ведущий",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "❤️",
+      "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "Алексей",
+      "name": "❤️",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "ilya Kalashnikov",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Толян",
+      "name": "ilya Kalashnikov",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "Валерия Sweetandflow",
+      "name": "Толян",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Max",
+      "name": "Валерия Sweetandflow",
       "value": 1
     }
   ],
@@ -949,7 +949,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 3,
@@ -978,23 +978,23 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
+      "name": "Олег",
       "value": 8
     },
     {
       "rank": 9,
+      "name": "ᴦоᴧод",
+      "value": 8
+    },
+    {
+      "rank": 10,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
-    },
-    {
-      "rank": 11,
-      "name": "Олег",
-      "value": 5
     },
     {
       "rank": 12,
@@ -1028,36 +1028,41 @@
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 19,
+      "name": "Синдбад Мореход",
+      "value": 2
+    },
+    {
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 22,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 23,
-      "name": "@wavesscalper",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 24,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 25,
       "name": "Arewoe",
       "value": 1
     }
