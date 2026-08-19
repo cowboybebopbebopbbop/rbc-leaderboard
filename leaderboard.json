@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:12:02+00:00",
+  "updated": "2026-08-19T16:12:08+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4074,
+      "value": 4075,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1782,
+      "value": 1784,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1053,
+      "value": 1061,
       "move": 0
     },
     {
@@ -692,17 +692,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 152
+      "value": 153
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 142
+      "value": 141
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 60
+      "value": 68
     },
     {
       "rank": 4,
@@ -716,13 +716,13 @@
     },
     {
       "rank": 6,
-      "name": "ᴦоᴧод",
-      "value": 42
+      "name": "Ольга",
+      "value": 43
     },
     {
       "rank": 7,
-      "name": "Ольга",
-      "value": 41
+      "name": "ᴦоᴧод",
+      "value": 42
     },
     {
       "rank": 8,
@@ -737,7 +737,7 @@
     {
       "rank": 10,
       "name": "Алехандро)🍅 Белов🍅",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 11,
@@ -944,27 +944,27 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 2,
+      "name": "a l",
+      "value": 23
+    },
+    {
+      "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 21
     },
     {
-      "rank": 3,
-      "name": "a l",
-      "value": 15
-    },
-    {
       "rank": 4,
-      "name": "Viktor",
-      "value": 11
+      "name": "🅾🅻🅶🅰",
+      "value": 12
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 10
+      "name": "Viktor",
+      "value": 11
     },
     {
       "rank": 6,
