@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:11:17+00:00",
+  "updated": "2026-08-19T06:11:18+00:00",
   "count": 112,
   "has_movement": true,
   "all": [
@@ -695,7 +695,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 5,
@@ -1031,21 +1031,16 @@
     },
     {
       "rank": 21,
-      "name": "den",
-      "value": 1
-    },
-    {
-      "rank": 22,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Arewoe",
       "value": 1
     }
