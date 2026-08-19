@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:11:20+00:00",
+  "updated": "2026-08-19T09:11:21+00:00",
   "count": 112,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1781,
+      "value": 1782,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1706,
+      "value": 1707,
       "move": 0
     },
     {
@@ -715,7 +715,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 9,
@@ -849,17 +849,17 @@
     },
     {
       "rank": 35,
-      "name": "Daniil",
-      "value": 4
-    },
-    {
-      "rank": 36,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "terminal lucidity",
+      "value": 3
+    },
+    {
+      "rank": 37,
+      "name": "Daniil",
       "value": 3
     },
     {
@@ -947,7 +947,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 5,
@@ -977,7 +977,7 @@
     {
       "rank": 10,
       "name": "Archie",
-      "value": 5
+      "value": 6
     },
     {
       "rank": 11,
