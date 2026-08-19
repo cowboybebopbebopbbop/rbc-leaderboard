@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:12:38+00:00",
+  "updated": "2026-08-19T22:12:42+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4076,
+      "value": 4077,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 931,
+      "value": 934,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 171,
+      "value": 172,
       "move": 0
     },
     {
@@ -692,7 +692,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 152
     },
     {
       "rank": 2,
@@ -731,13 +731,13 @@
     },
     {
       "rank": 9,
-      "name": "Князь Владимир С",
-      "value": 20
+      "name": "Viktor",
+      "value": 21
     },
     {
       "rank": 10,
-      "name": "Viktor",
-      "value": 18
+      "name": "Князь Владимир С",
+      "value": 20
     },
     {
       "rank": 11,
@@ -786,28 +786,28 @@
     },
     {
       "rank": 20,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 7
     },
     {
       "rank": 21,
-      "name": "🤗",
+      "name": "Сергей",
       "value": 7
     },
     {
       "rank": 22,
-      "name": "xxx",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "xxx",
       "value": 7
     },
     {
       "rank": 24,
-      "name": "Manis Love",
-      "value": 6
+      "name": ".",
+      "value": 7
     },
     {
       "rank": 25,
@@ -944,7 +944,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -959,7 +959,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 12
+      "value": 15
     },
     {
       "rank": 5,
@@ -1038,31 +1038,36 @@
     },
     {
       "rank": 20,
-      "name": "DenisNazarov",
+      "name": "Manis Love",
       "value": 1
     },
     {
       "rank": 21,
-      "name": "terminal lucidity",
+      "name": "DenisNazarov",
       "value": 1
     },
     {
       "rank": 22,
-      "name": "Князь Владимир С",
+      "name": "terminal lucidity",
       "value": 1
     },
     {
       "rank": 23,
-      "name": "Bazylev Nickolai",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 25,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 26,
       "name": "Arewoe",
       "value": 1
     }
