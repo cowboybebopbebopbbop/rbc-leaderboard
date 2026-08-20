@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T12:13:58+00:00",
+  "updated": "2026-08-20T13:14:04+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4084,
+      "value": 4085,
       "move": 0
     },
     {
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1711,
+      "value": 1712,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1077,
+      "value": 1078,
       "move": 0
     },
     {
@@ -692,17 +692,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 152
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 138
+      "value": 137
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 84
+      "value": 85
     },
     {
       "rank": 4,
@@ -727,7 +727,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 9,
@@ -742,7 +742,7 @@
     {
       "rank": 11,
       "name": "Vitaliy",
-      "value": 18
+      "value": 17
     },
     {
       "rank": 12,
@@ -796,18 +796,18 @@
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
-      "value": 7
-    },
-    {
-      "rank": 23,
       "name": "🤗",
       "value": 7
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": ".",
       "value": 7
+    },
+    {
+      "rank": 24,
+      "name": "DenisNazarov",
+      "value": 6
     },
     {
       "rank": 25,
@@ -944,12 +944,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 3,
@@ -969,7 +969,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 7,
