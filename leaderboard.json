@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T21:17:03+00:00",
+  "updated": "2026-08-20T22:17:08+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Eugene",
-      "value": 553,
+      "value": 554,
       "move": 0
     },
     {
@@ -796,22 +796,22 @@
     },
     {
       "rank": 22,
-      "name": "🤗",
+      "name": "Eugene",
       "value": 7
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 24,
-      "name": "DenisNazarov",
-      "value": 6
+      "name": ".",
+      "value": 7
     },
     {
       "rank": 25,
-      "name": "Eugene",
+      "name": "DenisNazarov",
       "value": 6
     },
     {
@@ -988,17 +988,17 @@
     },
     {
       "rank": 10,
+      "name": "Eugene",
+      "value": 7
+    },
+    {
+      "rank": 11,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 11,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 6
-    },
-    {
       "rank": 12,
-      "name": "Eugene",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
