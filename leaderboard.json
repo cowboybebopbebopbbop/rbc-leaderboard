@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:12:58+00:00",
+  "updated": "2026-08-20T02:13:04+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 934,
+      "value": 937,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 172,
+      "value": 173,
       "move": 0
     },
     {
@@ -732,7 +732,7 @@
     {
       "rank": 9,
       "name": "Viktor",
-      "value": 21
+      "value": 24
     },
     {
       "rank": 10,
@@ -781,13 +781,13 @@
     },
     {
       "rank": 19,
-      "name": "Олег",
+      "name": "Manis Love",
       "value": 8
     },
     {
       "rank": 20,
-      "name": "Manis Love",
-      "value": 7
+      "name": "Олег",
+      "value": 8
     },
     {
       "rank": 21,
@@ -959,7 +959,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 15
+      "value": 18
     },
     {
       "rank": 5,
@@ -1018,33 +1018,33 @@
     },
     {
       "rank": 16,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 17,
-      "name": "Сергей",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 18,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "🤗",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "Manis Love",
-      "value": 1
+      "name": "Синдбад Мореход",
+      "value": 2
     },
     {
       "rank": 22,
