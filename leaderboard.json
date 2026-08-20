@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:42:58+00:00",
+  "updated": "2026-08-20T01:12:58+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Eugene",
-      "value": 547,
+      "value": 550,
       "move": 0
     },
     {
@@ -876,67 +876,67 @@
     },
     {
       "rank": 38,
-      "name": "Daniil",
+      "name": "Eugene",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "I",
+      "name": "Daniil",
       "value": 3
     },
     {
       "rank": 40,
+      "name": "I",
+      "value": 3
+    },
+    {
+      "rank": 41,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Роман Земнухов | Ведущий",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "ilya Kalashnikov",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Толян",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Валерия Sweetandflow",
+      "name": "Толян",
       "value": 1
     }
   ],
@@ -1008,66 +1008,71 @@
     },
     {
       "rank": 14,
+      "name": "Eugene",
+      "value": 3
+    },
+    {
+      "rank": 15,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Arewoe",
       "value": 1
     }
