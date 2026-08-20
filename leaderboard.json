@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:14:16+00:00",
+  "updated": "2026-08-20T16:14:22+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1080,
+      "value": 1081,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 802,
+      "value": 803,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "A.",
-      "value": 12,
+      "value": 13,
       "move": 0
     },
     {
@@ -692,17 +692,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 150
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 136
+      "value": 135
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 87
+      "value": 88
     },
     {
       "rank": 4,
@@ -752,7 +752,7 @@
     {
       "rank": 13,
       "name": "Синдбад Мореход",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 14,
@@ -766,13 +766,13 @@
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "A.",
       "value": 12
     },
     {
       "rank": 17,
-      "name": "A.",
-      "value": 11
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 12
     },
     {
       "rank": 18,
@@ -949,7 +949,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 3,
@@ -1008,28 +1008,28 @@
     },
     {
       "rank": 14,
-      "name": "Marat Miheev",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Marat Miheev",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
-      "value": 4
+      "name": ".",
+      "value": 5
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "A.",
-      "value": 2
+      "name": "Manis Love",
+      "value": 3
     },
     {
       "rank": 19,
