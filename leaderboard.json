@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:13:15+00:00",
+  "updated": "2026-08-20T05:13:20+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1710,
+      "value": 1711,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1067,
+      "value": 1068,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 173,
+      "value": 174,
       "move": 0
     },
     {
@@ -702,7 +702,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 74
+      "value": 75
     },
     {
       "rank": 4,
@@ -782,7 +782,7 @@
     {
       "rank": 19,
       "name": "Manis Love",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 20,
@@ -881,13 +881,13 @@
     },
     {
       "rank": 39,
-      "name": "Daniil",
+      "name": "I",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "I",
-      "value": 3
+      "name": "Daniil",
+      "value": 2
     },
     {
       "rank": 41,
@@ -949,7 +949,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 30
     },
     {
       "rank": 3,
@@ -969,7 +969,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 7,
@@ -1013,12 +1013,12 @@
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 2
+      "name": "Manis Love",
+      "value": 3
     },
     {
       "rank": 16,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 2
     },
     {
