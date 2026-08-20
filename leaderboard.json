@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T03:13:09+00:00",
+  "updated": "2026-08-20T04:13:15+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -36,13 +36,13 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1066,
+      "value": 1067,
       "move": 0
     },
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 937,
+      "value": 938,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Eugene",
-      "value": 550,
+      "value": 551,
       "move": 0
     },
     {
@@ -697,12 +697,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 140
+      "value": 139
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 73
+      "value": 74
     },
     {
       "rank": 4,
@@ -732,7 +732,7 @@
     {
       "rank": 9,
       "name": "Viktor",
-      "value": 24
+      "value": 25
     },
     {
       "rank": 10,
@@ -851,7 +851,7 @@
     },
     {
       "rank": 33,
-      "name": "den",
+      "name": "Eugene",
       "value": 4
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "rank": 38,
-      "name": "Eugene",
+      "name": "den",
       "value": 3
     },
     {
@@ -949,7 +949,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 28
+      "value": 29
     },
     {
       "rank": 3,
@@ -959,7 +959,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 5,
@@ -1009,7 +1009,7 @@
     {
       "rank": 14,
       "name": "Eugene",
-      "value": 3
+      "value": 4
     },
     {
       "rank": 15,
