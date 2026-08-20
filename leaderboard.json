@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:13:20+00:00",
+  "updated": "2026-08-20T06:13:25+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4077,
+      "value": 4078,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1784,
+      "value": 1785,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 938,
+      "value": 939,
       "move": 0
     },
     {
@@ -692,7 +692,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 152
+      "value": 153
     },
     {
       "rank": 2,
@@ -717,7 +717,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 7,
@@ -732,7 +732,7 @@
     {
       "rank": 9,
       "name": "Viktor",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 10,
@@ -944,7 +944,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
@@ -959,12 +959,12 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 6,
