@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T11:13:53+00:00",
+  "updated": "2026-08-20T12:13:58+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4082,
+      "value": 4084,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1076,
+      "value": 1077,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Eugene",
-      "value": 552,
+      "value": 553,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 195,
+      "value": 196,
       "move": 0
     },
     {
@@ -692,7 +692,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 153
+      "value": 151
     },
     {
       "rank": 2,
@@ -702,7 +702,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 83
+      "value": 84
     },
     {
       "rank": 4,
@@ -727,7 +727,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 9,
@@ -796,42 +796,42 @@
     },
     {
       "rank": 22,
-      "name": "🤗",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
       "rank": 23,
-      "name": ".",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 24,
-      "name": "DenisNazarov",
-      "value": 6
+      "name": ".",
+      "value": 7
     },
     {
       "rank": 25,
-      "name": "byk0t!?",
+      "name": "Eugene",
       "value": 6
     },
     {
       "rank": 26,
+      "name": "byk0t!?",
+      "value": 6
+    },
+    {
+      "rank": 27,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 28,
-      "name": "iDiklonius",
-      "value": 5
-    },
-    {
       "rank": 29,
-      "name": "Eugene",
+      "name": "iDiklonius",
       "value": 5
     },
     {
@@ -944,12 +944,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 50
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 3,
@@ -998,12 +998,12 @@
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 5
+      "name": "Eugene",
+      "value": 6
     },
     {
       "rank": 13,
-      "name": "Eugene",
+      "name": "Vitaliy",
       "value": 5
     },
     {
@@ -1033,28 +1033,28 @@
     },
     {
       "rank": 19,
-      "name": "L G",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "Сергей",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "🤗",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "DenisNazarov",
-      "value": 1
+      "name": "🤗",
+      "value": 2
     },
     {
       "rank": 24,
