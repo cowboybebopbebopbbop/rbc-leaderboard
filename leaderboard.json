@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T20:16:57+00:00",
+  "updated": "2026-08-20T21:17:03+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -988,38 +988,38 @@
     },
     {
       "rank": 10,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Eugene",
       "value": 6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Marat Miheev",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": ".",
       "value": 5
+    },
+    {
+      "rank": 16,
+      "name": "Сергей",
+      "value": 4
     },
     {
       "rank": 17,
