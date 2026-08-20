@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:12:48+00:00",
+  "updated": "2026-08-20T00:12:53+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -181,13 +181,13 @@
       "rank": 30,
       "name": ".",
       "value": 129,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 31,
       "name": "Andrey Tugarin",
       "value": 128,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 32,
@@ -271,13 +271,13 @@
       "rank": 45,
       "name": "Сергей",
       "value": 69,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 46,
       "name": "AstronaVt",
       "value": 66,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 47,
@@ -403,19 +403,19 @@
       "rank": 67,
       "name": "A.",
       "value": 12,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 68,
       "name": "Pike",
       "value": 12,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 69,
       "name": "X888",
       "value": 11,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 70,
@@ -727,7 +727,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 9,
