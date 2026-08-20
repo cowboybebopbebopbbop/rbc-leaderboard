@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:14:27+00:00",
+  "updated": "2026-08-20T18:14:32+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1788,
+      "value": 1789,
       "move": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "rank": 32,
       "name": "Charlie Shefelman",
-      "value": 123,
+      "value": 124,
       "move": 0
     },
     {
@@ -692,7 +692,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 149
+      "value": 148
     },
     {
       "rank": 2,
@@ -702,32 +702,32 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 87
+      "value": 86
     },
     {
       "rank": 4,
-      "name": "Ольга",
-      "value": 46
-    },
-    {
-      "rank": 5,
       "name": "Olga Goncharova",
       "value": 46
     },
     {
-      "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 43
+      "rank": 5,
+      "name": "Ольга",
+      "value": 45
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "ᴦоᴧод",
       "value": 43
     },
     {
+      "rank": 7,
+      "name": "Zero-sum Gamer",
+      "value": 42
+    },
+    {
       "rank": 8,
       "name": "Archie",
-      "value": 32
+      "value": 30
     },
     {
       "rank": 9,
@@ -777,7 +777,7 @@
     {
       "rank": 18,
       "name": "Andrey Tugarin",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 19,
@@ -816,27 +816,27 @@
     },
     {
       "rank": 26,
-      "name": "byk0t!?",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
       "rank": 27,
+      "name": "byk0t!?",
+      "value": 6
+    },
+    {
+      "rank": 28,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 29,
-      "name": "iDiklonius",
-      "value": 5
-    },
-    {
       "rank": 30,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 5
     },
     {
@@ -959,7 +959,7 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 5,
@@ -1068,16 +1068,21 @@
     },
     {
       "rank": 26,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "@wavesscalper",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 28,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "Arewoe",
       "value": 1
     }
