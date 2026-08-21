@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T14:18:41+00:00",
+  "updated": "2026-08-21T15:13:51+00:00",
   "count": 116,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4099,
+      "value": 4100,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Vitaliy",
-      "value": 73,
+      "value": 74,
       "move": 0
     },
     {
@@ -401,15 +401,15 @@
     },
     {
       "rank": 67,
-      "name": "Turchyn Gennadii",
-      "value": 13,
-      "move": -1
+      "name": "A.",
+      "value": 14,
+      "move": 0
     },
     {
       "rank": 68,
-      "name": "A.",
+      "name": "Turchyn Gennadii",
       "value": 13,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 69,
@@ -709,12 +709,12 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 133
+      "value": 132
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 97
+      "value": 96
     },
     {
       "rank": 4,
@@ -748,13 +748,13 @@
     },
     {
       "rank": 10,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 19
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 18
+      "name": "Князь Владимир С",
+      "value": 19
     },
     {
       "rank": 12,
@@ -768,13 +768,13 @@
     },
     {
       "rank": 14,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "A.",
       "value": 13
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 12
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
       "rank": 16,
@@ -956,7 +956,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 2,
@@ -1005,18 +1005,18 @@
     },
     {
       "rank": 11,
-      "name": "Eugene",
+      "name": "Vitaliy",
       "value": 7
     },
     {
       "rank": 12,
-      "name": "Marat Miheev",
+      "name": "Eugene",
       "value": 7
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
-      "value": 6
+      "name": "Marat Miheev",
+      "value": 7
     },
     {
       "rank": 14,
@@ -1040,18 +1040,18 @@
     },
     {
       "rank": 18,
-      "name": "Сергей",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "🤗",
+      "name": "Сергей",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "A.",
-      "value": 3
+      "name": "🤗",
+      "value": 4
     },
     {
       "rank": 21,
