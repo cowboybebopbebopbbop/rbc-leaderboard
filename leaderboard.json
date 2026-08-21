@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:14:20+00:00",
+  "updated": "2026-08-21T17:14:25+00:00",
   "count": 117,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4101,
+      "value": 4102,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1097,
+      "value": 1099,
       "move": 0
     },
     {
@@ -710,7 +710,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 156
+      "value": 157
     },
     {
       "rank": 2,
@@ -720,7 +720,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 96
+      "value": 98
     },
     {
       "rank": 4,
@@ -745,7 +745,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 9,
@@ -755,7 +755,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 11,
@@ -904,22 +904,22 @@
     },
     {
       "rank": 40,
-      "name": "I",
-      "value": 3
-    },
-    {
-      "rank": 41,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "X888",
+      "value": 2
+    },
+    {
+      "rank": 43,
+      "name": "I",
       "value": 2
     },
     {
@@ -962,12 +962,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 67
+      "value": 68
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 59
+      "value": 61
     },
     {
       "rank": 3,
