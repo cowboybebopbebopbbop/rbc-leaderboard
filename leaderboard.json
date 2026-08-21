@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:18:19+00:00",
+  "updated": "2026-08-21T11:18:25+00:00",
   "count": 115,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4097,
+      "value": 4098,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 293,
+      "value": 294,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 174,
+      "value": 177,
       "move": 0
     },
     {
@@ -698,7 +698,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 157
+      "value": 156
     },
     {
       "rank": 2,
@@ -777,17 +777,17 @@
     },
     {
       "rank": 17,
+      "name": "Manis Love",
+      "value": 11
+    },
+    {
+      "rank": 18,
       "name": "L G",
       "value": 10
     },
     {
-      "rank": 18,
-      "name": "Andrey Tugarin",
-      "value": 8
-    },
-    {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "Andrey Tugarin",
       "value": 8
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "🤗",
       "value": 8
     },
     {
@@ -817,7 +817,7 @@
     },
     {
       "rank": 25,
-      "name": "🤗",
+      "name": ".",
       "value": 7
     },
     {
@@ -950,7 +950,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 63
+      "value": 64
     },
     {
       "rank": 2,
@@ -999,47 +999,47 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 6
     },
     {
       "rank": 12,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "Vitaliy",
       "value": 6
     },
     {
       "rank": 13,
-      "name": "Marat Miheev",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
       "rank": 14,
-      "name": ".",
+      "name": "Marat Miheev",
       "value": 6
     },
     {
       "rank": 15,
+      "name": ".",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 18,
-      "name": "A.",
-      "value": 3
-    },
-    {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 3
     },
     {
@@ -1054,22 +1054,22 @@
     },
     {
       "rank": 22,
+      "name": "🤗",
+      "value": 3
+    },
+    {
+      "rank": 23,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 24,
-      "name": "Bazylev Nickolai",
-      "value": 2
-    },
-    {
       "rank": 25,
-      "name": "🤗",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
