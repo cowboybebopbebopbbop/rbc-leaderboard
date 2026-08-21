@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:14:25+00:00",
+  "updated": "2026-08-21T18:14:30+00:00",
   "count": 117,
   "has_movement": true,
   "all": [
@@ -754,13 +754,13 @@
     },
     {
       "rank": 10,
-      "name": "Vitaliy",
+      "name": "Князь Владимир С",
       "value": 19
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 19
+      "name": "Vitaliy",
+      "value": 18
     },
     {
       "rank": 12,
@@ -967,17 +967,17 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 61
+      "value": 60
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
-      "value": 23
+      "name": "Viktor",
+      "value": 21
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 21
+      "name": "🅾🅻🅶🅰",
+      "value": 20
     },
     {
       "rank": 5,
@@ -1026,47 +1026,47 @@
     },
     {
       "rank": 14,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 6
-    },
-    {
-      "rank": 15,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "terminal lucidity",
+      "value": 3
+    },
+    {
+      "rank": 22,
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
@@ -1101,11 +1101,6 @@
     },
     {
       "rank": 29,
-      "name": "@wavesscalper",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Arewoe",
       "value": 1
     }
