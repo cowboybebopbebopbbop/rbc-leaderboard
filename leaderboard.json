@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T15:13:51+00:00",
-  "count": 116,
+  "updated": "2026-08-21T16:14:20+00:00",
+  "count": 117,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4100,
+      "value": 4101,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 197,
+      "value": 198,
       "move": 0
     },
     {
@@ -251,20 +251,20 @@
     },
     {
       "rank": 42,
-      "name": "terminal lucidity",
-      "value": 74,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 75,
+      "move": 1
     },
     {
       "rank": 43,
-      "name": "Vitaliy",
+      "name": "terminal lucidity",
       "value": 74,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 44,
       "name": "Сергей",
-      "value": 70,
+      "value": 71,
       "move": 1
     },
     {
@@ -698,13 +698,19 @@
       "name": "Сергей Astronavt",
       "value": 1,
       "move": -2
+    },
+    {
+      "rank": 117,
+      "name": "Дмитрий",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 155
+      "value": 156
     },
     {
       "rank": 2,
@@ -749,7 +755,7 @@
     {
       "rank": 10,
       "name": "Vitaliy",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 11,
@@ -793,23 +799,23 @@
     },
     {
       "rank": 19,
-      "name": "🤗",
+      "name": "Сергей",
       "value": 9
     },
     {
       "rank": 20,
-      "name": "Сергей",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 21,
-      "name": "Олег",
+      "name": "DenisNazarov",
       "value": 8
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "Олег",
+      "value": 8
     },
     {
       "rank": 23,
@@ -956,7 +962,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 66
+      "value": 67
     },
     {
       "rank": 2,
@@ -995,17 +1001,17 @@
     },
     {
       "rank": 9,
-      "name": "Олег",
+      "name": "Vitaliy",
       "value": 8
     },
     {
       "rank": 10,
-      "name": "Manis Love",
-      "value": 7
+      "name": "Олег",
+      "value": 8
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 7
     },
     {
@@ -1035,28 +1041,28 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 18,
+      "name": "Синдбад Мореход",
+      "value": 5
+    },
+    {
+      "rank": 19,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 19,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
       "rank": 20,
-      "name": "🤗",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "DenisNazarov",
-      "value": 3
+      "name": "🤗",
+      "value": 4
     },
     {
       "rank": 22,
