@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:17:57+00:00",
+  "updated": "2026-08-21T07:18:02+00:00",
   "count": 114,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 196,
+      "value": 197,
       "move": 0
     },
     {
@@ -796,23 +796,23 @@
     },
     {
       "rank": 22,
-      "name": "Eugene",
+      "name": "DenisNazarov",
       "value": 7
     },
     {
       "rank": 23,
-      "name": "🤗",
+      "name": "Eugene",
       "value": 7
     },
     {
       "rank": 24,
-      "name": ".",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 25,
-      "name": "DenisNazarov",
-      "value": 6
+      "name": ".",
+      "value": 7
     },
     {
       "rank": 26,
@@ -973,22 +973,22 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 10
-    },
-    {
-      "rank": 8,
       "name": "ᴦоᴧод",
       "value": 9
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Олег",
       "value": 8
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Eugene",
+      "value": 7
+    },
+    {
+      "rank": 10,
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
@@ -1034,7 +1034,7 @@
     {
       "rank": 19,
       "name": "DenisNazarov",
-      "value": 2
+      "value": 3
     },
     {
       "rank": 20,
@@ -1043,22 +1043,22 @@
     },
     {
       "rank": 21,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 22,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "terminal lucidity",
+      "value": 1
+    },
+    {
+      "rank": 24,
+      "name": "Сергей",
       "value": 1
     },
     {
