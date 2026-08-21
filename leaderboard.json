@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:18:36+00:00",
+  "updated": "2026-08-21T14:18:41+00:00",
   "count": 116,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1096,
+      "value": 1097,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 831,
+      "value": 833,
       "move": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 294,
+      "value": 295,
       "move": 0
     },
     {
@@ -704,7 +704,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 157
+      "value": 155
     },
     {
       "rank": 2,
@@ -714,7 +714,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 96
+      "value": 97
     },
     {
       "rank": 4,
@@ -729,7 +729,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 7,
@@ -793,17 +793,17 @@
     },
     {
       "rank": 19,
+      "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 20,
       "name": "Сергей",
       "value": 8
     },
     {
-      "rank": 20,
-      "name": "Олег",
-      "value": 8
-    },
-    {
       "rank": 21,
-      "name": "🤗",
+      "name": "Олег",
       "value": 8
     },
     {
@@ -961,7 +961,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 3,
@@ -985,17 +985,17 @@
     },
     {
       "rank": 7,
+      "name": "Zero-sum Gamer",
+      "value": 10
+    },
+    {
+      "rank": 8,
       "name": "ᴦоᴧод",
       "value": 9
     },
     {
-      "rank": 8,
-      "name": "Олег",
-      "value": 8
-    },
-    {
       "rank": 9,
-      "name": "Zero-sum Gamer",
+      "name": "Олег",
       "value": 8
     },
     {
@@ -1045,22 +1045,22 @@
     },
     {
       "rank": 19,
+      "name": "🤗",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "terminal lucidity",
-      "value": 3
-    },
-    {
       "rank": 22,
-      "name": "🤗",
+      "name": "terminal lucidity",
       "value": 3
     },
     {
