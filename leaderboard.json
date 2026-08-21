@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:18:30+00:00",
+  "updated": "2026-08-21T13:18:36+00:00",
   "count": 116,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1095,
+      "value": 1096,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 177,
+      "value": 178,
       "move": 0
     },
     {
@@ -288,7 +288,7 @@
     {
       "rank": 48,
       "name": "Marat Miheev",
-      "value": 60,
+      "value": 61,
       "move": 0
     },
     {
@@ -714,7 +714,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 95
+      "value": 96
     },
     {
       "rank": 4,
@@ -793,32 +793,32 @@
     },
     {
       "rank": 19,
-      "name": "Andrey Tugarin",
-      "value": 8
-    },
-    {
-      "rank": 20,
       "name": "Сергей",
       "value": 8
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Олег",
       "value": 8
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 8
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 7
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Eugene",
+      "value": 7
+    },
+    {
+      "rank": 24,
+      "name": "Marat Miheev",
       "value": 7
     },
     {
@@ -838,8 +838,8 @@
     },
     {
       "rank": 28,
-      "name": "Marat Miheev",
-      "value": 6
+      "name": "Andrey Tugarin",
+      "value": 5
     },
     {
       "rank": 29,
@@ -961,7 +961,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 3,
@@ -1000,27 +1000,27 @@
     },
     {
       "rank": 10,
-      "name": "Eugene",
+      "name": "Manis Love",
       "value": 7
     },
     {
       "rank": 11,
-      "name": "Manis Love",
-      "value": 6
+      "name": "Eugene",
+      "value": 7
     },
     {
       "rank": 12,
+      "name": "Marat Miheev",
+      "value": 7
+    },
+    {
+      "rank": 13,
       "name": "Vitaliy",
       "value": 6
     },
     {
-      "rank": 13,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 6
-    },
-    {
       "rank": 14,
-      "name": "Marat Miheev",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
