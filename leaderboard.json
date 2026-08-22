@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T00:45:26+00:00",
+  "updated": "2026-08-22T01:15:03+00:00",
   "count": 117,
   "has_movement": true,
   "all": [
@@ -318,7 +318,7 @@
     {
       "rank": 53,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 38,
+      "value": 39,
       "move": 0
     },
     {
@@ -779,13 +779,13 @@
     },
     {
       "rank": 15,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 13
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 12
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 13
     },
     {
       "rank": 17,
@@ -1086,16 +1086,21 @@
     },
     {
       "rank": 26,
-      "name": "Сергей",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 1
     },
     {
       "rank": 28,
+      "name": "Князь Владимир С",
+      "value": 1
+    },
+    {
+      "rank": 29,
       "name": "Charlie Shefelman",
       "value": 1
     }
