@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:15:56+00:00",
+  "updated": "2026-08-22T12:16:01+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 325,
+      "value": 328,
       "move": 0
     },
     {
@@ -722,7 +722,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 156
+      "value": 155
     },
     {
       "rank": 2,
@@ -737,7 +737,7 @@
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 5,
@@ -791,12 +791,12 @@
     },
     {
       "rank": 15,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 13
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 14
     },
     {
       "rank": 16,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 13
     },
     {
@@ -841,17 +841,17 @@
     },
     {
       "rank": 25,
-      "name": ".",
-      "value": 7
-    },
-    {
-      "rank": 26,
       "name": "Charlie Shefelman",
       "value": 6
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "byk0t!?",
+      "value": 6
+    },
+    {
+      "rank": 27,
+      "name": ".",
       "value": 6
     },
     {
@@ -1083,36 +1083,41 @@
     },
     {
       "rank": 23,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 24,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 1
     }
