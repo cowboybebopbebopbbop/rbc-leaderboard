@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T06:15:30+00:00",
-  "count": 118,
+  "updated": "2026-08-22T07:15:36+00:00",
+  "count": 119,
   "has_movement": true,
   "all": [
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1102,
+      "value": 1103,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 803,
+      "value": 805,
       "move": 0
     },
     {
@@ -395,15 +395,15 @@
     },
     {
       "rank": 66,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -1
+      "name": "A.",
+      "value": 15,
+      "move": 1
     },
     {
       "rank": 67,
-      "name": "A.",
+      "name": "vpidelks",
       "value": 14,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 68,
@@ -710,6 +710,12 @@
       "name": "Жабыч",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 119,
+      "name": "Kirill",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -726,7 +732,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 101
+      "value": 102
     },
     {
       "rank": 4,
@@ -770,18 +776,18 @@
     },
     {
       "rank": 12,
+      "name": "Синдбад Мореход",
+      "value": 18
+    },
+    {
+      "rank": 13,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 17
     },
     {
-      "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 16
-    },
-    {
       "rank": 14,
       "name": "A.",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 15,
@@ -973,7 +979,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 63
+      "value": 64
     },
     {
       "rank": 3,
@@ -1022,38 +1028,38 @@
     },
     {
       "rank": 12,
-      "name": "Marat Miheev",
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
       "rank": 13,
+      "name": "Marat Miheev",
+      "value": 7
+    },
+    {
+      "rank": 14,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 14,
-      "name": "Aся",
-      "value": 5
-    },
-    {
       "rank": 15,
-      "name": "Сергей",
+      "name": "A.",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Aся",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "ᴦоᴧод",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "A.",
-      "value": 4
+      "name": "ᴦоᴧод",
+      "value": 5
     },
     {
       "rank": 19,
