@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:16:01+00:00",
+  "updated": "2026-08-22T13:16:07+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 178,
+      "value": 179,
       "move": 0
     },
     {
@@ -347,21 +347,21 @@
     },
     {
       "rank": 58,
+      "name": "Руслан Иванов",
+      "value": 24,
+      "move": 1
+    },
+    {
+      "rank": 59,
       "name": "Lina",
       "value": 24,
       "move": null
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "Толян",
       "value": 21,
-      "move": -1
-    },
-    {
-      "rank": 60,
-      "name": "Руслан Иванов",
-      "value": 21,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 61,
@@ -727,7 +727,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 129
+      "value": 128
     },
     {
       "rank": 3,
@@ -802,7 +802,7 @@
     {
       "rank": 17,
       "name": "Manis Love",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 18,
@@ -906,67 +906,67 @@
     },
     {
       "rank": 38,
-      "name": "den",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 39,
+      "name": "den",
+      "value": 3
+    },
+    {
+      "rank": 40,
       "name": "Капибара",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "xxx",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Алексей",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "ilya Kalashnikov",
+      "name": "Алексей",
       "value": 1
     }
   ],
@@ -1008,18 +1008,18 @@
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 8
     },
     {
       "rank": 9,
-      "name": "Олег",
+      "name": "Vitaliy",
       "value": 8
     },
     {
       "rank": 10,
-      "name": "Manis Love",
-      "value": 7
+      "name": "Олег",
+      "value": 8
     },
     {
       "rank": 11,
@@ -1083,41 +1083,46 @@
     },
     {
       "rank": 23,
-      "name": "@wavesscalper",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 24,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 25,
       "name": "L G",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     }
