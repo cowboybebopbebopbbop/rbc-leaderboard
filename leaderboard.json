@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:46:17+00:00",
+  "updated": "2026-08-22T23:46:22+00:00",
   "count": 120,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 805,
+      "value": 806,
       "move": 0
     },
     {
@@ -782,17 +782,17 @@
     },
     {
       "rank": 12,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "Синдбад Мореход",
       "value": 16
     },
     {
       "rank": 13,
-      "name": "A.",
-      "value": 15
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 16
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "A.",
       "value": 15
     },
     {
@@ -1029,12 +1029,12 @@
     },
     {
       "rank": 11,
-      "name": "Eugene",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
+      "name": "Eugene",
       "value": 7
     },
     {
