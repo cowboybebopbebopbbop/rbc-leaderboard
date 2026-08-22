@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:16:18+00:00",
+  "updated": "2026-08-22T16:16:31+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 328,
+      "value": 330,
       "move": 0
     },
     {
@@ -722,12 +722,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 154
+      "value": 151
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 127
+      "value": 125
     },
     {
       "rank": 3,
@@ -781,18 +781,18 @@
     },
     {
       "rank": 13,
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 16
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 15
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Синдбад Мореход",
       "value": 15
-    },
-    {
-      "rank": 15,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 14
     },
     {
       "rank": 16,
@@ -1058,37 +1058,37 @@
     },
     {
       "rank": 18,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 5
     },
     {
       "rank": 19,
+      "name": "ᴦоᴧод",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "terminal lucidity",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
-      "rank": 23,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
       "rank": 24,
-      "name": "@wavesscalper",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
