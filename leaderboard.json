@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T17:45:51+00:00",
+  "updated": "2026-08-22T18:45:56+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -727,7 +727,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 125
+      "value": 122
     },
     {
       "rank": 3,
@@ -801,13 +801,13 @@
     },
     {
       "rank": 17,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 12
+      "name": "L G",
+      "value": 10
     },
     {
       "rank": 18,
-      "name": "L G",
-      "value": 10
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 9
     },
     {
       "rank": 19,
@@ -846,37 +846,37 @@
     },
     {
       "rank": 26,
-      "name": "Charlie Shefelman",
-      "value": 6
-    },
-    {
-      "rank": 27,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Andrey Tugarin",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 32,
+      "name": "Charlie Shefelman",
       "value": 5
     },
     {
