@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:45:56+00:00",
+  "updated": "2026-08-22T19:46:02+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -311,15 +311,15 @@
     },
     {
       "rank": 52,
-      "name": "Bazylev Nickolai",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 40,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 53,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 39,
-      "move": 0
+      "name": "Bazylev Nickolai",
+      "value": 40,
+      "move": -1
     },
     {
       "rank": 54,
@@ -727,7 +727,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 122
+      "value": 121
     },
     {
       "rank": 3,
@@ -752,7 +752,7 @@
     {
       "rank": 7,
       "name": "ᴦоᴧод",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 8,
@@ -776,38 +776,38 @@
     },
     {
       "rank": 12,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 17
-    },
-    {
-      "rank": 13,
       "name": "wavesscalper | скальпер по волнам",
       "value": 16
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 15
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 15
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Manis Love",
-      "value": 12
+      "value": 11
+    },
+    {
+      "rank": 16,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 10
     },
     {
       "rank": 17,
-      "name": "L G",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 10
     },
     {
       "rank": 18,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 9
+      "name": "L G",
+      "value": 10
     },
     {
       "rank": 19,
@@ -911,47 +911,47 @@
     },
     {
       "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
-      "rank": 40,
-      "name": "Капибара",
-      "value": 2
-    },
-    {
-      "rank": 41,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 40,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 41,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 42,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 43,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 44,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 45,
+      "name": "Серхио Ле'Трас",
+      "value": 1
+    },
+    {
+      "rank": 46,
       "name": "Turchyn Gennadii",
+      "value": 1
+    },
+    {
+      "rank": 47,
+      "name": "Капибара",
       "value": 1
     },
     {
@@ -1093,23 +1093,23 @@
     },
     {
       "rank": 25,
-      "name": "L G",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "L G",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Bazylev Nickolai",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 1
+      "name": "Bazylev Nickolai",
+      "value": 2
     },
     {
       "rank": 29,
