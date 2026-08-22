@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T08:15:41+00:00",
+  "updated": "2026-08-22T09:15:46+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4103,
+      "value": 4104,
       "move": 0
     },
     {
@@ -722,7 +722,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 155
+      "value": 156
     },
     {
       "rank": 2,
@@ -896,23 +896,23 @@
     },
     {
       "rank": 36,
-      "name": "Капибара",
-      "value": 4
-    },
-    {
-      "rank": 37,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "den",
       "value": 3
+    },
+    {
+      "rank": 39,
+      "name": "Капибара",
+      "value": 2
     },
     {
       "rank": 40,
@@ -956,17 +956,17 @@
     },
     {
       "rank": 48,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 1
-    },
-    {
-      "rank": 49,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Алексей",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "ilya Kalashnikov",
       "value": 1
     }
   ],
@@ -974,7 +974,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 69
+      "value": 70
     },
     {
       "rank": 2,
