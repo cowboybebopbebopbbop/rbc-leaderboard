@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T02:15:08+00:00",
-  "count": 117,
+  "updated": "2026-08-22T03:15:14+00:00",
+  "count": 118,
   "has_movement": true,
   "all": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1714,
+      "value": 1715,
       "move": 0
     },
     {
@@ -704,6 +704,12 @@
       "name": "Дмитрий",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 118,
+      "name": "Жабыч",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -745,7 +751,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 9,
@@ -982,7 +988,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
