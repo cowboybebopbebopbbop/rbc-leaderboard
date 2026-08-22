@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:16:07+00:00",
+  "updated": "2026-08-22T14:16:13+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -722,12 +722,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 155
+      "value": 154
     },
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 128
+      "value": 127
     },
     {
       "rank": 3,
@@ -762,7 +762,7 @@
     {
       "rank": 9,
       "name": "Archie",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 10,
@@ -846,42 +846,42 @@
     },
     {
       "rank": 26,
-      "name": "byk0t!?",
-      "value": 6
-    },
-    {
-      "rank": 27,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Andrey Tugarin",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Aся",
       "value": 5
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 33,
+      "name": "byk0t!?",
       "value": 5
     },
     {
@@ -941,32 +941,32 @@
     },
     {
       "rank": 45,
-      "name": "xxx",
-      "value": 2
-    },
-    {
-      "rank": 46,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Алексей",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "ilya Kalashnikov",
       "value": 1
     }
   ],
