@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T16:16:31+00:00",
+  "updated": "2026-08-22T17:16:34+00:00",
   "count": 119,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Aся",
-      "value": 1774,
+      "value": 1775,
       "move": 0
     },
     {
@@ -732,12 +732,12 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 103
+      "value": 100
     },
     {
       "rank": 4,
       "name": "Ольга",
-      "value": 48
+      "value": 46
     },
     {
       "rank": 5,
@@ -796,12 +796,12 @@
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 13
+      "name": "Manis Love",
+      "value": 12
     },
     {
       "rank": 17,
-      "name": "Manis Love",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 12
     },
     {
@@ -841,22 +841,22 @@
     },
     {
       "rank": 25,
-      "name": "Charlie Shefelman",
+      "name": "Aся",
       "value": 6
     },
     {
       "rank": 26,
-      "name": ".",
+      "name": "Charlie Shefelman",
       "value": 6
     },
     {
       "rank": 27,
-      "name": "Andrey Tugarin",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 28,
-      "name": "Aся",
+      "name": "Andrey Tugarin",
       "value": 5
     },
     {
@@ -886,33 +886,33 @@
     },
     {
       "rank": 34,
-      "name": "Серхио Ле'Трас",
-      "value": 4
-    },
-    {
-      "rank": 35,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "den",
       "value": 3
+    },
+    {
+      "rank": 39,
+      "name": "Серхио Ле'Трас",
+      "value": 2
     },
     {
       "rank": 40,
@@ -1043,13 +1043,13 @@
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Aся",
       "value": 6
     },
     {
       "rank": 16,
-      "name": "Aся",
-      "value": 5
+      "name": ".",
+      "value": 6
     },
     {
       "rank": 17,
