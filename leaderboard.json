@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:03:24+00:00",
+  "updated": "2026-08-23T16:03:29+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -740,7 +740,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 151
+      "value": 150
     },
     {
       "rank": 2,
@@ -789,17 +789,17 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 16
-    },
-    {
-      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 16
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Vitaliy",
+      "value": 15
+    },
+    {
+      "rank": 13,
+      "name": "Князь Владимир С",
       "value": 15
     },
     {
@@ -869,42 +869,42 @@
     },
     {
       "rank": 27,
-      "name": "Andrey Tugarin",
-      "value": 5
-    },
-    {
-      "rank": 28,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 31,
-      "name": "iDiklonius",
-      "value": 5
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 5
     },
     {
-      "rank": 33,
+      "rank": 31,
       "name": "byk0t!?",
       "value": 5
     },
     {
-      "rank": 34,
+      "rank": 32,
+      "name": "Andrey Tugarin",
+      "value": 4
+    },
+    {
+      "rank": 33,
       "name": "Сергей",
+      "value": 4
+    },
+    {
+      "rank": 34,
+      "name": "iDiklonius",
       "value": 4
     },
     {
