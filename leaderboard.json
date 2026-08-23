@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:48:31+00:00",
+  "updated": "2026-08-23T14:03:19+00:00",
   "count": 121,
   "has_movement": true,
   "all": [
@@ -763,13 +763,13 @@
     },
     {
       "rank": 7,
-      "name": "Olga Goncharova",
-      "value": 33
+      "name": "Viktor",
+      "value": 32
     },
     {
       "rank": 8,
-      "name": "Viktor",
-      "value": 32
+      "name": "Olga Goncharova",
+      "value": 31
     },
     {
       "rank": 9,
@@ -838,22 +838,22 @@
     },
     {
       "rank": 22,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 7
-    },
-    {
-      "rank": 23,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Marat Miheev",
       "value": 7
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aся",
+      "value": 6
+    },
+    {
+      "rank": 25,
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
