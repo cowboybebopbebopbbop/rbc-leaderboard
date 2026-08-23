@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T14:03:19+00:00",
-  "count": 121,
+  "updated": "2026-08-23T15:03:24+00:00",
+  "count": 122,
   "has_movement": true,
   "all": [
     {
@@ -575,156 +575,162 @@
     },
     {
       "rank": 96,
-      "name": "⁤",
-      "value": 1,
-      "move": -2
+      "name": "Мон Ами",
+      "value": 2,
+      "move": null
     },
     {
       "rank": 97,
-      "name": "Андрей Грубий",
+      "name": "⁤",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 98,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 99,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 100,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 101,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 102,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 103,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 104,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 105,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 106,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 107,
-      "name": "Аslan Beispekov",
+      "name": "A M",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 108,
-      "name": "Виталий",
+      "name": "Аslan Beispekov",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 109,
-      "name": "Лада",
+      "name": "Виталий",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 110,
-      "name": "Djoni Wik",
+      "name": "Лада",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 111,
-      "name": "ЮРА",
+      "name": "Djoni Wik",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 112,
-      "name": "Игорь",
+      "name": "ЮРА",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 113,
-      "name": "Lubo",
+      "name": "Игорь",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 114,
-      "name": "Kirill Soppa",
+      "name": "Lubo",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 115,
-      "name": "Юлия Шапранова",
+      "name": "Kirill Soppa",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 116,
-      "name": "X Maolady",
+      "name": "Юлия Шапранова",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 117,
-      "name": "zhuqu",
+      "name": "X Maolady",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 118,
-      "name": "Сергей Astronavt",
+      "name": "zhuqu",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 119,
-      "name": "Дмитрий",
+      "name": "Сергей Astronavt",
       "value": 1,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 120,
+      "name": "Дмитрий",
+      "value": 1,
+      "move": -3
+    },
+    {
+      "rank": 121,
       "name": "Жабыч",
       "value": 1,
       "move": null
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "Kirill",
       "value": 1,
       "move": null
@@ -739,7 +745,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 117
+      "value": 116
     },
     {
       "rank": 3,
@@ -749,7 +755,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 47
+      "value": 45
     },
     {
       "rank": 5,
@@ -759,7 +765,7 @@
     {
       "rank": 6,
       "name": "ᴦоᴧод",
-      "value": 40
+      "value": 38
     },
     {
       "rank": 7,
@@ -768,13 +774,13 @@
     },
     {
       "rank": 8,
-      "name": "Olga Goncharova",
-      "value": 31
+      "name": "Archie",
+      "value": 30
     },
     {
       "rank": 9,
-      "name": "Archie",
-      "value": 30
+      "name": "Olga Goncharova",
+      "value": 28
     },
     {
       "rank": 10,
@@ -783,18 +789,18 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 16
-    },
-    {
-      "rank": 12,
       "name": "Князь Владимир С",
       "value": 16
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 16
+    },
+    {
+      "rank": 13,
+      "name": "Vitaliy",
+      "value": 15
     },
     {
       "rank": 14,
