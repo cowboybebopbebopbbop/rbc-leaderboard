@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T03:47:08+00:00",
+  "updated": "2026-08-23T04:47:15+00:00",
   "count": 120,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 634,
+      "value": 635,
       "move": 0
     },
     {
@@ -773,7 +773,7 @@
     {
       "rank": 10,
       "name": "Князь Владимир С",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 11,
@@ -1114,17 +1114,17 @@
     },
     {
       "rank": 28,
-      "name": "Bazylev Nickolai",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Сергей",
-      "value": 1
+      "name": "Bazylev Nickolai",
+      "value": 2
     },
     {
       "rank": 30,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 1
     },
     {
