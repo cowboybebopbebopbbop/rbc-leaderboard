@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:03:29+00:00",
+  "updated": "2026-08-23T17:03:34+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -799,12 +799,12 @@
     },
     {
       "rank": 13,
-      "name": "Князь Владимир С",
-      "value": 15
+      "name": "A.",
+      "value": 14
     },
     {
       "rank": 14,
-      "name": "A.",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
@@ -884,37 +884,37 @@
     },
     {
       "rank": 30,
-      "name": "Charlie Shefelman",
-      "value": 5
-    },
-    {
-      "rank": 31,
       "name": "byk0t!?",
       "value": 5
     },
     {
-      "rank": 32,
-      "name": "Andrey Tugarin",
-      "value": 4
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 34,
+      "rank": 32,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 33,
+      "name": "Charlie Shefelman",
+      "value": 4
+    },
+    {
+      "rank": 34,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Advokat Krysanov",
+      "value": 3
+    },
+    {
+      "rank": 36,
+      "name": "Andrey Tugarin",
       "value": 3
     },
     {
