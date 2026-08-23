@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T02:47:00+00:00",
+  "updated": "2026-08-23T03:47:08+00:00",
   "count": 120,
   "has_movement": true,
   "all": [
@@ -365,15 +365,15 @@
     },
     {
       "rank": 61,
-      "name": "ilya Kalashnikov",
-      "value": 20,
-      "move": 0
+      "name": "Претор",
+      "value": 21,
+      "move": null
     },
     {
       "rank": 62,
-      "name": "Претор",
+      "name": "ilya Kalashnikov",
       "value": 20,
-      "move": null
+      "move": -1
     },
     {
       "rank": 63,
@@ -1130,6 +1130,11 @@
     {
       "rank": 31,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "Претор",
       "value": 1
     }
   ]
