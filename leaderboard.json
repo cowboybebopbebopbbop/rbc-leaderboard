@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T20:03:50+00:00",
+  "updated": "2026-08-23T21:03:55+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 809,
+      "value": 810,
       "move": 0
     },
     {
@@ -785,7 +785,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 11,
@@ -1021,37 +1021,37 @@
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
+      "name": "Синдбад Мореход",
       "value": 12
     },
     {
       "rank": 8,
-      "name": "Синдбад Мореход",
-      "value": 11
-    },
-    {
-      "rank": 9,
       "name": "Manis Love",
       "value": 8
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Олег",
       "value": 8
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Marat Miheev",
+      "value": 7
+    },
+    {
+      "rank": 13,
+      "name": "Zero-sum Gamer",
       "value": 7
     },
     {
