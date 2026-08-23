@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T21:03:55+00:00",
+  "updated": "2026-08-23T22:03:56+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -770,7 +770,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 8,
@@ -899,32 +899,32 @@
     },
     {
       "rank": 33,
-      "name": "Charlie Shefelman",
-      "value": 4
-    },
-    {
-      "rank": 34,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "den",
+      "value": 2
+    },
+    {
+      "rank": 38,
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
