@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T08:04:00+00:00",
+  "updated": "2026-08-24T09:04:01+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 331,
+      "value": 333,
       "move": 0
     },
     {
@@ -790,7 +790,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 17
+      "value": 19
     },
     {
       "rank": 12,
@@ -1002,12 +1002,12 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 26
+      "value": 23
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 21
+      "value": 19
     },
     {
       "rank": 5,
@@ -1041,12 +1041,12 @@
     },
     {
       "rank": 11,
-      "name": "Eugene",
-      "value": 7
+      "name": "@wavesscalper",
+      "value": 8
     },
     {
       "rank": 12,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Eugene",
       "value": 7
     },
     {
@@ -1066,17 +1066,17 @@
     },
     {
       "rank": 16,
-      "name": "@wavesscalper",
-      "value": 6
-    },
-    {
-      "rank": 17,
       "name": ".",
       "value": 6
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Сергей",
+      "value": 5
+    },
+    {
+      "rank": 18,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
