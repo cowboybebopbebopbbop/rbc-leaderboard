@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:04:03+00:00",
+  "updated": "2026-08-24T14:04:49+00:00",
   "count": 123,
   "has_movement": true,
   "all": [
@@ -820,13 +820,13 @@
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "L G",
       "value": 10
     },
     {
       "rank": 17,
-      "name": "L G",
-      "value": 10
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 9
     },
     {
       "rank": 18,
@@ -880,18 +880,18 @@
     },
     {
       "rank": 28,
-      "name": "-",
-      "value": 5
-    },
-    {
-      "rank": 29,
       "name": "🌸𝑽",
       "value": 5
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "byk0t!?",
       "value": 5
+    },
+    {
+      "rank": 30,
+      "name": "-",
+      "value": 4
     },
     {
       "rank": 31,
@@ -1003,7 +1003,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 66
+      "value": 63
     },
     {
       "rank": 3,
@@ -1127,22 +1127,22 @@
     },
     {
       "rank": 27,
-      "name": "ᴦоᴧод",
-      "value": 2
-    },
-    {
-      "rank": 28,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "ᴦоᴧод",
       "value": 1
     },
     {
