@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:04:03+00:00",
+  "updated": "2026-08-24T12:04:03+00:00",
   "count": 123,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1106,
+      "value": 1107,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 333,
+      "value": 334,
       "move": 0
     },
     {
@@ -756,7 +756,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 102
+      "value": 103
     },
     {
       "rank": 4,
@@ -796,7 +796,7 @@
     {
       "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 12,
@@ -998,7 +998,7 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 66
+      "value": 67
     },
     {
       "rank": 2,
@@ -1032,17 +1032,17 @@
     },
     {
       "rank": 8,
+      "name": "@wavesscalper",
+      "value": 9
+    },
+    {
+      "rank": 9,
       "name": "Manis Love",
       "value": 8
     },
     {
-      "rank": 9,
-      "name": "Олег",
-      "value": 8
-    },
-    {
       "rank": 10,
-      "name": "@wavesscalper",
+      "name": "Олег",
       "value": 8
     },
     {
@@ -1077,17 +1077,17 @@
     },
     {
       "rank": 17,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
-    },
-    {
-      "rank": 18,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Vitaliy",
+      "value": 4
+    },
+    {
+      "rank": 19,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
