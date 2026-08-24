@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T02:03:56+00:00",
+  "updated": "2026-08-24T03:03:57+00:00",
   "count": 122,
   "has_movement": true,
   "all": [
@@ -745,7 +745,7 @@
     {
       "rank": 2,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 116
+      "value": 115
     },
     {
       "rank": 3,
@@ -969,22 +969,22 @@
     },
     {
       "rank": 47,
-      "name": "Капибара",
-      "value": 1
-    },
-    {
-      "rank": 48,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "ilya Kalashnikov",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Валерия Sweetandflow",
       "value": 1
     }
   ],
