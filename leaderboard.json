@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T19:32:45+00:00",
+  "updated": "2026-08-24T20:32:48+00:00",
   "count": 123,
   "has_movement": true,
   "all": [
@@ -811,7 +811,7 @@
     {
       "rank": 14,
       "name": "A.",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 15,
@@ -930,47 +930,47 @@
     },
     {
       "rank": 38,
-      "name": "Charlie Shefelman",
-      "value": 2
-    },
-    {
-      "rank": 39,
       "name": "Daniil",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Sergei IVANOV",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Turchyn Gennadii",
+      "value": 1
+    },
+    {
+      "rank": 46,
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 66
+      "value": 65
     },
     {
       "rank": 3,
