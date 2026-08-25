@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T13:57:56+00:00",
+  "updated": "2026-08-25T14:57:57+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4115,
+      "value": 4116,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1113,
+      "value": 1116,
       "move": 0
     },
     {
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "🏴‍☠️",
-      "value": 105,
+      "value": 106,
       "move": 0
     },
     {
@@ -758,7 +758,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 156
+      "value": 157
     },
     {
       "rank": 2,
@@ -768,7 +768,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 109
+      "value": 112
     },
     {
       "rank": 4,
@@ -1010,12 +1010,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 66
+      "value": 69
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 3,
@@ -1154,11 +1154,16 @@
     },
     {
       "rank": 30,
-      "name": "ᴦоᴧод",
+      "name": "🏴‍☠️",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "ᴦоᴧод",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Претор",
       "value": 1
     }
