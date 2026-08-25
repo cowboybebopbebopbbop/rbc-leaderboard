@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:57:55+00:00",
+  "updated": "2026-08-25T12:57:55+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -927,13 +927,13 @@
     },
     {
       "rank": 35,
-      "name": "-",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 36,
-      "name": "Руслан Иванов",
-      "value": 3
+      "name": "-",
+      "value": 2
     },
     {
       "rank": 37,
@@ -1020,7 +1020,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 4,
