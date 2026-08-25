@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:57:55+00:00",
+  "updated": "2026-08-25T13:57:56+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4113,
+      "value": 4115,
       "move": 0
     },
     {
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1716,
+      "value": 1717,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1111,
+      "value": 1113,
       "move": 0
     },
     {
@@ -414,7 +414,7 @@
     {
       "rank": 69,
       "name": "A.",
-      "value": 16,
+      "value": 17,
       "move": -1
     },
     {
@@ -758,7 +758,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 154
+      "value": 156
     },
     {
       "rank": 2,
@@ -768,7 +768,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 107
+      "value": 109
     },
     {
       "rank": 4,
@@ -793,7 +793,7 @@
     {
       "rank": 8,
       "name": "Archie",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 9,
@@ -823,7 +823,7 @@
     {
       "rank": 14,
       "name": "A.",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 15,
@@ -1010,12 +1010,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 65
+      "value": 66
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 57
+      "value": 59
     },
     {
       "rank": 3,
@@ -1040,7 +1040,7 @@
     {
       "rank": 7,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 8,
@@ -1074,18 +1074,18 @@
     },
     {
       "rank": 14,
-      "name": "DenisNazarov",
+      "name": "A.",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "A.",
-      "value": 4
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 5
     },
     {
       "rank": 17,
