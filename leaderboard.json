@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:23:11+00:00",
+  "updated": "2026-08-25T08:23:14+00:00",
   "count": 124,
   "has_movement": true,
   "all": [
@@ -1009,12 +1009,12 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 4,
@@ -1143,21 +1143,16 @@
     },
     {
       "rank": 29,
-      "name": "iDiklonius",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "ᴦоᴧод",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Претор",
       "value": 1
     }
