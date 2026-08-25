@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:57:57+00:00",
+  "updated": "2026-08-25T17:32:44+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4117,
+      "value": 4118,
       "move": 0
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 59
+      "value": 53
     },
     {
       "rank": 3,
@@ -1029,17 +1029,17 @@
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 12
-    },
-    {
-      "rank": 6,
       "name": "Zero-sum Gamer",
       "value": 12
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Archie",
+      "value": 11
+    },
+    {
+      "rank": 7,
+      "name": "Синдбад Мореход",
       "value": 11
     },
     {
@@ -1129,17 +1129,17 @@
     },
     {
       "rank": 25,
-      "name": "Князь Владимир С",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "SPM",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
