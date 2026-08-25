@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:33:17+00:00",
+  "updated": "2026-08-25T04:33:18+00:00",
   "count": 123,
   "has_movement": true,
   "all": [
@@ -1003,7 +1003,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 65
+      "value": 64
     },
     {
       "rank": 3,
@@ -1047,67 +1047,67 @@
     },
     {
       "rank": 11,
-      "name": ".",
-      "value": 8
-    },
-    {
-      "rank": 12,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Marat Miheev",
       "value": 7
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 16,
-      "name": "Сергей",
-      "value": 5
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 19,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "terminal lucidity",
+      "value": 2
+    },
+    {
+      "rank": 23,
+      "name": "Сергей",
       "value": 2
     },
     {
