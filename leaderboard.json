@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:57:53+00:00",
+  "updated": "2026-08-25T10:57:54+00:00",
   "count": 124,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Aся",
-      "value": 1776,
+      "value": 1777,
       "move": 0
     },
     {
@@ -846,23 +846,23 @@
     },
     {
       "rank": 20,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 21,
-      "name": "Олег",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
       "rank": 22,
-      "name": ".",
+      "name": "Олег",
       "value": 8
     },
     {
       "rank": 23,
-      "name": "Aся",
-      "value": 7
+      "name": ".",
+      "value": 8
     },
     {
       "rank": 24,
@@ -896,32 +896,32 @@
     },
     {
       "rank": 30,
-      "name": "-",
-      "value": 4
-    },
-    {
-      "rank": 31,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Andrey Tugarin",
+      "value": 3
+    },
+    {
+      "rank": 35,
+      "name": "-",
       "value": 3
     },
     {
@@ -1004,7 +1004,7 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 66
+      "value": 65
     },
     {
       "rank": 2,
@@ -1048,13 +1048,13 @@
     },
     {
       "rank": 10,
-      "name": "Олег",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 11,
-      "name": "Aся",
-      "value": 7
+      "name": "Олег",
+      "value": 8
     },
     {
       "rank": 12,
