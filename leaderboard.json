@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T02:33:07+00:00",
+  "updated": "2026-08-25T03:33:17+00:00",
   "count": 123,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 131,
+      "value": 132,
       "move": 0
     },
     {
@@ -850,22 +850,22 @@
     },
     {
       "rank": 22,
+      "name": ".",
+      "value": 8
+    },
+    {
+      "rank": 23,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 24,
-      "name": "Marat Miheev",
-      "value": 7
-    },
-    {
       "rank": 25,
-      "name": ".",
+      "name": "Marat Miheev",
       "value": 7
     },
     {
@@ -1047,22 +1047,22 @@
     },
     {
       "rank": 11,
+      "name": ".",
+      "value": 8
+    },
+    {
+      "rank": 12,
       "name": "Aся",
       "value": 7
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 13,
-      "name": "Marat Miheev",
-      "value": 7
-    },
-    {
       "rank": 14,
-      "name": ".",
+      "name": "Marat Miheev",
       "value": 7
     },
     {
