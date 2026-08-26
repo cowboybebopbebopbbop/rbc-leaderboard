@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T09:22:44+00:00",
+  "updated": "2026-08-26T10:22:45+00:00",
   "count": 126,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4126,
+      "value": 4127,
       "move": 0
     },
     {
@@ -764,7 +764,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 166
+      "value": 167
     },
     {
       "rank": 2,
@@ -774,7 +774,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 112
+      "value": 111
     },
     {
       "rank": 4,
@@ -1016,12 +1016,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 71
+      "value": 70
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 59
+      "value": 56
     },
     {
       "rank": 3,
@@ -1040,13 +1040,13 @@
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 11
     },
     {
       "rank": 7,
-      "name": "Zero-sum Gamer",
-      "value": 11
+      "name": "Синдбад Мореход",
+      "value": 10
     },
     {
       "rank": 8,
