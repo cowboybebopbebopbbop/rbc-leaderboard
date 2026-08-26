@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:40:44+00:00",
+  "updated": "2026-08-26T20:40:45+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1122,
+      "value": 1124,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 635,
+      "value": 637,
       "move": 0
     },
     {
@@ -775,7 +775,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 116
+      "value": 118
     },
     {
       "rank": 3,
@@ -825,7 +825,7 @@
     {
       "rank": 12,
       "name": "Князь Владимир С",
-      "value": 14
+      "value": 16
     },
     {
       "rank": 13,
@@ -1032,7 +1032,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 4,
@@ -1111,42 +1111,42 @@
     },
     {
       "rank": 19,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 20,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 25,
-      "name": "Антон",
-      "value": 1
-    },
-    {
       "rank": 26,
-      "name": "Князь Владимир С",
+      "name": "Антон",
       "value": 1
     },
     {
