@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:32:47+00:00",
+  "updated": "2026-08-26T00:32:47+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -457,7 +457,7 @@
       "rank": 76,
       "name": "Demius",
       "value": 9,
-      "move": null
+      "move": -1
     },
     {
       "rank": 77,
@@ -469,289 +469,289 @@
       "rank": 78,
       "name": "Юрий",
       "value": 8,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 79,
       "name": "xxx",
       "value": 8,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 80,
       "name": "Ingvar 604",
       "value": 7,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 81,
       "name": "Роман",
       "value": 7,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 82,
       "name": "***",
       "value": 7,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 83,
       "name": "Daniil",
       "value": 7,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 84,
       "name": "Александр Николаев",
       "value": 6,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 85,
       "name": "Капибара",
       "value": 5,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 86,
       "name": "Sila",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 87,
       "name": "xv",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 88,
       "name": "Ilya",
       "value": 3,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 89,
       "name": "Samurai_1",
       "value": 3,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 90,
       "name": "Don Michele Corleone",
       "value": 3,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 91,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 92,
       "name": "Juli Julia",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 93,
       "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 94,
       "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 95,
       "name": "❤️",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 96,
       "name": "dg",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 97,
       "name": "Юрий",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 98,
       "name": "Arewoe",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 99,
       "name": "Мон Ами",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 100,
       "name": "⁤",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 101,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 102,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 103,
       "name": "Darya",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 104,
       "name": "Alex",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 105,
       "name": "F. Yashin",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 106,
       "name": "Александр",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 107,
       "name": "Артём",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 108,
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 109,
       "name": "Арина Белова",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 110,
       "name": "A M",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 111,
       "name": "Аslan Beispekov",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 112,
       "name": "Виталий",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 113,
       "name": "Лада",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 114,
       "name": "Djoni Wik",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 115,
       "name": "ЮРА",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 116,
       "name": "Игорь",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 117,
       "name": "Lubo",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 118,
       "name": "Kirill Soppa",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 119,
       "name": "Юлия Шапранова",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 120,
       "name": "X Maolady",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 121,
       "name": "zhuqu",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 122,
       "name": "Сергей Astronavt",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 123,
       "name": "Дмитрий",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 124,
       "name": "Жабыч",
       "value": 1,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 125,
       "name": "Kirill",
       "value": 1,
-      "move": -3
+      "move": -2
     }
   ],
   "month": [
@@ -762,12 +762,12 @@
     },
     {
       "rank": 2,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 116
+      "name": "a l",
+      "value": 115
     },
     {
       "rank": 3,
-      "name": "a l",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 115
     },
     {
