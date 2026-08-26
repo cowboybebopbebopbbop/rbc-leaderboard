@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:32:51+00:00",
+  "updated": "2026-08-26T06:32:51+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1717,
+      "value": 1719,
       "move": 0
     },
     {
@@ -782,17 +782,17 @@
     },
     {
       "rank": 6,
-      "name": "ᴦоᴧод",
-      "value": 35
+      "name": "Archie",
+      "value": 33
     },
     {
       "rank": 7,
-      "name": "Viktor",
-      "value": 31
+      "name": "ᴦоᴧод",
+      "value": 33
     },
     {
       "rank": 8,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 31
     },
     {
@@ -823,7 +823,7 @@
     {
       "rank": 14,
       "name": "Vitaliy",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 15,
@@ -1010,7 +1010,7 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 72
+      "value": 71
     },
     {
       "rank": 2,
@@ -1029,17 +1029,17 @@
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 12
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "Синдбад Мореход",
       "value": 11
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "Zero-sum Gamer",
       "value": 11
     },
     {
@@ -1079,13 +1079,13 @@
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
+      "name": "DenisNazarov",
+      "value": 4
     },
     {
       "rank": 17,
