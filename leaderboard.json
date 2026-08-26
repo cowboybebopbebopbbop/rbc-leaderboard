@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T17:22:46+00:00",
+  "updated": "2026-08-26T19:40:44+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -240,7 +240,7 @@
     {
       "rank": 40,
       "name": "Павел Корчагин",
-      "value": 85,
+      "value": 86,
       "move": null
     },
     {
@@ -770,12 +770,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 166
+      "value": 165
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 118
+      "value": 116
     },
     {
       "rank": 3,
@@ -835,7 +835,7 @@
     {
       "rank": 14,
       "name": "Vitaliy",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 15,
@@ -954,52 +954,52 @@
     },
     {
       "rank": 38,
-      "name": "Daniil",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Bazylev Nickolai",
+      "name": "Daniil",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "X888",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "I",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 42,
+      "name": "I",
+      "value": 2
+    },
+    {
+      "rank": 43,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Turchyn Gennadii",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Павел Корчагин",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
@@ -1022,12 +1022,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 60
+      "value": 59
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 3,
@@ -1101,86 +1101,81 @@
     },
     {
       "rank": 17,
-      "name": "Олег",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 20,
-      "name": "🤗",
-      "value": 3
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Сергей",
       "value": 2
     },
     {
+      "rank": 22,
+      "name": "Павел Корчагин",
+      "value": 2
+    },
+    {
+      "rank": 23,
+      "name": "🤗",
+      "value": 2
+    },
+    {
       "rank": 24,
-      "name": "L G",
-      "value": 2
-    },
-    {
-      "rank": 25,
-      "name": "Bazylev Nickolai",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "Князь Владимир С",
       "value": 1
     },
     {
-      "rank": 29,
-      "name": "Павел Корчагин",
-      "value": 1
-    },
-    {
-      "rank": 30,
+      "rank": 27,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 28,
+      "name": "Bazylev Nickolai",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Олег",
+      "value": 1
+    },
+    {
+      "rank": 30,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "ᴦоᴧод",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Претор",
       "value": 1
     }
