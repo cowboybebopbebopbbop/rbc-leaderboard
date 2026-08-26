@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T07:32:52+00:00",
-  "count": 125,
+  "updated": "2026-08-26T08:32:52+00:00",
+  "count": 126,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4119,
+      "value": 4123,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1719,
+      "value": 1720,
       "move": 0
     },
     {
@@ -431,15 +431,15 @@
     },
     {
       "rank": 72,
-      "name": "Pike",
-      "value": 12,
-      "move": -1
+      "name": "Антон",
+      "value": 13,
+      "move": 0
     },
     {
       "rank": 73,
-      "name": "Антон",
+      "name": "Pike",
       "value": 12,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 74,
@@ -752,13 +752,19 @@
       "name": "Kirill",
       "value": 1,
       "move": -2
+    },
+    {
+      "rank": 126,
+      "name": "Андрей Нецов",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 159
+      "value": 163
     },
     {
       "rank": 2,
@@ -768,7 +774,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 115
+      "value": 113
     },
     {
       "rank": 4,
@@ -778,17 +784,17 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 43
+      "value": 42
     },
     {
       "rank": 6,
       "name": "Archie",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 7,
       "name": "ᴦоᴧод",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 8,
@@ -802,13 +808,13 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 20
     },
     {
       "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 20
+      "name": "Синдбад Мореход",
+      "value": 19
     },
     {
       "rank": 12,
@@ -972,37 +978,37 @@
     },
     {
       "rank": 44,
-      "name": "Серхио Ле'Трас",
+      "name": "Антон",
       "value": 1
     },
     {
       "rank": 45,
-      "name": "Turchyn Gennadii",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
       "rank": 46,
-      "name": "Charlie Shefelman",
+      "name": "Turchyn Gennadii",
       "value": 1
     },
     {
       "rank": 47,
-      "name": "❤️",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 48,
-      "name": "Алексей",
+      "name": "❤️",
       "value": 1
     },
     {
       "rank": 49,
-      "name": "ilya Kalashnikov",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 50,
-      "name": "Валерия Sweetandflow",
+      "name": "ilya Kalashnikov",
       "value": 1
     }
   ],
@@ -1015,7 +1021,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 53
+      "value": 57
     },
     {
       "rank": 3,
@@ -1030,7 +1036,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -1139,26 +1145,31 @@
     },
     {
       "rank": 27,
-      "name": "Князь Владимир С",
+      "name": "Антон",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
+      "name": "Князь Владимир С",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "🏴‍☠️",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "ᴦоᴧод",
+      "name": "🏴‍☠️",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "ᴦоᴧод",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Претор",
       "value": 1
     }
