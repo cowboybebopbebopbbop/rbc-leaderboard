@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:22:44+00:00",
+  "updated": "2026-08-26T12:22:44+00:00",
   "count": 126,
   "has_movement": true,
   "all": [
@@ -1016,12 +1016,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 70
+      "value": 69
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 3,
@@ -1070,47 +1070,47 @@
     },
     {
       "rank": 12,
-      "name": "Олег",
-      "value": 7
-    },
-    {
-      "rank": 13,
       "name": "Marat Miheev",
       "value": 7
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "🤗",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Руслан Иванов",
+      "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Олег",
       "value": 3
     },
     {
