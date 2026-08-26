@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:22:46+00:00",
+  "updated": "2026-08-26T15:22:46+00:00",
   "count": 126,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4127,
+      "value": 4128,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 841,
+      "value": 843,
       "move": 0
     },
     {
@@ -779,7 +779,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 51
+      "value": 53
     },
     {
       "rank": 5,
@@ -903,37 +903,37 @@
     },
     {
       "rank": 29,
-      "name": "Сергей",
-      "value": 4
-    },
-    {
-      "rank": 30,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Axel",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Руслан Иванов",
+      "value": 3
+    },
+    {
+      "rank": 35,
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1016,7 +1016,7 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 69
+      "value": 68
     },
     {
       "rank": 2,
@@ -1026,22 +1026,22 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 19
+      "value": 16
     },
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 16
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 13
+      "name": "Zero-sum Gamer",
+      "value": 14
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 12
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 7,
