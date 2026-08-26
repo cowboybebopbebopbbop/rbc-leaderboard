@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:32:51+00:00",
+  "updated": "2026-08-26T07:32:52+00:00",
   "count": 125,
   "has_movement": true,
   "all": [
@@ -1079,17 +1079,17 @@
     },
     {
       "rank": 15,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 5
-    },
-    {
-      "rank": 16,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
