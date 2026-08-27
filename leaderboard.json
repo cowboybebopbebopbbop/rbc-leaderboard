@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T12:41:42+00:00",
+  "updated": "2026-08-27T13:41:47+00:00",
   "count": 129,
   "has_movement": true,
   "all": [
@@ -971,52 +971,52 @@
     },
     {
       "rank": 39,
-      "name": "Daniil",
-      "value": 2
-    },
-    {
-      "rank": 40,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 48,
+      "name": "Daniil",
       "value": 1
     },
     {
@@ -1033,13 +1033,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "a l",
+      "name": "Igor",
       "value": 48
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 48
+      "name": "a l",
+      "value": 46
     },
     {
       "rank": 3,
