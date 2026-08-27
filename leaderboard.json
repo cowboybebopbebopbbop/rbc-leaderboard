@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T06:41:13+00:00",
+  "updated": "2026-08-27T07:41:18+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -780,7 +780,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 108
+      "value": 107
     },
     {
       "rank": 4,
@@ -834,12 +834,12 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 12
+      "name": "Manis Love",
+      "value": 11
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 11
     },
     {
@@ -914,47 +914,47 @@
     },
     {
       "rank": 30,
-      "name": "Axel",
-      "value": 4
-    },
-    {
-      "rank": 31,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Advokat Krysanov",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "-",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Павел Корчагин",
+      "value": 2
+    },
+    {
+      "rank": 38,
+      "name": "Axel",
       "value": 2
     },
     {
@@ -1021,13 +1021,13 @@
   "week": [
     {
       "rank": 1,
-      "name": "a l",
-      "value": 56
+      "name": "Igor",
+      "value": 55
     },
     {
       "rank": 2,
-      "name": "Igor",
-      "value": 55
+      "name": "a l",
+      "value": 54
     },
     {
       "rank": 3,
@@ -1037,26 +1037,26 @@
     {
       "rank": 4,
       "name": "🅾🅻🅶🅰",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 10
-    },
-    {
-      "rank": 6,
       "name": "Archie",
       "value": 9
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "@wavesscalper",
       "value": 9
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Aся",
+      "value": 8
+    },
+    {
+      "rank": 8,
+      "name": "Синдбад Мореход",
       "value": 8
     },
     {
@@ -1066,87 +1066,87 @@
     },
     {
       "rank": 10,
-      "name": "Marat Miheev",
-      "value": 7
-    },
-    {
-      "rank": 11,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 21,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "name": "Eugene",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 22,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "name": "Marat Miheev",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Антон",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Сергей",
       "value": 1
     },
     {
