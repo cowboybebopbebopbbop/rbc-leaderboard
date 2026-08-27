@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-27T03:40:59+00:00",
+  "updated": "2026-08-27T04:41:03+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5764,
+      "value": 5766,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4129,
+      "value": 4131,
       "move": 0
     },
     {
@@ -770,7 +770,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 165
+      "value": 167
     },
     {
       "rank": 2,
@@ -780,7 +780,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 106
+      "value": 108
     },
     {
       "rank": 4,
@@ -1027,7 +1027,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 52
+      "value": 54
     },
     {
       "rank": 3,
@@ -1041,23 +1041,23 @@
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 10
-    },
-    {
-      "rank": 6,
       "name": "Синдбад Мореход",
       "value": 10
     },
     {
+      "rank": 6,
+      "name": "Archie",
+      "value": 9
+    },
+    {
       "rank": 7,
-      "name": "Viktor",
+      "name": "@wavesscalper",
       "value": 9
     },
     {
       "rank": 8,
-      "name": "@wavesscalper",
-      "value": 9
+      "name": "Viktor",
+      "value": 8
     },
     {
       "rank": 9,
@@ -1076,22 +1076,22 @@
     },
     {
       "rank": 12,
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 6
+    },
+    {
+      "rank": 13,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 14,
-      "name": "DenisNazarov",
-      "value": 4
-    },
-    {
       "rank": 15,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
