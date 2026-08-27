@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T02:40:54+00:00",
+  "updated": "2026-08-27T03:40:59+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -1022,7 +1022,7 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 58
+      "value": 57
     },
     {
       "rank": 2,
@@ -1091,27 +1091,27 @@
     },
     {
       "rank": 15,
-      "name": "Eugene",
-      "value": 4
-    },
-    {
-      "rank": 16,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 19,
+      "name": "Eugene",
       "value": 3
     },
     {
