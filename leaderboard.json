@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T07:41:18+00:00",
-  "count": 127,
+  "updated": "2026-08-27T08:41:23+00:00",
+  "count": 128,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1798,
+      "value": 1799,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1720,
+      "value": 1721,
       "move": 0
     },
     {
@@ -96,7 +96,7 @@
     {
       "rank": 16,
       "name": "iDiklonius",
-      "value": 461,
+      "value": 462,
       "move": 0
     },
     {
@@ -764,6 +764,12 @@
       "name": "Андрей Нецов",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 128,
+      "name": "Ponemonec",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -790,12 +796,12 @@
     {
       "rank": 5,
       "name": "Ольга",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 6,
       "name": "Archie",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 7,
@@ -910,7 +916,7 @@
     {
       "rank": 29,
       "name": "iDiklonius",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 30,
@@ -1022,12 +1028,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 55
+      "value": 54
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 3,
@@ -1042,7 +1048,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 6,
@@ -1151,26 +1157,31 @@
     },
     {
       "rank": 27,
-      "name": "Charlie Shefelman",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Олег",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "🏴‍☠️",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Претор",
       "value": 1
     }
