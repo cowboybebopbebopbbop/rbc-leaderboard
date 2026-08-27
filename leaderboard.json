@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T01:40:49+00:00",
+  "updated": "2026-08-27T02:40:54+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -1041,18 +1041,18 @@
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 12
-    },
-    {
-      "rank": 6,
       "name": "Archie",
       "value": 10
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Синдбад Мореход",
       "value": 10
+    },
+    {
+      "rank": 7,
+      "name": "Viktor",
+      "value": 9
     },
     {
       "rank": 8,
@@ -1066,13 +1066,13 @@
     },
     {
       "rank": 10,
-      "name": "Manis Love",
+      "name": "Marat Miheev",
       "value": 7
     },
     {
       "rank": 11,
-      "name": "Marat Miheev",
-      "value": 7
+      "name": "Manis Love",
+      "value": 6
     },
     {
       "rank": 12,
