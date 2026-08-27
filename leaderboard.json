@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T20:42:22+00:00",
+  "updated": "2026-08-27T21:42:27+00:00",
   "count": 130,
   "has_movement": true,
   "all": [
@@ -1184,26 +1184,21 @@
     },
     {
       "rank": 30,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Претор",
       "value": 1
     }
