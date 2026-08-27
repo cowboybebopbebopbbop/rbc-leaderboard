@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T17:42:07+00:00",
+  "updated": "2026-08-27T18:42:12+00:00",
   "count": 130,
   "has_movement": true,
   "all": [
@@ -813,7 +813,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 7,
@@ -823,7 +823,7 @@
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 31
+      "value": 30
     },
     {
       "rank": 9,
@@ -1055,7 +1055,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
@@ -1189,26 +1189,21 @@
     },
     {
       "rank": 31,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Претор",
       "value": 1
     }
