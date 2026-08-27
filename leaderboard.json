@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T11:41:37+00:00",
+  "updated": "2026-08-27T12:41:42+00:00",
   "count": 129,
   "has_movement": true,
   "all": [
@@ -792,7 +792,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 102
+      "value": 101
     },
     {
       "rank": 4,
@@ -1034,12 +1034,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 49
+      "value": 48
     },
     {
       "rank": 3,
@@ -1049,7 +1049,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
@@ -1128,42 +1128,42 @@
     },
     {
       "rank": 20,
-      "name": "Eugene",
-      "value": 2
-    },
-    {
-      "rank": 21,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Eugene",
       "value": 1
     },
     {
