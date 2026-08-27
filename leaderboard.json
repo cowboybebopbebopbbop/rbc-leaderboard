@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T04:41:03+00:00",
+  "updated": "2026-08-27T05:41:08+00:00",
   "count": 127,
   "has_movement": true,
   "all": [
@@ -1022,12 +1022,12 @@
     {
       "rank": 1,
       "name": "a l",
-      "value": 57
+      "value": 56
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 54
+      "value": 53
     },
     {
       "rank": 3,
@@ -1056,13 +1056,13 @@
     },
     {
       "rank": 8,
-      "name": "Viktor",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 9,
-      "name": "Aся",
-      "value": 8
+      "name": "Viktor",
+      "value": 7
     },
     {
       "rank": 10,
@@ -1071,17 +1071,17 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
-      "rank": 12,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "A.",
+      "value": 5
+    },
+    {
+      "rank": 13,
+      "name": "Manis Love",
       "value": 5
     },
     {
