@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T13:52:00+00:00",
+  "updated": "2026-08-28T14:52:05+00:00",
   "count": 132,
   "has_movement": true,
   "all": [
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1725,
+      "value": 1726,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1127,
+      "value": 1129,
       "move": 0
     },
     {
@@ -270,7 +270,7 @@
     {
       "rank": 45,
       "name": "Vitaliy",
-      "value": 76,
+      "value": 77,
       "move": -1
     },
     {
@@ -800,12 +800,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 155
+      "value": 153
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 117
+      "value": 119
     },
     {
       "rank": 3,
@@ -820,7 +820,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 6,
@@ -864,12 +864,12 @@
     },
     {
       "rank": 14,
-      "name": "Manis Love",
-      "value": 11
+      "name": "Vitaliy",
+      "value": 12
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 11
     },
     {
@@ -1057,17 +1057,17 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 32
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 13
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 5,
@@ -1086,37 +1086,37 @@
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 6
-    },
-    {
-      "rank": 9,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
+      "rank": 10,
+      "name": "A.",
+      "value": 5
+    },
+    {
       "rank": 11,
-      "name": ".",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 12,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 13,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 13,
-      "name": "Aся",
-      "value": 3
-    },
-    {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 3
     },
     {
