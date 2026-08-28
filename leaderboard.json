@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T18:52:24+00:00",
-  "count": 132,
+  "updated": "2026-08-28T19:52:29+00:00",
+  "count": 134,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1801,
+      "value": 1802,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 201,
+      "value": 202,
       "move": 0
     },
     {
@@ -221,577 +221,589 @@
     },
     {
       "rank": 37,
-      "name": "🏴‍☠️",
-      "value": 106,
-      "move": -1
+      "name": "Ivan Defined",
+      "value": 108,
+      "move": null
     },
     {
       "rank": 38,
-      "name": "shagron2",
-      "value": 100,
-      "move": -1
+      "name": "🏴‍☠️",
+      "value": 106,
+      "move": -2
     },
     {
       "rank": 39,
-      "name": "Сергей",
-      "value": 97,
-      "move": -1
+      "name": "shagron2",
+      "value": 100,
+      "move": -2
     },
     {
       "rank": 40,
-      "name": "Vlad",
-      "value": 90,
-      "move": -1
+      "name": "Сергей",
+      "value": 97,
+      "move": -2
     },
     {
       "rank": 41,
-      "name": "Павел Корчагин",
-      "value": 86,
-      "move": -1
+      "name": "Vlad",
+      "value": 90,
+      "move": -2
     },
     {
       "rank": 42,
-      "name": "Max",
-      "value": 84,
-      "move": -1
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -2
     },
     {
       "rank": 43,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": -1
+      "name": "Max",
+      "value": 84,
+      "move": -2
     },
     {
       "rank": 44,
-      "name": "Andrey Kuimov",
-      "value": 78,
-      "move": -1
+      "name": "Sergey СЕО",
+      "value": 82,
+      "move": -2
     },
     {
       "rank": 45,
-      "name": "Vitaliy",
-      "value": 77,
-      "move": -1
+      "name": "Andrey Kuimov",
+      "value": 78,
+      "move": -2
     },
     {
       "rank": 46,
-      "name": "terminal lucidity",
-      "value": 74,
-      "move": -1
+      "name": "Vitaliy",
+      "value": 77,
+      "move": -2
     },
     {
       "rank": 47,
-      "name": "Сергей",
-      "value": 71,
-      "move": -1
+      "name": "terminal lucidity",
+      "value": 74,
+      "move": -2
     },
     {
       "rank": 48,
-      "name": "Серхио Ле'Трас",
-      "value": 69,
-      "move": -1
+      "name": "Сергей",
+      "value": 71,
+      "move": -2
     },
     {
       "rank": 49,
-      "name": "AstronaVt",
-      "value": 66,
-      "move": -1
+      "name": "Серхио Ле'Трас",
+      "value": 69,
+      "move": -2
     },
     {
       "rank": 50,
-      "name": "Алексей",
-      "value": 61,
-      "move": -1
+      "name": "AstronaVt",
+      "value": 66,
+      "move": -2
     },
     {
       "rank": 51,
-      "name": "Marat Miheev",
+      "name": "Алексей",
       "value": 61,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 52,
-      "name": "Sergei IVANOV",
-      "value": 49,
-      "move": -1
+      "name": "Marat Miheev",
+      "value": 61,
+      "move": -2
     },
     {
       "rank": 53,
-      "name": "I",
-      "value": 48,
-      "move": -1
+      "name": "Sergei IVANOV",
+      "value": 49,
+      "move": -2
     },
     {
       "rank": 54,
-      "name": "SyslikJan",
-      "value": 43,
-      "move": -1
+      "name": "I",
+      "value": 48,
+      "move": -2
     },
     {
       "rank": 55,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 40,
-      "move": -1
+      "name": "SyslikJan",
+      "value": 43,
+      "move": -2
     },
     {
       "rank": 56,
-      "name": "Bazylev Nickolai",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 40,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 57,
-      "name": "🇲akⓈ",
-      "value": 33,
-      "move": -1
+      "name": "Bazylev Nickolai",
+      "value": 40,
+      "move": -2
     },
     {
       "rank": 58,
-      "name": "𝑽",
-      "value": 31,
-      "move": 0
+      "name": "🇲akⓈ",
+      "value": 33,
+      "move": -2
     },
     {
       "rank": 59,
+      "name": "𝑽",
+      "value": 31,
+      "move": -1
+    },
+    {
+      "rank": 60,
       "name": "Алехандро)🍅 Белов🍅",
+      "value": 30,
+      "move": -3
+    },
+    {
+      "rank": 61,
+      "name": "Iodva",
       "value": 30,
       "move": -2
     },
     {
-      "rank": 60,
-      "name": "Iodva",
-      "value": 30,
-      "move": -1
-    },
-    {
-      "rank": 61,
+      "rank": 62,
       "name": "LlirikMK",
       "value": 30,
       "move": null
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "Руслан Иванов",
       "value": 24,
-      "move": -2
-    },
-    {
-      "rank": 63,
-      "name": "Lina",
-      "value": 24,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 64,
-      "name": "Константин",
-      "value": 22,
-      "move": -2
+      "name": "Lina",
+      "value": 24,
+      "move": -3
     },
     {
       "rank": 65,
-      "name": "Толян",
-      "value": 21,
-      "move": -2
+      "name": "Константин",
+      "value": 22,
+      "move": -3
     },
     {
       "rank": 66,
-      "name": "Претор",
+      "name": "Толян",
       "value": 21,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 67,
-      "name": "ilya Kalashnikov",
-      "value": 20,
-      "move": -2
+      "name": "Претор",
+      "value": 21,
+      "move": -3
     },
     {
       "rank": 68,
-      "name": "A.",
-      "value": 19,
-      "move": 2
+      "name": "ilya Kalashnikov",
+      "value": 20,
+      "move": -3
     },
     {
       "rank": 69,
-      "name": "Vladimir Magrin",
-      "value": 18,
-      "move": -3
+      "name": "A.",
+      "value": 19,
+      "move": 1
     },
     {
       "rank": 70,
-      "name": "Антон",
-      "value": 17,
-      "move": -3
+      "name": "Vladimir Magrin",
+      "value": 18,
+      "move": -4
     },
     {
       "rank": 71,
-      "name": "Anatoly Shadrin",
+      "name": "Антон",
       "value": 17,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 72,
-      "name": "Advokat Krysanov",
+      "name": "Anatoly Shadrin",
       "value": 17,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 73,
-      "name": "vpidelks",
-      "value": 14,
-      "move": -2
+      "name": "Advokat Krysanov",
+      "value": 17,
+      "move": -4
     },
     {
       "rank": 74,
-      "name": "Turchyn Gennadii",
-      "value": 13,
-      "move": -2
+      "name": "vpidelks",
+      "value": 14,
+      "move": -3
     },
     {
       "rank": 75,
-      "name": "Антон",
+      "name": "Turchyn Gennadii",
       "value": 13,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 76,
-      "name": "Pike",
-      "value": 12,
-      "move": -2
+      "name": "Антон",
+      "value": 13,
+      "move": -3
     },
     {
       "rank": 77,
-      "name": "X888",
-      "value": 11,
-      "move": -2
+      "name": "Pike",
+      "value": 12,
+      "move": -3
     },
     {
       "rank": 78,
-      "name": "Олег",
-      "value": 10,
-      "move": -2
+      "name": "X888",
+      "value": 11,
+      "move": -3
     },
     {
       "rank": 79,
-      "name": "Demius",
-      "value": 9,
-      "move": -2
+      "name": "Олег",
+      "value": 10,
+      "move": -3
     },
     {
       "rank": 80,
-      "name": "SPM",
+      "name": "Demius",
       "value": 9,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 81,
-      "name": "Юрий",
-      "value": 8,
-      "move": -2
+      "name": "SPM",
+      "value": 9,
+      "move": -3
     },
     {
       "rank": 82,
-      "name": "xxx",
+      "name": "Юрий",
       "value": 8,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 83,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": -2
+      "name": "xxx",
+      "value": 8,
+      "move": -3
     },
     {
       "rank": 84,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 85,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 86,
-      "name": "Daniil",
+      "name": "***",
       "value": 7,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 87,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -2
+      "name": "Daniil",
+      "value": 7,
+      "move": -3
     },
     {
       "rank": 88,
-      "name": "Капибара",
-      "value": 5,
-      "move": -2
+      "name": "Александр Николаев",
+      "value": 6,
+      "move": -3
     },
     {
       "rank": 89,
-      "name": "Sila",
-      "value": 4,
-      "move": -2
+      "name": "Капибара",
+      "value": 5,
+      "move": -3
     },
     {
       "rank": 90,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 91,
-      "name": "Ilya",
-      "value": 3,
-      "move": -2
+      "name": "xv",
+      "value": 4,
+      "move": -3
     },
     {
       "rank": 92,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 93,
-      "name": "Don Michele Corleone",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 94,
+      "name": "Don Michele Corleone",
+      "value": 3,
+      "move": -3
+    },
+    {
+      "rank": 95,
       "name": "Sviat",
       "value": 3,
       "move": null
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
-    },
-    {
-      "rank": 96,
-      "name": "Juli Julia",
-      "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 97,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 98,
-      "name": "Виталий",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": 15
+      "move": -4
     },
     {
       "rank": 99,
-      "name": "Валерия Sweetandflow",
+      "name": "Виталий",
       "value": 2,
-      "move": -4
+      "move": 14
     },
     {
       "rank": 100,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 101,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 102,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 103,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 104,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 105,
+      "name": "Мон Ами",
+      "value": 2,
+      "move": -5
+    },
+    {
+      "rank": 106,
       "name": "Ольга",
       "value": 2,
       "move": null
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "⁤",
       "value": 1,
-      "move": -5
-    },
-    {
-      "rank": 107,
-      "name": "Андрей Грубий",
-      "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 108,
-      "name": "Solomon Fridman",
+      "name": "Андрей Грубий",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 109,
-      "name": "Darya",
+      "name": "Solomon Fridman",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 110,
-      "name": "Alex",
+      "name": "Darya",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 111,
-      "name": "F. Yashin",
+      "name": "Alex",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 112,
-      "name": "Александр",
+      "name": "F. Yashin",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 113,
-      "name": "Артём",
+      "name": "Александр",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 114,
-      "name": "Mikhail Strovsky (PhD)",
+      "name": "Артём",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 115,
-      "name": "Арина Белова",
+      "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 116,
-      "name": "A M",
+      "name": "Арина Белова",
       "value": 1,
-      "move": -5
+      "move": -6
     },
     {
       "rank": 117,
+      "name": "A M",
+      "value": 1,
+      "move": -6
+    },
+    {
+      "rank": 118,
       "name": "Аslan Beispekov",
+      "value": 1,
+      "move": -6
+    },
+    {
+      "rank": 119,
+      "name": "Лада",
       "value": 1,
       "move": -5
     },
     {
-      "rank": 118,
-      "name": "Лада",
-      "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 119,
+      "rank": 120,
       "name": "Djoni Wik",
       "value": 1,
-      "move": -4
-    },
-    {
-      "rank": 120,
-      "name": "ЮРА",
-      "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 121,
-      "name": "Игорь",
+      "name": "ЮРА",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 122,
-      "name": "Lubo",
+      "name": "Игорь",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 123,
-      "name": "Kirill Soppa",
+      "name": "Lubo",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 124,
-      "name": "Юлия Шапранова",
+      "name": "Kirill Soppa",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 125,
-      "name": "X Maolady",
+      "name": "Юлия Шапранова",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 126,
-      "name": "zhuqu",
+      "name": "X Maolady",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 127,
-      "name": "Сергей Astronavt",
+      "name": "zhuqu",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 128,
-      "name": "Дмитрий",
+      "name": "Сергей Astronavt",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 129,
-      "name": "Жабыч",
+      "name": "Дмитрий",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 130,
-      "name": "Kirill",
+      "name": "Жабыч",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 131,
-      "name": "Андрей Нецов",
+      "name": "Kirill",
       "value": 1,
-      "move": -4
+      "move": -5
     },
     {
       "rank": 132,
+      "name": "Андрей Нецов",
+      "value": 1,
+      "move": -5
+    },
+    {
+      "rank": 133,
       "name": "Ponemonec",
+      "value": 1,
+      "move": null
+    },
+    {
+      "rank": 134,
+      "name": "Павел Гуриев",
       "value": 1,
       "move": null
     }
@@ -825,7 +837,7 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 7,
@@ -884,23 +896,23 @@
     },
     {
       "rank": 18,
-      "name": "Сергей",
+      "name": "DenisNazarov",
       "value": 9
     },
     {
       "rank": 19,
-      "name": "Олег",
+      "name": "Сергей",
       "value": 9
     },
     {
       "rank": 20,
-      "name": "🤗",
+      "name": "Олег",
       "value": 9
     },
     {
       "rank": 21,
-      "name": "DenisNazarov",
-      "value": 8
+      "name": "🤗",
+      "value": 9
     },
     {
       "rank": 22,
@@ -1086,12 +1098,12 @@
     },
     {
       "rank": 8,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 6
+      "name": "🅾🅻🅶🅰",
+      "value": 7
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
@@ -1101,13 +1113,13 @@
     },
     {
       "rank": 11,
-      "name": ".",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 12,
-      "name": "DenisNazarov",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 13,
