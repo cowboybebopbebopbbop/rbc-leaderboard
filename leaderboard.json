@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T16:52:15+00:00",
+  "updated": "2026-08-28T17:52:19+00:00",
   "count": 132,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 810,
+      "value": 811,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 200,
+      "value": 201,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "LlirikMK",
-      "value": 29,
+      "value": 30,
       "move": null
     },
     {
@@ -810,7 +810,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 93
+      "value": 92
     },
     {
       "rank": 4,
@@ -850,7 +850,7 @@
     {
       "rank": 11,
       "name": "Синдбад Мореход",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 12,
@@ -899,18 +899,18 @@
     },
     {
       "rank": 21,
-      "name": "Aся",
+      "name": "DenisNazarov",
       "value": 8
     },
     {
       "rank": 22,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 23,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 8
     },
     {
       "rank": 24,
@@ -984,67 +984,67 @@
     },
     {
       "rank": 38,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "Axel",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "Bazylev Nickolai",
+      "name": "Axel",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "X888",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "I",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 43,
+      "name": "I",
+      "value": 2
+    },
+    {
+      "rank": 44,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Turchyn Gennadii",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "LlirikMK",
+      "name": "Turchyn Gennadii",
       "value": 1
     }
   ],
@@ -1076,12 +1076,12 @@
     },
     {
       "rank": 6,
-      "name": "Viktor",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "Viktor",
       "value": 7
     },
     {
@@ -1106,23 +1106,23 @@
     },
     {
       "rank": 12,
-      "name": "Aся",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 13,
-      "name": "Руслан Иванов",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
-      "value": 2
+      "name": "Князь Владимир С",
+      "value": 3
     },
     {
       "rank": 16,
@@ -1141,47 +1141,47 @@
     },
     {
       "rank": 19,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 20,
+      "name": "Павел Корчагин",
+      "value": 2
+    },
+    {
+      "rank": 21,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 26,
-      "name": "iDiklonius",
-      "value": 1
-    },
-    {
       "rank": 27,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 1
     },
     {
