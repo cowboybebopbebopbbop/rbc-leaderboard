@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T08:43:21+00:00",
+  "updated": "2026-08-28T09:43:26+00:00",
   "count": 132,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4133,
+      "value": 4134,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1800,
+      "value": 1801,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 946,
+      "value": 947,
       "move": 0
     },
     {
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 199,
+      "value": 200,
       "move": 0
     },
     {
@@ -825,12 +825,12 @@
     {
       "rank": 6,
       "name": "Ольга",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 8,
@@ -899,18 +899,18 @@
     },
     {
       "rank": 21,
-      "name": "Aся",
+      "name": "DenisNazarov",
       "value": 8
     },
     {
       "rank": 22,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Aся",
       "value": 8
     },
     {
       "rank": 23,
-      "name": "DenisNazarov",
-      "value": 7
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 8
     },
     {
       "rank": 24,
@@ -1052,12 +1052,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 40
+      "value": 38
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 33
     },
     {
       "rank": 3,
@@ -1076,13 +1076,13 @@
     },
     {
       "rank": 6,
-      "name": "Aся",
-      "value": 8
+      "name": "Viktor",
+      "value": 7
     },
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 8,
@@ -1091,48 +1091,48 @@
     },
     {
       "rank": 9,
-      "name": "Viktor",
-      "value": 6
-    },
-    {
-      "rank": 10,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Manis Love",
       "value": 5
     },
     {
+      "rank": 12,
+      "name": "Aся",
+      "value": 4
+    },
+    {
       "rank": 13,
       "name": ".",
-      "value": 5
+      "value": 4
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 15,
-      "name": "Руслан Иванов",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 17,
-      "name": "DenisNazarov",
-      "value": 2
+      "name": "Князь Владимир С",
+      "value": 3
     },
     {
       "rank": 18,
@@ -1171,41 +1171,36 @@
     },
     {
       "rank": 25,
-      "name": "terminal lucidity",
-      "value": 1
-    },
-    {
-      "rank": 26,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Претор",
       "value": 1
     }
