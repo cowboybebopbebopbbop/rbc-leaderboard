@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T03:42:56+00:00",
+  "updated": "2026-08-28T04:43:01+00:00",
   "count": 131,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": ".",
-      "value": 133,
+      "value": 134,
       "move": 0
     },
     {
@@ -873,22 +873,22 @@
     },
     {
       "rank": 17,
+      "name": ".",
+      "value": 10
+    },
+    {
+      "rank": 18,
       "name": "Сергей",
       "value": 9
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Олег",
       "value": 9
     },
     {
-      "rank": 19,
-      "name": "🤗",
-      "value": 9
-    },
-    {
       "rank": 20,
-      "name": ".",
+      "name": "🤗",
       "value": 9
     },
     {
@@ -1061,21 +1061,21 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
-    },
-    {
-      "rank": 6,
       "name": "@wavesscalper",
       "value": 9
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Aся",
+      "value": 8
+    },
+    {
+      "rank": 7,
+      "name": "🅾🅻🅶🅰",
       "value": 8
     },
     {
@@ -1106,7 +1106,7 @@
     {
       "rank": 13,
       "name": ".",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 14,
