@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T19:52:29+00:00",
+  "updated": "2026-08-28T20:52:34+00:00",
   "count": 134,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4136,
+      "value": 4137,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 947,
+      "value": 948,
       "move": 0
     },
     {
@@ -812,7 +812,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 153
+      "value": 154
     },
     {
       "rank": 2,
@@ -842,7 +842,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 31
+      "value": 32
     },
     {
       "rank": 8,
@@ -1064,7 +1064,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
@@ -1088,13 +1088,13 @@
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
+      "name": "Viktor",
       "value": 8
     },
     {
       "rank": 7,
-      "name": "Viktor",
-      "value": 7
+      "name": "Синдбад Мореход",
+      "value": 8
     },
     {
       "rank": 8,
