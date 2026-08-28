@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T07:43:16+00:00",
+  "updated": "2026-08-28T08:43:21+00:00",
   "count": 132,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 844,
+      "value": 845,
       "move": 0
     },
     {
@@ -1052,17 +1052,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 40
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 41
+      "value": 36
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 4,
@@ -1141,37 +1141,37 @@
     },
     {
       "rank": 19,
-      "name": "terminal lucidity",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Marat Miheev",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Sviat",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "terminal lucidity",
       "value": 1
     },
     {
@@ -1196,21 +1196,16 @@
     },
     {
       "rank": 30,
-      "name": "Bazylev Nickolai",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Претор",
       "value": 1
     }
