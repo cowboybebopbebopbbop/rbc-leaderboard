@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T15:52:10+00:00",
+  "updated": "2026-08-28T16:52:15+00:00",
   "count": 132,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1130,
+      "value": 1131,
       "move": 0
     },
     {
@@ -366,7 +366,7 @@
     {
       "rank": 61,
       "name": "LlirikMK",
-      "value": 28,
+      "value": 29,
       "move": null
     },
     {
@@ -805,7 +805,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 119
+      "value": 120
     },
     {
       "rank": 3,
@@ -830,7 +830,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 32
+      "value": 31
     },
     {
       "rank": 8,
@@ -1044,7 +1044,7 @@
     },
     {
       "rank": 50,
-      "name": "Charlie Shefelman",
+      "name": "LlirikMK",
       "value": 1
     }
   ],
@@ -1052,12 +1052,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 3,
@@ -1171,17 +1171,17 @@
     },
     {
       "rank": 25,
-      "name": "Сергей",
-      "value": 1
-    },
-    {
-      "rank": 26,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "LlirikMK",
       "value": 1
     },
     {
