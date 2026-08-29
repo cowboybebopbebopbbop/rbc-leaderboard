@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:52:38+00:00",
+  "updated": "2026-08-29T02:52:39+00:00",
   "count": 134,
   "has_movement": true,
   "all": [
@@ -120,7 +120,7 @@
     {
       "rank": 20,
       "name": "🤗",
-      "value": 295,
+      "value": 296,
       "move": 0
     },
     {
@@ -891,27 +891,27 @@
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "🤗",
       "value": 10
     },
     {
       "rank": 18,
+      "name": ".",
+      "value": 10
+    },
+    {
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 9
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Сергей",
       "value": 9
     },
     {
-      "rank": 20,
-      "name": "Олег",
-      "value": 9
-    },
-    {
       "rank": 21,
-      "name": "🤗",
+      "name": "Олег",
       "value": 9
     },
     {
@@ -1203,11 +1203,16 @@
     },
     {
       "rank": 29,
-      "name": "🏴‍☠️",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 30,
+      "name": "🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 31,
       "name": "Претор",
       "value": 1
     }
