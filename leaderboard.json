@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T11:52:58+00:00",
+  "updated": "2026-08-29T12:52:58+00:00",
   "count": 134,
   "has_movement": true,
   "all": [
@@ -832,7 +832,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 41
+      "value": 40
     },
     {
       "rank": 6,
@@ -876,12 +876,12 @@
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
-      "value": 12
+      "name": "Manis Love",
+      "value": 11
     },
     {
       "rank": 15,
-      "name": "Manis Love",
+      "name": "Vitaliy",
       "value": 11
     },
     {
@@ -1083,22 +1083,22 @@
     },
     {
       "rank": 5,
-      "name": "@wavesscalper",
-      "value": 9
-    },
-    {
-      "rank": 6,
       "name": "🅾🅻🅶🅰",
       "value": 7
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Синдбад Мореход",
       "value": 7
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Jekago |РБК Крипто, мод.",
+      "value": 6
+    },
+    {
+      "rank": 8,
+      "name": "@wavesscalper",
       "value": 6
     },
     {
@@ -1133,91 +1133,86 @@
     },
     {
       "rank": 15,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
-      "rank": 16,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Претор",
       "value": 1
     }
