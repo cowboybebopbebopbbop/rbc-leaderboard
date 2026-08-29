@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T16:53:03+00:00",
-  "count": 134,
+  "updated": "2026-08-29T17:53:20+00:00",
+  "count": 135,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4139,
+      "value": 4140,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1727,
+      "value": 1728,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 948,
+      "value": 949,
       "move": 0
     },
     {
@@ -806,13 +806,19 @@
       "name": "Павел Гуриев",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 135,
+      "name": "stars",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 154
+      "value": 155
     },
     {
       "rank": 2,
@@ -842,7 +848,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 8,
@@ -1011,52 +1017,52 @@
     },
     {
       "rank": 41,
-      "name": "Axel",
-      "value": 2
-    },
-    {
-      "rank": 42,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "I",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Turchyn Gennadii",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Axel",
       "value": 1
     }
   ],
@@ -1064,7 +1070,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 2,
@@ -1079,7 +1085,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 5,
@@ -1098,27 +1104,27 @@
     },
     {
       "rank": 8,
-      "name": "DenisNazarov",
+      "name": "Viktor",
       "value": 4
     },
     {
       "rank": 9,
-      "name": "@wavesscalper",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 10,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 11,
-      "name": "SPM",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 12,
-      "name": "Viktor",
+      "name": "SPM",
       "value": 3
     },
     {
@@ -1128,17 +1134,17 @@
     },
     {
       "rank": 14,
-      "name": "Aся",
-      "value": 3
-    },
-    {
-      "rank": 15,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Sviat",
+      "value": 2
+    },
+    {
+      "rank": 16,
+      "name": "Aся",
       "value": 2
     },
     {
