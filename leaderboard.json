@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:52:45+00:00",
+  "updated": "2026-08-29T11:52:58+00:00",
   "count": 134,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 850,
+      "value": 851,
       "move": 0
     },
     {
@@ -473,15 +473,15 @@
     },
     {
       "rank": 79,
-      "name": "Олег",
-      "value": 10,
-      "move": -2
+      "name": "SPM",
+      "value": 11,
+      "move": 0
     },
     {
       "rank": 80,
-      "name": "SPM",
+      "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": -3
     },
     {
       "rank": 81,
@@ -827,7 +827,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -966,23 +966,23 @@
     },
     {
       "rank": 32,
-      "name": "Andrey Tugarin",
+      "name": "SPM",
       "value": 3
     },
     {
       "rank": 33,
-      "name": "Руслан Иванов",
+      "name": "Andrey Tugarin",
       "value": 3
     },
     {
       "rank": 34,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 35,
-      "name": "SPM",
-      "value": 2
+      "name": "Сергей",
+      "value": 3
     },
     {
       "rank": 36,
@@ -1074,7 +1074,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1113,33 +1113,33 @@
     },
     {
       "rank": 11,
-      "name": "Viktor",
+      "name": "SPM",
       "value": 3
     },
     {
       "rank": 12,
-      "name": "A.",
+      "name": "Viktor",
       "value": 3
     },
     {
       "rank": 13,
-      "name": "Aся",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 14,
-      "name": "Руслан Иванов",
+      "name": "Aся",
       "value": 3
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 16,
-      "name": "SPM",
-      "value": 2
+      "name": "Князь Владимир С",
+      "value": 3
     },
     {
       "rank": 17,
