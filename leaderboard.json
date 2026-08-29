@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T21:53:40+00:00",
+  "updated": "2026-08-29T22:53:42+00:00",
   "count": 135,
   "has_movement": true,
   "all": [
@@ -997,47 +997,47 @@
     },
     {
       "rank": 37,
-      "name": "-",
-      "value": 2
-    },
-    {
-      "rank": 38,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Ольга",
+      "value": 1
+    },
+    {
+      "rank": 45,
+      "name": "-",
       "value": 1
     },
     {
