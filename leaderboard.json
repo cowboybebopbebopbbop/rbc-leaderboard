@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:53:38+00:00",
+  "updated": "2026-08-29T19:53:39+00:00",
   "count": 135,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1133,
+      "value": 1135,
       "move": 0
     },
     {
@@ -823,12 +823,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 122
+      "value": 124
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 88
+      "value": 87
     },
     {
       "rank": 4,
@@ -838,7 +838,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 6,
@@ -927,18 +927,18 @@
     },
     {
       "rank": 23,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
-    },
-    {
-      "rank": 24,
       "name": "Eugene",
       "value": 7
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Marat Miheev",
       "value": 7
+    },
+    {
+      "rank": 25,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 6
     },
     {
       "rank": 26,
@@ -1027,42 +1027,42 @@
     },
     {
       "rank": 43,
-      "name": "I",
-      "value": 2
-    },
-    {
-      "rank": 44,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Axel",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "❤️",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Алексей",
       "value": 1
     }
   ],
@@ -1075,7 +1075,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 29
+      "value": 31
     },
     {
       "rank": 3,
@@ -1184,36 +1184,31 @@
     },
     {
       "rank": 24,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 1
-    },
-    {
-      "rank": 25,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Претор",
       "value": 1
     }
