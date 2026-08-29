@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T06:52:41+00:00",
+  "updated": "2026-08-29T07:52:42+00:00",
   "count": 134,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4137,
+      "value": 4139,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 846,
+      "value": 847,
       "move": 0
     },
     {
@@ -812,7 +812,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 153
+      "value": 155
     },
     {
       "rank": 2,
@@ -822,12 +822,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 92
+      "value": 91
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 5,
@@ -1064,7 +1064,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 36
     },
     {
       "rank": 2,
@@ -1074,7 +1074,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 4,
@@ -1083,17 +1083,17 @@
     },
     {
       "rank": 5,
-      "name": "Синдбад Мореход",
-      "value": 9
-    },
-    {
-      "rank": 6,
       "name": "@wavesscalper",
       "value": 9
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "🅾🅻🅶🅰",
+      "value": 7
+    },
+    {
+      "rank": 7,
+      "name": "Синдбад Мореход",
       "value": 7
     },
     {
@@ -1104,7 +1104,7 @@
     {
       "rank": 9,
       "name": "A.",
-      "value": 5
+      "value": 4
     },
     {
       "rank": 10,
