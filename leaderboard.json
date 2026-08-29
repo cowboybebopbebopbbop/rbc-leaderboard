@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T17:53:20+00:00",
+  "updated": "2026-08-29T18:53:38+00:00",
   "count": 135,
   "has_movement": true,
   "all": [
@@ -838,7 +838,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 6,
@@ -1052,17 +1052,17 @@
     },
     {
       "rank": 48,
-      "name": "Turchyn Gennadii",
-      "value": 1
-    },
-    {
-      "rank": 49,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Axel",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "❤️",
       "value": 1
     }
   ],
