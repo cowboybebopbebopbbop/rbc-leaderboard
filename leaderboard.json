@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T20:53:40+00:00",
+  "updated": "2026-08-29T21:53:40+00:00",
   "count": 135,
   "has_movement": true,
   "all": [
@@ -912,13 +912,13 @@
     },
     {
       "rank": 20,
-      "name": "DenisNazarov",
+      "name": "Олег",
       "value": 9
     },
     {
       "rank": 21,
-      "name": "Олег",
-      "value": 9
+      "name": "DenisNazarov",
+      "value": 8
     },
     {
       "rank": 22,
