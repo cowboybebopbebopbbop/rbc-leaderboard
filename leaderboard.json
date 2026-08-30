@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T09:53:50+00:00",
+  "updated": "2026-08-30T10:53:50+00:00",
   "count": 136,
   "has_movement": true,
   "all": [
@@ -824,7 +824,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 154
+      "value": 153
     },
     {
       "rank": 2,
@@ -844,7 +844,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 6,
@@ -1076,7 +1076,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 2,
@@ -1100,12 +1100,12 @@
     },
     {
       "rank": 6,
-      "name": "Синдбад Мореход",
-      "value": 6
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 5
     },
     {
       "rank": 7,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
