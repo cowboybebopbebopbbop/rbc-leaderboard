@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T15:53:54+00:00",
+  "updated": "2026-08-30T16:53:55+00:00",
   "count": 136,
   "has_movement": true,
   "all": [
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Manis Love",
-      "value": 179,
+      "value": 180,
       "move": 0
     },
     {
@@ -889,7 +889,7 @@
     {
       "rank": 14,
       "name": "Manis Love",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 15,
@@ -1190,36 +1190,41 @@
     },
     {
       "rank": 24,
-      "name": "Виталий",
+      "name": "Manis Love",
       "value": 1
     },
     {
       "rank": 25,
-      "name": "Ольга",
+      "name": "Виталий",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "𝑽",
+      "name": "Ольга",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "iDiklonius",
+      "name": "𝑽",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "Олег",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "🏴‍☠️",
+      "name": "Олег",
       "value": 1
     },
     {
       "rank": 30,
+      "name": "🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 31,
       "name": "dahak",
       "value": 1
     }
