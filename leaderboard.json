@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T03:53:45+00:00",
+  "updated": "2026-08-30T04:53:46+00:00",
   "count": 136,
   "has_movement": true,
   "all": [
@@ -1140,27 +1140,27 @@
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
-      "value": 3
-    },
-    {
-      "rank": 15,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Сергей",
+      "value": 2
+    },
+    {
+      "rank": 18,
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
