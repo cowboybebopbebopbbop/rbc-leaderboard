@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:53:53+00:00",
+  "updated": "2026-08-30T14:53:53+00:00",
   "count": 136,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 949,
+      "value": 950,
       "move": 0
     },
     {
@@ -854,17 +854,17 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 33
+      "value": 34
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 27
+      "name": "Olga Goncharova",
+      "value": 24
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
-      "value": 24
+      "name": "ᴦоᴧод",
+      "value": 22
     },
     {
       "rank": 10,
@@ -1058,17 +1058,17 @@
     },
     {
       "rank": 48,
-      "name": "Axel",
-      "value": 1
-    },
-    {
-      "rank": 49,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Алексей",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Max",
       "value": 1
     }
   ],
@@ -1100,18 +1100,18 @@
     },
     {
       "rank": 6,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Viktor",
       "value": 5
     },
     {
       "rank": 7,
-      "name": "Синдбад Мореход",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 5
     },
     {
       "rank": 8,
-      "name": "Viktor",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 5
     },
     {
       "rank": 9,
