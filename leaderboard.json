@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T10:53:50+00:00",
+  "updated": "2026-08-30T11:53:51+00:00",
   "count": 136,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4140,
+      "value": 4141,
       "move": 0
     },
     {
@@ -816,7 +816,7 @@
     {
       "rank": 136,
       "name": "dahak",
-      "value": 0,
+      "value": 1,
       "move": null
     }
   ],
@@ -864,7 +864,7 @@
     {
       "rank": 9,
       "name": "Olga Goncharova",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 10,
@@ -1216,6 +1216,11 @@
     {
       "rank": 29,
       "name": "🏴‍☠️",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "dahak",
       "value": 1
     }
   ]
