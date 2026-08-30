@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T19:54:13+00:00",
-  "count": 136,
+  "updated": "2026-08-30T20:54:14+00:00",
+  "count": 137,
   "has_movement": true,
   "all": [
     {
@@ -818,6 +818,12 @@
       "name": "dahak",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 137,
+      "name": "пропавший",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -854,7 +860,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 8,
@@ -864,7 +870,7 @@
     {
       "rank": 9,
       "name": "Olga Goncharova",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 10,
@@ -973,102 +979,102 @@
     },
     {
       "rank": 31,
-      "name": "Advokat Krysanov",
-      "value": 3
-    },
-    {
-      "rank": 32,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "❤️",
       "value": 1
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "🏴‍☠️",
       "value": 1
     }
   ],
@@ -1135,47 +1141,47 @@
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
-      "rank": 14,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "🤗",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
