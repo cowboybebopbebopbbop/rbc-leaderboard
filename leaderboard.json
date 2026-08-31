@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T06:54:21+00:00",
+  "updated": "2026-08-31T07:54:22+00:00",
   "count": 139,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 854,
+      "value": 855,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 322,
+      "value": 324,
       "move": 0
     },
     {
@@ -852,12 +852,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 85
+      "value": 82
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -996,58 +996,58 @@
     },
     {
       "rank": 32,
-      "name": "SPM",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 3
     },
     {
       "rank": 33,
-      "name": "Andrey Tugarin",
+      "name": "SPM",
       "value": 3
     },
     {
       "rank": 34,
-      "name": "Руслан Иванов",
+      "name": "Andrey Tugarin",
       "value": 3
     },
     {
       "rank": 35,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 36,
+      "name": "Сергей",
+      "value": 3
+    },
+    {
+      "rank": 37,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "X888",
       "value": 2
-    },
-    {
-      "rank": 42,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
     },
     {
       "rank": 43,
@@ -1104,7 +1104,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1143,68 +1143,68 @@
     },
     {
       "rank": 11,
-      "name": "SPM",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 3
     },
     {
       "rank": 12,
-      "name": "A.",
+      "name": "SPM",
       "value": 3
     },
     {
       "rank": 13,
-      "name": "@wavesscalper",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 14,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 15,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Синдбад Мореход",
       "value": 2
-    },
-    {
-      "rank": 23,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
     },
     {
       "rank": 24,
