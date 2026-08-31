@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T23:54:16+00:00",
+  "updated": "2026-08-31T00:53:38+00:00",
   "count": 137,
   "has_movement": true,
   "all": [
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": "Александр",
-      "value": 132,
+      "value": 133,
       "move": 0
     },
     {
@@ -475,19 +475,19 @@
       "rank": 79,
       "name": "SPM",
       "value": 11,
-      "move": 2
+      "move": 0
     },
     {
       "rank": 80,
       "name": "Олег",
       "value": 10,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 81,
       "name": "Demius",
       "value": 9,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 82,
@@ -811,13 +811,13 @@
       "rank": 135,
       "name": "stars",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 136,
       "name": "dahak",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 137,
@@ -974,32 +974,32 @@
     },
     {
       "rank": 30,
-      "name": "byk0t!?",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 31,
+      "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 32,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 34,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
       "rank": 35,
-      "name": "Александр",
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1121,22 +1121,22 @@
     },
     {
       "rank": 9,
-      "name": ".",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 10,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 11,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 11,
-      "name": "A.",
-      "value": 3
-    },
-    {
       "rank": 12,
-      "name": "Александр",
+      "name": "A.",
       "value": 3
     },
     {
