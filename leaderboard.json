@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T07:54:22+00:00",
+  "updated": "2026-08-31T08:54:23+00:00",
   "count": 139,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 855,
+      "value": 856,
       "move": 0
     },
     {
@@ -1104,7 +1104,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1158,92 +1158,92 @@
     },
     {
       "rank": 14,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 15,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Олег",
+      "value": 1
+    },
+    {
+      "rank": 31,
+      "name": "@wavesscalper",
       "value": 1
     },
     {
