@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T08:54:23+00:00",
+  "updated": "2026-08-31T09:54:23+00:00",
   "count": 139,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1137,
+      "value": 1139,
       "move": 0
     },
     {
@@ -847,7 +847,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 127
     },
     {
       "rank": 3,
@@ -1099,12 +1099,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 31
+      "value": 33
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -1163,62 +1163,62 @@
     },
     {
       "rank": 15,
-      "name": "Aся",
-      "value": 2
-    },
-    {
-      "rank": 16,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Виталий",
+      "value": 1
+    },
+    {
+      "rank": 26,
+      "name": "Aся",
       "value": 1
     },
     {
