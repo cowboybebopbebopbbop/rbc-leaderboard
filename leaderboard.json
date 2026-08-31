@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:54:33+00:00",
+  "updated": "2026-08-31T19:54:34+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
@@ -858,7 +858,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 84
+      "value": 83
     },
     {
       "rank": 4,
@@ -892,13 +892,13 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "wavesscalper | скальпер по волнам",
       "value": 18
     },
     {
       "rank": 11,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 17
     },
     {
       "rank": 12,
