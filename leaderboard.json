@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:54:34+00:00",
+  "updated": "2026-08-31T20:54:35+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 856,
+      "value": 857,
       "move": 0
     },
     {
@@ -311,15 +311,15 @@
     },
     {
       "rank": 52,
-      "name": "Алексей",
-      "value": 61,
-      "move": -1
+      "name": "Marat Miheev",
+      "value": 62,
+      "move": 0
     },
     {
       "rank": 53,
-      "name": "Marat Miheev",
+      "name": "Алексей",
       "value": 61,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 54,
@@ -863,7 +863,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 60
+      "value": 61
     },
     {
       "rank": 5,
@@ -957,12 +957,12 @@
     },
     {
       "rank": 23,
-      "name": "Eugene",
-      "value": 7
+      "name": "Marat Miheev",
+      "value": 8
     },
     {
       "rank": 24,
-      "name": "Marat Miheev",
+      "name": "Eugene",
       "value": 7
     },
     {
@@ -1110,7 +1110,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 4,
@@ -1249,16 +1249,21 @@
     },
     {
       "rank": 31,
-      "name": "🏴‍☠️",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "dahak",
+      "name": "🏴‍☠️",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "dahak",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Jeffrey",
       "value": 1
     }
