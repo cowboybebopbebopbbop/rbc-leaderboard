@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T09:54:23+00:00",
-  "count": 139,
+  "updated": "2026-08-31T10:54:27+00:00",
+  "count": 140,
   "has_movement": true,
   "all": [
     {
@@ -836,6 +836,12 @@
       "name": "Jeffrey",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 140,
+      "name": "А В",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -1094,7 +1100,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 35
+      "value": 34
     },
     {
       "rank": 2,
