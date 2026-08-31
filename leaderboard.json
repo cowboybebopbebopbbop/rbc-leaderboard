@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-31T10:54:27+00:00",
+  "updated": "2026-08-31T11:54:28+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5766,
+      "value": 5767,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4141,
+      "value": 4142,
       "move": 0
     },
     {
@@ -848,7 +848,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 152
+      "value": 153
     },
     {
       "rank": 2,
@@ -1100,12 +1100,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 3,
@@ -1119,17 +1119,17 @@
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 6
     },
     {
       "rank": 6,
-      "name": "Viktor",
-      "value": 5
+      "name": "🅾🅻🅶🅰",
+      "value": 6
     },
     {
       "rank": 7,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Viktor",
       "value": 5
     },
     {
@@ -1249,16 +1249,11 @@
     },
     {
       "rank": 31,
-      "name": "@wavesscalper",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "🏴‍☠️",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "dahak",
       "value": 1
     }
