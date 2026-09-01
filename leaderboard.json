@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T02:48:42+00:00",
+  "updated": "2026-09-01T03:48:42+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "Сергей",
-      "value": 73,
+      "value": 74,
       "move": -1
     },
     {
@@ -912,17 +912,17 @@
     },
     {
       "rank": 14,
+      "name": "Сергей",
+      "value": 12
+    },
+    {
+      "rank": 15,
       "name": "Manis Love",
       "value": 11
     },
     {
-      "rank": 15,
-      "name": "Vitaliy",
-      "value": 11
-    },
-    {
       "rank": 16,
-      "name": "Сергей",
+      "name": "Vitaliy",
       "value": 11
     },
     {
@@ -1159,7 +1159,7 @@
     },
     {
       "rank": 13,
-      "name": ".",
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1174,32 +1174,32 @@
     },
     {
       "rank": 16,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Синдбад Мореход",
+      "value": 2
+    },
+    {
+      "rank": 21,
+      "name": ".",
       "value": 2
     },
     {
