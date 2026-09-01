@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T03:48:42+00:00",
+  "updated": "2026-09-01T04:48:43+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
@@ -144,7 +144,7 @@
     {
       "rank": 24,
       "name": "DenisNazarov",
-      "value": 202,
+      "value": 203,
       "move": 0
     },
     {
@@ -942,13 +942,13 @@
     },
     {
       "rank": 20,
-      "name": "Олег",
+      "name": "DenisNazarov",
       "value": 9
     },
     {
       "rank": 21,
-      "name": "DenisNazarov",
-      "value": 8
+      "name": "Олег",
+      "value": 9
     },
     {
       "rank": 22,
@@ -1129,13 +1129,13 @@
     },
     {
       "rank": 7,
-      "name": "🅾🅻🅶🅰",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
       "rank": 8,
-      "name": "DenisNazarov",
-      "value": 4
+      "name": "🅾🅻🅶🅰",
+      "value": 5
     },
     {
       "rank": 9,
