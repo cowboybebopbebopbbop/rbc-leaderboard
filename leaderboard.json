@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-01T04:48:43+00:00",
+  "updated": "2026-09-01T05:48:44+00:00",
   "count": 140,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5773,
+      "value": 5774,
       "move": 0
     },
     {
@@ -858,7 +858,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 83
+      "value": 84
     },
     {
       "rank": 4,
@@ -1099,27 +1099,27 @@
   "week": [
     {
       "rank": 1,
-      "name": "a l",
-      "value": 31
-    },
-    {
-      "rank": 2,
       "name": "Igor",
       "value": 31
     },
     {
+      "rank": 2,
+      "name": "a l",
+      "value": 29
+    },
+    {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 17
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 12
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 13
     },
     {
       "rank": 5,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Archie",
       "value": 12
     },
     {
@@ -1149,18 +1149,18 @@
     },
     {
       "rank": 11,
-      "name": "SPM",
-      "value": 3
-    },
-    {
-      "rank": 12,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Сергей",
       "value": 3
+    },
+    {
+      "rank": 13,
+      "name": "SPM",
+      "value": 2
     },
     {
       "rank": 14,
