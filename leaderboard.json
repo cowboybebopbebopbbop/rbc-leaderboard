@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T12:48:53+00:00",
+  "updated": "2026-09-01T13:48:54+00:00",
   "count": 141,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4153,
+      "value": 4154,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1728,
+      "value": 1729,
       "move": 0
     },
     {
@@ -854,7 +854,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 164
+      "value": 165
     },
     {
       "rank": 2,
@@ -874,7 +874,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 6,
@@ -1111,7 +1111,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 28
     },
     {
       "rank": 3,
@@ -1121,7 +1121,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 5,
@@ -1155,17 +1155,17 @@
     },
     {
       "rank": 11,
-      "name": "A.",
-      "value": 3
-    },
-    {
-      "rank": 12,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "SPM",
+      "value": 2
+    },
+    {
+      "rank": 13,
+      "name": "A.",
       "value": 2
     },
     {
