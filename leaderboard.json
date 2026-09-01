@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T19:49:04+00:00",
+  "updated": "2026-09-01T20:49:04+00:00",
   "count": 142,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 721,
+      "value": 724,
       "move": 0
     },
     {
@@ -919,37 +919,37 @@
     },
     {
       "rank": 13,
+      "name": "L G",
+      "value": 13
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 12
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Сергей",
       "value": 12
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Manis Love",
       "value": 11
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 11
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "🤗",
       "value": 11
     },
     {
-      "rank": 18,
-      "name": "DenisNazarov",
-      "value": 10
-    },
-    {
       "rank": 19,
-      "name": "L G",
+      "name": "DenisNazarov",
       "value": 10
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "rank": 5,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 6,
@@ -1166,52 +1166,52 @@
     },
     {
       "rank": 12,
+      "name": "L G",
+      "value": 3
+    },
+    {
+      "rank": 13,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "Синдбад Мореход",
-      "value": 2
-    },
-    {
       "rank": 21,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
@@ -1261,16 +1261,21 @@
     },
     {
       "rank": 31,
-      "name": "dahak",
+      "name": ".",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Jeffrey",
+      "name": "dahak",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "Jeffrey",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "1",
       "value": 1
     }
