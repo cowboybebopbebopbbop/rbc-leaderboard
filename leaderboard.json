@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T13:48:54+00:00",
+  "updated": "2026-09-01T14:48:55+00:00",
   "count": 141,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 950,
+      "value": 952,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "Sergey Saprykin ID: 125370212",
-      "value": 324,
+      "value": 325,
       "move": 0
     },
     {
@@ -884,7 +884,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 32
+      "value": 34
     },
     {
       "rank": 8,
@@ -998,18 +998,18 @@
     },
     {
       "rank": 30,
-      "name": "Александр",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
       "rank": 31,
-      "name": "byk0t!?",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 32,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 3
+      "name": "byk0t!?",
+      "value": 4
     },
     {
       "rank": 33,
@@ -1106,12 +1106,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 40
+      "value": 38
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 28
+      "value": 26
     },
     {
       "rank": 3,
@@ -1121,7 +1121,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
@@ -1131,7 +1131,7 @@
     {
       "rank": 6,
       "name": "Viktor",
-      "value": 5
+      "value": 7
     },
     {
       "rank": 7,
@@ -1145,13 +1145,13 @@
     },
     {
       "rank": 9,
-      "name": "Александр",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
       "rank": 10,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 3
+      "name": "Александр",
+      "value": 4
     },
     {
       "rank": 11,
@@ -1255,21 +1255,16 @@
     },
     {
       "rank": 31,
-      "name": "🏴‍☠️",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Jeffrey",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "1",
       "value": 1
     }
