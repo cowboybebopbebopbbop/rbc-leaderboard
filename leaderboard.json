@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T16:48:56+00:00",
-  "count": 141,
+  "updated": "2026-09-01T17:49:02+00:00",
+  "count": 142,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4155,
+      "value": 4156,
       "move": 0
     },
     {
@@ -848,13 +848,19 @@
       "name": "А В",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 142,
+      "name": "Альфрит Лиховидов",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 166
+      "value": 167
     },
     {
       "rank": 2,
@@ -1106,7 +1112,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 2,
