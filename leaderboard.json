@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T15:42:50+00:00",
+  "updated": "2026-09-02T16:31:02+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Sergey СЕО",
-      "value": 87,
+      "value": 88,
       "move": 2
     },
     {
@@ -995,17 +995,17 @@
     },
     {
       "rank": 27,
+      "name": "Sergey СЕО",
+      "value": 6
+    },
+    {
+      "rank": 28,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 28,
-      "name": "𝑽",
-      "value": 5
-    },
-    {
       "rank": 29,
-      "name": "Sergey СЕО",
+      "name": "𝑽",
       "value": 5
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 3,
@@ -1152,12 +1152,12 @@
     },
     {
       "rank": 8,
-      "name": "DenisNazarov",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 9,
-      "name": "Sergey СЕО",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
@@ -1212,52 +1212,52 @@
     },
     {
       "rank": 20,
-      "name": "Павел Корчагин",
-      "value": 2
-    },
-    {
-      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Vitaliy",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "iDiklonius",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Павел Корчагин",
       "value": 1
     },
     {
