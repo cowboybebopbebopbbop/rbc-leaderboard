@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T10:49:44+00:00",
+  "updated": "2026-09-02T11:49:44+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4162,
+      "value": 4163,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1730,
+      "value": 1731,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 729,
+      "value": 730,
       "move": 0
     },
     {
@@ -866,7 +866,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 173
+      "value": 174
     },
     {
       "rank": 2,
@@ -886,7 +886,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 39
+      "value": 40
     },
     {
       "rank": 6,
@@ -910,13 +910,13 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 19
     },
     {
       "rank": 11,
-      "name": "L G",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 19
     },
     {
       "rank": 12,
@@ -1118,7 +1118,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 2,
@@ -1138,12 +1138,12 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 6,
       "name": "L G",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 7,
@@ -1202,52 +1202,52 @@
     },
     {
       "rank": 18,
-      "name": "Vitaliy",
-      "value": 2
-    },
-    {
-      "rank": 19,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Ольга",
+      "value": 1
+    },
+    {
+      "rank": 27,
+      "name": "Vitaliy",
       "value": 1
     },
     {
