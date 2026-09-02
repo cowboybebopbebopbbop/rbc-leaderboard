@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T11:49:44+00:00",
+  "updated": "2026-09-02T12:49:45+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 730,
+      "value": 731,
       "move": 0
     },
     {
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Sergey СЕО",
-      "value": 86,
+      "value": 87,
       "move": 2
     },
     {
@@ -911,7 +911,7 @@
     {
       "rank": 10,
       "name": "L G",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 11,
@@ -1005,17 +1005,17 @@
     },
     {
       "rank": 29,
-      "name": "iDiklonius",
+      "name": "Sergey СЕО",
       "value": 5
     },
     {
       "rank": 30,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
+      "name": "iDiklonius",
+      "value": 5
     },
     {
       "rank": 31,
-      "name": "Sergey СЕО",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
@@ -1143,7 +1143,7 @@
     {
       "rank": 6,
       "name": "L G",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 7,
@@ -1157,12 +1157,12 @@
     },
     {
       "rank": 9,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
+      "name": "Sergey СЕО",
+      "value": 5
     },
     {
       "rank": 10,
-      "name": "Sergey СЕО",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
