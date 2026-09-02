@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-02T08:49:43+00:00",
-  "count": 142,
+  "updated": "2026-09-02T09:49:44+00:00",
+  "count": 143,
   "has_movement": true,
   "all": [
     {
       "rank": 1,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 5775,
+      "value": 5776,
       "move": 0
     },
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4159,
+      "value": 4160,
       "move": 0
     },
     {
@@ -257,21 +257,21 @@
     },
     {
       "rank": 43,
-      "name": "Павел Корчагин",
+      "name": "Sergey СЕО",
       "value": 86,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 44,
-      "name": "Max",
-      "value": 84,
-      "move": 0
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 45,
-      "name": "Sergey СЕО",
-      "value": 82,
-      "move": 0
+      "name": "Max",
+      "value": 84,
+      "move": -1
     },
     {
       "rank": 46,
@@ -854,13 +854,19 @@
       "name": "Альфрит Лиховидов",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 143,
+      "name": "Marina",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 170
+      "value": 171
     },
     {
       "rank": 2,
@@ -870,7 +876,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 85
+      "value": 86
     },
     {
       "rank": 4,
@@ -1009,102 +1015,102 @@
     },
     {
       "rank": 31,
-      "name": "Александр",
+      "name": "Sergey СЕО",
       "value": 4
     },
     {
       "rank": 32,
-      "name": "byk0t!?",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 33,
+      "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 34,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "den",
       "value": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "X888",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "❤️",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Max",
+      "name": "❤️",
       "value": 1
     }
   ],
@@ -1127,7 +1133,7 @@
     {
       "rank": 4,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 5,
@@ -1142,7 +1148,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 8,
@@ -1161,116 +1167,121 @@
     },
     {
       "rank": 11,
-      "name": "Александр",
+      "name": "Sergey СЕО",
       "value": 4
     },
     {
       "rank": 12,
+      "name": "Александр",
+      "value": 4
+    },
+    {
+      "rank": 13,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Jeffrey",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "1",
       "value": 1
     }
