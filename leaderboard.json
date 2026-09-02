@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:31:02+00:00",
+  "updated": "2026-09-02T17:31:08+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -1262,31 +1262,26 @@
     },
     {
       "rank": 30,
-      "name": "Олег",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Jeffrey",
       "value": 1
     }
