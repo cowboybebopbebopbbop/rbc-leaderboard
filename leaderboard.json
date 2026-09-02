@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T04:49:36+00:00",
+  "updated": "2026-09-02T05:49:41+00:00",
   "count": 142,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 860,
+      "value": 861,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 725,
+      "value": 728,
       "move": 0
     },
     {
@@ -875,7 +875,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 64
+      "value": 65
     },
     {
       "rank": 5,
@@ -909,13 +909,13 @@
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 17
     },
     {
       "rank": 12,
-      "name": "L G",
-      "value": 14
+      "name": "Синдбад Мореход",
+      "value": 17
     },
     {
       "rank": 13,
@@ -1112,7 +1112,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 2,
@@ -1122,17 +1122,17 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 12
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 11
     },
     {
       "rank": 5,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 11
+      "name": "Archie",
+      "value": 10
     },
     {
       "rank": 6,
@@ -1141,22 +1141,22 @@
     },
     {
       "rank": 7,
+      "name": "L G",
+      "value": 7
+    },
+    {
+      "rank": 8,
       "name": "DenisNazarov",
       "value": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "🅾🅻🅶🅰",
       "value": 5
     },
     {
-      "rank": 9,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
-    },
-    {
       "rank": 10,
-      "name": "L G",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
