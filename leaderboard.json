@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T05:49:41+00:00",
+  "updated": "2026-09-02T06:49:42+00:00",
   "count": 142,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4156,
+      "value": 4157,
       "move": 0
     },
     {
@@ -60,13 +60,13 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 812,
+      "value": 813,
       "move": 0
     },
     {
       "rank": 11,
       "name": "L G",
-      "value": 728,
+      "value": 729,
       "move": 0
     },
     {
@@ -860,7 +860,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 167
+      "value": 168
     },
     {
       "rank": 2,
@@ -904,18 +904,18 @@
     },
     {
       "rank": 10,
-      "name": "wavesscalper | скальпер по волнам",
+      "name": "L G",
       "value": 18
     },
     {
       "rank": 11,
-      "name": "L G",
-      "value": 17
+      "name": "Синдбад Мореход",
+      "value": 18
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 17
+      "name": "wavesscalper | скальпер по волнам",
+      "value": 18
     },
     {
       "rank": 13,
@@ -1112,7 +1112,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 37
+      "value": 38
     },
     {
       "rank": 2,
@@ -1136,12 +1136,12 @@
     },
     {
       "rank": 6,
-      "name": "Viktor",
-      "value": 7
+      "name": "L G",
+      "value": 8
     },
     {
       "rank": 7,
-      "name": "L G",
+      "name": "Viktor",
       "value": 7
     },
     {
@@ -1171,47 +1171,47 @@
     },
     {
       "rank": 13,
+      "name": "Синдбад Мореход",
+      "value": 3
+    },
+    {
+      "rank": 14,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Vitaliy",
       "value": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Князь Владимир С",
       "value": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 20,
-      "name": "🤗",
-      "value": 2
-    },
-    {
       "rank": 21,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 2
     },
     {
