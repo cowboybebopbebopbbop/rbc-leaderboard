@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:31:08+00:00",
+  "updated": "2026-09-02T18:31:13+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4163,
+      "value": 4164,
       "move": 0
     },
     {
@@ -866,7 +866,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 174
+      "value": 175
     },
     {
       "rank": 2,
@@ -1118,7 +1118,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
@@ -1257,31 +1257,26 @@
     },
     {
       "rank": 29,
-      "name": "Павел Корчагин",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": ".",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Jeffrey",
       "value": 1
     }
