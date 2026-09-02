@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T09:49:44+00:00",
+  "updated": "2026-09-02T10:49:44+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4160,
+      "value": 4162,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1729,
+      "value": 1730,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 813,
+      "value": 814,
       "move": 0
     },
     {
@@ -330,7 +330,7 @@
     {
       "rank": 55,
       "name": "I",
-      "value": 48,
+      "value": 49,
       "move": 0
     },
     {
@@ -581,81 +581,81 @@
     },
     {
       "rank": 97,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 0
+      "name": "1",
+      "value": 3,
+      "move": null
     },
     {
       "rank": 98,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "Виталий",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Валерия Sweetandflow",
+      "name": "Виталий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 103,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 104,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 106,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 107,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 109,
-      "name": "1",
+      "name": "Jeffrey",
       "value": 2,
-      "move": null
+      "move": -1
     },
     {
       "rank": 110,
@@ -866,7 +866,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 171
+      "value": 173
     },
     {
       "rank": 2,
@@ -886,7 +886,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 6,
@@ -910,12 +910,12 @@
     },
     {
       "rank": 10,
-      "name": "L G",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 19
     },
     {
       "rank": 11,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 18
     },
     {
@@ -1080,37 +1080,37 @@
     },
     {
       "rank": 44,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 45,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Charlie Shefelman",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "❤️",
+      "name": "Charlie Shefelman",
       "value": 1
     }
   ],
@@ -1118,7 +1118,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 34
+      "value": 35
     },
     {
       "rank": 2,
@@ -1138,7 +1138,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 6,
@@ -1157,17 +1157,17 @@
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
-      "value": 5
-    },
-    {
-      "rank": 10,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Sergey СЕО",
+      "value": 4
+    },
+    {
+      "rank": 11,
+      "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
@@ -1177,12 +1177,12 @@
     },
     {
       "rank": 13,
-      "name": "Сергей",
-      "value": 3
+      "name": "Синдбад Мореход",
+      "value": 4
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Сергей",
       "value": 3
     },
     {
@@ -1227,62 +1227,67 @@
     },
     {
       "rank": 23,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 24,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Виталий",
       "value": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "𝑽",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Олег",
       "value": 1
     },
     {
-      "rank": 30,
-      "name": "Marat Miheev",
-      "value": 1
-    },
-    {
       "rank": 31,
-      "name": ".",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "dahak",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Jeffrey",
+      "name": ".",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "1",
+      "name": "dahak",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "Jeffrey",
       "value": 1
     }
   ]
