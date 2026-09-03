@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T23:31:41+00:00",
+  "updated": "2026-09-03T00:31:47+00:00",
   "count": 143,
   "has_movement": true,
   "all": [
@@ -583,7 +583,7 @@
       "rank": 97,
       "name": "1",
       "value": 3,
-      "move": null
+      "move": 12
     },
     {
       "rank": 98,
@@ -661,199 +661,199 @@
       "rank": 110,
       "name": "⁤",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 111,
       "name": "Андрей Грубий",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 112,
       "name": "Solomon Fridman",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 113,
       "name": "Darya",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 114,
       "name": "Alex",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 115,
       "name": "F. Yashin",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 116,
       "name": "Александр",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 117,
       "name": "Артём",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 118,
       "name": "Mikhail Strovsky (PhD)",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 119,
       "name": "Арина Белова",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 120,
       "name": "A M",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 121,
       "name": "Аslan Beispekov",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 122,
       "name": "Лада",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 123,
       "name": "Djoni Wik",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 124,
       "name": "ЮРА",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 125,
       "name": "Игорь",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 126,
       "name": "Lubo",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 127,
       "name": "Kirill Soppa",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 128,
       "name": "Юлия Шапранова",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 129,
       "name": "X Maolady",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 130,
       "name": "zhuqu",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 131,
       "name": "Сергей Astronavt",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 132,
       "name": "Дмитрий",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 133,
       "name": "Жабыч",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 134,
       "name": "Kirill",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 135,
       "name": "Андрей Нецов",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 136,
       "name": "Ponemonec",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 137,
       "name": "Павел Гуриев",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 138,
       "name": "stars",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 139,
       "name": "dahak",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 140,
       "name": "пропавший",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 141,
       "name": "А В",
       "value": 1,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 142,
       "name": "Альфрит Лиховидов",
       "value": 1,
-      "move": null
+      "move": 0
     },
     {
       "rank": 143,
@@ -871,7 +871,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 128
+      "value": 122
     },
     {
       "rank": 3,
@@ -945,17 +945,17 @@
     },
     {
       "rank": 17,
-      "name": "Vitaliy",
-      "value": 11
-    },
-    {
-      "rank": 18,
       "name": "🤗",
       "value": 11
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "DenisNazarov",
+      "value": 10
+    },
+    {
+      "rank": 19,
+      "name": "Vitaliy",
       "value": 10
     },
     {
