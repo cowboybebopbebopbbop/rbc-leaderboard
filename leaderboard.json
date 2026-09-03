@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T11:32:53+00:00",
+  "updated": "2026-09-03T12:32:59+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4169,
+      "value": 4173,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1142,
+      "value": 1143,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 863,
+      "value": 864,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "terminal lucidity",
-      "value": 75,
+      "value": 76,
       "move": -1
     },
     {
@@ -878,12 +878,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 180
+      "value": 184
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 123
+      "value": 124
     },
     {
       "rank": 3,
@@ -893,7 +893,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 67
+      "value": 68
     },
     {
       "rank": 5,
@@ -992,17 +992,17 @@
     },
     {
       "rank": 24,
-      "name": "Eugene",
+      "name": "terminal lucidity",
       "value": 7
     },
     {
       "rank": 25,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 6
+      "name": "Eugene",
+      "value": 7
     },
     {
       "rank": 26,
-      "name": "terminal lucidity",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 6
     },
     {
@@ -1130,17 +1130,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 36
+      "value": 40
     },
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 3,
       "name": "a l",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1214,42 +1214,42 @@
     },
     {
       "rank": 18,
-      "name": "LlirikMK",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "🤗",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "1",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 21,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 22,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 24,
-      "name": "Виталий",
-      "value": 1
-    },
-    {
       "rank": 25,
-      "name": "terminal lucidity",
+      "name": "Виталий",
       "value": 1
     },
     {
