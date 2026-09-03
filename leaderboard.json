@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:33:35+00:00",
+  "updated": "2026-09-03T19:33:41+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1147,
+      "value": 1148,
       "move": 0
     },
     {
@@ -883,7 +883,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 128
+      "value": 129
     },
     {
       "rank": 3,
@@ -1135,7 +1135,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 3,
@@ -1169,12 +1169,12 @@
     },
     {
       "rank": 9,
-      "name": "🅾🅻🅶🅰",
-      "value": 6
+      "name": "DenisNazarov",
+      "value": 5
     },
     {
       "rank": 10,
-      "name": "DenisNazarov",
+      "name": "🅾🅻🅶🅰",
       "value": 5
     },
     {
