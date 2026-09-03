@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T14:33:14+00:00",
+  "updated": "2026-09-03T15:33:18+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1735,
+      "value": 1736,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Manis Love",
-      "value": 180,
+      "value": 182,
       "move": -1
     },
     {
@@ -426,7 +426,7 @@
     {
       "rank": 71,
       "name": "A.",
-      "value": 19,
+      "value": 20,
       "move": -1
     },
     {
@@ -898,7 +898,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 6,
@@ -942,23 +942,23 @@
     },
     {
       "rank": 14,
-      "name": "Сергей",
+      "name": "A.",
       "value": 13
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 12
+      "name": "Manis Love",
+      "value": 13
     },
     {
       "rank": 16,
-      "name": ".",
-      "value": 12
+      "name": "Сергей",
+      "value": 13
     },
     {
       "rank": 17,
-      "name": "Manis Love",
-      "value": 11
+      "name": ".",
+      "value": 12
     },
     {
       "rank": 18,
@@ -1135,7 +1135,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 3,
@@ -1199,52 +1199,52 @@
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 16,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 17,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 17,
-      "name": "Sviat",
-      "value": 2
-    },
-    {
       "rank": 18,
-      "name": "terminal lucidity",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 19,
-      "name": "LlirikMK",
+      "name": "Sviat",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "🤗",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "1",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Юрий",
-      "value": 1
+      "name": "🤗",
+      "value": 2
     },
     {
       "rank": 23,
-      "name": "A.",
-      "value": 1
+      "name": "1",
+      "value": 2
     },
     {
       "rank": 24,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 1
     },
     {
@@ -1264,26 +1264,21 @@
     },
     {
       "rank": 28,
-      "name": "𝑽",
-      "value": 1
-    },
-    {
-      "rank": 29,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Jeffrey",
       "value": 1
     }
