@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T10:32:47+00:00",
+  "updated": "2026-09-03T11:32:53+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -12,13 +12,13 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4165,
+      "value": 4169,
       "move": 0
     },
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1802,
+      "value": 1804,
       "move": 0
     },
     {
@@ -293,15 +293,15 @@
     },
     {
       "rank": 49,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 75,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 50,
-      "name": "terminal lucidity",
-      "value": 74,
-      "move": -2
+      "name": "Сергей",
+      "value": 75,
+      "move": -1
     },
     {
       "rank": 51,
@@ -878,7 +878,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 176
+      "value": 180
     },
     {
       "rank": 2,
@@ -903,7 +903,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 35
+      "value": 37
     },
     {
       "rank": 7,
@@ -1002,18 +1002,18 @@
     },
     {
       "rank": 26,
-      "name": "Алехандро)🍅 Белов🍅",
+      "name": "terminal lucidity",
       "value": 6
     },
     {
       "rank": 27,
-      "name": "Sergey СЕО",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
       "rank": 28,
-      "name": "terminal lucidity",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 29,
@@ -1130,7 +1130,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 32
+      "value": 36
     },
     {
       "rank": 2,
@@ -1145,7 +1145,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 5,
@@ -1174,28 +1174,28 @@
     },
     {
       "rank": 10,
+      "name": "🅾🅻🅶🅰",
+      "value": 5
+    },
+    {
+      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Сергей",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Синдбад Мореход",
       "value": 4
-    },
-    {
-      "rank": 14,
-      "name": "🅾🅻🅶🅰",
-      "value": 3
     },
     {
       "rank": 15,
@@ -1209,32 +1209,32 @@
     },
     {
       "rank": 17,
-      "name": "A.",
-      "value": 2
-    },
-    {
-      "rank": 18,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Юрий",
+      "value": 1
+    },
+    {
+      "rank": 22,
+      "name": "A.",
       "value": 1
     },
     {
@@ -1249,36 +1249,41 @@
     },
     {
       "rank": 25,
-      "name": "Ольга",
+      "name": "terminal lucidity",
       "value": 1
     },
     {
       "rank": 26,
-      "name": "Vitaliy",
+      "name": "Ольга",
       "value": 1
     },
     {
       "rank": 27,
-      "name": "𝑽",
+      "name": "Vitaliy",
       "value": 1
     },
     {
       "rank": 28,
-      "name": "I",
+      "name": "𝑽",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Marat Miheev",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "dahak",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "dahak",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Jeffrey",
       "value": 1
     }
