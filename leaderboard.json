@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T22:33:47+00:00",
+  "updated": "2026-09-03T23:33:52+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -306,7 +306,7 @@
     {
       "rank": 51,
       "name": "Серхио Ле'Трас",
-      "value": 69,
+      "value": 70,
       "move": -1
     },
     {
@@ -1072,57 +1072,57 @@
     },
     {
       "rank": 40,
-      "name": "den",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "LlirikMK",
+      "name": "den",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "Bazylev Nickolai",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "X888",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "1",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 46,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 47,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Ольга",
       "value": 1
     },
     {
-      "rank": 49,
-      "name": "Aleksey",
-      "value": 1
-    },
-    {
       "rank": 50,
-      "name": "Серхио Ле'Трас",
+      "name": "Aleksey",
       "value": 1
     }
   ],
@@ -1264,21 +1264,26 @@
     },
     {
       "rank": 28,
-      "name": "I",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Marat Miheev",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "dahak",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 31,
+      "name": "dahak",
+      "value": 1
+    },
+    {
+      "rank": 32,
       "name": "Jeffrey",
       "value": 1
     }
