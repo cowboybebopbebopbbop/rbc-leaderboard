@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:33:18+00:00",
+  "updated": "2026-09-03T16:33:24+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -1219,37 +1219,37 @@
     },
     {
       "rank": 19,
-      "name": "Sviat",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Виталий",
+      "value": 1
+    },
+    {
+      "rank": 25,
+      "name": "Sviat",
       "value": 1
     },
     {
