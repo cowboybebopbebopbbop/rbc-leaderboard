@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:33:46+00:00",
+  "updated": "2026-09-03T21:33:46+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -581,39 +581,39 @@
     },
     {
       "rank": 97,
-      "name": "Sviat",
+      "name": "Виталий",
       "value": 3,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 98,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 11
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": -2
+      "name": "1",
+      "value": 3,
+      "move": 10
     },
     {
       "rank": 100,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 101,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 102,
-      "name": "Виталий",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -2
+      "move": -3
     },
     {
       "rank": 103,
@@ -1062,52 +1062,52 @@
     },
     {
       "rank": 38,
-      "name": "Sviat",
+      "name": "Виталий",
       "value": 2
     },
     {
       "rank": 39,
-      "name": "den",
+      "name": "Sviat",
       "value": 2
     },
     {
       "rank": 40,
-      "name": "LlirikMK",
+      "name": "den",
       "value": 2
     },
     {
       "rank": 41,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 42,
-      "name": "Bazylev Nickolai",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 43,
-      "name": "X888",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "1",
+      "name": "X888",
       "value": 2
     },
     {
       "rank": 45,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 46,
       "name": "Антон",
       "value": 1
     },
     {
-      "rank": 46,
-      "name": "Юрий",
-      "value": 1
-    },
-    {
       "rank": 47,
-      "name": "Виталий",
+      "name": "Юрий",
       "value": 1
     },
     {
@@ -1219,32 +1219,32 @@
     },
     {
       "rank": 19,
-      "name": "terminal lucidity",
+      "name": "Виталий",
       "value": 2
     },
     {
       "rank": 20,
-      "name": "LlirikMK",
+      "name": "terminal lucidity",
       "value": 2
     },
     {
       "rank": 21,
-      "name": "🤗",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "1",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Юрий",
-      "value": 1
+      "name": "1",
+      "value": 2
     },
     {
       "rank": 24,
-      "name": "Виталий",
+      "name": "Юрий",
       "value": 1
     },
     {
