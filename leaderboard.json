@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T21:33:46+00:00",
+  "updated": "2026-09-03T22:33:47+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -293,15 +293,15 @@
     },
     {
       "rank": 49,
-      "name": "terminal lucidity",
-      "value": 76,
-      "move": -1
+      "name": "Сергей",
+      "value": 77,
+      "move": 0
     },
     {
       "rank": 50,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 76,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 51,
@@ -563,27 +563,27 @@
     },
     {
       "rank": 94,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Виталий",
+      "value": 4,
+      "move": 6
     },
     {
       "rank": 95,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 96,
-      "name": "Don Michele Corleone",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 97,
-      "name": "Виталий",
+      "name": "Don Michele Corleone",
       "value": 3,
-      "move": 3
+      "move": -2
     },
     {
       "rank": 98,
@@ -938,7 +938,7 @@
     {
       "rank": 13,
       "name": "Сергей",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 14,
@@ -1052,18 +1052,18 @@
     },
     {
       "rank": 36,
-      "name": "Руслан Иванов",
+      "name": "Виталий",
       "value": 3
     },
     {
       "rank": 37,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 38,
-      "name": "Виталий",
-      "value": 2
+      "name": "Сергей",
+      "value": 3
     },
     {
       "rank": 39,
@@ -1164,17 +1164,17 @@
     },
     {
       "rank": 8,
-      "name": "Sergey СЕО",
+      "name": "Сергей",
       "value": 6
     },
     {
       "rank": 9,
-      "name": "DenisNazarov",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 10,
-      "name": "Сергей",
+      "name": "DenisNazarov",
       "value": 5
     },
     {
@@ -1204,22 +1204,22 @@
     },
     {
       "rank": 16,
-      "name": ".",
+      "name": "Виталий",
       "value": 3
     },
     {
       "rank": 17,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 18,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 18,
-      "name": "A.",
-      "value": 2
-    },
-    {
       "rank": 19,
-      "name": "Виталий",
+      "name": "A.",
       "value": 2
     },
     {
