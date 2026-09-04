@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T23:33:52+00:00",
+  "updated": "2026-09-04T00:32:54+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -265,19 +265,19 @@
       "rank": 44,
       "name": "Sergey СЕО",
       "value": 88,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 45,
       "name": "Павел Корчагин",
       "value": 86,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 46,
       "name": "Max",
       "value": 84,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 47,
@@ -565,7 +565,7 @@
       "rank": 94,
       "name": "Виталий",
       "value": 4,
-      "move": 6
+      "move": 7
     },
     {
       "rank": 95,
@@ -595,73 +595,73 @@
       "rank": 99,
       "name": "1",
       "value": 3,
-      "move": 10
+      "move": -2
     },
     {
       "rank": 100,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 101,
       "name": "Juli Julia",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 102,
       "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 103,
       "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 104,
       "name": "❤️",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 105,
       "name": "dg",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 106,
       "name": "Юрий",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 107,
       "name": "Arewoe",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 108,
       "name": "Мон Ами",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 109,
       "name": "Ольга",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 110,
       "name": "Jeffrey",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 111,
@@ -871,7 +871,7 @@
       "rank": 145,
       "name": "Marina",
       "value": 1,
-      "move": null
+      "move": -2
     }
   ],
   "month": [
