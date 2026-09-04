@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:34:14+00:00",
+  "updated": "2026-09-04T04:34:20+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": ".",
-      "value": 136,
+      "value": 137,
       "move": -1
     },
     {
@@ -958,7 +958,7 @@
     {
       "rank": 17,
       "name": ".",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 18,
@@ -1219,32 +1219,32 @@
     },
     {
       "rank": 19,
-      "name": "A.",
-      "value": 2
-    },
-    {
-      "rank": 20,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Юрий",
+      "value": 1
+    },
+    {
+      "rank": 24,
+      "name": "A.",
       "value": 1
     },
     {
