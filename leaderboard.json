@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T09:34:49+00:00",
+  "updated": "2026-09-04T10:34:54+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4177,
+      "value": 4179,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Manis Love",
-      "value": 182,
+      "value": 183,
       "move": -1
     },
     {
@@ -878,7 +878,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 188
+      "value": 190
     },
     {
       "rank": 2,
@@ -888,7 +888,7 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 86
+      "value": 80
     },
     {
       "rank": 4,
@@ -908,7 +908,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 37
+      "value": 36
     },
     {
       "rank": 8,
@@ -942,17 +942,17 @@
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "Manis Love",
       "value": 14
     },
     {
       "rank": 15,
-      "name": "A.",
-      "value": 13
+      "name": "Князь Владимир С",
+      "value": 14
     },
     {
       "rank": 16,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 13
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 45
     },
     {
       "rank": 2,
@@ -1140,7 +1140,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 4,
@@ -1174,52 +1174,52 @@
     },
     {
       "rank": 10,
-      "name": "DenisNazarov",
-      "value": 5
-    },
-    {
-      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
+      "rank": 11,
+      "name": "Manis Love",
+      "value": 4
+    },
+    {
       "rank": 12,
-      "name": "🅾🅻🅶🅰",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 13,
-      "name": "Александр",
+      "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
       "rank": 14,
-      "name": "Синдбад Мореход",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 15,
-      "name": "Manis Love",
-      "value": 3
+      "name": "Синдбад Мореход",
+      "value": 4
     },
     {
       "rank": 16,
-      "name": "Виталий",
-      "value": 3
-    },
-    {
-      "rank": 17,
       "name": "terminal lucidity",
       "value": 3
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "SPM",
+      "value": 2
+    },
+    {
+      "rank": 19,
+      "name": "Виталий",
       "value": 2
     },
     {
