@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:35:18+00:00",
+  "updated": "2026-09-04T17:35:24+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -928,18 +928,18 @@
     },
     {
       "rank": 10,
-      "name": "L G",
-      "value": 20
-    },
-    {
-      "rank": 11,
       "name": "Синдбад Мореход",
       "value": 20
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 18
+    },
+    {
+      "rank": 12,
+      "name": "L G",
+      "value": 17
     },
     {
       "rank": 13,
@@ -1180,38 +1180,38 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 5
-    },
-    {
-      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 13,
-      "name": "DenisNazarov",
-      "value": 4
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 13,
       "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 14,
       "name": "Александр",
       "value": 4
+    },
+    {
+      "rank": 15,
+      "name": "Синдбад Мореход",
+      "value": 4
+    },
+    {
+      "rank": 16,
+      "name": "DenisNazarov",
+      "value": 3
     },
     {
       "rank": 17,
@@ -1250,27 +1250,27 @@
     },
     {
       "rank": 24,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Vitaliy",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "LlirikMK",
       "value": 1
     },
     {
