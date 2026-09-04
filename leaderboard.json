@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:36:04+00:00",
+  "updated": "2026-09-04T22:36:06+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -401,21 +401,21 @@
     },
     {
       "rank": 67,
-      "name": "Константин",
+      "name": "A.",
       "value": 22,
-      "move": -1
+      "move": 3
     },
     {
       "rank": 68,
-      "name": "Толян",
-      "value": 21,
-      "move": -1
+      "name": "Константин",
+      "value": 22,
+      "move": -2
     },
     {
       "rank": 69,
-      "name": "A.",
+      "name": "Толян",
       "value": 21,
-      "move": 1
+      "move": -2
     },
     {
       "rank": 70,
@@ -949,7 +949,7 @@
     {
       "rank": 14,
       "name": "A.",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 15,
@@ -1210,22 +1210,22 @@
     },
     {
       "rank": 16,
-      "name": "🅾🅻🅶🅰",
+      "name": "A.",
       "value": 3
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "SPM",
-      "value": 2
+      "name": ".",
+      "value": 3
     },
     {
       "rank": 19,
-      "name": "A.",
+      "name": "SPM",
       "value": 2
     },
     {
