@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:34:43+00:00",
+  "updated": "2026-09-04T09:34:49+00:00",
   "count": 145,
   "has_movement": true,
   "all": [
@@ -287,21 +287,21 @@
     },
     {
       "rank": 48,
-      "name": "Vitaliy",
+      "name": "Сергей",
+      "value": 78,
+      "move": 1
+    },
+    {
+      "rank": 49,
+      "name": "terminal lucidity",
       "value": 77,
       "move": -1
     },
     {
-      "rank": 49,
-      "name": "Сергей",
-      "value": 77,
-      "move": 0
-    },
-    {
       "rank": 50,
-      "name": "terminal lucidity",
-      "value": 76,
-      "move": -2
+      "name": "Vitaliy",
+      "value": 77,
+      "move": -3
     },
     {
       "rank": 51,
@@ -938,7 +938,7 @@
     {
       "rank": 13,
       "name": "Сергей",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 14,
@@ -987,13 +987,13 @@
     },
     {
       "rank": 23,
-      "name": "Marat Miheev",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
       "rank": 24,
-      "name": "terminal lucidity",
-      "value": 7
+      "name": "Marat Miheev",
+      "value": 8
     },
     {
       "rank": 25,
@@ -1130,7 +1130,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
@@ -1140,7 +1140,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 23
+      "value": 22
     },
     {
       "rank": 4,
@@ -1160,12 +1160,12 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 8,
       "name": "Сергей",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 9,
@@ -1179,12 +1179,12 @@
     },
     {
       "rank": 11,
-      "name": "🅾🅻🅶🅰",
-      "value": 5
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 4
     },
     {
       "rank": 12,
-      "name": "Sergey Saprykin ID: 125370212",
+      "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
@@ -1209,22 +1209,22 @@
     },
     {
       "rank": 17,
-      "name": ".",
+      "name": "terminal lucidity",
       "value": 3
     },
     {
       "rank": 18,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 19,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 19,
-      "name": "Aся",
-      "value": 2
-    },
-    {
       "rank": 20,
-      "name": "terminal lucidity",
+      "name": "Aся",
       "value": 2
     },
     {
