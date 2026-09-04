@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T14:35:18+00:00",
+  "updated": "2026-09-04T15:35:18+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 814,
+      "value": 815,
       "move": 0
     },
     {
@@ -934,7 +934,7 @@
     {
       "rank": 11,
       "name": "Синдбад Мореход",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 12,
@@ -1146,7 +1146,7 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 4,
@@ -1180,37 +1180,37 @@
     },
     {
       "rank": 10,
+      "name": "Синдбад Мореход",
+      "value": 5
+    },
+    {
+      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Manis Love",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "DenisNazarov",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "terminal lucidity",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
-      "rank": 15,
-      "name": "Александр",
-      "value": 4
-    },
-    {
       "rank": 16,
-      "name": "Синдбад Мореход",
+      "name": "Александр",
       "value": 4
     },
     {
@@ -1240,37 +1240,37 @@
     },
     {
       "rank": 22,
-      "name": "Vitaliy",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Aleksey",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Юрий",
+      "value": 1
+    },
+    {
+      "rank": 28,
+      "name": "Vitaliy",
       "value": 1
     },
     {
