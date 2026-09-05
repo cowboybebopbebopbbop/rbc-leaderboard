@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T10:36:25+00:00",
+  "updated": "2026-09-05T11:36:26+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4183,
+      "value": 4185,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1740,
+      "value": 1741,
       "move": 0
     },
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 40,
+      "value": 41,
       "move": 0
     },
     {
@@ -884,7 +884,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 174
+      "value": 176
     },
     {
       "rank": 2,
@@ -904,7 +904,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 6,
@@ -1038,32 +1038,32 @@
     },
     {
       "rank": 32,
-      "name": "Александр",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 33,
-      "name": "byk0t!?",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 34,
+      "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 35,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 36,
-      "name": "Виталий",
-      "value": 3
-    },
-    {
       "rank": 37,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Виталий",
       "value": 3
     },
     {
@@ -1136,7 +1136,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 46
     },
     {
       "rank": 2,
@@ -1146,12 +1146,12 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 5,
@@ -1270,26 +1270,31 @@
     },
     {
       "rank": 28,
-      "name": "Charlie Shefelman",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "I",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Marat Miheev",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "dahak",
+      "name": "Marat Miheev",
       "value": 1
     },
     {
       "rank": 32,
+      "name": "dahak",
+      "value": 1
+    },
+    {
+      "rank": 33,
       "name": "Jeffrey",
       "value": 1
     }
