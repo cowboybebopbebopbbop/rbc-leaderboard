@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T07:36:20+00:00",
+  "updated": "2026-09-05T08:36:22+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -281,15 +281,15 @@
     },
     {
       "rank": 47,
-      "name": "terminal lucidity",
-      "value": 79,
-      "move": 3
+      "name": "Vitaliy",
+      "value": 80,
+      "move": 1
     },
     {
       "rank": 48,
-      "name": "Vitaliy",
+      "name": "terminal lucidity",
       "value": 79,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 49,
@@ -539,15 +539,15 @@
     },
     {
       "rank": 90,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Aleksey",
+      "value": 7,
+      "move": 21
     },
     {
       "rank": 91,
-      "name": "Aleksey",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 20
+      "move": -1
     },
     {
       "rank": 92,
@@ -958,23 +958,23 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
+      "name": "Vitaliy",
       "value": 13
     },
     {
       "rank": 17,
-      "name": "🤗",
+      "name": "Князь Владимир С",
       "value": 13
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "🤗",
       "value": 13
     },
     {
       "rank": 19,
-      "name": "Vitaliy",
-      "value": 12
+      "name": ".",
+      "value": 13
     },
     {
       "rank": 20,
@@ -1013,13 +1013,13 @@
     },
     {
       "rank": 27,
-      "name": "Sergey СЕО",
+      "name": "Aleksey",
       "value": 6
     },
     {
       "rank": 28,
-      "name": "Aleksey",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 29,
@@ -1141,7 +1141,7 @@
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 3,
@@ -1170,22 +1170,22 @@
     },
     {
       "rank": 8,
-      "name": "Sergey СЕО",
+      "name": "Aleksey",
       "value": 6
     },
     {
       "rank": 9,
+      "name": "Sergey СЕО",
+      "value": 6
+    },
+    {
+      "rank": 10,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 10,
-      "name": "Сергей",
-      "value": 5
-    },
-    {
       "rank": 11,
-      "name": "Aleksey",
+      "name": "Сергей",
       "value": 5
     },
     {
@@ -1210,47 +1210,47 @@
     },
     {
       "rank": 16,
-      "name": "🅾🅻🅶🅰",
+      "name": "Vitaliy",
       "value": 3
     },
     {
       "rank": 17,
-      "name": "🤗",
+      "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 3
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 20,
+      "name": ".",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "SPM",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 23,
-      "name": "Aся",
-      "value": 2
-    },
-    {
       "rank": 24,
-      "name": "Vitaliy",
+      "name": "Aся",
       "value": 2
     },
     {
