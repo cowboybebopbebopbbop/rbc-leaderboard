@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T06:36:19+00:00",
+  "updated": "2026-09-05T07:36:20+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -545,15 +545,15 @@
     },
     {
       "rank": 91,
-      "name": "Капибара",
-      "value": 5,
-      "move": 0
+      "name": "Aleksey",
+      "value": 6,
+      "move": 20
     },
     {
       "rank": 92,
-      "name": "Aleksey",
+      "name": "Капибара",
       "value": 5,
-      "move": 19
+      "move": -1
     },
     {
       "rank": 93,
@@ -1018,22 +1018,22 @@
     },
     {
       "rank": 28,
-      "name": "𝑽",
+      "name": "Aleksey",
       "value": 5
     },
     {
       "rank": 29,
-      "name": "iDiklonius",
+      "name": "𝑽",
       "value": 5
     },
     {
       "rank": 30,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
+      "name": "iDiklonius",
+      "value": 5
     },
     {
       "rank": 31,
-      "name": "Aleksey",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
@@ -1136,12 +1136,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 44
     },
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 3,
@@ -1185,17 +1185,17 @@
     },
     {
       "rank": 11,
+      "name": "Aleksey",
+      "value": 5
+    },
+    {
+      "rank": 12,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 12,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
       "rank": 13,
-      "name": "Aleksey",
+      "name": "Manis Love",
       "value": 4
     },
     {
