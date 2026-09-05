@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:36:26+00:00",
+  "updated": "2026-09-05T12:36:28+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -1260,41 +1260,36 @@
     },
     {
       "rank": 26,
-      "name": "SPM",
-      "value": 1
-    },
-    {
-      "rank": 27,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Jeffrey",
       "value": 1
     }
