@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T02:36:13+00:00",
+  "updated": "2026-09-05T03:36:14+00:00",
   "count": 146,
   "has_movement": true,
   "all": [
@@ -281,15 +281,15 @@
     },
     {
       "rank": 47,
-      "name": "Vitaliy",
+      "name": "terminal lucidity",
       "value": 79,
-      "move": 1
+      "move": 3
     },
     {
       "rank": 48,
-      "name": "terminal lucidity",
-      "value": 78,
-      "move": 2
+      "name": "Vitaliy",
+      "value": 79,
+      "move": 0
     },
     {
       "rank": 49,
@@ -989,7 +989,7 @@
     {
       "rank": 22,
       "name": "terminal lucidity",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 23,
@@ -1180,17 +1180,17 @@
     },
     {
       "rank": 10,
+      "name": "terminal lucidity",
+      "value": 5
+    },
+    {
+      "rank": 11,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 11,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
       "rank": 12,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 4
     },
     {
