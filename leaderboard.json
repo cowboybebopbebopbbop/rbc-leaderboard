@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T08:36:59+00:00",
+  "updated": "2026-09-06T09:37:01+00:00",
   "count": 147,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4188,
+      "value": 4189,
       "move": 0
     },
     {
@@ -293,15 +293,15 @@
     },
     {
       "rank": 49,
-      "name": "Andrey Kuimov",
-      "value": 78,
-      "move": 0
+      "name": "Сергей",
+      "value": 79,
+      "move": 1
     },
     {
       "rank": 50,
-      "name": "Сергей",
+      "name": "Andrey Kuimov",
       "value": 78,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 51,
@@ -905,7 +905,7 @@
     {
       "rank": 4,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 72
+      "value": 71
     },
     {
       "rank": 5,
@@ -945,7 +945,7 @@
     {
       "rank": 12,
       "name": "Сергей",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 13,
@@ -1142,7 +1142,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 2,
@@ -1181,17 +1181,17 @@
     },
     {
       "rank": 9,
-      "name": "Sergey СЕО",
+      "name": "Сергей",
       "value": 6
     },
     {
       "rank": 10,
-      "name": "terminal lucidity",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 11,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
