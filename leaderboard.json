@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:36:58+00:00",
+  "updated": "2026-09-06T08:36:59+00:00",
   "count": 147,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 869,
+      "value": 870,
       "move": 0
     },
     {
@@ -900,7 +900,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 73
+      "value": 74
     },
     {
       "rank": 4,
@@ -974,32 +974,32 @@
     },
     {
       "rank": 18,
-      "name": "🤗",
-      "value": 13
-    },
-    {
-      "rank": 19,
       "name": ".",
       "value": 13
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DenisNazarov",
       "value": 10
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Aся",
       "value": 10
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "terminal lucidity",
       "value": 10
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Олег",
+      "value": 9
+    },
+    {
+      "rank": 23,
+      "name": "🤗",
       "value": 9
     },
     {
@@ -1147,7 +1147,7 @@
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 18
+      "value": 19
     },
     {
       "rank": 3,
