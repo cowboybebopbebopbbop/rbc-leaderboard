@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T13:37:07+00:00",
+  "updated": "2026-09-06T14:37:09+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 963,
+      "value": 964,
       "move": 0
     },
     {
@@ -905,23 +905,23 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 74
-    },
-    {
-      "rank": 4,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 68
     },
     {
+      "rank": 4,
+      "name": "Zero-sum Gamer",
+      "value": 57
+    },
+    {
       "rank": 5,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 45
     },
     {
       "rank": 6,
-      "name": "Viktor",
-      "value": 44
+      "name": "Archie",
+      "value": 45
     },
     {
       "rank": 7,
@@ -940,17 +940,17 @@
     },
     {
       "rank": 10,
-      "name": "wavesscalper | скальпер по волнам",
-      "value": 18
-    },
-    {
-      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "L G",
+      "value": 16
+    },
+    {
+      "rank": 12,
+      "name": "wavesscalper | скальпер по волнам",
       "value": 16
     },
     {
@@ -980,22 +980,22 @@
     },
     {
       "rank": 18,
-      "name": "Olga Goncharova",
-      "value": 11
-    },
-    {
-      "rank": 19,
       "name": "DenisNazarov",
       "value": 10
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Aся",
       "value": 10
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "terminal lucidity",
+      "value": 10
+    },
+    {
+      "rank": 21,
+      "name": "Olga Goncharova",
       "value": 10
     },
     {
@@ -1045,52 +1045,52 @@
     },
     {
       "rank": 31,
-      "name": "iDiklonius",
-      "value": 5
-    },
-    {
-      "rank": 32,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "byk0t!?",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Сергей",
+      "value": 3
+    },
+    {
+      "rank": 40,
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
