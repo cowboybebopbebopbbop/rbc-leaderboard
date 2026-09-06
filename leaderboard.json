@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T09:37:01+00:00",
+  "updated": "2026-09-06T10:37:02+00:00",
   "count": 147,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1805,
+      "value": 1806,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 815,
+      "value": 816,
       "move": 0
     },
     {
@@ -186,7 +186,7 @@
     {
       "rank": 31,
       "name": ".",
-      "value": 137,
+      "value": 138,
       "move": 0
     },
     {
@@ -890,7 +890,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 169
+      "value": 166
     },
     {
       "rank": 2,
@@ -920,7 +920,7 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 8,
@@ -929,28 +929,28 @@
     },
     {
       "rank": 9,
-      "name": "Olga Goncharova",
+      "name": "Синдбад Мореход",
       "value": 21
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 20
-    },
-    {
-      "rank": 11,
       "name": "wavesscalper | скальпер по волнам",
       "value": 18
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "L G",
       "value": 16
+    },
+    {
+      "rank": 13,
+      "name": "Olga Goncharova",
+      "value": 15
     },
     {
       "rank": 14,
@@ -964,17 +964,17 @@
     },
     {
       "rank": 16,
+      "name": ".",
+      "value": 14
+    },
+    {
+      "rank": 17,
       "name": "A.",
       "value": 13
     },
     {
-      "rank": 17,
-      "name": "Князь Владимир С",
-      "value": 13
-    },
-    {
       "rank": 18,
-      "name": ".",
+      "name": "Князь Владимир С",
       "value": 13
     },
     {
@@ -1211,27 +1211,27 @@
     },
     {
       "rank": 15,
-      "name": "Александр",
+      "name": "🅾🅻🅶🅰",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "A.",
-      "value": 3
+      "name": "Александр",
+      "value": 4
     },
     {
       "rank": 17,
-      "name": "🅾🅻🅶🅰",
-      "value": 3
+      "name": "Синдбад Мореход",
+      "value": 4
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "A.",
       "value": 3
     },
     {
