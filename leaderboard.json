@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T06:36:56+00:00",
+  "updated": "2026-09-06T07:36:58+00:00",
   "count": 147,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 867,
+      "value": 869,
       "move": 0
     },
     {
@@ -890,7 +890,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 171
+      "value": 169
     },
     {
       "rank": 2,
@@ -899,13 +899,13 @@
     },
     {
       "rank": 3,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 72
+      "name": "Zero-sum Gamer",
+      "value": 73
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 71
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 72
     },
     {
       "rank": 5,
@@ -1147,7 +1147,7 @@
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 18
     },
     {
       "rank": 3,
@@ -1276,41 +1276,36 @@
     },
     {
       "rank": 28,
-      "name": "Юрий",
-      "value": 1
-    },
-    {
-      "rank": 29,
       "name": "Slawik",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Marat Miheev",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "dahak",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Jeffrey",
       "value": 1
     }
