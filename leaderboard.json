@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T12:37:05+00:00",
-  "count": 147,
+  "updated": "2026-09-06T13:37:07+00:00",
+  "count": 148,
   "has_movement": true,
   "all": [
     {
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1807,
+      "value": 1808,
       "move": 0
     },
     {
@@ -36,13 +36,13 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1150,
+      "value": 1151,
       "move": 0
     },
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 960,
+      "value": 963,
       "move": 0
     },
     {
@@ -90,7 +90,7 @@
     {
       "rank": 15,
       "name": "Eugene",
-      "value": 554,
+      "value": 555,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "Manis Love",
-      "value": 183,
+      "value": 184,
       "move": 0
     },
     {
@@ -884,6 +884,12 @@
       "name": "Marina",
       "value": 1,
       "move": -2
+    },
+    {
+      "rank": 148,
+      "name": "Серж",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -895,7 +901,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 124
+      "value": 125
     },
     {
       "rank": 3,
@@ -915,12 +921,12 @@
     {
       "rank": 6,
       "name": "Viktor",
-      "value": 41
+      "value": 44
     },
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 40
+      "value": 41
     },
     {
       "rank": 8,
@@ -950,7 +956,7 @@
     {
       "rank": 13,
       "name": "Manis Love",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 14,
@@ -1004,17 +1010,17 @@
     },
     {
       "rank": 24,
-      "name": "Marat Miheev",
+      "name": "Eugene",
       "value": 8
     },
     {
       "rank": 25,
-      "name": "Aleksey",
-      "value": 7
+      "name": "Marat Miheev",
+      "value": 8
     },
     {
       "rank": 26,
-      "name": "Eugene",
+      "name": "Aleksey",
       "value": 7
     },
     {
@@ -1152,17 +1158,17 @@
     {
       "rank": 3,
       "name": "a l",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 13
+      "name": "Viktor",
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 11
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 6,
@@ -1191,22 +1197,22 @@
     },
     {
       "rank": 11,
-      "name": "terminal lucidity",
-      "value": 5
+      "name": "🅾🅻🅶🅰",
+      "value": 6
     },
     {
       "rank": 12,
-      "name": "🅾🅻🅶🅰",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 13,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
+      "name": "terminal lucidity",
+      "value": 5
     },
     {
       "rank": 14,
-      "name": "Manis Love",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
@@ -1286,21 +1292,26 @@
     },
     {
       "rank": 30,
-      "name": "Charlie Shefelman",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "I",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Marat Miheev",
+      "name": "I",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "Marat Miheev",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Jeffrey",
       "value": 1
     }
