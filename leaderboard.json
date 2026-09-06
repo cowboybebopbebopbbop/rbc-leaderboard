@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:37:14+00:00",
+  "updated": "2026-09-06T18:37:16+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1741,
+      "value": 1742,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 870,
+      "value": 871,
       "move": 0
     },
     {
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "Vitaliy",
-      "value": 81,
+      "value": 82,
       "move": 0
     },
     {
@@ -911,16 +911,16 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 45
+      "name": "Archie",
+      "value": 46
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 45
     },
     {
@@ -950,17 +950,17 @@
     },
     {
       "rank": 12,
-      "name": "@wavesscalper",
+      "name": "Vitaliy",
       "value": 15
     },
     {
       "rank": 13,
-      "name": "A.",
-      "value": 14
+      "name": "@wavesscalper",
+      "value": 15
     },
     {
       "rank": 14,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 14
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "rank": 2,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 3,
@@ -1168,7 +1168,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 6,
@@ -1207,22 +1207,22 @@
     },
     {
       "rank": 13,
+      "name": "Vitaliy",
+      "value": 5
+    },
+    {
+      "rank": 14,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 15,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
       "rank": 16,
-      "name": "Vitaliy",
+      "name": "Manis Love",
       "value": 4
     },
     {
