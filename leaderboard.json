@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:37:09+00:00",
+  "updated": "2026-09-06T15:37:11+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1151,
+      "value": 1152,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "A.",
-      "value": 22,
+      "value": 23,
       "move": 0
     },
     {
@@ -896,12 +896,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 164
+      "value": 162
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 125
+      "value": 126
     },
     {
       "rank": 3,
@@ -945,18 +945,18 @@
     },
     {
       "rank": 11,
-      "name": "L G",
-      "value": 16
-    },
-    {
-      "rank": 12,
       "name": "wavesscalper | скальпер по волнам",
       "value": 16
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Manis Love",
       "value": 15
+    },
+    {
+      "rank": 13,
+      "name": "A.",
+      "value": 14
     },
     {
       "rank": 14,
@@ -965,18 +965,18 @@
     },
     {
       "rank": 15,
-      "name": ".",
+      "name": "L G",
       "value": 14
     },
     {
       "rank": 16,
-      "name": "A.",
-      "value": 13
+      "name": ".",
+      "value": 14
     },
     {
       "rank": 17,
       "name": "Князь Владимир С",
-      "value": 13
+      "value": 11
     },
     {
       "rank": 18,
@@ -995,17 +995,17 @@
     },
     {
       "rank": 21,
-      "name": "Olga Goncharova",
-      "value": 10
-    },
-    {
-      "rank": 22,
       "name": "Олег",
       "value": 9
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 23,
+      "name": "Olga Goncharova",
       "value": 9
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
@@ -1217,28 +1217,28 @@
     },
     {
       "rank": 15,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "Александр",
+      "name": "Vitaliy",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "A.",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 20,
