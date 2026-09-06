@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:37:23+00:00",
+  "updated": "2026-09-06T23:39:10+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -1232,77 +1232,77 @@
     },
     {
       "rank": 18,
-      "name": "Александр",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Slawik",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 32,
+      "name": "Александр",
       "value": 1
     },
     {
