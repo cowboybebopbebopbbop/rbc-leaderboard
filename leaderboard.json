@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T06:53:36+00:00",
+  "updated": "2026-09-07T07:53:54+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1742,
+      "value": 1743,
       "move": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 7,
@@ -945,22 +945,22 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
-      "value": 16
-    },
-    {
-      "rank": 12,
       "name": "Vitaliy",
       "value": 15
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "@wavesscalper",
       "value": 15
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
+      "value": 14
+    },
+    {
+      "rank": 14,
+      "name": "Manis Love",
       "value": 14
     },
     {
@@ -1158,7 +1158,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
@@ -1168,7 +1168,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 6,
@@ -1237,53 +1237,53 @@
     },
     {
       "rank": 19,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "1",
       "value": 2
+    },
+    {
+      "rank": 28,
+      "name": "Sergey Saprykin ID: 125370212",
+      "value": 1
     },
     {
       "rank": 29,
