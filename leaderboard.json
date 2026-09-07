@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T20:54:18+00:00",
+  "updated": "2026-09-07T21:54:19+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 637,
+      "value": 639,
       "move": 0
     },
     {
@@ -990,18 +990,18 @@
     },
     {
       "rank": 20,
+      "name": "Князь Владимир С",
+      "value": 10
+    },
+    {
+      "rank": 21,
       "name": "Олег",
       "value": 9
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Olga Goncharova",
       "value": 9
-    },
-    {
-      "rank": 22,
-      "name": "Князь Владимир С",
-      "value": 8
     },
     {
       "rank": 23,
@@ -1272,41 +1272,46 @@
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "Князь Владимир С",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "1",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 28,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Анастасия",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "@wavesscalper",
       "value": 1
     }
