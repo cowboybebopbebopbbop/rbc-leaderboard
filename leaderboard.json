@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T05:53:35+00:00",
+  "updated": "2026-09-07T06:53:36+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 872,
+      "value": 873,
       "move": 0
     },
     {
@@ -911,7 +911,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 5,
@@ -1070,77 +1070,77 @@
     },
     {
       "rank": 36,
-      "name": "Andrey Tugarin",
-      "value": 3
-    },
-    {
-      "rank": 37,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "1",
       "value": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Антон",
+      "value": 1
+    },
+    {
+      "rank": 50,
+      "name": "Юрий",
       "value": 1
     }
   ],
