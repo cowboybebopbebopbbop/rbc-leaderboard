@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T19:54:16+00:00",
+  "updated": "2026-09-07T20:54:18+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4197,
+      "value": 4198,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1744,
+      "value": 1745,
       "move": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "rank": 11,
       "name": "L G",
-      "value": 731,
+      "value": 736,
       "move": 0
     },
     {
@@ -896,7 +896,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 165
+      "value": 166
     },
     {
       "rank": 2,
@@ -921,7 +921,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 7,
@@ -935,37 +935,37 @@
     },
     {
       "rank": 9,
+      "name": "L G",
+      "value": 19
+    },
+    {
+      "rank": 10,
       "name": "Синдбад Мореход",
       "value": 18
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "@wavesscalper",
       "value": 16
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "A.",
       "value": 15
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Vitaliy",
       "value": 15
     },
     {
-      "rank": 14,
-      "name": "Manis Love",
-      "value": 14
-    },
-    {
       "rank": 15,
-      "name": "L G",
+      "name": "Manis Love",
       "value": 14
     },
     {
@@ -1148,7 +1148,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 54
+      "value": 55
     },
     {
       "rank": 2,
@@ -1162,18 +1162,18 @@
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 18
+      "name": "Archie",
+      "value": 17
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 16
+      "name": "Zero-sum Gamer",
+      "value": 17
     },
     {
       "rank": 6,
       "name": "L G",
-      "value": 10
+      "value": 15
     },
     {
       "rank": 7,
@@ -1307,11 +1307,6 @@
     },
     {
       "rank": 33,
-      "name": "Marat Miheev",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "@wavesscalper",
       "value": 1
     }
