@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T13:54:06+00:00",
+  "updated": "2026-09-07T14:54:08+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4194,
+      "value": 4195,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1743,
+      "value": 1744,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 334,
+      "value": 335,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "-",
-      "value": 149,
+      "value": 150,
       "move": 1
     },
     {
@@ -395,15 +395,15 @@
     },
     {
       "rank": 66,
-      "name": "Lina",
+      "name": "A.",
       "value": 24,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 67,
-      "name": "A.",
-      "value": 23,
-      "move": 0
+      "name": "Lina",
+      "value": 24,
+      "move": -1
     },
     {
       "rank": 68,
@@ -921,7 +921,7 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 7,
@@ -945,18 +945,18 @@
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 15
+      "name": "@wavesscalper",
+      "value": 16
     },
     {
       "rank": 12,
-      "name": "@wavesscalper",
+      "name": "A.",
       "value": 15
     },
     {
       "rank": 13,
-      "name": "A.",
-      "value": 14
+      "name": "Vitaliy",
+      "value": 15
     },
     {
       "rank": 14,
@@ -1040,17 +1040,17 @@
     },
     {
       "rank": 30,
-      "name": "𝑽",
+      "name": "-",
       "value": 5
     },
     {
       "rank": 31,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 4
+      "name": "𝑽",
+      "value": 5
     },
     {
       "rank": 32,
-      "name": "-",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 4
     },
     {
@@ -1148,7 +1148,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 2,
@@ -1168,7 +1168,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 6,
@@ -1197,52 +1197,52 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 5
     },
     {
       "rank": 12,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 13,
-      "name": "Vitaliy",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "A.",
-      "value": 4
+      "name": "-",
+      "value": 5
     },
     {
       "rank": 15,
+      "name": "Vitaliy",
+      "value": 5
+    },
+    {
+      "rank": 16,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "-",
-      "value": 4
-    },
-    {
       "rank": 17,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "Синдбад Мореход",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "DenisNazarov",
+      "value": 3
+    },
+    {
+      "rank": 20,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     },
     {
@@ -1308,6 +1308,11 @@
     {
       "rank": 33,
       "name": "Marat Miheev",
+      "value": 1
+    },
+    {
+      "rank": 34,
+      "name": "@wavesscalper",
       "value": 1
     }
   ]
