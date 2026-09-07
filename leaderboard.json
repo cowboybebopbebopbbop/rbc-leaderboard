@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T08:53:56+00:00",
+  "updated": "2026-09-07T09:53:57+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -24,7 +24,7 @@
     {
       "rank": 4,
       "name": "Aся",
-      "value": 1779,
+      "value": 1781,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 873,
+      "value": 874,
       "move": 0
     },
     {
@@ -911,7 +911,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 5,
@@ -975,13 +975,13 @@
     },
     {
       "rank": 17,
-      "name": "DenisNazarov",
-      "value": 11
+      "name": "Aся",
+      "value": 12
     },
     {
       "rank": 18,
-      "name": "Aся",
-      "value": 10
+      "name": "DenisNazarov",
+      "value": 11
     },
     {
       "rank": 19,
@@ -1153,12 +1153,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 20
+      "value": 18
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 4,
@@ -1222,42 +1222,42 @@
     },
     {
       "rank": 16,
-      "name": "-",
+      "name": "Aся",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
+      "name": "-",
       "value": 4
     },
     {
       "rank": 18,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
       "rank": 19,
+      "name": ".",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Виталий",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Aся",
+      "name": "Виталий",
       "value": 2
     },
     {
