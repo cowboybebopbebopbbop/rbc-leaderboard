@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:54:01+00:00",
+  "updated": "2026-09-07T12:54:03+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4191,
+      "value": 4193,
       "move": 0
     },
     {
@@ -896,7 +896,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 161
+      "value": 163
     },
     {
       "rank": 2,
@@ -1148,7 +1148,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 2,
@@ -1177,57 +1177,57 @@
     },
     {
       "rank": 7,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 9
-    },
-    {
-      "rank": 8,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Сергей",
       "value": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Vitaliy",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "-",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 4
     },
     {
@@ -1308,11 +1308,6 @@
     {
       "rank": 33,
       "name": "Marat Miheev",
-      "value": 1
-    },
-    {
-      "rank": 34,
-      "name": "Jeffrey",
       "value": 1
     }
   ]
