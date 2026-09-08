@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T06:54:33+00:00",
+  "updated": "2026-09-08T07:54:35+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 875,
+      "value": 876,
       "move": 0
     },
     {
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "ᴦоᴧод",
-      "value": 108,
+      "value": 110,
       "move": 0
     },
     {
@@ -611,75 +611,75 @@
     },
     {
       "rank": 102,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": -1
+      "name": "Анастасия",
+      "value": 3,
+      "move": 11
     },
     {
       "rank": 103,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 104,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 105,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 106,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 107,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 108,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 109,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 110,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 111,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 112,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 113,
-      "name": "Анастасия",
+      "name": "Jeffrey",
       "value": 2,
-      "move": 0
+      "move": -2
     },
     {
       "rank": 114,
@@ -901,7 +901,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 131
+      "value": 130
     },
     {
       "rank": 3,
@@ -911,7 +911,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -926,12 +926,12 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 8,
       "name": "ᴦоᴧод",
-      "value": 22
+      "value": 24
     },
     {
       "rank": 9,
@@ -985,12 +985,12 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 11
+      "name": "terminal lucidity",
+      "value": 10
     },
     {
       "rank": 20,
-      "name": "terminal lucidity",
+      "name": "Князь Владимир С",
       "value": 10
     },
     {
@@ -1110,37 +1110,37 @@
     },
     {
       "rank": 44,
-      "name": "LlirikMK",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 46,
-      "name": "Charlie Shefelman",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "1",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "Антон",
-      "value": 1
+      "name": "1",
+      "value": 2
     },
     {
       "rank": 50,
-      "name": "Юрий",
+      "name": "Антон",
       "value": 1
     }
   ],
@@ -1153,7 +1153,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 20
+      "value": 19
     },
     {
       "rank": 3,
@@ -1168,7 +1168,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 6,
@@ -1272,46 +1272,51 @@
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "1",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 28,
+      "name": "ᴦоᴧод",
+      "value": 2
+    },
+    {
+      "rank": 29,
+      "name": "1",
+      "value": 2
+    },
+    {
+      "rank": 30,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 29,
-      "name": "Анастасия",
-      "value": 1
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "@wavesscalper",
       "value": 1
     }
