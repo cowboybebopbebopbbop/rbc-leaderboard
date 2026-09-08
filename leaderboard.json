@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T15:54:49+00:00",
+  "updated": "2026-09-08T16:54:51+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -275,15 +275,15 @@
     },
     {
       "rank": 46,
-      "name": "Max",
+      "name": "Vitaliy",
       "value": 85,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 47,
-      "name": "Vitaliy",
-      "value": 84,
-      "move": 0
+      "name": "Max",
+      "value": 85,
+      "move": -1
     },
     {
       "rank": 48,
@@ -557,27 +557,27 @@
     },
     {
       "rank": 93,
-      "name": "Sila",
-      "value": 4,
-      "move": 0
+      "name": "Анастасия",
+      "value": 5,
+      "move": 20
     },
     {
       "rank": 94,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Виталий",
+      "name": "xv",
       "value": 4,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Анастасия",
+      "name": "Виталий",
       "value": 4,
-      "move": 17
+      "move": -1
     },
     {
       "rank": 97,
@@ -901,7 +901,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 132
     },
     {
       "rank": 3,
@@ -940,13 +940,13 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "Vitaliy",
       "value": 18
     },
     {
       "rank": 11,
-      "name": "Vitaliy",
-      "value": 17
+      "name": "Синдбад Мореход",
+      "value": 18
     },
     {
       "rank": 12,
@@ -1055,32 +1055,32 @@
     },
     {
       "rank": 33,
-      "name": "Александр",
+      "name": "Анастасия",
       "value": 4
     },
     {
       "rank": 34,
-      "name": "byk0t!?",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 35,
+      "name": "byk0t!?",
+      "value": 4
+    },
+    {
+      "rank": 36,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 37,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
       "rank": 38,
-      "name": "Анастасия",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
@@ -1178,7 +1178,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 8,
@@ -1227,23 +1227,23 @@
     },
     {
       "rank": 17,
-      "name": "Князь Владимир С",
+      "name": "Анастасия",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Синдбад Мореход",
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
       "rank": 19,
-      "name": ".",
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Анастасия",
-      "value": 3
+      "name": ".",
+      "value": 4
     },
     {
       "rank": 21,
