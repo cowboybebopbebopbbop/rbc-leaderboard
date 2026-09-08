@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T07:54:35+00:00",
+  "updated": "2026-09-08T08:54:36+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1159,
+      "value": 1160,
       "move": 0
     },
     {
@@ -575,45 +575,45 @@
     },
     {
       "rank": 96,
-      "name": "Ilya",
-      "value": 3,
-      "move": 0
+      "name": "Анастасия",
+      "value": 4,
+      "move": 17
     },
     {
       "rank": 97,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Don Michele Corleone",
+      "name": "Samurai_1",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Sviat",
+      "name": "Don Michele Corleone",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 101,
-      "name": "Slawik",
+      "name": "1",
       "value": 3,
-      "move": 11
+      "move": -1
     },
     {
       "rank": 102,
-      "name": "Анастасия",
+      "name": "Slawik",
       "value": 3,
-      "move": 11
+      "move": 10
     },
     {
       "rank": 103,
@@ -901,12 +901,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 130
+      "value": 131
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 62
+      "value": 61
     },
     {
       "rank": 4,
@@ -926,7 +926,7 @@
     {
       "rank": 7,
       "name": "🅾🅻🅶🅰",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 8,
@@ -1080,37 +1080,37 @@
     },
     {
       "rank": 38,
-      "name": "Руслан Иванов",
+      "name": "Анастасия",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 41,
+      "name": "iDiklonius",
+      "value": 3
+    },
+    {
+      "rank": 42,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 43,
-      "name": "Sviat",
-      "value": 2
-    },
-    {
       "rank": 44,
-      "name": "Анастасия",
+      "name": "Sviat",
       "value": 2
     },
     {
@@ -1148,12 +1148,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 56
+      "value": 54
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 19
+      "value": 20
     },
     {
       "rank": 3,
@@ -1168,7 +1168,7 @@
     {
       "rank": 5,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 6,
@@ -1242,37 +1242,37 @@
     },
     {
       "rank": 20,
-      "name": "Князь Владимир С",
+      "name": "Анастасия",
       "value": 3
     },
     {
       "rank": 21,
+      "name": "Князь Владимир С",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 25,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
       "rank": 26,
-      "name": "Анастасия",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
@@ -1287,37 +1287,37 @@
     },
     {
       "rank": 29,
-      "name": "1",
-      "value": 2
-    },
-    {
-      "rank": 30,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 35,
+      "name": "1",
       "value": 1
     }
   ]
