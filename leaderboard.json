@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T03:54:29+00:00",
+  "updated": "2026-09-08T04:54:30+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -901,12 +901,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 132
+      "value": 131
     },
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 64
+      "value": 63
     },
     {
       "rank": 4,
@@ -1237,22 +1237,22 @@
     },
     {
       "rank": 19,
-      "name": "DenisNazarov",
-      "value": 3
-    },
-    {
-      "rank": 20,
       "name": "Князь Владимир С",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Константин",
+      "value": 2
+    },
+    {
+      "rank": 22,
+      "name": "DenisNazarov",
       "value": 2
     },
     {
