@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T13:54:45+00:00",
+  "updated": "2026-09-08T14:54:47+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -282,7 +282,7 @@
     {
       "rank": 47,
       "name": "Vitaliy",
-      "value": 83,
+      "value": 84,
       "move": 0
     },
     {
@@ -945,13 +945,13 @@
     },
     {
       "rank": 11,
-      "name": "Сергей",
+      "name": "Vitaliy",
       "value": 17
     },
     {
       "rank": 12,
-      "name": "Vitaliy",
-      "value": 16
+      "name": "Сергей",
+      "value": 17
     },
     {
       "rank": 13,
@@ -1158,7 +1158,7 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 20
+      "value": 18
     },
     {
       "rank": 4,
@@ -1177,13 +1177,13 @@
     },
     {
       "rank": 7,
-      "name": "Aleksey",
+      "name": "Vitaliy",
       "value": 7
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 6
+      "name": "Aleksey",
+      "value": 7
     },
     {
       "rank": 9,
@@ -1287,46 +1287,41 @@
     },
     {
       "rank": 29,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "1",
       "value": 1
     }
