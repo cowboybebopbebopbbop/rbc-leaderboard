@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T04:54:30+00:00",
+  "updated": "2026-09-08T05:54:32+00:00",
   "count": 148,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 874,
+      "value": 875,
       "move": 0
     },
     {
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "DenisNazarov",
-      "value": 205,
+      "value": 206,
       "move": 0
     },
     {
@@ -896,7 +896,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 167
+      "value": 166
     },
     {
       "rank": 2,
@@ -906,12 +906,12 @@
     {
       "rank": 3,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 63
+      "value": 62
     },
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -975,13 +975,13 @@
     },
     {
       "rank": 17,
-      "name": "Aся",
+      "name": "DenisNazarov",
       "value": 12
     },
     {
       "rank": 18,
-      "name": "DenisNazarov",
-      "value": 11
+      "name": "Aся",
+      "value": 12
     },
     {
       "rank": 19,
@@ -1000,27 +1000,27 @@
     },
     {
       "rank": 22,
-      "name": "Olga Goncharova",
-      "value": 9
-    },
-    {
-      "rank": 23,
       "name": "Eugene",
       "value": 8
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "🤗",
       "value": 8
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Marat Miheev",
       "value": 8
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Aleksey",
+      "value": 7
+    },
+    {
+      "rank": 26,
+      "name": "Olga Goncharova",
       "value": 7
     },
     {
@@ -1162,12 +1162,12 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 17
+      "name": "Zero-sum Gamer",
+      "value": 18
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
+      "name": "Archie",
       "value": 17
     },
     {
@@ -1237,12 +1237,12 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Князь Владимир С",
       "value": 3
     },
     {
@@ -1252,27 +1252,27 @@
     },
     {
       "rank": 22,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 23,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Серхио Ле'Трас",
+      "value": 2
+    },
+    {
+      "rank": 26,
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 2
     },
     {
