@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T06:55:35+00:00",
+  "updated": "2026-09-09T07:55:37+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4204,
+      "value": 4205,
       "move": 0
     },
     {
@@ -581,39 +581,39 @@
     },
     {
       "rank": 97,
-      "name": "Ilya",
-      "value": 3,
-      "move": -1
+      "name": "Slawik",
+      "value": 4,
+      "move": 4
     },
     {
       "rank": 98,
-      "name": "Samurai_1",
+      "name": "Ilya",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 99,
-      "name": "Don Michele Corleone",
+      "name": "Samurai_1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 100,
-      "name": "Sviat",
+      "name": "Don Michele Corleone",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 101,
-      "name": "1",
+      "name": "Sviat",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 102,
-      "name": "Slawik",
+      "name": "1",
       "value": 3,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 103,
@@ -902,7 +902,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 171
+      "value": 172
     },
     {
       "rank": 2,
@@ -911,12 +911,12 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 62
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 61
     },
     {
       "rank": 4,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "Zero-sum Gamer",
       "value": 61
     },
     {
@@ -1081,37 +1081,37 @@
     },
     {
       "rank": 37,
-      "name": "Виталий",
+      "name": "Slawik",
       "value": 3
     },
     {
       "rank": 38,
-      "name": "Серхио Ле'Трас",
+      "name": "Виталий",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "Руслан Иванов",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "Сергей",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 41,
-      "name": "iDiklonius",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 42,
-      "name": "Константин",
-      "value": 2
+      "name": "iDiklonius",
+      "value": 3
     },
     {
       "rank": 43,
-      "name": "Slawik",
+      "name": "Константин",
       "value": 2
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 48
     },
     {
       "rank": 2,
@@ -1248,27 +1248,27 @@
     },
     {
       "rank": 20,
-      "name": "Синдбад Мореход",
+      "name": "Slawik",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 22,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 23,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 23,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
       "rank": 24,
-      "name": "Slawik",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
