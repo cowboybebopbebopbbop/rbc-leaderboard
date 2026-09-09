@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:55:38+00:00",
+  "updated": "2026-09-09T09:55:41+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4205,
+      "value": 4207,
       "move": 0
     },
     {
@@ -902,7 +902,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 172
+      "value": 174
     },
     {
       "rank": 2,
@@ -917,7 +917,7 @@
     {
       "rank": 4,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 58
+      "value": 53
     },
     {
       "rank": 5,
@@ -961,13 +961,13 @@
     },
     {
       "rank": 13,
-      "name": "A.",
+      "name": "@wavesscalper",
       "value": 15
     },
     {
       "rank": 14,
-      "name": "@wavesscalper",
-      "value": 15
+      "name": "A.",
+      "value": 14
     },
     {
       "rank": 15,
@@ -1026,27 +1026,27 @@
     },
     {
       "rank": 26,
-      "name": "Olga Goncharova",
-      "value": 7
-    },
-    {
-      "rank": 27,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "𝑽",
+      "value": 5
+    },
+    {
+      "rank": 30,
+      "name": "Olga Goncharova",
       "value": 5
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -1193,97 +1193,97 @@
     },
     {
       "rank": 9,
-      "name": "Sergey СЕО",
-      "value": 6
-    },
-    {
-      "rank": 10,
       "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Сергей",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Князь Владимир С",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": ".",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Синдбад Мореход",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Серхио Ле'Трас",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": "Sergey СЕО",
       "value": 2
     },
     {
@@ -1308,26 +1308,21 @@
     },
     {
       "rank": 32,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "I",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "1",
       "value": 1
     }
