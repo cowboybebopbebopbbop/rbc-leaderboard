@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:55:51+00:00",
+  "updated": "2026-09-09T15:55:57+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1165,
+      "value": 1167,
       "move": 0
     },
     {
@@ -907,7 +907,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 135
     },
     {
       "rank": 3,
@@ -922,7 +922,7 @@
     {
       "rank": 5,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 51
+      "value": 50
     },
     {
       "rank": 6,
@@ -1091,37 +1091,37 @@
     },
     {
       "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 3
-    },
-    {
-      "rank": 40,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Sviat",
+      "value": 2
+    },
+    {
+      "rank": 45,
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
@@ -1159,7 +1159,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 24
+      "value": 26
     },
     {
       "rank": 3,
