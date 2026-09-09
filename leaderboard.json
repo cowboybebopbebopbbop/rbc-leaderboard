@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T19:56:21+00:00",
+  "updated": "2026-09-09T20:56:27+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1171,
+      "value": 1172,
       "move": 0
     },
     {
@@ -907,7 +907,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 134
+      "value": 135
     },
     {
       "rank": 3,
@@ -961,18 +961,18 @@
     },
     {
       "rank": 13,
-      "name": "@wavesscalper",
-      "value": 15
-    },
-    {
-      "rank": 14,
       "name": "A.",
       "value": 14
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": ".",
       "value": 14
+    },
+    {
+      "rank": 15,
+      "name": "@wavesscalper",
+      "value": 13
     },
     {
       "rank": 16,
@@ -1159,7 +1159,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
