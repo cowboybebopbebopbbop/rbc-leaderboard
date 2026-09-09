@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T10:55:41+00:00",
+  "updated": "2026-09-09T11:55:41+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -991,12 +991,12 @@
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 11
+      "name": "terminal lucidity",
+      "value": 10
     },
     {
       "rank": 20,
-      "name": "terminal lucidity",
+      "name": "Князь Владимир С",
       "value": 10
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -1174,7 +1174,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 6,
@@ -1278,22 +1278,22 @@
     },
     {
       "rank": 26,
-      "name": "Sergey СЕО",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Kirill",
+      "value": 1
+    },
+    {
+      "rank": 29,
+      "name": "Sergey СЕО",
       "value": 1
     },
     {
