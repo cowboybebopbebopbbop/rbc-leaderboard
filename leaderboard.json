@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T11:55:41+00:00",
+  "updated": "2026-09-09T12:55:42+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -168,7 +168,7 @@
     {
       "rank": 28,
       "name": "Юрий",
-      "value": 151,
+      "value": 152,
       "move": 0
     },
     {
@@ -991,18 +991,18 @@
     },
     {
       "rank": 19,
-      "name": "terminal lucidity",
-      "value": 10
-    },
-    {
-      "rank": 20,
       "name": "Князь Владимир С",
       "value": 10
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Олег",
       "value": 9
+    },
+    {
+      "rank": 21,
+      "name": "terminal lucidity",
+      "value": 8
     },
     {
       "rank": 22,
@@ -1116,38 +1116,38 @@
     },
     {
       "rank": 44,
-      "name": "Sviat",
+      "name": "Юрий",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "LlirikMK",
+      "name": "Sviat",
       "value": 2
     },
     {
       "rank": 46,
-      "name": "Павел Корчагин",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "Charlie Shefelman",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "Bazylev Nickolai",
+      "name": "Charlie Shefelman",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "1",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
       "rank": 50,
-      "name": "Антон",
-      "value": 1
+      "name": "1",
+      "value": 2
     }
   ],
   "week": [
@@ -1188,37 +1188,37 @@
     },
     {
       "rank": 8,
-      "name": "L G",
-      "value": 6
-    },
-    {
-      "rank": 9,
       "name": "🅾🅻🅶🅰",
       "value": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "A.",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Manis Love",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Сергей",
+      "value": 5
+    },
+    {
+      "rank": 14,
+      "name": "L G",
       "value": 5
     },
     {
@@ -1288,31 +1288,36 @@
     },
     {
       "rank": 28,
-      "name": "Kirill",
+      "name": "Юрий",
       "value": 1
     },
     {
       "rank": 29,
-      "name": "Sergey СЕО",
+      "name": "Kirill",
       "value": 1
     },
     {
       "rank": 30,
-      "name": "Eugene",
+      "name": "Sergey СЕО",
       "value": 1
     },
     {
       "rank": 31,
-      "name": "Charlie Shefelman",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "@wavesscalper",
+      "name": "Charlie Shefelman",
       "value": 1
     },
     {
       "rank": 33,
+      "name": "@wavesscalper",
+      "value": 1
+    },
+    {
+      "rank": 34,
       "name": "Max",
       "value": 1
     }
