@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T18:56:15+00:00",
+  "updated": "2026-09-09T19:56:21+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1746,
+      "value": 1747,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1169,
+      "value": 1171,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 816,
+      "value": 817,
       "move": 0
     },
     {
@@ -902,12 +902,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 179
+      "value": 178
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 133
+      "value": 134
     },
     {
       "rank": 3,
@@ -922,7 +922,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 6,
@@ -941,12 +941,12 @@
     },
     {
       "rank": 9,
-      "name": "L G",
-      "value": 18
+      "name": "Синдбад Мореход",
+      "value": 19
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 18
     },
     {
@@ -1159,7 +1159,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 28
+      "value": 30
     },
     {
       "rank": 3,
@@ -1174,7 +1174,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 6,
@@ -1248,42 +1248,42 @@
     },
     {
       "rank": 20,
-      "name": "ᴦоᴧод",
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
       "rank": 21,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "🤗",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Синдбад Мореход",
+      "name": "🤗",
       "value": 2
     },
     {
