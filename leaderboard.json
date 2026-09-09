@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:55:30+00:00",
+  "updated": "2026-09-09T06:55:35+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -1041,22 +1041,22 @@
     },
     {
       "rank": 29,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 5
-    },
-    {
-      "rank": 30,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "𝑽",
       "value": 5
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sergey Saprykin ID: 125370212",
+      "value": 4
+    },
+    {
+      "rank": 32,
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 2,
@@ -1183,12 +1183,12 @@
     },
     {
       "rank": 7,
-      "name": "L G",
-      "value": 8
+      "name": "Aleksey",
+      "value": 7
     },
     {
       "rank": 8,
-      "name": "Aleksey",
+      "name": "L G",
       "value": 7
     },
     {
@@ -1243,13 +1243,13 @@
     },
     {
       "rank": 19,
-      "name": "Синдбад Мореход",
+      "name": ".",
       "value": 4
     },
     {
       "rank": 20,
-      "name": ".",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 3
     },
     {
       "rank": 21,
