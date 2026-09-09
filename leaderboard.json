@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:55:57+00:00",
+  "updated": "2026-09-09T16:56:03+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -269,15 +269,15 @@
     },
     {
       "rank": 45,
-      "name": "Павел Корчагин",
+      "name": "Vitaliy",
       "value": 86,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 46,
-      "name": "Vitaliy",
-      "value": 85,
-      "move": 1
+      "name": "Павел Корчагин",
+      "value": 86,
+      "move": -1
     },
     {
       "rank": 47,
@@ -921,12 +921,12 @@
     },
     {
       "rank": 5,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 50
+      "name": "Archie",
+      "value": 48
     },
     {
       "rank": 6,
-      "name": "Archie",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 48
     },
     {
@@ -936,42 +936,42 @@
     },
     {
       "rank": 8,
-      "name": "ᴦоᴧод",
-      "value": 25
+      "name": "Vitaliy",
+      "value": 19
     },
     {
       "rank": 9,
       "name": "L G",
-      "value": 19
-    },
-    {
-      "rank": 10,
-      "name": "Vitaliy",
       "value": 18
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Синдбад Мореход",
       "value": 18
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "@wavesscalper",
       "value": 15
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "A.",
       "value": 14
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Manis Love",
+      "value": 14
+    },
+    {
+      "rank": 15,
+      "name": "ᴦоᴧод",
       "value": 14
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 7,
@@ -1298,26 +1298,21 @@
     },
     {
       "rank": 30,
-      "name": "Sergey СЕО",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Max",
       "value": 1
     }
