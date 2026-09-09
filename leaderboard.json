@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:55:42+00:00",
+  "updated": "2026-09-09T13:55:42+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4208,
+      "value": 4212,
       "move": 0
     },
     {
@@ -902,7 +902,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 175
+      "value": 179
     },
     {
       "rank": 2,
@@ -1154,7 +1154,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 49
     },
     {
       "rank": 2,
@@ -1174,7 +1174,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 6,
