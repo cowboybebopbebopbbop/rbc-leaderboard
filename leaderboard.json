@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T23:55:19+00:00",
+  "updated": "2026-09-09T00:34:47+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -397,13 +397,13 @@
       "rank": 66,
       "name": "A.",
       "value": 24,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 67,
       "name": "Lina",
       "value": 24,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 68,
@@ -613,55 +613,55 @@
       "rank": 102,
       "name": "Slawik",
       "value": 3,
-      "move": 10
+      "move": -1
     },
     {
       "rank": 103,
       "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 104,
       "name": "Juli Julia",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 105,
       "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 106,
       "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 107,
       "name": "❤️",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 108,
       "name": "dg",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 109,
       "name": "Юрий",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 110,
       "name": "Arewoe",
       "value": 2,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 111,
@@ -673,19 +673,19 @@
       "rank": 112,
       "name": "Мон Ами",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 113,
       "name": "Ольга",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 114,
       "name": "Jeffrey",
       "value": 2,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 115,
