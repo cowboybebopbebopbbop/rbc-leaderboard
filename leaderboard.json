@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T09:55:41+00:00",
+  "updated": "2026-09-09T10:55:41+00:00",
   "count": 149,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4207,
+      "value": 4208,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1163,
+      "value": 1164,
       "move": 0
     },
     {
@@ -902,12 +902,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 174
+      "value": 175
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 131
+      "value": 132
     },
     {
       "rank": 3,
@@ -916,12 +916,12 @@
     },
     {
       "rank": 4,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 53
+      "name": "Viktor",
+      "value": 51
     },
     {
       "rank": 5,
-      "name": "Viktor",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 51
     },
     {
@@ -1154,12 +1154,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 47
+      "value": 46
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 22
+      "value": 23
     },
     {
       "rank": 3,
@@ -1168,13 +1168,13 @@
     },
     {
       "rank": 4,
-      "name": "Archie",
+      "name": "Zero-sum Gamer",
       "value": 17
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 17
+      "name": "Archie",
+      "value": 16
     },
     {
       "rank": 6,
@@ -1189,7 +1189,7 @@
     {
       "rank": 8,
       "name": "L G",
-      "value": 7
+      "value": 6
     },
     {
       "rank": 9,
@@ -1248,47 +1248,47 @@
     },
     {
       "rank": 20,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Виталий",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Sergey СЕО",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🤗",
+      "value": 2
+    },
+    {
+      "rank": 28,
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
@@ -1308,22 +1308,12 @@
     },
     {
       "rank": 32,
-      "name": "I",
-      "value": 1
-    },
-    {
-      "rank": 33,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Max",
-      "value": 1
-    },
-    {
-      "rank": 35,
-      "name": "1",
       "value": 1
     }
   ]
