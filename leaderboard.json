@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:14:43+00:00",
+  "updated": "2026-09-10T23:14:48+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -1302,27 +1302,27 @@
     },
     {
       "rank": 26,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
-      "rank": 27,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Kirill",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
