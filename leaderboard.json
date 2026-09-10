@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:14:04+00:00",
+  "updated": "2026-09-10T16:14:09+00:00",
   "count": 150,
   "has_movement": true,
   "all": [
@@ -263,15 +263,15 @@
     },
     {
       "rank": 44,
-      "name": "Sergey СЕО",
-      "value": 88,
-      "move": 0
+      "name": "Vitaliy",
+      "value": 89,
+      "move": 2
     },
     {
       "rank": 45,
-      "name": "Vitaliy",
+      "name": "Sergey СЕО",
       "value": 88,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 46,
@@ -943,7 +943,7 @@
     {
       "rank": 8,
       "name": "Vitaliy",
-      "value": 21
+      "value": 22
     },
     {
       "rank": 9,
@@ -1097,37 +1097,37 @@
     },
     {
       "rank": 39,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 40,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Серхио Ле'Трас",
+      "value": 2
+    },
+    {
+      "rank": 45,
+      "name": "Сергей",
       "value": 2
     },
     {
@@ -1180,7 +1180,7 @@
     {
       "rank": 5,
       "name": "Vitaliy",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 6,
