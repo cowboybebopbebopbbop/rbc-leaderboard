@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:14:37+00:00",
+  "updated": "2026-09-10T22:14:43+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -1272,32 +1272,32 @@
     },
     {
       "rank": 20,
-      "name": "Сергей",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": ".",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "Сергей",
       "value": 2
     },
     {
@@ -1322,41 +1322,36 @@
     },
     {
       "rank": 30,
-      "name": "Виталий",
-      "value": 1
-    },
-    {
-      "rank": 31,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "LlirikMK",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Max",
       "value": 1
     }
