@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T19:14:26+00:00",
-  "count": 151,
+  "updated": "2026-09-10T20:14:32+00:00",
+  "count": 152,
   "has_movement": true,
   "all": [
     {
@@ -908,6 +908,12 @@
       "name": "Алла Киселёва",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 152,
+      "name": "Максим",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -934,7 +940,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 48
+      "value": 46
     },
     {
       "rank": 6,
@@ -984,7 +990,7 @@
     {
       "rank": 15,
       "name": "ᴦоᴧод",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 16,
@@ -1171,12 +1177,12 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 16
+      "value": 15
     },
     {
       "rank": 4,
