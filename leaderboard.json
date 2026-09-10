@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T18:14:20+00:00",
+  "updated": "2026-09-10T19:14:26+00:00",
   "count": 151,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4220,
+      "value": 4221,
       "move": 0
     },
     {
@@ -914,7 +914,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 186
+      "value": 187
     },
     {
       "rank": 2,
@@ -1078,95 +1078,95 @@
     },
     {
       "rank": 34,
-      "name": "byk0t!?",
-      "value": 4
-    },
-    {
-      "rank": 35,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "LlirikMK",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Bazylev Nickolai",
       "value": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "1",
       "value": 2
+    },
+    {
+      "rank": 50,
+      "name": "Антон",
+      "value": 1
     }
   ],
   "week": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 2,
