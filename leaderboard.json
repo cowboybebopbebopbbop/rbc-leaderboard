@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T05:12:49+00:00",
+  "updated": "2026-09-10T06:12:54+00:00",
   "count": 150,
   "has_movement": true,
   "all": [
@@ -617,81 +617,81 @@
     },
     {
       "rank": 103,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": 0
+      "name": "Neztor",
+      "value": 3,
+      "move": 12
     },
     {
       "rank": 104,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 105,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 106,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 107,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 108,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 109,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 110,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 111,
-      "name": "Kirill",
+      "name": "Arewoe",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 112,
-      "name": "Мон Ами",
+      "name": "Kirill",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 113,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 114,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 115,
-      "name": "Neztor",
+      "name": "Jeffrey",
       "value": 2,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 116,
@@ -1175,7 +1175,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 16
     },
     {
       "rank": 5,
@@ -1324,6 +1324,11 @@
     },
     {
       "rank": 34,
+      "name": "Neztor",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "Max",
       "value": 1
     }
