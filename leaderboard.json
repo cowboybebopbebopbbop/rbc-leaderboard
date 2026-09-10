@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T06:12:54+00:00",
+  "updated": "2026-09-10T07:12:59+00:00",
   "count": 150,
   "has_movement": true,
   "all": [
@@ -1180,7 +1180,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 15
+      "value": 13
     },
     {
       "rank": 6,
@@ -1219,22 +1219,22 @@
     },
     {
       "rank": 13,
-      "name": "Сергей",
-      "value": 5
-    },
-    {
-      "rank": 14,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": ".",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Aся",
+      "value": 4
+    },
+    {
+      "rank": 16,
+      "name": "Сергей",
       "value": 4
     },
     {
