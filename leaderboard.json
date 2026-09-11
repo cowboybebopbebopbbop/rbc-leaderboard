@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:16:46+00:00",
+  "updated": "2026-09-11T21:16:51+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4229,
+      "value": 4230,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 970,
+      "value": 973,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 207,
+      "value": 208,
       "move": -1
     },
     {
@@ -950,7 +950,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 195
+      "value": 196
     },
     {
       "rank": 2,
@@ -965,7 +965,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 51
+      "value": 54
     },
     {
       "rank": 5,
@@ -1019,13 +1019,13 @@
     },
     {
       "rank": 15,
-      "name": "ᴦоᴧод",
+      "name": "DenisNazarov",
       "value": 14
     },
     {
       "rank": 16,
-      "name": "DenisNazarov",
-      "value": 13
+      "name": "ᴦоᴧод",
+      "value": 14
     },
     {
       "rank": 17,
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 47
     },
     {
       "rank": 2,
@@ -1211,13 +1211,13 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Viktor",
+      "value": 14
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 11
+      "name": "Zero-sum Gamer",
+      "value": 13
     },
     {
       "rank": 5,
@@ -1271,32 +1271,32 @@
     },
     {
       "rank": 15,
-      "name": "Анастасия",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "Ponemonec",
+      "name": "Анастасия",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 18,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 19,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 19,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
       "rank": 20,
-      "name": "DenisNazarov",
+      "name": "Manis Love",
       "value": 3
     },
     {
