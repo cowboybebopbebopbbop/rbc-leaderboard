@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:15:38+00:00",
+  "updated": "2026-09-11T09:15:44+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 643,
+      "value": 644,
       "move": 0
     },
     {
@@ -1010,13 +1010,13 @@
     },
     {
       "rank": 18,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 12
     },
     {
       "rank": 19,
-      "name": "Князь Владимир С",
-      "value": 11
+      "name": "@wavesscalper",
+      "value": 12
     },
     {
       "rank": 20,
@@ -1193,7 +1193,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 5,
@@ -1203,21 +1203,21 @@
     {
       "rank": 6,
       "name": "Archie",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 7,
-      "name": "Aleksey",
-      "value": 6
+      "name": "Князь Владимир С",
+      "value": 7
     },
     {
       "rank": 8,
-      "name": "Князь Владимир С",
-      "value": 6
+      "name": "-",
+      "value": 5
     },
     {
       "rank": 9,
-      "name": "-",
+      "name": "Aleksey",
       "value": 5
     },
     {
@@ -1272,27 +1272,27 @@
     },
     {
       "rank": 20,
-      "name": "terminal lucidity",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Aся",
+      "value": 2
+    },
+    {
+      "rank": 24,
+      "name": "terminal lucidity",
       "value": 2
     },
     {
