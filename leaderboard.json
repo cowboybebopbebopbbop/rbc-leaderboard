@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T06:15:27+00:00",
+  "updated": "2026-09-11T07:15:33+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 878,
+      "value": 879,
       "move": 0
     },
     {
@@ -245,8 +245,8 @@
     },
     {
       "rank": 41,
-      "name": "🏴‍☠️",
-      "value": 106,
+      "name": "Lalex",
+      "value": 107,
       "move": -1
     },
     {
@@ -371,15 +371,15 @@
     },
     {
       "rank": 62,
-      "name": "𝑽",
-      "value": 31,
-      "move": -1
+      "name": "LlirikMK",
+      "value": 32,
+      "move": 2
     },
     {
       "rank": 63,
-      "name": "LlirikMK",
+      "name": "𝑽",
       "value": 31,
-      "move": 1
+      "move": -2
     },
     {
       "rank": 64,
@@ -951,7 +951,7 @@
     {
       "rank": 6,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 43
+      "value": 39
     },
     {
       "rank": 7,
@@ -1090,42 +1090,42 @@
     },
     {
       "rank": 34,
-      "name": "Александр",
+      "name": "LlirikMK",
       "value": 4
     },
     {
       "rank": 35,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 36,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 37,
       "name": "SPM",
       "value": 3
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 40,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
       "rank": 41,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "rank": 50,
-      "name": "1",
+      "name": "🏴‍☠️",
       "value": 2
     }
   ],
@@ -1178,7 +1178,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 46
+      "value": 45
     },
     {
       "rank": 2,
@@ -1302,37 +1302,37 @@
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 27,
-      "name": ".",
+      "name": "🤗",
       "value": 2
     },
     {
       "rank": 28,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 29,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Eugene",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "LlirikMK",
+      "name": "Eugene",
       "value": 1
     },
     {
@@ -1358,6 +1358,11 @@
     {
       "rank": 37,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 38,
+      "name": "Lalex",
       "value": 1
     }
   ]
