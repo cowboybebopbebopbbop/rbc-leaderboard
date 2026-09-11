@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T19:16:40+00:00",
+  "updated": "2026-09-11T20:16:46+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1180,
+      "value": 1182,
       "move": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 26,
       "name": "DenisNazarov",
-      "value": 206,
+      "value": 207,
       "move": -1
     },
     {
@@ -955,7 +955,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 142
+      "value": 144
     },
     {
       "rank": 3,
@@ -1025,7 +1025,7 @@
     {
       "rank": 16,
       "name": "DenisNazarov",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 17,
@@ -1207,7 +1207,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 31
+      "value": 33
     },
     {
       "rank": 3,
@@ -1296,22 +1296,22 @@
     },
     {
       "rank": 20,
-      "name": "Slawik",
+      "name": "DenisNazarov",
       "value": 3
     },
     {
       "rank": 21,
-      "name": "🅾🅻🅶🅰",
+      "name": "Slawik",
       "value": 3
     },
     {
       "rank": 22,
-      "name": "Константин",
-      "value": 2
+      "name": "🅾🅻🅶🅰",
+      "value": 3
     },
     {
       "rank": 23,
-      "name": "DenisNazarov",
+      "name": "Константин",
       "value": 2
     },
     {
@@ -1331,57 +1331,57 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
-      "value": 2
-    },
-    {
-      "rank": 28,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Milutin",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Charlie Shefelman",
+      "value": 1
+    },
+    {
+      "rank": 37,
+      "name": "🤗",
       "value": 1
     },
     {
