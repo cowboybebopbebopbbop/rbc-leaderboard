@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T23:14:48+00:00",
+  "updated": "2026-09-11T00:14:54+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1747,
+      "value": 1749,
       "move": 0
     },
     {
@@ -271,7 +271,7 @@
       "rank": 45,
       "name": "Vitaliy",
       "value": 89,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 46,
@@ -283,7 +283,7 @@
       "rank": 47,
       "name": "Павел Корчагин",
       "value": 86,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 48,
@@ -601,37 +601,37 @@
       "rank": 100,
       "name": "Slawik",
       "value": 4,
-      "move": 2
+      "move": -3
     },
     {
       "rank": 101,
       "name": "Ilya",
       "value": 3,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 102,
       "name": "Samurai_1",
       "value": 3,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 103,
       "name": "Don Michele Corleone",
       "value": 3,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 104,
       "name": "Sviat",
       "value": 3,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 105,
       "name": "1",
       "value": 3,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 106,
@@ -946,7 +946,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 46
+      "value": 48
     },
     {
       "rank": 6,
@@ -1197,13 +1197,13 @@
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
-      "value": 12
+      "name": "Archie",
+      "value": 13
     },
     {
       "rank": 6,
-      "name": "Archie",
-      "value": 11
+      "name": "Vitaliy",
+      "value": 12
     },
     {
       "rank": 7,
