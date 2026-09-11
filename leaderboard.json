@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T03:15:10+00:00",
+  "updated": "2026-09-11T04:15:16+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4221,
+      "value": 4222,
       "move": 0
     },
     {
@@ -926,7 +926,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 187
+      "value": 188
     },
     {
       "rank": 2,
@@ -1178,7 +1178,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
@@ -1282,32 +1282,32 @@
     },
     {
       "rank": 22,
-      "name": ".",
-      "value": 3
-    },
-    {
-      "rank": 23,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🤗",
+      "value": 2
+    },
+    {
+      "rank": 27,
+      "name": ".",
       "value": 2
     },
     {
