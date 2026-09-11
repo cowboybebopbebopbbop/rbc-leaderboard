@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T16:16:23+00:00",
+  "updated": "2026-09-11T17:16:29+00:00",
   "count": 155,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4228,
+      "value": 4229,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1179,
+      "value": 1180,
       "move": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "rank": 10,
       "name": "Синдбад Мореход",
-      "value": 819,
+      "value": 821,
       "move": 0
     },
     {
@@ -938,12 +938,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 194
+      "value": 195
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 141
+      "value": 142
     },
     {
       "rank": 3,
@@ -972,13 +972,13 @@
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
-      "value": 22
+      "name": "Синдбад Мореход",
+      "value": 23
     },
     {
       "rank": 9,
-      "name": "Синдбад Мореход",
-      "value": 21
+      "name": "Vitaliy",
+      "value": 22
     },
     {
       "rank": 10,
@@ -1190,12 +1190,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 31
     },
     {
       "rank": 3,
@@ -1229,37 +1229,37 @@
     },
     {
       "rank": 9,
+      "name": "Синдбад Мореход",
+      "value": 6
+    },
+    {
+      "rank": 10,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Aleksey",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "ᴦоᴧод",
       "value": 5
     },
     {
-      "rank": 14,
-      "name": "Анастасия",
-      "value": 4
-    },
-    {
       "rank": 15,
-      "name": "Синдбад Мореход",
+      "name": "Анастасия",
       "value": 4
     },
     {
