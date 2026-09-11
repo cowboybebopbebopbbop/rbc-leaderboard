@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:16:01+00:00",
+  "updated": "2026-09-11T13:16:06+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -234,20 +234,20 @@
     {
       "rank": 39,
       "name": "ᴦоᴧод",
-      "value": 112,
+      "value": 113,
       "move": -1
     },
     {
       "rank": 40,
-      "name": "Ivan Defined",
+      "name": "l.alex",
       "value": 108,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 41,
-      "name": "Lalex",
-      "value": 107,
-      "move": -1
+      "name": "Ivan Defined",
+      "value": 108,
+      "move": -2
     },
     {
       "rank": 42,
@@ -951,7 +951,7 @@
     {
       "rank": 6,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 38
+      "value": 37
     },
     {
       "rank": 7,
@@ -995,22 +995,22 @@
     },
     {
       "rank": 15,
-      "name": "Князь Владимир С",
-      "value": 13
+      "name": "ᴦоᴧод",
+      "value": 14
     },
     {
       "rank": 16,
-      "name": "ᴦоᴧод",
-      "value": 13
-    },
-    {
-      "rank": 17,
       "name": "DenisNazarov",
       "value": 12
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Aся",
+      "value": 12
+    },
+    {
+      "rank": 18,
+      "name": "Князь Владимир С",
       "value": 12
     },
     {
@@ -1125,47 +1125,47 @@
     },
     {
       "rank": 41,
+      "name": "🏴‍☠️",
+      "value": 3
+    },
+    {
+      "rank": 42,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Sviat",
       "value": 2
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "Павел Корчагин",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Charlie Shefelman",
       "value": 2
     },
     {
-      "rank": 48,
-      "name": "Bazylev Nickolai",
-      "value": 2
-    },
-    {
       "rank": 49,
-      "name": "🏴‍☠️",
+      "name": "Bazylev Nickolai",
       "value": 2
     },
     {
@@ -1187,13 +1187,13 @@
     },
     {
       "rank": 3,
-      "name": "Viktor",
-      "value": 14
+      "name": "Zero-sum Gamer",
+      "value": 13
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Viktor",
+      "value": 12
     },
     {
       "rank": 5,
@@ -1237,17 +1237,17 @@
     },
     {
       "rank": 13,
+      "name": "ᴦоᴧод",
+      "value": 5
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 4
     },
     {
-      "rank": 14,
-      "name": "Анастасия",
-      "value": 4
-    },
-    {
       "rank": 15,
-      "name": "ᴦоᴧод",
+      "name": "Анастасия",
       "value": 4
     },
     {
@@ -1302,72 +1302,72 @@
     },
     {
       "rank": 26,
-      "name": ".",
+      "name": "Lalex",
       "value": 2
     },
     {
       "rank": 27,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 38,
-      "name": "Max",
-      "value": 1
-    },
-    {
       "rank": 39,
-      "name": "Lalex",
+      "name": "Max",
       "value": 1
     }
   ]
