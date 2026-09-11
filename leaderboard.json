@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T09:15:44+00:00",
+  "updated": "2026-09-11T10:15:50+00:00",
   "count": 153,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1172,
+      "value": 1173,
       "move": 0
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 644,
+      "value": 645,
       "move": 0
     },
     {
@@ -931,7 +931,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 134
+      "value": 135
     },
     {
       "rank": 3,
@@ -951,7 +951,7 @@
     {
       "rank": 6,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 7,
@@ -995,28 +995,28 @@
     },
     {
       "rank": 15,
-      "name": "ᴦоᴧод",
+      "name": "Князь Владимир С",
       "value": 13
     },
     {
       "rank": 16,
+      "name": "ᴦоᴧод",
+      "value": 13
+    },
+    {
+      "rank": 17,
       "name": "DenisNazarov",
       "value": 12
     },
     {
-      "rank": 17,
-      "name": "Aся",
-      "value": 12
-    },
-    {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 12
     },
     {
       "rank": 19,
       "name": "@wavesscalper",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 20,
@@ -1178,12 +1178,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 47
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 3,
@@ -1208,7 +1208,7 @@
     {
       "rank": 7,
       "name": "Князь Владимир С",
-      "value": 7
+      "value": 8
     },
     {
       "rank": 8,
@@ -1242,23 +1242,23 @@
     },
     {
       "rank": 14,
-      "name": "Manis Love",
-      "value": 4
-    },
-    {
-      "rank": 15,
       "name": "Анастасия",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Ponemonec",
       "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Manis Love",
+      "value": 3
     },
     {
       "rank": 18,
@@ -1297,32 +1297,32 @@
     },
     {
       "rank": 25,
-      "name": "Сергей",
-      "value": 2
-    },
-    {
-      "rank": 26,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "🤗",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Юрий",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "Сергей",
       "value": 1
     },
     {
