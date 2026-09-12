@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T04:17:00+00:00",
+  "updated": "2026-09-12T05:17:01+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -228,7 +228,7 @@
     {
       "rank": 38,
       "name": "Artem Khomenko",
-      "value": 114,
+      "value": 116,
       "move": 0
     },
     {
@@ -1169,32 +1169,32 @@
     },
     {
       "rank": 45,
-      "name": "Sviat",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 46,
-      "name": "Серхио Ле'Трас",
+      "name": "Sviat",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "Павел Корчагин",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "Charlie Shefelman",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 50,
-      "name": "Максим",
+      "name": "Charlie Shefelman",
       "value": 2
     }
   ],
@@ -1311,86 +1311,91 @@
     },
     {
       "rank": 23,
-      "name": "A.",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Aся",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "LlirikMK",
+      "name": "Aся",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Максим",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Lalex",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 28,
-      "name": ".",
+      "name": "Lalex",
       "value": 2
     },
     {
       "rank": 29,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 30,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Milutin",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Юрий",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Max",
       "value": 1
     }
