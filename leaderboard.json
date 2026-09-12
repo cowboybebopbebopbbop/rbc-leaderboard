@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T07:17:05+00:00",
+  "updated": "2026-09-12T08:17:06+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 880,
+      "value": 882,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Milutin",
-      "value": 605,
+      "value": 606,
       "move": 0
     },
     {
@@ -293,15 +293,15 @@
     },
     {
       "rank": 49,
-      "name": "terminal lucidity",
-      "value": 79,
-      "move": 0
+      "name": "Сергей",
+      "value": 80,
+      "move": 1
     },
     {
       "rank": 50,
-      "name": "Сергей",
+      "name": "terminal lucidity",
       "value": 79,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 51,
@@ -960,7 +960,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 60
+      "value": 62
     },
     {
       "rank": 4,
@@ -994,13 +994,13 @@
     },
     {
       "rank": 10,
-      "name": "L G",
+      "name": "Сергей",
       "value": 17
     },
     {
       "rank": 11,
-      "name": "Сергей",
-      "value": 16
+      "name": "L G",
+      "value": 17
     },
     {
       "rank": 12,
@@ -1159,42 +1159,42 @@
     },
     {
       "rank": 43,
-      "name": "Константин",
+      "name": "Milutin",
       "value": 2
     },
     {
       "rank": 44,
-      "name": "Юрий",
+      "name": "Константин",
       "value": 2
     },
     {
       "rank": 45,
-      "name": "Artem Khomenko",
+      "name": "Юрий",
       "value": 2
     },
     {
       "rank": 46,
-      "name": "Sviat",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 47,
-      "name": "Серхио Ле'Трас",
+      "name": "Sviat",
       "value": 2
     },
     {
       "rank": 48,
-      "name": "Сергей",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 49,
-      "name": "Павел Корчагин",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 50,
-      "name": "Charlie Shefelman",
+      "name": "Павел Корчагин",
       "value": 2
     }
   ],
@@ -1217,7 +1217,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 15
     },
     {
       "rank": 5,
@@ -1301,57 +1301,57 @@
     },
     {
       "rank": 21,
-      "name": "Константин",
+      "name": "Milutin",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "Artem Khomenko",
+      "name": "Константин",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "A.",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Aся",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Aleksey",
+      "name": "Aся",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Максим",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Lalex",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 29,
-      "name": ".",
+      "name": "Lalex",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 1
+      "name": ".",
+      "value": 2
     },
     {
       "rank": 31,
-      "name": "Milutin",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
@@ -1366,7 +1366,7 @@
     },
     {
       "rank": 34,
-      "name": "Сергей",
+      "name": "Aleksey",
       "value": 1
     },
     {
