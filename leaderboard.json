@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T06:17:03+00:00",
+  "updated": "2026-09-12T07:17:05+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -1296,32 +1296,32 @@
     },
     {
       "rank": 20,
-      "name": "Aleksey",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "🅾🅻🅶🅰",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Aся",
+      "value": 2
+    },
+    {
+      "rank": 25,
+      "name": "Aleksey",
       "value": 2
     },
     {
