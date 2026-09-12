@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:16:59+00:00",
+  "updated": "2026-09-12T04:17:00+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -1361,41 +1361,36 @@
     },
     {
       "rank": 33,
-      "name": "terminal lucidity",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Charlie Shefelman",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 1
     }
