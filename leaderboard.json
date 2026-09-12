@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:24:37+00:00",
+  "updated": "2026-09-12T20:24:38+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 45
+      "value": 44
     },
     {
       "rank": 2,
@@ -1366,31 +1366,26 @@
     },
     {
       "rank": 34,
-      "name": "Aleksey",
-      "value": 1
-    },
-    {
-      "rank": 35,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "@wavesscalper",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
       "value": 1
     }
