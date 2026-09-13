@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T13:25:06+00:00",
+  "updated": "2026-09-13T14:25:08+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -234,7 +234,7 @@
     {
       "rank": 39,
       "name": "ᴦоᴧод",
-      "value": 113,
+      "value": 114,
       "move": 0
     },
     {
@@ -1004,32 +1004,32 @@
     },
     {
       "rank": 12,
-      "name": ".",
+      "name": "ᴦоᴧод",
       "value": 15
     },
     {
       "rank": 13,
+      "name": ".",
+      "value": 15
+    },
+    {
+      "rank": 14,
       "name": "A.",
       "value": 14
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "DenisNazarov",
       "value": 14
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Сергей",
       "value": 14
     },
     {
-      "rank": 16,
-      "name": "@wavesscalper",
-      "value": 14
-    },
-    {
       "rank": 17,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 14
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 5,
@@ -1246,27 +1246,27 @@
     },
     {
       "rank": 10,
+      "name": "ᴦоᴧод",
+      "value": 6
+    },
+    {
+      "rank": 11,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Анастасия",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "L G",
       "value": 5
     },
     {
-      "rank": 13,
-      "name": "Синдбад Мореход",
-      "value": 5
-    },
-    {
       "rank": 14,
-      "name": "ᴦоᴧод",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
