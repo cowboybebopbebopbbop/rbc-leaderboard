@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T06:24:54+00:00",
+  "updated": "2026-09-13T07:24:56+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4231,
+      "value": 4232,
       "move": 0
     },
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1749,
+      "value": 1750,
       "move": 0
     },
     {
@@ -348,7 +348,7 @@
     {
       "rank": 58,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 45,
+      "value": 46,
       "move": 0
     },
     {
@@ -950,7 +950,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 197
+      "value": 198
     },
     {
       "rank": 2,
@@ -960,7 +960,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 64
+      "value": 61
     },
     {
       "rank": 4,
@@ -970,7 +970,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 6,
@@ -1054,23 +1054,23 @@
     },
     {
       "rank": 22,
-      "name": "terminal lucidity",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 8
     },
     {
       "rank": 23,
-      "name": "Eugene",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
       "rank": 24,
-      "name": "Marat Miheev",
+      "name": "Eugene",
       "value": 8
     },
     {
       "rank": 25,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 7
+      "name": "Marat Miheev",
+      "value": 8
     },
     {
       "rank": 26,
@@ -1189,12 +1189,12 @@
     },
     {
       "rank": 49,
-      "name": "Сергей",
+      "name": "Павел Корчагин",
       "value": 2
     },
     {
       "rank": 50,
-      "name": "Павел Корчагин",
+      "name": "Charlie Shefelman",
       "value": 2
     }
   ],
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
@@ -1217,21 +1217,21 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 17
+      "value": 15
     },
     {
       "rank": 5,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 9
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 8
+      "name": "🅾🅻🅶🅰",
+      "value": 9
     },
     {
       "rank": 7,
-      "name": "Archie",
+      "name": "Vitaliy",
       "value": 8
     },
     {
@@ -1276,22 +1276,22 @@
     },
     {
       "rank": 16,
-      "name": "Ponemonec",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Manis Love",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 19,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Manis Love",
       "value": 3
     },
     {
