@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T04:24:51+00:00",
+  "updated": "2026-09-13T05:24:53+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1813,
+      "value": 1814,
       "move": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 7,
@@ -1221,22 +1221,22 @@
     },
     {
       "rank": 5,
+      "name": "🅾🅻🅶🅰",
+      "value": 9
+    },
+    {
+      "rank": 6,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Archie",
       "value": 8
     },
     {
-      "rank": 7,
-      "name": "Князь Владимир С",
-      "value": 8
-    },
-    {
       "rank": 8,
-      "name": "🅾🅻🅶🅰",
+      "name": "Князь Владимир С",
       "value": 8
     },
     {
@@ -1246,17 +1246,17 @@
     },
     {
       "rank": 10,
-      "name": "Анастасия",
-      "value": 6
-    },
-    {
-      "rank": 11,
       "name": "Синдбад Мореход",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "-",
+      "value": 5
+    },
+    {
+      "rank": 12,
+      "name": "Анастасия",
       "value": 5
     },
     {
