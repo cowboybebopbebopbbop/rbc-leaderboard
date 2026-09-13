@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T17:25:14+00:00",
+  "updated": "2026-09-13T18:25:15+00:00",
   "count": 158,
   "has_movement": true,
   "all": [
@@ -521,27 +521,27 @@
     },
     {
       "rank": 87,
-      "name": "Aleksey",
+      "name": "***",
       "value": 8,
-      "move": 0
+      "move": 3
     },
     {
       "rank": 88,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "Aleksey",
+      "value": 8,
+      "move": -1
     },
     {
       "rank": 89,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 90,
-      "name": "***",
+      "name": "Роман",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 91,
@@ -961,7 +961,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 146
+      "value": 145
     },
     {
       "rank": 3,
@@ -981,7 +981,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 42
+      "value": 39
     },
     {
       "rank": 7,
@@ -1036,7 +1036,7 @@
     {
       "rank": 17,
       "name": "@wavesscalper",
-      "value": 14
+      "value": 13
     },
     {
       "rank": 18,
@@ -1090,67 +1090,67 @@
     },
     {
       "rank": 28,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 6
-    },
-    {
-      "rank": 29,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "LlirikMK",
       "value": 4
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Александр",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Виталий",
+      "value": 3
+    },
+    {
+      "rank": 40,
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
@@ -1218,7 +1218,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 4,
@@ -1228,12 +1228,12 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 11
+      "value": 10
     },
     {
       "rank": 6,
       "name": "Vitaliy",
-      "value": 9
+      "value": 8
     },
     {
       "rank": 7,
@@ -1382,21 +1382,26 @@
     },
     {
       "rank": 36,
-      "name": "🤗",
+      "name": "***",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Neztor",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Max",
+      "name": "Neztor",
       "value": 1
     },
     {
       "rank": 39,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 40,
       "name": ".",
       "value": 1
     }
