@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T08:24:58+00:00",
+  "updated": "2026-09-13T09:24:59+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1750,
+      "value": 1751,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 335,
+      "value": 337,
       "move": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 6,
@@ -1029,18 +1029,18 @@
     },
     {
       "rank": 17,
+      "name": "@wavesscalper",
+      "value": 13
+    },
+    {
+      "rank": 18,
       "name": "Aся",
       "value": 12
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Князь Владимир С",
       "value": 12
-    },
-    {
-      "rank": 19,
-      "name": "@wavesscalper",
-      "value": 11
     },
     {
       "rank": 20,
@@ -1202,7 +1202,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
@@ -1222,7 +1222,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 6,
@@ -1296,92 +1296,92 @@
     },
     {
       "rank": 20,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "A.",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Сергей",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Максим",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": ".",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "SPM",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 37,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 1
     },
     {
