@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:24:56+00:00",
+  "updated": "2026-09-13T08:24:58+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 152,
+      "value": 153,
       "move": 0
     },
     {
@@ -485,15 +485,15 @@
     },
     {
       "rank": 81,
-      "name": "X888",
-      "value": 11,
-      "move": 0
+      "name": "SPM",
+      "value": 12,
+      "move": 1
     },
     {
       "rank": 82,
-      "name": "SPM",
+      "name": "X888",
       "value": 11,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 83,
@@ -1109,67 +1109,67 @@
     },
     {
       "rank": 33,
-      "name": "LlirikMK",
+      "name": "SPM",
       "value": 4
     },
     {
       "rank": 34,
-      "name": "Александр",
+      "name": "LlirikMK",
       "value": 4
     },
     {
       "rank": 35,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 36,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 37,
-      "name": "SPM",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 38,
-      "name": "Slawik",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 39,
-      "name": "Виталий",
+      "name": "Slawik",
       "value": 3
     },
     {
       "rank": 40,
-      "name": "Руслан Иванов",
+      "name": "Виталий",
       "value": 3
     },
     {
       "rank": 41,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 42,
-      "name": "🏴‍☠️",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 43,
+      "name": "🏴‍☠️",
+      "value": 3
+    },
+    {
+      "rank": 44,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 44,
-      "name": "Константин",
-      "value": 2
-    },
-    {
       "rank": 45,
-      "name": "Юрий",
+      "name": "Константин",
       "value": 2
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 5,
@@ -1301,91 +1301,96 @@
     },
     {
       "rank": 21,
-      "name": "Artem Khomenko",
+      "name": "Юрий",
       "value": 2
     },
     {
       "rank": 22,
-      "name": "A.",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 23,
-      "name": "Slawik",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "Aся",
+      "name": "Slawik",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Сергей",
+      "name": "Aся",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Максим",
+      "name": "LlirikMK",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Lalex",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 29,
-      "name": ".",
+      "name": "Lalex",
       "value": 2
     },
     {
       "rank": 30,
+      "name": ".",
+      "value": 2
+    },
+    {
+      "rank": 31,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 31,
-      "name": "Константин",
-      "value": 1
-    },
-    {
       "rank": 32,
-      "name": "Andrey Tugarin",
+      "name": "SPM",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Юрий",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Eugene",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "🤗",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "@wavesscalper",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Neztor",
+      "name": "@wavesscalper",
       "value": 1
     },
     {
       "rank": 38,
+      "name": "Neztor",
+      "value": 1
+    },
+    {
+      "rank": 39,
       "name": "Max",
       "value": 1
     }
