@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:25:08+00:00",
+  "updated": "2026-09-13T15:25:10+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -1207,7 +1207,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 32
     },
     {
       "rank": 3,
@@ -1316,52 +1316,52 @@
     },
     {
       "rank": 24,
-      "name": "A.",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Slawik",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Aся",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "LlirikMK",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Максим",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
+      "value": 1
+    },
+    {
+      "rank": 33,
+      "name": "A.",
       "value": 1
     },
     {
