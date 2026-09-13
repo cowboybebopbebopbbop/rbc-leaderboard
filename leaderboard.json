@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:25:03+00:00",
+  "updated": "2026-09-13T12:25:04+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 976,
+      "value": 977,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 337,
+      "value": 338,
       "move": 0
     },
     {
@@ -461,27 +461,27 @@
     },
     {
       "rank": 77,
-      "name": "vpidelks",
-      "value": 14,
-      "move": 0
+      "name": "SPM",
+      "value": 15,
+      "move": 5
     },
     {
       "rank": 78,
-      "name": "Turchyn Gennadii",
-      "value": 13,
-      "move": 0
+      "name": "vpidelks",
+      "value": 14,
+      "move": -1
     },
     {
       "rank": 79,
-      "name": "Антон",
+      "name": "Turchyn Gennadii",
       "value": 13,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 80,
-      "name": "SPM",
+      "name": "Антон",
       "value": 13,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 81,
@@ -965,7 +965,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 57
+      "value": 58
     },
     {
       "rank": 5,
@@ -1024,13 +1024,13 @@
     },
     {
       "rank": 16,
-      "name": "ᴦоᴧод",
+      "name": "@wavesscalper",
       "value": 14
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
-      "value": 13
+      "name": "ᴦоᴧод",
+      "value": 14
     },
     {
       "rank": 18,
@@ -1074,37 +1074,37 @@
     },
     {
       "rank": 26,
-      "name": "Aleksey",
+      "name": "SPM",
       "value": 7
     },
     {
       "rank": 27,
+      "name": "Aleksey",
+      "value": 7
+    },
+    {
+      "rank": 28,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 6
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 31,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
-    },
-    {
       "rank": 32,
-      "name": "SPM",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
@@ -1237,7 +1237,7 @@
     {
       "rank": 8,
       "name": "🅾🅻🅶🅰",
-      "value": 8
+      "value": 7
     },
     {
       "rank": 9,
@@ -1271,47 +1271,47 @@
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
+      "name": "SPM",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "DenisNazarov",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Ponemonec",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Safe",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 19,
+      "name": "Ponemonec",
+      "value": 4
+    },
+    {
+      "rank": 20,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 21,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 21,
-      "name": "@wavesscalper",
-      "value": 3
-    },
-    {
-      "rank": 22,
-      "name": "Milutin",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "SPM",
+      "name": "Milutin",
       "value": 2
     },
     {
