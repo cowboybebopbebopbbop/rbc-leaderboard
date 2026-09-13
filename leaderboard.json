@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T09:24:59+00:00",
+  "updated": "2026-09-13T10:25:01+00:00",
   "count": 157,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1751,
+      "value": 1752,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 884,
+      "value": 885,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 153,
+      "value": 154,
       "move": 0
     },
     {
@@ -479,15 +479,15 @@
     },
     {
       "rank": 80,
-      "name": "Pike",
-      "value": 12,
-      "move": 0
+      "name": "SPM",
+      "value": 13,
+      "move": 2
     },
     {
       "rank": 81,
-      "name": "SPM",
+      "name": "Pike",
       "value": 12,
-      "move": 1
+      "move": -1
     },
     {
       "rank": 82,
@@ -960,7 +960,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 61
+      "value": 62
     },
     {
       "rank": 4,
@@ -970,7 +970,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 50
+      "value": 51
     },
     {
       "rank": 6,
@@ -1104,38 +1104,38 @@
     },
     {
       "rank": 32,
-      "name": "-",
+      "name": "SPM",
       "value": 5
     },
     {
       "rank": 33,
-      "name": "SPM",
-      "value": 4
+      "name": "-",
+      "value": 5
     },
     {
       "rank": 34,
-      "name": "LlirikMK",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 35,
-      "name": "Александр",
+      "name": "LlirikMK",
       "value": 4
     },
     {
       "rank": 36,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 37,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 38,
-      "name": "Юрий",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 39,
@@ -1217,26 +1217,26 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
-      "value": 9
-    },
-    {
-      "rank": 7,
       "name": "Vitaliy",
       "value": 8
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Князь Владимир С",
+      "value": 8
+    },
+    {
+      "rank": 8,
+      "name": "🅾🅻🅶🅰",
       "value": 8
     },
     {
@@ -1291,47 +1291,47 @@
     },
     {
       "rank": 19,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 3
     },
     {
       "rank": 20,
-      "name": "@wavesscalper",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 21,
+      "name": "@wavesscalper",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Юрий",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Artem Khomenko",
+      "name": "SPM",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "A.",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Slawik",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Aся",
+      "name": "Slawik",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Сергей",
+      "name": "Aся",
       "value": 2
     },
     {
@@ -1351,47 +1351,47 @@
     },
     {
       "rank": 31,
-      "name": ".",
-      "value": 2
-    },
-    {
-      "rank": 32,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 33,
-      "name": "SPM",
-      "value": 1
-    },
-    {
-      "rank": 34,
+      "rank": 32,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 34,
+      "name": "Сергей",
+      "value": 1
+    },
+    {
+      "rank": 35,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 39,
+      "name": ".",
       "value": 1
     }
   ]
