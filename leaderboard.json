@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T04:52:38+00:00",
+  "updated": "2026-09-14T05:52:40+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 977,
+      "value": 978,
       "move": 0
     },
     {
@@ -983,7 +983,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 58
+      "value": 59
     },
     {
       "rank": 5,
@@ -1229,13 +1229,13 @@
     },
     {
       "rank": 3,
-      "name": "Zero-sum Gamer",
-      "value": 14
+      "name": "Viktor",
+      "value": 13
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 12
+      "name": "Zero-sum Gamer",
+      "value": 13
     },
     {
       "rank": 5,
@@ -1359,66 +1359,61 @@
     },
     {
       "rank": 29,
-      "name": "Константин",
-      "value": 1
-    },
-    {
-      "rank": 30,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Slawik",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "-",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": ".",
       "value": 1
     }
