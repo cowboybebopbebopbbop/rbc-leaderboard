@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T14:52:57+00:00",
+  "updated": "2026-09-14T15:52:59+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 462,
+      "value": 463,
       "move": 0
     },
     {
@@ -1137,42 +1137,42 @@
     },
     {
       "rank": 35,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 36,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 37,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 38,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 39,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
-      "rank": 41,
-      "name": "Руслан Иванов",
-      "value": 3
-    },
-    {
       "rank": 42,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
@@ -1384,31 +1384,36 @@
     },
     {
       "rank": 34,
-      "name": "Eugene",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Евгений",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Bazylev Nickolai",
+      "name": "Евгений",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "🤗",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Neztor",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 39,
+      "name": "Neztor",
+      "value": 1
+    },
+    {
+      "rank": 40,
       "name": ".",
       "value": 1
     }
