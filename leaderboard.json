@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T15:52:59+00:00",
-  "count": 160,
+  "updated": "2026-09-14T16:53:01+00:00",
+  "count": 161,
   "has_movement": true,
   "all": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4236,
+      "value": 4237,
       "move": 0
     },
     {
@@ -962,13 +962,19 @@
       "name": "nakachu",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 161,
+      "name": "Юрий",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 202
+      "value": 203
     },
     {
       "rank": 2,
@@ -1220,7 +1226,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 41
+      "value": 42
     },
     {
       "rank": 2,
