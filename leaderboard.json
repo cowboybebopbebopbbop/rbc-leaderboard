@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:52:45+00:00",
+  "updated": "2026-09-14T09:52:46+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4232,
+      "value": 4233,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "LlirikMK",
-      "value": 32,
+      "value": 33,
       "move": 0
     },
     {
@@ -968,7 +968,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 198
+      "value": 199
     },
     {
       "rank": 2,
@@ -1133,7 +1133,7 @@
     {
       "rank": 34,
       "name": "LlirikMK",
-      "value": 4
+      "value": 5
     },
     {
       "rank": 35,
@@ -1220,7 +1220,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 43
     },
     {
       "rank": 2,
@@ -1319,101 +1319,96 @@
     },
     {
       "rank": 21,
+      "name": "LlirikMK",
+      "value": 3
+    },
+    {
+      "rank": 22,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 23,
-      "name": "Aся",
-      "value": 2
-    },
-    {
       "rank": 24,
-      "name": "LlirikMK",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "Максим",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "A.",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Slawik",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "-",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".",
       "value": 1
     }
