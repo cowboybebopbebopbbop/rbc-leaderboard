@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T13:52:55+00:00",
+  "updated": "2026-09-14T14:52:57+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1753,
+      "value": 1754,
       "move": 0
     },
     {
@@ -988,7 +988,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 6,
@@ -1220,7 +1220,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
@@ -1284,22 +1284,22 @@
     },
     {
       "rank": 14,
-      "name": "@wavesscalper",
-      "value": 5
-    },
-    {
-      "rank": 15,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "@wavesscalper",
       "value": 4
     },
     {
@@ -1334,37 +1334,37 @@
     },
     {
       "rank": 24,
-      "name": "A.",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "Максим",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Max",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Andrey Tugarin",
+      "value": 1
+    },
+    {
+      "rank": 30,
+      "name": "A.",
       "value": 1
     },
     {
@@ -1379,41 +1379,36 @@
     },
     {
       "rank": 33,
-      "name": "-",
-      "value": 1
-    },
-    {
-      "rank": 34,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Neztor",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": ".",
       "value": 1
     }
