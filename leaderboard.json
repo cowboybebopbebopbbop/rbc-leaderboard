@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:25:23+00:00",
+  "updated": "2026-09-14T00:52:32+00:00",
   "count": 159,
   "has_movement": true,
   "all": [
@@ -295,13 +295,13 @@
       "rank": 49,
       "name": "Сергей",
       "value": 80,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 50,
       "name": "terminal lucidity",
       "value": 79,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 51,
