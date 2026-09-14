@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:53:02+00:00",
+  "updated": "2026-09-14T18:53:04+00:00",
   "count": 161,
   "has_movement": true,
   "all": [
@@ -30,13 +30,13 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1754,
+      "value": 1755,
       "move": 0
     },
     {
       "rank": 6,
       "name": "a l",
-      "value": 1188,
+      "value": 1190,
       "move": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "rank": 14,
       "name": "Milutin",
-      "value": 606,
+      "value": 608,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 155,
+      "value": 156,
       "move": 0
     },
     {
@@ -979,7 +979,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 149
+      "value": 151
     },
     {
       "rank": 3,
@@ -994,7 +994,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 6,
@@ -1108,27 +1108,27 @@
     },
     {
       "rank": 28,
-      "name": "Kirill",
+      "name": "Юрий",
       "value": 6
     },
     {
       "rank": 29,
-      "name": "Анастасия",
+      "name": "Kirill",
       "value": 6
     },
     {
       "rank": 30,
-      "name": "Sergey СЕО",
+      "name": "Анастасия",
       "value": 6
     },
     {
       "rank": 31,
-      "name": "Sergey Saprykin ID: 125370212",
-      "value": 5
+      "name": "Sergey СЕО",
+      "value": 6
     },
     {
       "rank": 32,
-      "name": "Юрий",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
@@ -1143,58 +1143,58 @@
     },
     {
       "rank": 35,
-      "name": "iDiklonius",
+      "name": "Milutin",
       "value": 4
     },
     {
       "rank": 36,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 37,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 38,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 39,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 40,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Руслан Иванов",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "Bazylev Nickolai",
       "value": 3
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "🏴‍☠️",
       "value": 3
-    },
-    {
-      "rank": 45,
-      "name": "Milutin",
-      "value": 2
     },
     {
       "rank": 46,
@@ -1226,7 +1226,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
@@ -1241,7 +1241,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 5,
@@ -1275,63 +1275,63 @@
     },
     {
       "rank": 11,
-      "name": "Анастасия",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 12,
-      "name": "L G",
+      "name": "Анастасия",
       "value": 5
     },
     {
       "rank": 13,
-      "name": "Синдбад Мореход",
+      "name": "L G",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "SPM",
-      "value": 4
+      "name": "Синдбад Мореход",
+      "value": 5
     },
     {
       "rank": 15,
-      "name": "Юрий",
+      "name": "Milutin",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "SPM",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Ponemonec",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 20,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 21,
       "name": "DenisNazarov",
       "value": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "LlirikMK",
       "value": 3
-    },
-    {
-      "rank": 22,
-      "name": "Milutin",
-      "value": 2
     },
     {
       "rank": 23,
