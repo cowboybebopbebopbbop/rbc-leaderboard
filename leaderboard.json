@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T06:52:42+00:00",
+  "updated": "2026-09-14T07:52:43+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1184,
+      "value": 1186,
       "move": 0
     },
     {
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 154,
+      "value": 155,
       "move": 0
     },
     {
@@ -973,7 +973,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 145
+      "value": 147
     },
     {
       "rank": 3,
@@ -1122,13 +1122,13 @@
     },
     {
       "rank": 32,
-      "name": "-",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 33,
-      "name": "Юрий",
-      "value": 4
+      "name": "-",
+      "value": 5
     },
     {
       "rank": 34,
@@ -1225,7 +1225,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 27
+      "value": 29
     },
     {
       "rank": 3,
@@ -1240,7 +1240,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 10
+      "value": 9
     },
     {
       "rank": 6,
@@ -1289,28 +1289,28 @@
     },
     {
       "rank": 15,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "@wavesscalper",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "Ponemonec",
+      "name": "@wavesscalper",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "Юрий",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 20,
