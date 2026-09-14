@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T09:52:46+00:00",
+  "updated": "2026-09-14T10:52:49+00:00",
   "count": 160,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4233,
+      "value": 4234,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 885,
+      "value": 886,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 338,
+      "value": 339,
       "move": 0
     },
     {
@@ -395,15 +395,15 @@
     },
     {
       "rank": 66,
-      "name": "Руслан Иванов",
-      "value": 24,
-      "move": 0
+      "name": "A.",
+      "value": 25,
+      "move": 1
     },
     {
       "rank": 67,
-      "name": "A.",
+      "name": "Руслан Иванов",
       "value": 24,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 68,
@@ -968,7 +968,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 199
+      "value": 200
     },
     {
       "rank": 2,
@@ -978,7 +978,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1017,18 +1017,18 @@
     },
     {
       "rank": 11,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 15
     },
     {
       "rank": 12,
-      "name": ".",
+      "name": "Manis Love",
       "value": 15
     },
     {
       "rank": 13,
-      "name": "A.",
-      "value": 14
+      "name": ".",
+      "value": 15
     },
     {
       "rank": 14,
@@ -1043,7 +1043,7 @@
     {
       "rank": 16,
       "name": "@wavesscalper",
-      "value": 13
+      "value": 14
     },
     {
       "rank": 17,
@@ -1220,7 +1220,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 43
+      "value": 44
     },
     {
       "rank": 2,
@@ -1284,22 +1284,22 @@
     },
     {
       "rank": 14,
+      "name": "@wavesscalper",
+      "value": 5
+    },
+    {
+      "rank": 15,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
-      "value": 4
-    },
-    {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
@@ -1334,32 +1334,32 @@
     },
     {
       "rank": 24,
-      "name": "Максим",
+      "name": "A.",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "***",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Lalex",
+      "name": "***",
       "value": 2
     },
     {
       "rank": 27,
+      "name": "Lalex",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 28,
-      "name": "Andrey Tugarin",
-      "value": 1
-    },
-    {
       "rank": 29,
-      "name": "A.",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
