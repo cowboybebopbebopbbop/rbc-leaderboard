@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:53:34+00:00",
+  "updated": "2026-09-15T12:53:35+00:00",
   "count": 163,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4240,
+      "value": 4241,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 978,
+      "value": 980,
       "move": 0
     },
     {
@@ -986,7 +986,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 206
+      "value": 207
     },
     {
       "rank": 2,
@@ -1001,7 +1001,7 @@
     {
       "rank": 4,
       "name": "Viktor",
-      "value": 59
+      "value": 61
     },
     {
       "rank": 5,
@@ -1257,13 +1257,13 @@
     },
     {
       "rank": 5,
-      "name": "Vitaliy",
-      "value": 9
+      "name": "Viktor",
+      "value": 10
     },
     {
       "rank": 6,
-      "name": "Viktor",
-      "value": 8
+      "name": "Vitaliy",
+      "value": 9
     },
     {
       "rank": 7,
@@ -1372,62 +1372,62 @@
     },
     {
       "rank": 28,
-      "name": "Max",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Slawik",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Сергей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "iDiklonius",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Neztor",
+      "value": 1
+    },
+    {
+      "rank": 39,
+      "name": "Max",
       "value": 1
     },
     {
