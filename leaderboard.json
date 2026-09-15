@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:53:16+00:00",
+  "updated": "2026-09-15T02:53:18+00:00",
   "count": 161,
   "has_movement": true,
   "all": [
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 186,
+      "value": 187,
       "move": 0
     },
     {
@@ -1023,12 +1023,12 @@
     },
     {
       "rank": 11,
-      "name": "A.",
-      "value": 15
+      "name": "Manis Love",
+      "value": 16
     },
     {
       "rank": 12,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 15
     },
     {
@@ -1335,42 +1335,42 @@
     },
     {
       "rank": 23,
-      "name": "Максим",
+      "name": "Manis Love",
       "value": 2
     },
     {
       "rank": 24,
-      "name": "***",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 25,
-      "name": "Max",
+      "name": "***",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "Lalex",
+      "name": "Max",
       "value": 2
     },
     {
       "rank": 27,
+      "name": "Lalex",
+      "value": 2
+    },
+    {
+      "rank": 28,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 29,
-      "name": "A.",
-      "value": 1
-    },
-    {
       "rank": 30,
-      "name": "Manis Love",
+      "name": "A.",
       "value": 1
     },
     {
