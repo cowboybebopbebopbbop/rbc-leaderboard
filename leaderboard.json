@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:54:03+00:00",
+  "updated": "2026-09-15T20:54:05+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -150,7 +150,7 @@
     {
       "rank": 25,
       "name": "Алексей",
-      "value": 210,
+      "value": 211,
       "move": 0
     },
     {
@@ -420,7 +420,7 @@
     {
       "rank": 70,
       "name": "Константин",
-      "value": 22,
+      "value": 23,
       "move": -1
     },
     {
@@ -1404,61 +1404,71 @@
     },
     {
       "rank": 32,
-      "name": "Andrey Tugarin",
+      "name": "Алексей",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Slawik",
+      "name": "Andrey Tugarin",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Руслан Иванов",
+      "name": "Slawik",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "iDiklonius",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Eugene",
+      "name": "Руслан Иванов",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Евгений",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "Bazylev Nickolai",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "🤗",
+      "name": "Евгений",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "lefkorosos",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Neztor",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 42,
-      "name": "Max",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 43,
+      "name": "Neztor",
+      "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 45,
       "name": ".",
       "value": 1
     }
