@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T18:54:02+00:00",
+  "updated": "2026-09-15T19:54:03+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1193,
+      "value": 1196,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "Сергей",
-      "value": 81,
+      "value": 82,
       "move": 0
     },
     {
@@ -408,7 +408,7 @@
     {
       "rank": 68,
       "name": "Руслан Иванов",
-      "value": 24,
+      "value": 25,
       "move": -2
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 154
+      "value": 157
     },
     {
       "rank": 3,
@@ -1058,7 +1058,7 @@
     {
       "rank": 13,
       "name": "Сергей",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 14,
@@ -1177,42 +1177,42 @@
     },
     {
       "rank": 37,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 4
     },
     {
       "rank": 38,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 39,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 40,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 41,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 42,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 43,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 3
-    },
-    {
       "rank": 44,
-      "name": "Руслан Иванов",
+      "name": "Алехандро)🍅 Белов🍅",
       "value": 3
     },
     {
@@ -1250,12 +1250,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 44
+      "value": 43
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 31
+      "value": 33
     },
     {
       "rank": 3,
@@ -1349,32 +1349,32 @@
     },
     {
       "rank": 21,
-      "name": "LlirikMK",
+      "name": "Сергей",
       "value": 3
     },
     {
       "rank": 22,
+      "name": "LlirikMK",
+      "value": 3
+    },
+    {
+      "rank": 23,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Manis Love",
       "value": 2
     },
     {
-      "rank": 25,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
       "rank": 26,
-      "name": "Сергей",
+      "name": "DenisNazarov",
       "value": 2
     },
     {
@@ -1414,46 +1414,51 @@
     },
     {
       "rank": 34,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Eugene",
+      "name": "iDiklonius",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "Евгений",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 37,
-      "name": "Bazylev Nickolai",
+      "name": "Евгений",
       "value": 1
     },
     {
       "rank": 38,
-      "name": "🤗",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 39,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 1
     },
     {
       "rank": 40,
-      "name": "Neztor",
+      "name": "lefkorosos",
       "value": 1
     },
     {
       "rank": 41,
-      "name": "Max",
+      "name": "Neztor",
       "value": 1
     },
     {
       "rank": 42,
+      "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 43,
       "name": ".",
       "value": 1
     }
