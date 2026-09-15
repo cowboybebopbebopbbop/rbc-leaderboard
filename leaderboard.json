@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T09:53:30+00:00",
+  "updated": "2026-09-15T10:53:32+00:00",
   "count": 163,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4239,
+      "value": 4240,
       "move": 0
     },
     {
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 887,
+      "value": 889,
       "move": 0
     },
     {
@@ -986,7 +986,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 205
+      "value": 206
     },
     {
       "rank": 2,
@@ -996,7 +996,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 64
+      "value": 66
     },
     {
       "rank": 4,
@@ -1243,7 +1243,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 30
+      "value": 29
     },
     {
       "rank": 3,
@@ -1253,17 +1253,17 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 11
+      "value": 13
     },
     {
       "rank": 5,
-      "name": "Viktor",
+      "name": "Vitaliy",
       "value": 9
     },
     {
       "rank": 6,
-      "name": "Vitaliy",
-      "value": 9
+      "name": "Viktor",
+      "value": 8
     },
     {
       "rank": 7,
