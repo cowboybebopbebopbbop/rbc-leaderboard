@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T09:54:56+00:00",
+  "updated": "2026-09-16T10:54:56+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1760,
+      "value": 1761,
       "move": 0
     },
     {
@@ -102,13 +102,13 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 463,
+      "value": 464,
       "move": 0
     },
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 340,
+      "value": 341,
       "move": 0
     },
     {
@@ -998,7 +998,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 211
+      "value": 209
     },
     {
       "rank": 2,
@@ -1013,7 +1013,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 59
+      "value": 60
     },
     {
       "rank": 5,
@@ -1028,7 +1028,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 25
+      "value": 23
     },
     {
       "rank": 8,
@@ -1063,7 +1063,7 @@
     {
       "rank": 14,
       "name": "@wavesscalper",
-      "value": 15
+      "value": 16
     },
     {
       "rank": 15,
@@ -1182,67 +1182,67 @@
     },
     {
       "rank": 38,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 39,
-      "name": "Ponemonec",
+      "name": "Александр",
       "value": 4
     },
     {
       "rank": 40,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 41,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 42,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 43,
-      "name": "Алехандро)🍅 Белов🍅",
-      "value": 3
-    },
-    {
       "rank": 44,
-      "name": "iDiklonius",
-      "value": 3
-    },
-    {
-      "rank": 45,
       "name": "Bazylev Nickolai",
       "value": 3
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "🏴‍☠️",
       "value": 3
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "Sviat",
+      "value": 2
+    },
+    {
+      "rank": 50,
+      "name": "Серхио Ле'Трас",
       "value": 2
     }
   ],
@@ -1250,17 +1250,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 42
+      "value": 41
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 4,
@@ -1289,27 +1289,27 @@
     },
     {
       "rank": 9,
+      "name": "@wavesscalper",
+      "value": 6
+    },
+    {
+      "rank": 10,
       "name": "Юрий",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Kirill",
       "value": 5
     },
     {
-      "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 5
-    },
-    {
       "rank": 13,
-      "name": "@wavesscalper",
+      "name": "Синдбад Мореход",
       "value": 5
     },
     {
@@ -1384,47 +1384,47 @@
     },
     {
       "rank": 28,
-      "name": "Максим",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "***",
+      "name": "Максим",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Lalex",
+      "name": "***",
       "value": 2
     },
     {
       "rank": 31,
+      "name": "Lalex",
+      "value": 2
+    },
+    {
+      "rank": 32,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 35,
-      "name": "Руслан Иванов",
-      "value": 1
-    },
-    {
       "rank": 36,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 1
     },
     {
