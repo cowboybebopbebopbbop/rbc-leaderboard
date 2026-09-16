@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T18:44:14+00:00",
+  "updated": "2026-09-16T22:02:37+00:00",
   "count": 167,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4260,
+      "value": 4262,
       "move": 0
     },
     {
@@ -1010,12 +1010,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 215
+      "value": 217
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 162
+      "value": 159
     },
     {
       "rank": 3,
@@ -1104,23 +1104,23 @@
     },
     {
       "rank": 20,
-      "name": "terminal lucidity",
-      "value": 9
-    },
-    {
-      "rank": 21,
       "name": "Eugene",
       "value": 9
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Олег",
       "value": 9
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "🤗",
       "value": 9
+    },
+    {
+      "rank": 23,
+      "name": "terminal lucidity",
+      "value": 8
     },
     {
       "rank": 24,
@@ -1262,17 +1262,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 50
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 33
+      "value": 30
     },
     {
       "rank": 3,
       "name": "Archie",
-      "value": 15
+      "value": 14
     },
     {
       "rank": 4,
@@ -1316,32 +1316,32 @@
     },
     {
       "rank": 12,
-      "name": "Синдбад Мореход",
-      "value": 5
-    },
-    {
-      "rank": 13,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "LlirikMK",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "Синдбад Мореход",
       "value": 4
     },
     {
