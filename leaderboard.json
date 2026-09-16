@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T08:54:53+00:00",
+  "updated": "2026-09-16T09:54:56+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4247,
+      "value": 4249,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1198,
+      "value": 1199,
       "move": 0
     },
     {
@@ -108,7 +108,7 @@
     {
       "rank": 18,
       "name": "@wavesscalper",
-      "value": 339,
+      "value": 340,
       "move": 0
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 158
+      "value": 159
     },
     {
       "rank": 3,
@@ -1028,7 +1028,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 27
+      "value": 25
     },
     {
       "rank": 8,
@@ -1038,7 +1038,7 @@
     {
       "rank": 9,
       "name": "Jekago |РБК Крипто, мод.",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 10,
@@ -1062,22 +1062,22 @@
     },
     {
       "rank": 14,
-      "name": ".",
+      "name": "@wavesscalper",
       "value": 15
     },
     {
       "rank": 15,
+      "name": ".",
+      "value": 15
+    },
+    {
+      "rank": 16,
       "name": "DenisNazarov",
       "value": 14
     },
     {
-      "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 14
-    },
-    {
       "rank": 17,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
@@ -1087,27 +1087,27 @@
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
-      "value": 12
-    },
-    {
-      "rank": 20,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 9
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Eugene",
       "value": 9
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Олег",
       "value": 9
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "🤗",
+      "value": 9
+    },
+    {
+      "rank": 23,
+      "name": "ᴦоᴧод",
       "value": 9
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 35
+      "value": 36
     },
     {
       "rank": 3,
@@ -1309,22 +1309,22 @@
     },
     {
       "rank": 13,
+      "name": "@wavesscalper",
+      "value": 5
+    },
+    {
+      "rank": 14,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 15,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
       "rank": 16,
-      "name": "@wavesscalper",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
