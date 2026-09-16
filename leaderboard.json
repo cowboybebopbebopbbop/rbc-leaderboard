@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T14:43:49+00:00",
+  "updated": "2026-09-16T15:43:56+00:00",
   "count": 166,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4252,
+      "value": 4255,
       "move": 0
     },
     {
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1201,
+      "value": 1202,
       "move": 0
     },
     {
@@ -683,87 +683,87 @@
     },
     {
       "rank": 114,
-      "name": "Роман Земнухов | Ведущий",
-      "value": 2,
-      "move": -3
+      "name": "lefkorosos",
+      "value": 3,
+      "move": null
     },
     {
       "rank": 115,
-      "name": "Juli Julia",
+      "name": "Роман Земнухов | Ведущий",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 116,
-      "name": "ШКИПЕР #MCS",
+      "name": "Juli Julia",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 117,
-      "name": "Валерия Sweetandflow",
+      "name": "ШКИПЕР #MCS",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 118,
-      "name": "❤️",
+      "name": "Валерия Sweetandflow",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 119,
-      "name": "dg",
+      "name": "❤️",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 120,
-      "name": "Юрий",
+      "name": "dg",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 121,
-      "name": "Arewoe",
+      "name": "Юрий",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 122,
-      "name": "Мон Ами",
+      "name": "Arewoe",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 123,
-      "name": "Ольга",
+      "name": "Мон Ами",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 124,
-      "name": "Jeffrey",
+      "name": "Ольга",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 125,
-      "name": "AK",
+      "name": "Jeffrey",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 126,
-      "name": "Nikita",
+      "name": "AK",
       "value": 2,
-      "move": -3
+      "move": -4
     },
     {
       "rank": 127,
-      "name": "lefkorosos",
+      "name": "Nikita",
       "value": 2,
-      "move": null
+      "move": -4
     },
     {
       "rank": 128,
@@ -1004,12 +1004,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 208
+      "value": 211
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 161
+      "value": 162
     },
     {
       "rank": 3,
@@ -1256,12 +1256,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 40
+      "value": 43
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 36
+      "value": 37
     },
     {
       "rank": 3,
@@ -1405,62 +1405,62 @@
     },
     {
       "rank": 31,
-      "name": "Lalex",
+      "name": "lefkorosos",
       "value": 2
     },
     {
       "rank": 32,
+      "name": "Lalex",
+      "value": 2
+    },
+    {
+      "rank": 33,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Александр",
       "value": 1
     },
     {
-      "rank": 41,
-      "name": "🤗",
-      "value": 1
-    },
-    {
       "rank": 42,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 1
     },
     {
