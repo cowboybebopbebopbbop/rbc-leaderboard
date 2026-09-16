@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T11:43:49+00:00",
+  "updated": "2026-09-16T12:43:49+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -998,7 +998,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 210
+      "value": 209
     },
     {
       "rank": 2,
@@ -1294,32 +1294,32 @@
     },
     {
       "rank": 10,
-      "name": "Юрий",
-      "value": 5
-    },
-    {
-      "rank": 11,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "Kirill",
       "value": 5
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "SPM",
+      "value": 4
+    },
+    {
+      "rank": 15,
+      "name": "Юрий",
       "value": 4
     },
     {
