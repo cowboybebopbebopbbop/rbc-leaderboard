@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:54:33+00:00",
+  "updated": "2026-09-16T04:54:35+00:00",
   "count": 165,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 645,
+      "value": 647,
       "move": 0
     },
     {
@@ -1072,17 +1072,17 @@
     },
     {
       "rank": 16,
-      "name": "@wavesscalper",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
       "rank": 17,
-      "name": "Aся",
-      "value": 12
+      "name": "@wavesscalper",
+      "value": 14
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "Aся",
       "value": 12
     },
     {
@@ -1265,7 +1265,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 5,
@@ -1284,42 +1284,42 @@
     },
     {
       "rank": 8,
+      "name": "Князь Владимир С",
+      "value": 6
+    },
+    {
+      "rank": 9,
       "name": "Юрий",
       "value": 5
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 5
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Kirill",
       "value": 5
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Синдбад Мореход",
       "value": 5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 14,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
       "rank": 15,
-      "name": "Князь Владимир С",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
