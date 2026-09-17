@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:11:45+00:00",
+  "updated": "2026-09-17T02:11:51+00:00",
   "count": 167,
   "has_movement": true,
   "all": [
@@ -1341,32 +1341,32 @@
     },
     {
       "rank": 17,
-      "name": "Синдбад Мореход",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "A.",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Сергей",
+      "value": 3
+    },
+    {
+      "rank": 22,
+      "name": "Синдбад Мореход",
       "value": 3
     },
     {
