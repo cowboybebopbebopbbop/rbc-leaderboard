@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T07:12:22+00:00",
+  "updated": "2026-09-17T08:12:28+00:00",
   "count": 167,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 890,
+      "value": 891,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "LlirikMK",
-      "value": 34,
+      "value": 35,
       "move": 1
     },
     {
@@ -1010,7 +1010,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 211
+      "value": 210
     },
     {
       "rank": 2,
@@ -1020,7 +1020,7 @@
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 62
+      "value": 63
     },
     {
       "rank": 4,
@@ -1030,7 +1030,7 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 59
+      "value": 58
     },
     {
       "rank": 6,
@@ -1144,27 +1144,27 @@
     },
     {
       "rank": 28,
+      "name": "LlirikMK",
+      "value": 7
+    },
+    {
+      "rank": 29,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 31,
-      "name": "Sergey СЕО",
-      "value": 6
-    },
-    {
       "rank": 32,
-      "name": "LlirikMK",
+      "name": "Sergey СЕО",
       "value": 6
     },
     {
@@ -1199,27 +1199,27 @@
     },
     {
       "rank": 39,
-      "name": "iDiklonius",
-      "value": 4
-    },
-    {
-      "rank": 40,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Виталий",
+      "value": 3
+    },
+    {
+      "rank": 43,
+      "name": "iDiklonius",
       "value": 3
     },
     {
@@ -1277,7 +1277,7 @@
     {
       "rank": 4,
       "name": "Zero-sum Gamer",
-      "value": 12
+      "value": 13
     },
     {
       "rank": 5,
@@ -1321,97 +1321,97 @@
     },
     {
       "rank": 13,
+      "name": "LlirikMK",
+      "value": 5
+    },
+    {
+      "rank": 14,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 15,
-      "name": "Юрий",
-      "value": 4
-    },
-    {
       "rank": 16,
-      "name": "PiratesOfMining",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "LlirikMK",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "ᴦоᴧод",
-      "value": 4
-    },
-    {
-      "rank": 19,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Сергей",
       "value": 3
     },
     {
-      "rank": 22,
-      "name": "Синдбад Мореход",
-      "value": 3
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "name": "lefkorosos",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 23,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "DenisNazarov",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Максим",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "***",
+      "value": 2
+    },
+    {
+      "rank": 31,
+      "name": "Синдбад Мореход",
       "value": 2
     },
     {
