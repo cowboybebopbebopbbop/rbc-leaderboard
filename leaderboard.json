@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:00:07+00:00",
+  "updated": "2026-09-17T23:00:13+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1204,
+      "value": 1205,
       "move": 0
     },
     {
@@ -227,15 +227,15 @@
     },
     {
       "rank": 38,
-      "name": "Artem Khomenko",
+      "name": "ᴦоᴧод",
       "value": 116,
-      "move": 0
+      "move": 1
     },
     {
       "rank": 39,
-      "name": "ᴦоᴧод",
-      "value": 115,
-      "move": 0
+      "name": "Artem Khomenko",
+      "value": 116,
+      "move": -1
     },
     {
       "rank": 40,
@@ -1021,7 +1021,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 156
+      "value": 157
     },
     {
       "rank": 3,
@@ -1125,22 +1125,22 @@
     },
     {
       "rank": 23,
+      "name": "ᴦоᴧод",
+      "value": 9
+    },
+    {
+      "rank": 24,
       "name": "terminal lucidity",
       "value": 8
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "LlirikMK",
       "value": 8
     },
     {
-      "rank": 25,
-      "name": "Marat Miheev",
-      "value": 8
-    },
-    {
       "rank": 26,
-      "name": "ᴦоᴧод",
+      "name": "Marat Miheev",
       "value": 8
     },
     {
@@ -1273,7 +1273,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 32
+      "value": 33
     },
     {
       "rank": 3,
@@ -1357,17 +1357,17 @@
     },
     {
       "rank": 19,
-      "name": "Safe",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "lefkorosos",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 21,
-      "name": "ᴦоᴧод",
+      "name": "lefkorosos",
       "value": 3
     },
     {
