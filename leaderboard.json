@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T09:12:34+00:00",
+  "updated": "2026-09-17T10:12:40+00:00",
   "count": 167,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4262,
+      "value": 4263,
       "move": 0
     },
     {
@@ -264,7 +264,7 @@
     {
       "rank": 44,
       "name": "Vitaliy",
-      "value": 94,
+      "value": 95,
       "move": 0
     },
     {
@@ -294,7 +294,7 @@
     {
       "rank": 49,
       "name": "Сергей",
-      "value": 82,
+      "value": 84,
       "move": 0
     },
     {
@@ -1010,7 +1010,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 209
+      "value": 207
     },
     {
       "rank": 2,
@@ -1040,7 +1040,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 23
+      "value": 24
     },
     {
       "rank": 8,
@@ -1049,13 +1049,13 @@
     },
     {
       "rank": 9,
-      "name": "A.",
-      "value": 19
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 18
     },
     {
       "rank": 10,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 18
+      "name": "A.",
+      "value": 17
     },
     {
       "rank": 11,
@@ -1074,18 +1074,18 @@
     },
     {
       "rank": 14,
-      "name": "Князь Владимир С",
+      "name": "Сергей",
       "value": 15
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
-      "value": 14
+      "name": "Князь Владимир С",
+      "value": 15
     },
     {
       "rank": 16,
-      "name": "Сергей",
-      "value": 13
+      "name": "DenisNazarov",
+      "value": 14
     },
     {
       "rank": 17,
@@ -1262,7 +1262,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 50
     },
     {
       "rank": 2,
@@ -1292,7 +1292,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 8
+      "value": 9
     },
     {
       "rank": 8,
@@ -1321,43 +1321,43 @@
     },
     {
       "rank": 13,
-      "name": "Kirill",
+      "name": "Сергей",
       "value": 5
     },
     {
       "rank": 14,
+      "name": "Kirill",
+      "value": 5
+    },
+    {
+      "rank": 15,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Safe",
       "value": 4
-    },
-    {
-      "rank": 20,
-      "name": "Сергей",
-      "value": 3
     },
     {
       "rank": 21,
