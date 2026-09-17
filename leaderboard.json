@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T04:12:03+00:00",
+  "updated": "2026-09-17T05:12:10+00:00",
   "count": 167,
   "has_movement": true,
   "all": [
@@ -78,7 +78,7 @@
     {
       "rank": 13,
       "name": "Князь Владимир С",
-      "value": 647,
+      "value": 648,
       "move": 0
     },
     {
@@ -402,7 +402,7 @@
     {
       "rank": 67,
       "name": "A.",
-      "value": 27,
+      "value": 28,
       "move": 0
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 159
+      "value": 158
     },
     {
       "rank": 3,
@@ -1049,13 +1049,13 @@
     },
     {
       "rank": 9,
-      "name": "Jekago |РБК Крипто, мод.",
+      "name": "A.",
       "value": 18
     },
     {
       "rank": 10,
-      "name": "A.",
-      "value": 17
+      "name": "Jekago |РБК Крипто, мод.",
+      "value": 18
     },
     {
       "rank": 11,
@@ -1069,13 +1069,13 @@
     },
     {
       "rank": 13,
-      "name": "Сергей",
+      "name": "@wavesscalper",
       "value": 16
     },
     {
       "rank": 14,
-      "name": "@wavesscalper",
-      "value": 16
+      "name": "Князь Владимир С",
+      "value": 15
     },
     {
       "rank": 15,
@@ -1084,8 +1084,8 @@
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 14
+      "name": "Сергей",
+      "value": 13
     },
     {
       "rank": 17,
@@ -1297,7 +1297,7 @@
     {
       "rank": 8,
       "name": "Князь Владимир С",
-      "value": 6
+      "value": 7
     },
     {
       "rank": 9,
@@ -1331,33 +1331,33 @@
     },
     {
       "rank": 15,
-      "name": "PiratesOfMining",
+      "name": "A.",
       "value": 4
     },
     {
       "rank": 16,
-      "name": "LlirikMK",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
       "rank": 17,
-      "name": "ᴦоᴧод",
+      "name": "LlirikMK",
       "value": 4
     },
     {
       "rank": 18,
-      "name": "Ponemonec",
+      "name": "ᴦоᴧод",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "A.",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 21,
@@ -1482,11 +1482,6 @@
     {
       "rank": 45,
       "name": "Max",
-      "value": 1
-    },
-    {
-      "rank": 46,
-      "name": ".",
       "value": 1
     }
   ]
