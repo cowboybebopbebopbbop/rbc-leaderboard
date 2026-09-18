@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T03:22:37+00:00",
+  "updated": "2026-09-18T04:00:27+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -18,7 +18,7 @@
     {
       "rank": 3,
       "name": "🅾🅻🅶🅰",
-      "value": 1819,
+      "value": 1820,
       "move": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 38
+      "value": 39
     },
     {
       "rank": 7,
@@ -1287,12 +1287,12 @@
     },
     {
       "rank": 5,
-      "name": "Viktor",
-      "value": 11
+      "name": "🅾🅻🅶🅰",
+      "value": 12
     },
     {
       "rank": 6,
-      "name": "🅾🅻🅶🅰",
+      "name": "Viktor",
       "value": 11
     },
     {
