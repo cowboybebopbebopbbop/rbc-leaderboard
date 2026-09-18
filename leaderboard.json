@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T08:00:59+00:00",
+  "updated": "2026-09-18T09:01:06+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4273,
+      "value": 4274,
       "move": 0
     },
     {
@@ -1016,7 +1016,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 207
+      "value": 208
     },
     {
       "rank": 2,
@@ -1041,7 +1041,7 @@
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 7,
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 48
+      "value": 49
     },
     {
       "rank": 2,
@@ -1317,32 +1317,32 @@
     },
     {
       "rank": 11,
-      "name": "Князь Владимир С",
-      "value": 5
-    },
-    {
-      "rank": 12,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "PiratesOfMining",
+      "value": 4
+    },
+    {
+      "rank": 16,
+      "name": "Князь Владимир С",
       "value": 4
     },
     {
