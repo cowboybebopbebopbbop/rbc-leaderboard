@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T05:00:42+00:00",
+  "updated": "2026-09-18T06:00:47+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -1402,72 +1402,72 @@
     },
     {
       "rank": 28,
-      "name": "Максим",
-      "value": 2
-    },
-    {
-      "rank": 29,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Синдбад Мореход",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Lalex",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Евгений",
+      "value": 1
+    },
+    {
+      "rank": 41,
+      "name": "Максим",
       "value": 1
     },
     {
