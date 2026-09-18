@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T06:00:47+00:00",
+  "updated": "2026-09-18T07:00:53+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -54,7 +54,7 @@
     {
       "rank": 9,
       "name": "Zero-sum Gamer",
-      "value": 891,
+      "value": 892,
       "move": 0
     },
     {
@@ -1021,7 +1021,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 157
+      "value": 156
     },
     {
       "rank": 3,
@@ -1085,13 +1085,13 @@
     },
     {
       "rank": 15,
-      "name": "DenisNazarov",
+      "name": "Князь Владимир С",
       "value": 14
     },
     {
       "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 14
+      "name": "DenisNazarov",
+      "value": 13
     },
     {
       "rank": 17,
@@ -1327,27 +1327,27 @@
     },
     {
       "rank": 13,
-      "name": "LlirikMK",
-      "value": 5
-    },
-    {
-      "rank": 14,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "PiratesOfMining",
+      "value": 4
+    },
+    {
+      "rank": 17,
+      "name": "LlirikMK",
       "value": 4
     },
     {
@@ -1417,72 +1417,72 @@
     },
     {
       "rank": 31,
-      "name": "Lalex",
-      "value": 2
-    },
-    {
-      "rank": 32,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Andrey Tugarin",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "🤗",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 44,
+      "name": "l.alex",
       "value": 1
     }
   ]
