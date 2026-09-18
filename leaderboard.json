@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T19:37:44+00:00",
+  "updated": "2026-09-18T20:37:51+00:00",
   "count": 169,
   "has_movement": true,
   "all": [
@@ -1022,12 +1022,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 209
+      "value": 208
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 145
+      "value": 143
     },
     {
       "rank": 3,
@@ -1036,13 +1036,13 @@
     },
     {
       "rank": 4,
-      "name": "Viktor",
+      "name": "Archie",
       "value": 53
     },
     {
       "rank": 5,
-      "name": "Archie",
-      "value": 53
+      "name": "Viktor",
+      "value": 52
     },
     {
       "rank": 6,
@@ -1388,42 +1388,42 @@
     },
     {
       "rank": 24,
-      "name": "DenisNazarov",
-      "value": 2
-    },
-    {
-      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "terminal lucidity",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Анастасия",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "iDiklonius",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Алексей",
+      "value": 1
+    },
+    {
+      "rank": 31,
+      "name": "DenisNazarov",
       "value": 1
     },
     {
