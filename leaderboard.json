@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T11:01:18+00:00",
+  "updated": "2026-09-18T12:01:24+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -1016,7 +1016,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 203
     },
     {
       "rank": 2,
@@ -1120,87 +1120,87 @@
     },
     {
       "rank": 22,
-      "name": "Олег",
-      "value": 9
-    },
-    {
-      "rank": 23,
       "name": "🤗",
       "value": 9
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "ᴦоᴧод",
       "value": 9
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "terminal lucidity",
       "value": 8
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Marat Miheev",
       "value": 8
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "SPM",
       "value": 7
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Александр",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Руслан Иванов",
+      "value": 4
+    },
+    {
+      "rank": 38,
+      "name": "Олег",
       "value": 4
     },
     {
@@ -1417,71 +1417,61 @@
     },
     {
       "rank": 31,
-      "name": "Andrey Tugarin",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "terminal lucidity",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Kirill",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Руслан Иванов",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Максим",
       "value": 1
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 42,
-      "name": "🤗",
-      "value": 1
-    },
-    {
-      "rank": 43,
+      "rank": 41,
       "name": "Max",
       "value": 1
     },
     {
-      "rank": 44,
+      "rank": 42,
       "name": "l.alex",
       "value": 1
     }
