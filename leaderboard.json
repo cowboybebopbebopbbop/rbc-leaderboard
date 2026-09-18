@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:01:06+00:00",
+  "updated": "2026-09-18T10:01:12+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4274,
+      "value": 4276,
       "move": 0
     },
     {
@@ -372,7 +372,7 @@
     {
       "rank": 62,
       "name": "LlirikMK",
-      "value": 36,
+      "value": 37,
       "move": 0
     },
     {
@@ -1016,12 +1016,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 208
+      "value": 205
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 157
+      "value": 156
     },
     {
       "rank": 3,
@@ -1031,7 +1031,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 5,
@@ -1051,7 +1051,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 22
+      "value": 21
     },
     {
       "rank": 9,
@@ -1115,27 +1115,27 @@
     },
     {
       "rank": 21,
-      "name": "Олег",
+      "name": "LlirikMK",
       "value": 9
     },
     {
       "rank": 22,
-      "name": "🤗",
+      "name": "Олег",
       "value": 9
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "🤗",
       "value": 9
     },
     {
       "rank": 24,
-      "name": "terminal lucidity",
-      "value": 8
+      "name": "ᴦоᴧод",
+      "value": 9
     },
     {
       "rank": 25,
-      "name": "LlirikMK",
+      "name": "terminal lucidity",
       "value": 8
     },
     {
@@ -1268,7 +1268,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 49
+      "value": 51
     },
     {
       "rank": 2,
@@ -1317,48 +1317,48 @@
     },
     {
       "rank": 11,
+      "name": "LlirikMK",
+      "value": 5
+    },
+    {
+      "rank": 12,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Юрий",
       "value": 4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "Князь Владимир С",
-      "value": 4
-    },
-    {
       "rank": 17,
-      "name": "LlirikMK",
-      "value": 4
-    },
-    {
-      "rank": 18,
       "name": "ᴦоᴧод",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Safe",
       "value": 4
+    },
+    {
+      "rank": 19,
+      "name": "Князь Владимир С",
+      "value": 3
     },
     {
       "rank": 20,
