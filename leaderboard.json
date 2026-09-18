@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:37:31+00:00",
+  "updated": "2026-09-18T18:37:37+00:00",
   "count": 169,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1762,
+      "value": 1763,
       "move": 0
     },
     {
@@ -408,7 +408,7 @@
     {
       "rank": 68,
       "name": "Руслан Иванов",
-      "value": 25,
+      "value": 26,
       "move": 0
     },
     {
@@ -1027,7 +1027,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 146
+      "value": 145
     },
     {
       "rank": 3,
@@ -1042,7 +1042,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 6,
@@ -1081,13 +1081,13 @@
     },
     {
       "rank": 13,
-      "name": "L G",
+      "name": "Jekago |РБК Крипто, мод.",
       "value": 16
     },
     {
       "rank": 14,
-      "name": "Jekago |РБК Крипто, мод.",
-      "value": 16
+      "name": "L G",
+      "value": 15
     },
     {
       "rank": 15,
@@ -1191,57 +1191,57 @@
     },
     {
       "rank": 35,
-      "name": "lefkorosos",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 36,
+      "name": "lefkorosos",
+      "value": 5
+    },
+    {
+      "rank": 37,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 38,
-      "name": "Руслан Иванов",
-      "value": 4
-    },
-    {
       "rank": 39,
-      "name": "Олег",
-      "value": 4
-    },
-    {
-      "rank": 40,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Виталий",
       "value": 3
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "Bazylev Nickolai",
+      "value": 3
+    },
+    {
+      "rank": 45,
+      "name": "Олег",
       "value": 3
     },
     {
@@ -1288,12 +1288,12 @@
     },
     {
       "rank": 4,
-      "name": "Viktor",
-      "value": 13
+      "name": "Archie",
+      "value": 14
     },
     {
       "rank": 5,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 13
     },
     {
@@ -1398,42 +1398,42 @@
     },
     {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "***",
+      "name": "Александр",
       "value": 2
     },
     {
       "rank": 29,
+      "name": "***",
+      "value": 2
+    },
+    {
+      "rank": 30,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Manis Love",
       "value": 1
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 32,
-      "name": "Константин",
-      "value": 1
-    },
-    {
       "rank": 33,
-      "name": "Руслан Иванов",
+      "name": "Константин",
       "value": 1
     },
     {
