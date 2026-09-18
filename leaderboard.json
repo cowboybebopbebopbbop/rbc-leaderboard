@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:00:13+00:00",
+  "updated": "2026-09-18T00:51:57+00:00",
   "count": 168,
   "has_movement": true,
   "all": [
@@ -1277,13 +1277,13 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
+      "name": "Zero-sum Gamer",
       "value": 13
     },
     {
       "rank": 4,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Archie",
+      "value": 12
     },
     {
       "rank": 5,
