@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T20:37:51+00:00",
+  "updated": "2026-09-18T21:37:57+00:00",
   "count": 169,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4284,
+      "value": 4285,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 188,
+      "value": 189,
       "move": 0
     },
     {
@@ -1027,7 +1027,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 143
+      "value": 142
     },
     {
       "rank": 3,
@@ -1042,7 +1042,7 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 52
+      "value": 51
     },
     {
       "rank": 6,
@@ -1293,13 +1293,13 @@
     },
     {
       "rank": 5,
-      "name": "Viktor",
+      "name": "Zero-sum Gamer",
       "value": 13
     },
     {
       "rank": 6,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Viktor",
+      "value": 10
     },
     {
       "rank": 7,
@@ -1358,32 +1358,32 @@
     },
     {
       "rank": 18,
-      "name": "Руслан Иванов",
+      "name": "Manis Love",
       "value": 3
     },
     {
       "rank": 19,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 3
     },
     {
       "rank": 20,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 21,
       "name": "Юрий",
       "value": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 22,
-      "name": "Artem Khomenko",
-      "value": 2
-    },
-    {
       "rank": 23,
-      "name": "Manis Love",
+      "name": "Artem Khomenko",
       "value": 2
     },
     {
@@ -1423,46 +1423,41 @@
     },
     {
       "rank": 31,
-      "name": "DenisNazarov",
-      "value": 1
-    },
-    {
-      "rank": 32,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Max",
       "value": 1
     }
