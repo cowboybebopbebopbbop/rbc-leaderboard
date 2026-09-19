@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T16:38:29+00:00",
-  "count": 173,
+  "updated": "2026-09-19T17:38:31+00:00",
+  "count": 174,
   "has_movement": true,
   "all": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 990,
+      "value": 992,
       "move": 0
     },
     {
@@ -281,15 +281,15 @@
     },
     {
       "rank": 47,
-      "name": "Max",
-      "value": 86,
-      "move": 0
+      "name": "Сергей",
+      "value": 87,
+      "move": 1
     },
     {
       "rank": 48,
-      "name": "Сергей",
+      "name": "Max",
       "value": 86,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 49,
@@ -377,15 +377,15 @@
     },
     {
       "rank": 63,
-      "name": "🇲akⓈ",
-      "value": 33,
-      "move": 0
+      "name": "A.",
+      "value": 34,
+      "move": 3
     },
     {
       "rank": 64,
-      "name": "A.",
+      "name": "🇲akⓈ",
       "value": 33,
-      "move": 2
+      "move": -1
     },
     {
       "rank": 65,
@@ -1040,6 +1040,12 @@
       "name": "Юлия Ефимова",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 174,
+      "name": "Станислав Баев",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -1066,12 +1072,12 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 50
+      "value": 52
     },
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 36
+      "value": 35
     },
     {
       "rank": 7,
@@ -1081,7 +1087,7 @@
     {
       "rank": 8,
       "name": "A.",
-      "value": 20
+      "value": 21
     },
     {
       "rank": 9,
@@ -1101,7 +1107,7 @@
     {
       "rank": 12,
       "name": "Сергей",
-      "value": 16
+      "value": 17
     },
     {
       "rank": 13,
@@ -1307,33 +1313,33 @@
     },
     {
       "rank": 3,
-      "name": "Archie",
+      "name": "Viktor",
       "value": 17
     },
     {
       "rank": 4,
+      "name": "Archie",
+      "value": 17
+    },
+    {
+      "rank": 5,
       "name": "🅾🅻🅶🅰",
       "value": 16
     },
     {
-      "rank": 5,
-      "name": "Viktor",
-      "value": 15
-    },
-    {
       "rank": 6,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 10
     },
     {
       "rank": 7,
-      "name": "@wavesscalper",
+      "name": "Vitaliy",
       "value": 10
     },
     {
       "rank": 8,
-      "name": "A.",
-      "value": 9
+      "name": "@wavesscalper",
+      "value": 10
     },
     {
       "rank": 9,
@@ -1342,22 +1348,22 @@
     },
     {
       "rank": 10,
-      "name": "lefkorosos",
+      "name": "Сергей",
       "value": 7
     },
     {
       "rank": 11,
+      "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 12,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 12,
-      "name": "Manis Love",
-      "value": 6
-    },
-    {
       "rank": 13,
-      "name": "Сергей",
+      "name": "Manis Love",
       "value": 6
     },
     {
