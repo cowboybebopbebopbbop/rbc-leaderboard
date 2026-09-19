@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:38:33+00:00",
+  "updated": "2026-09-19T19:38:35+00:00",
   "count": 174,
   "has_movement": true,
   "all": [
@@ -623,39 +623,39 @@
     },
     {
       "rank": 104,
-      "name": "AnTon",
+      "name": "Юрий",
       "value": 5,
-      "move": -1
+      "move": 12
     },
     {
       "rank": 105,
-      "name": "Sila",
-      "value": 4,
-      "move": -1
+      "name": "AnTon",
+      "value": 5,
+      "move": -2
     },
     {
       "rank": 106,
-      "name": "xv",
+      "name": "Sila",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 107,
-      "name": "Виталий",
+      "name": "xv",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 108,
-      "name": "Slawik",
+      "name": "Виталий",
       "value": 4,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 109,
-      "name": "Юрий",
+      "name": "Slawik",
       "value": 4,
-      "move": 7
+      "move": -2
     },
     {
       "rank": 110,
@@ -1052,7 +1052,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 202
+      "value": 200
     },
     {
       "rank": 2,
@@ -1226,33 +1226,33 @@
     },
     {
       "rank": 36,
-      "name": "Milutin",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 37,
-      "name": "PiratesOfMining",
+      "name": "Milutin",
       "value": 4
     },
     {
       "rank": 38,
-      "name": "Серхио Ле'Трас",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
       "rank": 39,
-      "name": "Ponemonec",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
       "rank": 40,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 41,
-      "name": "Юрий",
-      "value": 3
+      "name": "Safe",
+      "value": 4
     },
     {
       "rank": 42,
@@ -1388,23 +1388,23 @@
     },
     {
       "rank": 18,
-      "name": "SPM",
+      "name": "Юрий",
       "value": 4
     },
     {
       "rank": 19,
-      "name": "PiratesOfMining",
+      "name": "SPM",
       "value": 4
     },
     {
       "rank": 20,
-      "name": "Князь Владимир С",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
       "rank": 21,
-      "name": "Юрий",
-      "value": 3
+      "name": "Князь Владимир С",
+      "value": 4
     },
     {
       "rank": 22,
