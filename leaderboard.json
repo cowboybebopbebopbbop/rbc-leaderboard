@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T10:38:19+00:00",
-  "count": 171,
+  "updated": "2026-09-19T11:38:21+00:00",
+  "count": 172,
   "has_movement": true,
   "all": [
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 465,
+      "value": 466,
       "move": 0
     },
     {
@@ -1028,18 +1028,24 @@
       "name": "Bianca Mir",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 172,
+      "name": "Юлия Ефимова",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
     {
       "rank": 1,
       "name": "Igor",
-      "value": 204
+      "value": 202
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 134
+      "value": 132
     },
     {
       "rank": 3,
@@ -1109,7 +1115,7 @@
     {
       "rank": 16,
       "name": "DenisNazarov",
-      "value": 13
+      "value": 12
     },
     {
       "rank": 17,
@@ -1203,17 +1209,17 @@
     },
     {
       "rank": 35,
+      "name": "iDiklonius",
+      "value": 5
+    },
+    {
+      "rank": 36,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 36,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
       "rank": 37,
-      "name": "iDiklonius",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
@@ -1286,7 +1292,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 56
+      "value": 55
     },
     {
       "rank": 2,
@@ -1311,7 +1317,7 @@
     {
       "rank": 6,
       "name": "Zero-sum Gamer",
-      "value": 11
+      "value": 9
     },
     {
       "rank": 7,
@@ -1370,22 +1376,22 @@
     },
     {
       "rank": 18,
-      "name": "Князь Владимир С",
+      "name": "iDiklonius",
       "value": 4
     },
     {
       "rank": 19,
+      "name": "Князь Владимир С",
+      "value": 4
+    },
+    {
+      "rank": 20,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 20,
-      "name": "Manis Love",
-      "value": 3
-    },
-    {
       "rank": 21,
-      "name": "iDiklonius",
+      "name": "Manis Love",
       "value": 3
     },
     {
