@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T06:38:12+00:00",
+  "updated": "2026-09-19T07:38:14+00:00",
   "count": 171,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 984,
+      "value": 985,
       "move": 0
     },
     {
@@ -1039,7 +1039,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 140
+      "value": 138
     },
     {
       "rank": 3,
@@ -1054,12 +1054,12 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 45
+      "value": 46
     },
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 39
+      "value": 38
     },
     {
       "rank": 7,
@@ -1069,7 +1069,7 @@
     {
       "rank": 8,
       "name": "Синдбад Мореход",
-      "value": 21
+      "value": 19
     },
     {
       "rank": 9,
@@ -1078,13 +1078,13 @@
     },
     {
       "rank": 10,
-      "name": "Сергей",
+      "name": "@wavesscalper",
       "value": 17
     },
     {
       "rank": 11,
-      "name": "@wavesscalper",
-      "value": 17
+      "name": "Сергей",
+      "value": 16
     },
     {
       "rank": 12,
@@ -1143,112 +1143,112 @@
     },
     {
       "rank": 23,
-      "name": "Marat Miheev",
-      "value": 8
-    },
-    {
-      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 8
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "SPM",
       "value": 7
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Aleksey",
       "value": 7
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Руслан Иванов",
       "value": 7
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "🤗",
       "value": 7
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Александр",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "-",
       "value": 5
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "iDiklonius",
       "value": 4
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Eugene",
       "value": 4
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Ponemonec",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "Виталий",
+      "value": 3
+    },
+    {
+      "rank": 44,
+      "name": "Marat Miheev",
       "value": 3
     },
     {
@@ -1311,7 +1311,7 @@
     {
       "rank": 6,
       "name": "Viktor",
-      "value": 10
+      "value": 11
     },
     {
       "rank": 7,
@@ -1380,27 +1380,27 @@
     },
     {
       "rank": 20,
-      "name": "Milutin",
-      "value": 3
-    },
-    {
-      "rank": 21,
       "name": "Manis Love",
       "value": 3
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "iDiklonius",
       "value": 3
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Sergey",
+      "value": 2
+    },
+    {
+      "rank": 24,
+      "name": "Milutin",
       "value": 2
     },
     {
