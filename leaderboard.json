@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:38:14+00:00",
+  "updated": "2026-09-19T08:38:16+00:00",
   "count": 171,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1763,
+      "value": 1764,
       "move": 0
     },
     {
@@ -312,7 +312,7 @@
     {
       "rank": 52,
       "name": "Серхио Ле'Трас",
-      "value": 71,
+      "value": 72,
       "move": 0
     },
     {
@@ -408,7 +408,7 @@
     {
       "rank": 68,
       "name": "Руслан Иванов",
-      "value": 28,
+      "value": 29,
       "move": 0
     },
     {
@@ -1034,12 +1034,12 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 207
+      "value": 206
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 138
+      "value": 137
     },
     {
       "rank": 3,
@@ -1049,7 +1049,7 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 5,
@@ -1143,22 +1143,22 @@
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Руслан Иванов",
       "value": 8
     },
     {
       "rank": 24,
+      "name": "ᴦоᴧод",
+      "value": 8
+    },
+    {
+      "rank": 25,
       "name": "SPM",
       "value": 7
     },
     {
-      "rank": 25,
-      "name": "Aleksey",
-      "value": 7
-    },
-    {
       "rank": 26,
-      "name": "Руслан Иванов",
+      "name": "Aleksey",
       "value": 7
     },
     {
@@ -1248,37 +1248,37 @@
     },
     {
       "rank": 44,
-      "name": "Marat Miheev",
+      "name": "Серхио Ле'Трас",
       "value": 3
     },
     {
       "rank": 45,
-      "name": "🏴‍☠️",
+      "name": "Marat Miheev",
       "value": 3
     },
     {
       "rank": 46,
+      "name": "🏴‍☠️",
+      "value": 3
+    },
+    {
+      "rank": 47,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 49,
-      "name": "Sviat",
-      "value": 2
-    },
-    {
       "rank": 50,
-      "name": "Серхио Ле'Трас",
+      "name": "Sviat",
       "value": 2
     }
   ],
@@ -1301,16 +1301,16 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 14
+      "value": 15
     },
     {
       "rank": 5,
-      "name": "Zero-sum Gamer",
-      "value": 13
+      "name": "Viktor",
+      "value": 11
     },
     {
       "rank": 6,
-      "name": "Viktor",
+      "name": "Zero-sum Gamer",
       "value": 11
     },
     {
@@ -1320,27 +1320,27 @@
     },
     {
       "rank": 8,
-      "name": "Сергей",
-      "value": 7
-    },
-    {
-      "rank": 9,
       "name": "lefkorosos",
       "value": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "@wavesscalper",
       "value": 7
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Юрий",
       "value": 6
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "A.",
+      "value": 6
+    },
+    {
+      "rank": 12,
+      "name": "Сергей",
       "value": 6
     },
     {
@@ -1350,22 +1350,22 @@
     },
     {
       "rank": 14,
-      "name": "LlirikMK",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 15,
+      "name": "LlirikMK",
+      "value": 5
+    },
+    {
+      "rank": 16,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 16,
-      "name": "PiratesOfMining",
-      "value": 4
-    },
-    {
       "rank": 17,
-      "name": "Руслан Иванов",
+      "name": "PiratesOfMining",
       "value": 4
     },
     {
@@ -1435,36 +1435,41 @@
     },
     {
       "rank": 31,
-      "name": "Константин",
+      "name": "Серхио Ле'Трас",
       "value": 1
     },
     {
       "rank": 32,
-      "name": "Eugene",
+      "name": "Константин",
       "value": 1
     },
     {
       "rank": 33,
-      "name": "Евгений",
+      "name": "Eugene",
       "value": 1
     },
     {
       "rank": 34,
-      "name": "Bazylev Nickolai",
+      "name": "Евгений",
       "value": 1
     },
     {
       "rank": 35,
-      "name": "Andrey",
+      "name": "Bazylev Nickolai",
       "value": 1
     },
     {
       "rank": 36,
-      "name": "X888",
+      "name": "Andrey",
       "value": 1
     },
     {
       "rank": 37,
+      "name": "X888",
+      "value": 1
+    },
+    {
+      "rank": 38,
       "name": "Max",
       "value": 1
     }
