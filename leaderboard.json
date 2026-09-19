@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:38:24+00:00",
+  "updated": "2026-09-19T14:38:26+00:00",
   "count": 173,
   "has_movement": true,
   "all": [
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1764,
+      "value": 1765,
       "move": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 985,
+      "value": 988,
       "move": 0
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 27,
       "name": "Manis Love",
-      "value": 189,
+      "value": 191,
       "move": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 129
+      "value": 128
     },
     {
       "rank": 3,
@@ -1061,12 +1061,12 @@
     {
       "rank": 4,
       "name": "Archie",
-      "value": 52
+      "value": 53
     },
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 46
+      "value": 49
     },
     {
       "rank": 6,
@@ -1076,7 +1076,7 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 25
+      "value": 24
     },
     {
       "rank": 8,
@@ -1095,18 +1095,18 @@
     },
     {
       "rank": 11,
+      "name": "Manis Love",
+      "value": 17
+    },
+    {
+      "rank": 12,
       "name": "Сергей",
       "value": 16
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Jekago |РБК Крипто, мод.",
       "value": 16
-    },
-    {
-      "rank": 13,
-      "name": "Manis Love",
-      "value": 15
     },
     {
       "rank": 14,
@@ -1307,18 +1307,18 @@
     },
     {
       "rank": 3,
-      "name": "🅾🅻🅶🅰",
+      "name": "Archie",
       "value": 16
     },
     {
       "rank": 4,
-      "name": "Archie",
-      "value": 15
+      "name": "🅾🅻🅶🅰",
+      "value": 16
     },
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 10
+      "value": 13
     },
     {
       "rank": 6,
@@ -1357,47 +1357,47 @@
     },
     {
       "rank": 13,
-      "name": "terminal lucidity",
+      "name": "Manis Love",
       "value": 5
     },
     {
       "rank": 14,
-      "name": "Руслан Иванов",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 17,
+      "name": "LlirikMK",
+      "value": 5
+    },
+    {
+      "rank": 18,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Князь Владимир С",
       "value": 4
     },
     {
-      "rank": 20,
-      "name": "Юрий",
-      "value": 3
-    },
-    {
       "rank": 21,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 3
     },
     {
