@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:38:35+00:00",
+  "updated": "2026-09-19T20:38:36+00:00",
   "count": 174,
   "has_movement": true,
   "all": [
@@ -36,7 +36,7 @@
     {
       "rank": 6,
       "name": "a l",
-      "value": 1209,
+      "value": 1210,
       "move": 0
     },
     {
@@ -222,7 +222,7 @@
     {
       "rank": 37,
       "name": "Sergey",
-      "value": 123,
+      "value": 125,
       "move": 0
     },
     {
@@ -605,27 +605,27 @@
     },
     {
       "rank": 101,
-      "name": "Капибара",
-      "value": 5,
-      "move": -1
+      "name": "Ponemonec",
+      "value": 6,
+      "move": 0
     },
     {
       "rank": 102,
-      "name": "Ponemonec",
-      "value": 5,
-      "move": -1
+      "name": "Юрий",
+      "value": 6,
+      "move": 14
     },
     {
       "rank": 103,
-      "name": "Safe",
+      "name": "Капибара",
       "value": 5,
-      "move": -1
+      "move": -3
     },
     {
       "rank": 104,
-      "name": "Юрий",
+      "name": "Safe",
       "value": 5,
-      "move": 12
+      "move": -2
     },
     {
       "rank": 105,
@@ -1052,7 +1052,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 200
+      "value": 199
     },
     {
       "rank": 2,
@@ -1216,37 +1216,37 @@
     },
     {
       "rank": 34,
-      "name": "Sergey Saprykin ID: 125370212",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 35,
-      "name": "-",
+      "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
       "rank": 36,
-      "name": "Юрий",
-      "value": 4
+      "name": "-",
+      "value": 5
     },
     {
       "rank": 37,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 38,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 39,
-      "name": "Серхио Ле'Трас",
-      "value": 4
-    },
-    {
       "rank": 40,
-      "name": "Ponemonec",
+      "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
@@ -1309,7 +1309,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 3,
@@ -1368,28 +1368,28 @@
     },
     {
       "rank": 14,
-      "name": "terminal lucidity",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 15,
-      "name": "Руслан Иванов",
+      "name": "terminal lucidity",
       "value": 5
     },
     {
       "rank": 16,
-      "name": "iDiklonius",
+      "name": "Руслан Иванов",
       "value": 5
     },
     {
       "rank": 17,
-      "name": "LlirikMK",
+      "name": "iDiklonius",
       "value": 5
     },
     {
       "rank": 18,
-      "name": "Юрий",
-      "value": 4
+      "name": "LlirikMK",
+      "value": 5
     },
     {
       "rank": 19,
@@ -1443,62 +1443,72 @@
     },
     {
       "rank": 29,
-      "name": "***",
+      "name": "Sergey",
       "value": 2
     },
     {
       "rank": 30,
-      "name": "Роман",
+      "name": "***",
       "value": 2
     },
     {
       "rank": 31,
-      "name": "Денис Сергеевич",
+      "name": "Роман",
       "value": 2
     },
     {
       "rank": 32,
+      "name": "Денис Сергеевич",
+      "value": 2
+    },
+    {
+      "rank": 33,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "AnTon",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Константин",
       "value": 1
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "Eugene",
       "value": 1
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "Евгений",
       "value": 1
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "Bazylev Nickolai",
       "value": 1
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Andrey",
       "value": 1
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "X888",
       "value": 1
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Max",
+      "value": 1
+    },
+    {
+      "rank": 42,
+      "name": "Ponemonec",
       "value": 1
     }
   ]
