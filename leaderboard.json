@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:38:39+00:00",
+  "updated": "2026-09-19T23:38:41+00:00",
   "count": 175,
   "has_movement": true,
   "all": [
@@ -215,15 +215,15 @@
     },
     {
       "rank": 36,
-      "name": "Charlie Shefelman",
-      "value": 125,
-      "move": 0
+      "name": "Sergey",
+      "value": 126,
+      "move": 1
     },
     {
       "rank": 37,
-      "name": "Sergey",
+      "name": "Charlie Shefelman",
       "value": 125,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 38,
@@ -1272,37 +1272,37 @@
     },
     {
       "rank": 44,
-      "name": "Marat Miheev",
+      "name": "Sergey",
       "value": 3
     },
     {
       "rank": 45,
-      "name": "🏴‍☠️",
+      "name": "Marat Miheev",
       "value": 3
     },
     {
       "rank": 46,
+      "name": "🏴‍☠️",
+      "value": 3
+    },
+    {
+      "rank": 47,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Константин",
       "value": 2
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "Artem Khomenko",
       "value": 2
     },
     {
-      "rank": 49,
-      "name": "Sviat",
-      "value": 2
-    },
-    {
       "rank": 50,
-      "name": "Eugene",
+      "name": "Sviat",
       "value": 2
     }
   ],
@@ -1419,37 +1419,37 @@
     },
     {
       "rank": 23,
-      "name": "ᴦоᴧод",
+      "name": "Sergey",
       "value": 3
     },
     {
       "rank": 24,
-      "name": "Sergey",
-      "value": 2
+      "name": "ᴦоᴧод",
+      "value": 3
     },
     {
       "rank": 25,
-      "name": "Milutin",
+      "name": "Sergey",
       "value": 2
     },
     {
       "rank": 26,
-      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
+      "name": "Milutin",
       "value": 2
     },
     {
       "rank": 27,
-      "name": "Серхио Ле'Трас",
+      "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
       "rank": 28,
-      "name": "Александр",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
       "rank": 29,
-      "name": "Sergey",
+      "name": "Александр",
       "value": 2
     },
     {
