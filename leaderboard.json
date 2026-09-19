@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T15:38:28+00:00",
+  "updated": "2026-09-19T16:38:29+00:00",
   "count": 173,
   "has_movement": true,
   "all": [
@@ -258,7 +258,7 @@
     {
       "rank": 43,
       "name": "Vitaliy",
-      "value": 98,
+      "value": 99,
       "move": 1
     },
     {
@@ -557,39 +557,39 @@
     },
     {
       "rank": 93,
-      "name": "Евгений",
+      "name": "Анастасия",
       "value": 8,
-      "move": -1
+      "move": 4
     },
     {
       "rank": 94,
-      "name": "lefkorosos",
+      "name": "Евгений",
       "value": 8,
-      "move": 14
+      "move": -2
     },
     {
       "rank": 95,
+      "name": "lefkorosos",
+      "value": 8,
+      "move": 13
+    },
+    {
+      "rank": 96,
       "name": "Ingvar 604",
+      "value": 7,
+      "move": -3
+    },
+    {
+      "rank": 97,
+      "name": "Daniil",
       "value": 7,
       "move": -2
     },
     {
-      "rank": 96,
-      "name": "Daniil",
-      "value": 7,
-      "move": -1
-    },
-    {
-      "rank": 97,
+      "rank": 98,
       "name": "Kirill",
       "value": 7,
-      "move": -1
-    },
-    {
-      "rank": 98,
-      "name": "Анастасия",
-      "value": 7,
-      "move": -1
+      "move": -2
     },
     {
       "rank": 99,
@@ -1051,7 +1051,7 @@
     {
       "rank": 2,
       "name": "a l",
-      "value": 129
+      "value": 128
     },
     {
       "rank": 3,
@@ -1076,12 +1076,12 @@
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 25
+      "value": 26
     },
     {
       "rank": 8,
       "name": "A.",
-      "value": 21
+      "value": 20
     },
     {
       "rank": 9,
@@ -1090,12 +1090,12 @@
     },
     {
       "rank": 10,
-      "name": "Синдбад Мореход",
-      "value": 19
+      "name": "Manis Love",
+      "value": 18
     },
     {
       "rank": 11,
-      "name": "Manis Love",
+      "name": "Синдбад Мореход",
       "value": 18
     },
     {
@@ -1175,22 +1175,22 @@
     },
     {
       "rank": 27,
-      "name": "🤗",
+      "name": "Анастасия",
       "value": 7
     },
     {
       "rank": 28,
-      "name": "lefkorosos",
+      "name": "🤗",
       "value": 7
     },
     {
       "rank": 29,
-      "name": "Kirill",
-      "value": 6
+      "name": "lefkorosos",
+      "value": 7
     },
     {
       "rank": 30,
-      "name": "Анастасия",
+      "name": "Kirill",
       "value": 6
     },
     {
@@ -1322,17 +1322,17 @@
     },
     {
       "rank": 6,
-      "name": "@wavesscalper",
+      "name": "Vitaliy",
       "value": 10
     },
     {
       "rank": 7,
-      "name": "A.",
-      "value": 9
+      "name": "@wavesscalper",
+      "value": 10
     },
     {
       "rank": 8,
-      "name": "Vitaliy",
+      "name": "A.",
       "value": 9
     },
     {
@@ -1402,32 +1402,32 @@
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
+      "name": "Анастасия",
       "value": 3
     },
     {
       "rank": 23,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 24,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 26,
-      "name": "Серхио Ле'Трас",
-      "value": 2
-    },
-    {
       "rank": 27,
-      "name": "Анастасия",
+      "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
