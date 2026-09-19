@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T05:38:11+00:00",
+  "updated": "2026-09-19T06:38:12+00:00",
   "count": 171,
   "has_movement": true,
   "all": [
@@ -42,7 +42,7 @@
     {
       "rank": 7,
       "name": "Viktor",
-      "value": 983,
+      "value": 984,
       "move": 0
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 17,
       "name": "iDiklonius",
-      "value": 464,
+      "value": 465,
       "move": 0
     },
     {
@@ -1054,17 +1054,17 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 44
+      "value": 45
     },
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 40
+      "value": 39
     },
     {
       "rank": 7,
       "name": "Vitaliy",
-      "value": 26
+      "value": 25
     },
     {
       "rank": 8,
@@ -1138,17 +1138,17 @@
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
-      "value": 9
-    },
-    {
-      "rank": 23,
       "name": "Юрий",
       "value": 8
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Marat Miheev",
+      "value": 8
+    },
+    {
+      "rank": 24,
+      "name": "ᴦоᴧод",
       "value": 8
     },
     {
@@ -1208,47 +1208,47 @@
     },
     {
       "rank": 36,
-      "name": "Eugene",
-      "value": 5
-    },
-    {
-      "rank": 37,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
+      "rank": 38,
+      "name": "iDiklonius",
+      "value": 4
+    },
+    {
       "rank": 39,
-      "name": "Ponemonec",
+      "name": "Eugene",
       "value": 4
     },
     {
       "rank": 40,
-      "name": "Safe",
+      "name": "Ponemonec",
       "value": 4
     },
     {
       "rank": 41,
+      "name": "Safe",
+      "value": 4
+    },
+    {
+      "rank": 42,
       "name": "Юрий",
       "value": 3
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 43,
-      "name": "Виталий",
-      "value": 3
-    },
-    {
       "rank": 44,
-      "name": "iDiklonius",
+      "name": "Виталий",
       "value": 3
     },
     {
@@ -1311,7 +1311,7 @@
     {
       "rank": 6,
       "name": "Viktor",
-      "value": 9
+      "value": 10
     },
     {
       "rank": 7,
@@ -1390,27 +1390,27 @@
     },
     {
       "rank": 22,
-      "name": "ᴦоᴧод",
+      "name": "iDiklonius",
       "value": 3
     },
     {
       "rank": 23,
+      "name": "ᴦоᴧод",
+      "value": 3
+    },
+    {
+      "rank": 24,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 25,
-      "name": "Анастасия",
-      "value": 2
-    },
-    {
       "rank": 26,
-      "name": "iDiklonius",
+      "name": "Анастасия",
       "value": 2
     },
     {
