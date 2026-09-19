@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:38:04+00:00",
+  "updated": "2026-09-19T02:38:06+00:00",
   "count": 169,
   "has_movement": true,
   "all": [
@@ -174,7 +174,7 @@
     {
       "rank": 29,
       "name": "Юрий",
-      "value": 156,
+      "value": 157,
       "move": 0
     },
     {
@@ -300,7 +300,7 @@
     {
       "rank": 50,
       "name": "terminal lucidity",
-      "value": 83,
+      "value": 84,
       "move": 0
     },
     {
@@ -557,51 +557,51 @@
     },
     {
       "rank": 93,
-      "name": "Ingvar 604",
-      "value": 7,
-      "move": 0
+      "name": "lefkorosos",
+      "value": 8,
+      "move": 15
     },
     {
       "rank": 94,
-      "name": "Роман",
+      "name": "Ingvar 604",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 95,
-      "name": "Daniil",
+      "name": "Роман",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 96,
-      "name": "Kirill",
+      "name": "Daniil",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 97,
-      "name": "Анастасия",
+      "name": "Kirill",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 98,
-      "name": "Dede",
+      "name": "Анастасия",
       "value": 7,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 99,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": 0
+      "name": "Dede",
+      "value": 7,
+      "move": -1
     },
     {
       "rank": 100,
-      "name": "lefkorosos",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 8
+      "move": -1
     },
     {
       "rank": 101,
@@ -1042,7 +1042,7 @@
     {
       "rank": 5,
       "name": "Viktor",
-      "value": 49
+      "value": 46
     },
     {
       "rank": 6,
@@ -1066,18 +1066,18 @@
     },
     {
       "rank": 10,
-      "name": "Manis Love",
-      "value": 17
-    },
-    {
-      "rank": 11,
       "name": "Сергей",
       "value": 17
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "@wavesscalper",
       "value": 17
+    },
+    {
+      "rank": 12,
+      "name": "Manis Love",
+      "value": 16
     },
     {
       "rank": 13,
@@ -1107,7 +1107,7 @@
     {
       "rank": 18,
       "name": "terminal lucidity",
-      "value": 11
+      "value": 12
     },
     {
       "rank": 19,
@@ -1141,62 +1141,62 @@
     },
     {
       "rank": 25,
-      "name": "Aleksey",
+      "name": "Юрий",
       "value": 7
     },
     {
       "rank": 26,
-      "name": "🤗",
+      "name": "Aleksey",
       "value": 7
     },
     {
       "rank": 27,
-      "name": "Юрий",
-      "value": 6
+      "name": "🤗",
+      "value": 7
     },
     {
       "rank": 28,
+      "name": "lefkorosos",
+      "value": 7
+    },
+    {
+      "rank": 29,
       "name": "Kirill",
       "value": 6
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Анастасия",
       "value": 6
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "Руслан Иванов",
       "value": 6
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "Sergey СЕО",
       "value": 6
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "Eugene",
       "value": 6
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "Александр",
       "value": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 35,
-      "name": "-",
-      "value": 5
-    },
-    {
       "rank": 36,
-      "name": "lefkorosos",
+      "name": "-",
       "value": 5
     },
     {
@@ -1313,37 +1313,37 @@
     },
     {
       "rank": 9,
-      "name": "@wavesscalper",
+      "name": "lefkorosos",
       "value": 7
     },
     {
       "rank": 10,
+      "name": "@wavesscalper",
+      "value": 7
+    },
+    {
+      "rank": 11,
       "name": "A.",
       "value": 6
     },
     {
-      "rank": 11,
-      "name": "LlirikMK",
-      "value": 5
-    },
-    {
       "rank": 12,
-      "name": "lefkorosos",
+      "name": "Юрий",
       "value": 5
     },
     {
       "rank": 13,
-      "name": "SPM",
-      "value": 4
+      "name": "terminal lucidity",
+      "value": 5
     },
     {
       "rank": 14,
-      "name": "Юрий",
-      "value": 4
+      "name": "LlirikMK",
+      "value": 5
     },
     {
       "rank": 15,
-      "name": "terminal lucidity",
+      "name": "SPM",
       "value": 4
     },
     {
