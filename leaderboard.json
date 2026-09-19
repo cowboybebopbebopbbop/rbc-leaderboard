@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:38:17+00:00",
+  "updated": "2026-09-19T10:38:19+00:00",
   "count": 171,
   "has_movement": true,
   "all": [
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "Igor",
-      "value": 4285,
+      "value": 4286,
       "move": 0
     },
     {
@@ -1034,17 +1034,17 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 203
+      "value": 204
     },
     {
       "rank": 2,
       "name": "a l",
-      "value": 136
+      "value": 134
     },
     {
       "rank": 3,
       "name": "Zero-sum Gamer",
-      "value": 64
+      "value": 63
     },
     {
       "rank": 4,
@@ -1286,7 +1286,7 @@
     {
       "rank": 1,
       "name": "Igor",
-      "value": 55
+      "value": 56
     },
     {
       "rank": 2,
