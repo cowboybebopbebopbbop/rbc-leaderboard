@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:38:42+00:00",
+  "updated": "2026-09-20T00:57:45+00:00",
   "count": 175,
   "has_movement": true,
   "all": [
@@ -605,21 +605,21 @@
     },
     {
       "rank": 101,
-      "name": "Александр Николаев",
-      "value": 6,
-      "move": -2
+      "name": "Юрий",
+      "value": 7,
+      "move": 15
     },
     {
       "rank": 102,
-      "name": "Ponemonec",
+      "name": "Александр Николаев",
       "value": 6,
-      "move": 0
+      "move": -3
     },
     {
       "rank": 103,
-      "name": "Юрий",
+      "name": "Ponemonec",
       "value": 6,
-      "move": 13
+      "move": -1
     },
     {
       "rank": 104,
@@ -1202,28 +1202,28 @@
     },
     {
       "rank": 30,
-      "name": "Kirill",
+      "name": "Юрий",
       "value": 6
     },
     {
       "rank": 31,
-      "name": "Sergey СЕО",
+      "name": "Kirill",
       "value": 6
     },
     {
       "rank": 32,
-      "name": "iDiklonius",
+      "name": "Sergey СЕО",
       "value": 6
     },
     {
       "rank": 33,
-      "name": "Александр",
+      "name": "iDiklonius",
       "value": 6
     },
     {
       "rank": 34,
-      "name": "Юрий",
-      "value": 5
+      "name": "Александр",
+      "value": 6
     },
     {
       "rank": 35,
@@ -1369,13 +1369,13 @@
     },
     {
       "rank": 13,
-      "name": "Manis Love",
+      "name": "Юрий",
       "value": 6
     },
     {
       "rank": 14,
-      "name": "Юрий",
-      "value": 5
+      "name": "Manis Love",
+      "value": 6
     },
     {
       "rank": 15,
