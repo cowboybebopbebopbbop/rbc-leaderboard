@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T23:38:41+00:00",
+  "updated": "2026-09-20T00:38:42+00:00",
   "count": 175,
   "has_movement": true,
   "all": [
@@ -216,7 +216,7 @@
     {
       "rank": 36,
       "name": "Sergey",
-      "value": 126,
+      "value": 128,
       "move": 1
     },
     {
@@ -259,13 +259,13 @@
       "rank": 43,
       "name": "Vitaliy",
       "value": 99,
-      "move": 1
+      "move": 0
     },
     {
       "rank": 44,
       "name": "Сергей",
       "value": 97,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 45,
@@ -505,13 +505,13 @@
       "rank": 84,
       "name": "X888",
       "value": 12,
-      "move": 0
+      "move": -1
     },
     {
       "rank": 85,
       "name": "Pike",
       "value": 12,
-      "move": -2
+      "move": -1
     },
     {
       "rank": 86,
@@ -577,7 +577,7 @@
       "rank": 96,
       "name": "lefkorosos",
       "value": 8,
-      "move": 12
+      "move": 4
     },
     {
       "rank": 97,
@@ -613,7 +613,7 @@
       "rank": 102,
       "name": "Ponemonec",
       "value": 6,
-      "move": -1
+      "move": 0
     },
     {
       "rank": 103,
@@ -625,43 +625,43 @@
       "rank": 104,
       "name": "Капибара",
       "value": 5,
-      "move": -4
+      "move": -3
     },
     {
       "rank": 105,
       "name": "Safe",
       "value": 5,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 106,
       "name": "AnTon",
       "value": 5,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 107,
       "name": "Sila",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 108,
       "name": "xv",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 109,
       "name": "Виталий",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 110,
       "name": "Slawik",
       "value": 4,
-      "move": -3
+      "move": -2
     },
     {
       "rank": 111,
@@ -1027,7 +1027,7 @@
       "rank": 171,
       "name": "Dmitriy",
       "value": 1,
-      "move": null
+      "move": -2
     },
     {
       "rank": 172,
@@ -1237,42 +1237,42 @@
     },
     {
       "rank": 37,
-      "name": "Ponemonec",
+      "name": "Sergey",
       "value": 5
     },
     {
       "rank": 38,
+      "name": "Ponemonec",
+      "value": 5
+    },
+    {
+      "rank": 39,
       "name": "Milutin",
       "value": 4
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Серхио Ле'Трас",
       "value": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Safe",
       "value": 4
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Slawik",
       "value": 3
     },
     {
-      "rank": 43,
-      "name": "Виталий",
-      "value": 3
-    },
-    {
       "rank": 44,
-      "name": "Sergey",
+      "name": "Виталий",
       "value": 3
     },
     {
@@ -1399,27 +1399,27 @@
     },
     {
       "rank": 19,
+      "name": "Sergey",
+      "value": 5
+    },
+    {
+      "rank": 20,
       "name": "SPM",
       "value": 4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "PiratesOfMining",
       "value": 4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Князь Владимир С",
       "value": 4
     },
     {
-      "rank": 22,
-      "name": "Анастасия",
-      "value": 3
-    },
-    {
       "rank": 23,
-      "name": "Sergey",
+      "name": "Анастасия",
       "value": 3
     },
     {
