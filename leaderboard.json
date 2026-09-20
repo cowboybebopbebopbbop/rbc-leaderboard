@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T02:38:45+00:00",
-  "count": 175,
+  "updated": "2026-09-20T03:38:47+00:00",
+  "count": 176,
   "has_movement": true,
   "all": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 1766,
+      "value": 1767,
       "move": 0
     },
     {
@@ -209,15 +209,15 @@
     },
     {
       "rank": 35,
-      "name": "Роман",
+      "name": "Sergey",
       "value": 129,
-      "move": 0
+      "move": 2
     },
     {
       "rank": 36,
-      "name": "Sergey",
-      "value": 128,
-      "move": 1
+      "name": "Роман",
+      "value": 129,
+      "move": -1
     },
     {
       "rank": 37,
@@ -1052,6 +1052,12 @@
       "name": "Станислав Баев",
       "value": 1,
       "move": null
+    },
+    {
+      "rank": 176,
+      "name": "Jaime Mcker",
+      "value": 1,
+      "move": null
     }
   ],
   "month": [
@@ -1078,12 +1084,12 @@
     {
       "rank": 5,
       "name": "Archie",
-      "value": 53
+      "value": 54
     },
     {
       "rank": 6,
       "name": "🅾🅻🅶🅰",
-      "value": 34
+      "value": 33
     },
     {
       "rank": 7,
@@ -1227,17 +1233,17 @@
     },
     {
       "rank": 35,
+      "name": "Sergey",
+      "value": 6
+    },
+    {
+      "rank": 36,
       "name": "Sergey Saprykin ID: 125370212",
       "value": 5
     },
     {
-      "rank": 36,
-      "name": "-",
-      "value": 5
-    },
-    {
       "rank": 37,
-      "name": "Sergey",
+      "name": "-",
       "value": 5
     },
     {
@@ -1320,17 +1326,17 @@
     {
       "rank": 3,
       "name": "Viktor",
-      "value": 19
+      "value": 18
     },
     {
       "rank": 4,
       "name": "Archie",
-      "value": 17
+      "value": 18
     },
     {
       "rank": 5,
       "name": "🅾🅻🅶🅰",
-      "value": 12
+      "value": 11
     },
     {
       "rank": 6,
@@ -1379,27 +1385,27 @@
     },
     {
       "rank": 15,
+      "name": "Sergey",
+      "value": 6
+    },
+    {
+      "rank": 16,
       "name": "terminal lucidity",
       "value": 5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Руслан Иванов",
       "value": 5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "iDiklonius",
       "value": 5
     },
     {
-      "rank": 18,
-      "name": "LlirikMK",
-      "value": 5
-    },
-    {
       "rank": 19,
-      "name": "Sergey",
+      "name": "LlirikMK",
       "value": 5
     },
     {
@@ -1419,62 +1425,62 @@
     },
     {
       "rank": 23,
-      "name": "Анастасия",
-      "value": 3
-    },
-    {
-      "rank": 24,
       "name": "ᴦоᴧод",
       "value": 3
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Sergey",
       "value": 2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Milutin",
       "value": 2
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "ᴄʜᴇʟɴʏ ³⁶⁰",
       "value": 2
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Серхио Ле'Трас",
       "value": 2
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Александр",
       "value": 2
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "***",
       "value": 2
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "Роман",
       "value": 2
     },
     {
-      "rank": 32,
+      "rank": 31,
       "name": "Денис Сергеевич",
       "value": 2
     },
     {
-      "rank": 33,
+      "rank": 32,
       "name": "Алексей",
       "value": 1
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "AnTon",
+      "value": 1
+    },
+    {
+      "rank": 34,
+      "name": "Анастасия",
       "value": 1
     },
     {
